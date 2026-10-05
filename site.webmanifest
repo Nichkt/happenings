@@ -1,0 +1,22 @@
+{
+  "name": "Seattle Happenings",
+  "short_name": "Happenings",
+  "description": "Your weekly guide to community events around Seattle.",
+  "start_url": "/happenings/",
+  "scope": "/happenings/",
+  "display": "standalone",
+  "background_color": "#f7f3ec",
+  "theme_color": "#123946",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
