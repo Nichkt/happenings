@@ -307,8 +307,9 @@ h3 {
 
 .hero-actions {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 23px;
+  gap: 16px 23px;
 }
 
 .store-button {
@@ -1229,6 +1230,11 @@ h3 {
   margin: -5px 0 25px;
   padding-right: 46px;
   color: var(--muted);
+}
+
+.faq-list details p a {
+  color: var(--sound);
+  font-weight: 700;
 }
 
 .final-cta {
