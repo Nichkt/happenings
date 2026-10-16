@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:83255e3f07-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+TRANSP:TRANSPARENT
+SUMMARY:GeekGirlCon
+LOCATION:Arch at 800 Pike (Seattle Convention Center)\, 800 Pike Street\, S
+ eattle\, WA\, 98101
+DESCRIPTION:Every year at our annual convention\, GeekGirlCon sets up an in
+ clusive environment at the heart of downtown Seattle.\n\nhttps://www.paren
+ tmap.com/calendar/geekgirlcon/2026-10-24/
+URL:https://www.parentmap.com/calendar/geekgirlcon/2026-10-24/
+END:VEVENT
+END:VCALENDAR

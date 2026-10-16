@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f75a375637-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Seattle’s Christmas Towne
+LOCATION:Westlake Center\, 400 Pine Street\, Seattle\, 98101
+DESCRIPTION:Hours: 12–6 PM\n\nExplore an immersive indoor Christmas world
+  in the heart of downtown Seattle\, filled with interactive characters\, f
+ amily activities\, holiday treats\, and…\n\nhttps://www.parentmap.com/ca
+ lendar/seattles-christmas-towne/2026-12-04/
+URL:https://www.parentmap.com/calendar/seattles-christmas-towne/2026-12-04/
+END:VEVENT
+END:VCALENDAR

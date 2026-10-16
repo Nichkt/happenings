@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f4d099dd5f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Hometown Holiday Carousel and Ferris Wheel
+LOCATION:Legion Park\, 114 Olympic Ave.\, Arlington\, WA\, 98223
+DESCRIPTION:Holiday Carousel and Ferris Wheel A Holiday Carousel and Ferris
+  Wheel are located downtown Arlington next to Legion Park.\n\nhttps://www.
+ parentmap.com/calendar/hometown-holiday-carousel/2026-12-04/
+URL:https://www.parentmap.com/calendar/hometown-holiday-carousel/2026-12-04
+ /
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:93b35c9690-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T180000Z
+DTEND:20261024T210000Z
+SUMMARY:Seattle Children’s Autism Center Halloween Event
+LOCATION:Seattle Children’s Autism Center\, 6901 Sandpoint Way NE\, Seatt
+ le\, WA\, 98115
+DESCRIPTION:Join us for the Seattle Children’s Autism Center’s annual H
+ alloween Event on Saturday\, October 24\, 2026\, from 11 AM – 2 PM! Come
+  enjoy a FREE\, inclusive…\n\nhttps://www.parentmap.com/calendar/seattle
+ -childrens-autism-center-halloween-event/
+URL:https://www.parentmap.com/calendar/seattle-childrens-autism-center-hall
+ oween-event/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ccb6d872dc-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261204T010000Z
+DTEND:20261204T050000Z
+SUMMARY:Sunset Art Walk Markets
+LOCATION:Occidental Square\, 117 S Washington St.\, Seattle\, WA
+DESCRIPTION:Stop by the Sunset Market during Art Walk to shop unique and vi
+ ntage treasures!\n\nhttps://downtownseattle.org/event/sunset-art-walk-mark
+ ets/
+URL:https://downtownseattle.org/event/sunset-art-walk-markets/
+END:VEVENT
+END:VCALENDAR

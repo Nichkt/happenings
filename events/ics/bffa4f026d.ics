@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bffa4f026d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Day
+DESCRIPTION:https://www.mukilteowa.gov/calendar.aspx?EID=637\n\nhttps://www
+ .mukilteowa.gov/calendar.aspx?EID=637
+URL:https://www.mukilteowa.gov/calendar.aspx?EID=637
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5bc7afa13e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261103T010000Z
+DTEND:20261103T030000Z
+SUMMARY:Day of the Dead | Dia de Los Muertos
+LOCATION:Redmond Senior & Community Center\, Redmond Senior & Community Cen
+ ter - 8703 160th Ave NE Redmond WA 98052
+DESCRIPTION:https://www.redmond.gov/calendar.aspx?EID=3561\n\nhttps://www.r
+ edmond.gov/calendar.aspx?EID=3561
+URL:https://www.redmond.gov/calendar.aspx?EID=3561
+END:VEVENT
+END:VCALENDAR

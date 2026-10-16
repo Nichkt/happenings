@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0566350939-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:November Art Market
+LOCATION:Duwamish Longhouse & Cultural Center\, 4705 West Marginal Way Sout
+ hwest\, Seattle\, WA\, 98106
+DESCRIPTION:https://www.duwamishtribe.org/eventcalendar/2026/11/27/november
+ -art-market
+URL:https://www.duwamishtribe.org/eventcalendar/2026/11/27/november-art-mar
+ ket
+END:VEVENT
+END:VCALENDAR

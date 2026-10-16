@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:13ac89cc7a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Ship Viewing at Pier 62
+LOCATION:Don Armeni Park\, 1222 Harbor Ave SW\, Seattle\, WA\, 98116
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-at-pier-62/202
+ 6-12-17/1/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-at-pier-62/20
+ 26-12-17/1/
+END:VEVENT
+END:VCALENDAR

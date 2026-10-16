@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:97ab5aaf25-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Sumner Street of Treats
+LOCATION:Downtown Sumner\, 914 Kincaid Avenue\, Sumner\, WA\, 98390
+DESCRIPTION:Join us on Halloween evening as we close down Main Street in Do
+ wntown Sumner for everyone’s favorite Trick-or-Treating event!\n\nhttps:
+ //www.parentmap.com/calendar/sumner-street-treats/
+URL:https://www.parentmap.com/calendar/sumner-street-treats/
+END:VEVENT
+END:VCALENDAR

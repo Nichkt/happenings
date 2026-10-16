@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:78dc215555-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Ship Viewing at Alki Beach
+LOCATION:Alki Beach Park\, 2701 Alki Ave. S.W.\, Seattle\, WA\, 98116
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-alki-beach/202
+ 6-11-27/1/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-alki-beach/20
+ 26-11-27/1/
+END:VEVENT
+END:VCALENDAR

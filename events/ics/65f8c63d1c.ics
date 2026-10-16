@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65f8c63d1c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261107T180000Z
+DTEND:20261108T010000Z
+SUMMARY:Grit City Comic Show
+LOCATION:Greater Tacoma Convention & Trade Center\, 1516 Commerce St\, Taco
+ ma\, WA\, 98402-3307
+DESCRIPTION:Grit City Comic Show returns to Tacoma on Saturday\, November 7
+ \, 2026!\n\nhttps://www.parentmap.com/calendar/grit-city-comic-show/
+URL:https://www.parentmap.com/calendar/grit-city-comic-show/
+END:VEVENT
+END:VCALENDAR

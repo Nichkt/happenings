@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0a2f342fb8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261030T230000Z
+DTEND:20261031T020000Z
+SUMMARY:Halloween at Sammamish Animal Sanctuary
+LOCATION:Sammamish Animal Sanctuary\, 16515 SE May Valley Road\, Renton\, W
+ A\, 98059
+DESCRIPTION:Our Annual Halloween Spooktacular Event at Sammamish Animal San
+ ctuary is live on our website!\n\nhttps://www.parentmap.com/calendar/hallo
+ ween-sammamish-animal-sanctuary/
+URL:https://www.parentmap.com/calendar/halloween-sammamish-animal-sanctuary
+ /
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cfa52d9bd5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T180000Z
+DTEND:20261031T230000Z
+SUMMARY:Trick or Treat in Pioneer Square
+LOCATION:210 SEATTLE\, 301 Occidental Ave S\, Seattle\, WA\, 98104
+DESCRIPTION:As parents who have longed for a trick or treat event in Downto
+ wn\, we decided to host our own!! We will be the starting point to this tr
+ ick or treat Halloween…\n\nhttps://www.parentmap.com/calendar/trick-or-t
+ reat-in-pioneer-square/
+URL:https://www.parentmap.com/calendar/trick-or-treat-in-pioneer-square/
+END:VEVENT
+END:VCALENDAR

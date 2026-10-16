@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6192bf4c24-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:Zoo Boo
+LOCATION:Point Defiance Zoo & Aquarium\, 5400 N Pearl St\, Tacoma\, WA\, 98
+ 407-3224
+DESCRIPTION:Hours: 9 AM–3 PM\n\nCostumes\, animals\, candy and fun!\n\nht
+ tps://www.parentmap.com/calendar/zoo-boo/2026-10-17/
+URL:https://www.parentmap.com/calendar/zoo-boo/2026-10-17/
+END:VEVENT
+END:VCALENDAR

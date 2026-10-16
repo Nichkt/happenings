@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:153dd7ca64-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261119T180000Z
+DTEND:20261120T000000Z
+SUMMARY:Burien Winter Market
+LOCATION:Burien Town Square\, 480 SW 152nd Street\, Burien\, WA\, 98166
+DESCRIPTION:Burien Farmer’s Market Farmers markets are an essential part 
+ of our economy and community.\n\nhttps://www.discoverburien.org/calendar/2
+ 025/11/20/burien-winter-market
+URL:https://www.discoverburien.org/calendar/2025/11/20/burien-winter-market
+END:VEVENT
+END:VCALENDAR

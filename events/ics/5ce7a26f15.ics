@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5ce7a26f15-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T220000Z
+DTEND:20261101T010000Z
+SUMMARY:LoveOly Halloween
+LOCATION:Downtown Olympia Streets\, 5th Avenue and Washington Street\, Olym
+ pia\, WA\, 98501
+DESCRIPTION:Bring the whole family downtown for Halloween!\n\nhttps://www.p
+ arentmap.com/calendar/loveoly-halloween/
+URL:https://www.parentmap.com/calendar/loveoly-halloween/
+END:VEVENT
+END:VCALENDAR

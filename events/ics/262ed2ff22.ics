@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:262ed2ff22-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261102T010000Z
+DTEND:20261102T033000Z
+SUMMARY:Spooky Walk at Snoqualmie Valley Art Center
+LOCATION:Snoqualmie Valley Art Center\, 14301 Railroad Way NE\, Duvall\, 98
+ 019
+DESCRIPTION:Do you ever feel a little bit sad that jack-o-lanterns enjoy su
+ ch fleeting glory?\n\nhttps://www.parentmap.com/calendar/spooky-walk-at-sn
+ oqualmie-valley-art-center/
+URL:https://www.parentmap.com/calendar/spooky-walk-at-snoqualmie-valley-art
+ -center/
+END:VEVENT
+END:VCALENDAR

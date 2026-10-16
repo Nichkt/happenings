@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8e829032ea-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T010000Z
+DTEND:20261031T030000Z
+SUMMARY:Ballard Halloween Carnival
+LOCATION:Ballard Community Center\, 6020 28th Ave NW\, Seattle\, WA\, 98107
+ -5313
+DESCRIPTION:Join us for a spooky good time for the whole family!\n\nhttps:/
+ /www.parentmap.com/calendar/ballard-halloween-carnival/
+URL:https://www.parentmap.com/calendar/ballard-halloween-carnival/
+END:VEVENT
+END:VCALENDAR

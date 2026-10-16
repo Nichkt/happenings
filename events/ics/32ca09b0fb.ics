@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:32ca09b0fb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:Maris Farms Fall Festival
+LOCATION:Maris Farms\, 25001 Sumner Buckley Hwy\, Buckley\, WA\, 98321
+DESCRIPTION:40+ activities and a full day of fall fun waiting for you!\n\nh
+ ttps://www.parentmap.com/calendar/maris-farms-fall-festival-s4/2026-10-15/
+URL:https://www.parentmap.com/calendar/maris-farms-fall-festival-s4/2026-10
+ -15/
+END:VEVENT
+END:VCALENDAR

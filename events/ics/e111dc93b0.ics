@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e111dc93b0-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261114T190000Z
+DTEND:20261115T020000Z
+SUMMARY:Valley-Wide Holiday Open House
+LOCATION:Businesses throughout North Bend\, Businesses throughout North Ben
+ d\, Snoqualmie\, and Fall City - North Bend WA 98045
+DESCRIPTION:https://www.northbendwa.gov/m/calendar/event/detail/4764\n\nhtt
+ ps://www.northbendwa.gov/m/calendar/event/detail/4764
+URL:https://www.northbendwa.gov/m/calendar/event/detail/4764
+END:VEVENT
+END:VCALENDAR

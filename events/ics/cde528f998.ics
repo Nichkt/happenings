@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cde528f998-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:PDZA Veterans Appreciation Days
+LOCATION:Point Defiance Zoo & Aquarium\, 5400 N Pearl St\, Tacoma\, WA\, 98
+ 407-3224
+DESCRIPTION:Hours: 9 AM–3:30 PM\n\nU.S. military veterans and active duty
+  members can enjoy the wonder of the Zoo for FREE during Veterans’ Appre
+ ciation Days.\n\nhttps://www.parentmap.com/calendar/pdza-veterans-apprecia
+ tion-days/2026-11-11/
+URL:https://www.parentmap.com/calendar/pdza-veterans-appreciation-days/2026
+ -11-11/
+END:VEVENT
+END:VCALENDAR

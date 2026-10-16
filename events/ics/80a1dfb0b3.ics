@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:80a1dfb0b3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+SUMMARY:Fall Festival at the Dale Turner Family YMCA
+LOCATION:Dale Turner Family YMCA\, 19290 Aurora Ave N\, Shoreline\, WA\, 98
+ 133-3931
+DESCRIPTION:Experience all things fall and see the Y transformed at this ye
+ ar’s Fall Family Festival.\n\nhttps://www.parentmap.com/calendar/fall-fe
+ stival-at-the-dale-turner-family-ymca/
+URL:https://www.parentmap.com/calendar/fall-festival-at-the-dale-turner-fam
+ ily-ymca/
+END:VEVENT
+END:VCALENDAR

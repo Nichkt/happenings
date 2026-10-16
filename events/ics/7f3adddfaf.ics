@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7f3adddfaf-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Boo-Allup
+LOCATION:Downtown Puyallup\, 107 North Meridian\, Puyallup\, WA\, 98371
+DESCRIPTION:Halloween in downtown Puyallup is spooktacular for the whole fa
+ mily!\n\nhttps://www.parentmap.com/calendar/48146/
+URL:https://www.parentmap.com/calendar/48146/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:efc9bb12d9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261221T220000Z
+DTEND:20261221T233000Z
+SUMMARY:Christmas Ship Viewing at Matthews Beach Park
+LOCATION:Matthews Beach Park\, 5100 NE 93rd St\, Seattle\, WA\, 98115
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-matthews-beach
+ -park/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-matthews-beac
+ h-park/
+END:VEVENT
+END:VCALENDAR

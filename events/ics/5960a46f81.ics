@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5960a46f81-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+TRANSP:TRANSPARENT
+SUMMARY:Halloween Train
+LOCATION:Northwest Railway Museum\, 38625 SE King St\, Snoqualmie\, WA\, 98
+ 065
+DESCRIPTION:Hours: 11 AM–5 PM\n\nEvery October\, the Northwest Railway Mu
+ seum invites families to ride the train or drive up to the Train Shed Exhi
+ bit Hall for some extra-special\,…\n\nhttps://www.parentmap.com/calendar
+ /halloween-train/2026-10-24/
+URL:https://www.parentmap.com/calendar/halloween-train/2026-10-24/
+END:VEVENT
+END:VCALENDAR

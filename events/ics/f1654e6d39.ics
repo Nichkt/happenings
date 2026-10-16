@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f1654e6d39-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T003000Z
+DTEND:20261101T030000Z
+SUMMARY:Trunk or Treat on the Lawn
+LOCATION:The Stone House Cafe\, 9701 Rainier Ave S\, Seattle\, WA\, 98118
+DESCRIPTION:Halloween Night\, we’ll be hosting our 5th annual Trunk or Tr
+ eat!\n\nhttps://www.parentmap.com/calendar/trunk-or-treat-lawn-0/
+URL:https://www.parentmap.com/calendar/trunk-or-treat-lawn-0/
+END:VEVENT
+END:VCALENDAR

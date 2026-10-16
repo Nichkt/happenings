@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9764bead21-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261025T190000Z
+DTEND:20261025T230000Z
+SUMMARY:Carve Fest at Vasa Park Resort
+LOCATION:Vasa Park Resort\, 3560 W Lake Sammamish Pkwy SE\, Bellevue\, WA\,
+  98008-5839
+DESCRIPTION:Grab your pumpkins\, put on your favorite Halloween costume\, a
+ nd join us for an afternoon of fall fun on the shores of Lake Sammamish!\n
+ \nhttps://www.parentmap.com/calendar/carve-fest-at-vasa-park-resort/
+URL:https://www.parentmap.com/calendar/carve-fest-at-vasa-park-resort/
+END:VEVENT
+END:VCALENDAR

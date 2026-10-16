@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:835b084afa-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261219T180000Z
+DTEND:20261220T000000Z
+SUMMARY:Solstice With Sasquatch
+LOCATION:Museum of Flight\, 9404 E Marginal Way S\, Tukwila\, WA\, 98108-40
+ 46
+DESCRIPTION:Celebrate the winter solstice at The Museum of Flight with cozy
+  activities\, crafting\, and cocoa.\n\nhttps://www.parentmap.com/calendar/
+ solstice-sasquatch/
+URL:https://www.parentmap.com/calendar/solstice-sasquatch/
+END:VEVENT
+END:VCALENDAR

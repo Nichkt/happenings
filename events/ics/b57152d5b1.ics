@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b57152d5b1-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261111T190000Z
+DTEND:20261111T200000Z
+SUMMARY:Mill Creek’s Veterans Day Parade
+LOCATION:Mill Creek Town Center 15311 Main Street\, Mill Creek Town Center 
+ 15311 Main Street\, Mill Creek\, 98012
+DESCRIPTION:Celebrate the service of our local US military veterans with pa
+ rades and events across Mill Creek.\n\nhttps://www.parentmap.com/calendar/
+ mill-creeks-veterans-day-parade/
+URL:https://www.parentmap.com/calendar/mill-creeks-veterans-day-parade/
+END:VEVENT
+END:VCALENDAR

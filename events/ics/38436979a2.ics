@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38436979a2-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261018T170000Z
+DTEND:20261018T230000Z
+SUMMARY:Benaroya Hall Open House
+LOCATION:Benaroya Hall\, 200 University St\, Seattle\, WA\, 98101-3428
+DESCRIPTION:Hello\, Seattle!\n\nhttps://www.parentmap.com/calendar/benaroya
+ -hall-open-house/
+URL:https://www.parentmap.com/calendar/benaroya-hall-open-house/
+END:VEVENT
+END:VCALENDAR

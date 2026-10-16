@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f4e9d710ef-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Haunted Harbor
+LOCATION:Port of Everett\, Pacific Rim Plaza\, 1028 13th Street\, Everett\,
+  WA\, 98201
+DESCRIPTION:The Port of Everett invites community members and visitors to j
+ oin in a day of spooky\, but not-so-scary\, FREE\, family fun at the water
+ front during its second…\n\nhttps://www.parentmap.com/calendar/haunted-h
+ arbor/
+URL:https://www.parentmap.com/calendar/haunted-harbor/
+END:VEVENT
+END:VCALENDAR

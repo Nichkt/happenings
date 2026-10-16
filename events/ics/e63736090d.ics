@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e63736090d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T170000Z
+DTEND:20261017T220000Z
+SUMMARY:Harvest Festival
+LOCATION:Farrel-McWhirter Park\, Farrel-McWhirter Park - 19545 Redmond Road
+  Redmond WA 98052
+DESCRIPTION:https://www.redmond.gov/calendar.aspx?EID=3559\n\nhttps://www.r
+ edmond.gov/calendar.aspx?EID=3559
+URL:https://www.redmond.gov/calendar.aspx?EID=3559
+END:VEVENT
+END:VCALENDAR

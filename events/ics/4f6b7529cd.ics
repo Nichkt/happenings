@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f6b7529cd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T203000Z
+DTEND:20261024T220000Z
+SUMMARY:Howl-O-Ween Pet Parade
+LOCATION:The Stone House Cafe\, 9701 Rainier Ave S\, Seattle\, WA\, 98118
+DESCRIPTION:Our Halloween festivities continue with our Howl-O-Ween Pet Par
+ ade!\n\nhttps://www.parentmap.com/calendar/howl-o-ween-pet-parade-2/
+URL:https://www.parentmap.com/calendar/howl-o-ween-pet-parade-2/
+END:VEVENT
+END:VCALENDAR

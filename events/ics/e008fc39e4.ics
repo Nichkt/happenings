@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e008fc39e4-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261121T200000Z
+DTEND:20261122T010000Z
+SUMMARY:Tacoma Festival of Light
+LOCATION:Eastside Community Center\, 1721 E 56th St\, Tacoma\, WA\, 98404
+DESCRIPTION:Tacoma Festival of Light is a free\, family-friendly celebratio
+ n that brings people of all cultures and backgrounds together through art\
+ , music\, food\, and…\n\nhttps://www.parentmap.com/calendar/tacoma-festi
+ val-light/
+URL:https://www.parentmap.com/calendar/tacoma-festival-light/
+END:VEVENT
+END:VCALENDAR

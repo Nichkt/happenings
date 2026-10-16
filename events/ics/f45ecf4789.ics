@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f45ecf4789-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261029T010000Z
+DTEND:20261029T023000Z
+SUMMARY:Kids Halloween Cupcake Making
+LOCATION:Tukwila Community Center\, 12424 42nd Ave S\, Tukwila\, WA\, 98168
+ -2526
+DESCRIPTION:SPOOKY SWEETS & HALLOWEEN TREATS! Get ready for a night of crea
+ tivity\, cupcakes & Halloween fun!\n\nhttps://www.parentmap.com/calendar/k
+ ids-halloween-cupcake-making/
+URL:https://www.parentmap.com/calendar/kids-halloween-cupcake-making/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c86232a535-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Halloween Trick Or Treat Night in Edmonds
+LOCATION:Downtown Edmonds\, Main Street\, Edmonds\, WA\, 98020
+DESCRIPTION:Join the thousands of folks who gather in downtown Edmonds on H
+ alloween night for a fun\, safe trick-or-treating experience.\n\nhttps://w
+ ww.parentmap.com/calendar/halloween-trick-or-treat-night-edmonds/
+URL:https://www.parentmap.com/calendar/halloween-trick-or-treat-night-edmon
+ ds/
+END:VEVENT
+END:VCALENDAR

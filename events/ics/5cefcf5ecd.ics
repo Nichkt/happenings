@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5cefcf5ecd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261225
+TRANSP:TRANSPARENT
+SUMMARY:Evergreen Christmas Lights
+LOCATION:Evergreen Church\, 3429 240th St. S.E.\, Bothell\, WA\, 98021
+DESCRIPTION:Hours: 6–9 PM\n\nBe filled with wonder and amazement at the E
+ vergreen Christmas Light show in Bothell\, Washington.\n\nhttps://www.pare
+ ntmap.com/calendar/evergreen-christmas-lights/2026-12-01/
+URL:https://www.parentmap.com/calendar/evergreen-christmas-lights/2026-12-0
+ 1/
+END:VEVENT
+END:VCALENDAR

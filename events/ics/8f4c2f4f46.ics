@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f4c2f4f46-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+TRANSP:TRANSPARENT
+SUMMARY:Spooky Swim
+LOCATION:Covington Aquatic Center\, 18230 SE 240th St\, Covington\, WA\, 98
+ 042-4818
+DESCRIPTION:Lights out\, a glowing pool\, and ghoulish fun awaits you!\n\nh
+ ttps://www.parentmap.com/calendar/spooky-swim/2026-10-24/1/
+URL:https://www.parentmap.com/calendar/spooky-swim/2026-10-24/1/
+END:VEVENT
+END:VCALENDAR

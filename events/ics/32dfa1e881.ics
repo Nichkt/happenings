@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:32dfa1e881-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Haunted Boo-Levard at Kent Station
+LOCATION:Kent Station\, 417 Ramsay Way\, Kent\, WA\, 98032-4502
+DESCRIPTION:Kent Station\, in partnership with the City of Kent\, invites y
+ ou to join us for Haunted Boo-Levard\, a family-friendly Halloween celebra
+ tion along Ramsay Way!\n\nhttps://www.parentmap.com/calendar/haunted-boo-l
+ evard-kent-station/
+URL:https://www.parentmap.com/calendar/haunted-boo-levard-kent-station/
+END:VEVENT
+END:VCALENDAR

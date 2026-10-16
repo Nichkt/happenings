@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f01793d74-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T170000Z
+DTEND:20261024T190000Z
+SUMMARY:Harvest Festival with Kiddie Academy Kirkland
+LOCATION:Kiddie Academy Kirkland\, 12620 NE 85th St\, Kirkland\, WA\, 98033
+DESCRIPTION:Come celebrate fall with Kiddie Academy of Kirkland at a fun-fi
+ lled morning for the whole family!\n\nhttps://www.parentmap.com/calendar/h
+ arvest-festival-with-kiddie-academy-kirkland/
+URL:https://www.parentmap.com/calendar/harvest-festival-with-kiddie-academy
+ -kirkland/
+END:VEVENT
+END:VCALENDAR

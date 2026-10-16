@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0dca114fab-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+SUMMARY:Festál Series: Día de Muertos Festival
+LOCATION:Seattle Center Armory\, 305 Harrison Street\, Seattle\, WA\, 98109
+DESCRIPTION:Hours: 11 AM–6 PM\n\nDia De Muertos will take place October 3
+ 1 – November 1\, 2026 in the Armory Food & Event Hall.\n\nhttps://www.pa
+ rentmap.com/calendar/festal-series-dia-de-muertos-festival/2026-10-31/
+URL:https://www.parentmap.com/calendar/festal-series-dia-de-muertos-festiva
+ l/2026-10-31/
+END:VEVENT
+END:VCALENDAR

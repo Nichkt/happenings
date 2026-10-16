@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:684e4d543f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T163000Z
+DTEND:20261101T010000Z
+SUMMARY:Halloween at the Seattle Aquarium
+LOCATION:Seattle Aquarium\, 1483 Alaskan Way Pier 59\, Seattle\, WA\, 98101
+ -2015
+DESCRIPTION:Celebrate spooky season at the Ahhhhquarium!\n\nhttps://www.par
+ entmap.com/calendar/halloween-at-the-seattle-aquarium/
+URL:https://www.parentmap.com/calendar/halloween-at-the-seattle-aquarium/
+END:VEVENT
+END:VCALENDAR

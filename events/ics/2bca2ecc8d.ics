@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2bca2ecc8d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261018T163000Z
+DTEND:20261018T183000Z
+SUMMARY:The Walk to Remember
+LOCATION:Gene Coulon Memorial Park\, 1201 Lake Washington Blvd N\, Renton\,
+  WA\, 98056-2567
+DESCRIPTION:Please join us for the 24th annual Walk to Remember\, a cherish
+ ed community tradition honoring babies lost to miscarriage\, stillbirth\, 
+ SIDS\, and other pregnancy…\n\nhttps://www.parentmap.com/calendar/the-wa
+ lk-to-remember/
+URL:https://www.parentmap.com/calendar/the-walk-to-remember/
+END:VEVENT
+END:VCALENDAR

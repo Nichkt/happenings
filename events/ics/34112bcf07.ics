@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:34112bcf07-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T023000Z
+SUMMARY:Renton History Museum Tree Lighting
+LOCATION:Renton History Museum\, 235 Mill Ave S\, Renton\, WA\, 98057-2133
+DESCRIPTION:Join us for hot cocoa\, ornament making\, and holiday cheer at 
+ our annual Tree Lighting event at the Renton History Museum!\n\nhttps://ww
+ w.parentmap.com/calendar/renton-history-museum-tree-lighting/
+URL:https://www.parentmap.com/calendar/renton-history-museum-tree-lighting/
+END:VEVENT
+END:VCALENDAR

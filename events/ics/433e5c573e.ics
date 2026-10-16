@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:433e5c573e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T213000Z
+DTEND:20261017T233000Z
+SUMMARY:No Kings Seattle Vote Early - Voting Fair
+LOCATION:Seattle Center International Fountain\, WA
+DESCRIPTION:Building/Room #: NA Neighborhoods: Uptown Event Types: Public O
+ utreach and Engagement Audience: All Sponsoring Organization: No Kings Sea
+ ttle Coalition…\n\nhttps://seattleindivisible.com/no-kings-seattle-vote-
+ early-oct-17-2026/
+URL:https://seattleindivisible.com/no-kings-seattle-vote-early-oct-17-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:741a41714e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261220T010000Z
+DTEND:20261220T023000Z
+SUMMARY:Christmas Ship Viewing at Magnuson Park
+LOCATION:Magnuson Park\, 7400 Sand Point Way NE\, Seattle\, WA\, 98115-8166
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-magnuson-park/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-magnuson-park
+ /
+END:VEVENT
+END:VCALENDAR

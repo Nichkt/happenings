@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:703fadfd19-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T220000Z
+DTEND:20261101T010000Z
+SUMMARY:Trick or Treat Along Gig Harbor’s Waterfront
+LOCATION:Gig Harbor Waterfront\, 3311 Harborview Dr\, Gig Harbor\, WA\, 983
+ 32
+DESCRIPTION:Bring your little monsters\, superheroes\, and Jedi Knights to 
+ trick or treat at businesses along the downtown waterfront.\n\nhttps://www
+ .parentmap.com/calendar/trick-or-treat-along-gig-harbors-waterfront/
+URL:https://www.parentmap.com/calendar/trick-or-treat-along-gig-harbors-wat
+ erfront/
+END:VEVENT
+END:VCALENDAR

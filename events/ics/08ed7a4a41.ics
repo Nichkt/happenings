@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08ed7a4a41-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Magic at The Fair
+LOCATION:Washington State Fair Events Center (MattressFIRM Showplex)\, 110 
+ 9th Ave SW\, Puyallup\, WA\, 98371-6811
+DESCRIPTION:Hours: 4:30–9:30 PM\n\nEvery December\, Holiday Magic transfo
+ rms the Washington State Fair Event Center into a sparkling winter wonderl
+ and filled with millions of lights\, festive…\n\nhttps://www.parentmap.c
+ om/calendar/holiday-magic-fair/2026-12-04/
+URL:https://www.parentmap.com/calendar/holiday-magic-fair/2026-12-04/
+END:VEVENT
+END:VCALENDAR

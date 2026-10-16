@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ec43f6f02a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261219T010000Z
+DTEND:20261219T023000Z
+SUMMARY:Christmas Ship Viewing at Kirkland Marina Park
+LOCATION:Kirkland Marina Park\, 25 Lakeshore Plaza Dr\, Kirkland\, WA\, 980
+ 33
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-kirkland-marin
+ a-park/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-kirkland-mari
+ na-park/
+END:VEVENT
+END:VCALENDAR

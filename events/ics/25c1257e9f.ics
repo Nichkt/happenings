@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:25c1257e9f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T180000Z
+DTEND:20261102T010000Z
+SUMMARY:TAM Día de los Muertos Festival
+LOCATION:Tacoma Art Museum\, 1701 Pacific Ave\, Tacoma\, WA\, 98402-3214
+DESCRIPTION:Join us at Tacoma Art Museum for our annual Día de los Muertos
+  Festival\, presented in partnership with Mi Centro.\n\nhttps://www.parent
+ map.com/calendar/tam-dia-de-los-muertos-festival/
+URL:https://www.parentmap.com/calendar/tam-dia-de-los-muertos-festival/
+END:VEVENT
+END:VCALENDAR

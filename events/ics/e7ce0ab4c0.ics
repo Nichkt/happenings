@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e7ce0ab4c0-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Halloween Trick or Treat
+LOCATION:Madison Park\, 4201 E Madison St\, Seattle\, WA\, 98112
+DESCRIPTION:Get those costumes ready!\n\nhttps://www.parentmap.com/calendar
+ /halloween-trick-or-treat/
+URL:https://www.parentmap.com/calendar/halloween-trick-or-treat/
+END:VEVENT
+END:VCALENDAR

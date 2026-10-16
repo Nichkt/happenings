@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9e569d19fb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T000000Z
+DTEND:20261031T013000Z
+SUMMARY:Concordia Seattle Trunk or Treat
+LOCATION:Concordia Lutheran School\, 7040 36th Ave NE\, Seattle\, WA\, 9811
+ 5
+DESCRIPTION:Join us for a fun\, safe\, and family-friendly Halloween celebr
+ ation at Concordia Lutheran School in North Seattle!\n\nhttps://www.parent
+ map.com/calendar/concordia-seattle-trunk-or-treat/
+URL:https://www.parentmap.com/calendar/concordia-seattle-trunk-or-treat/
+END:VEVENT
+END:VCALENDAR

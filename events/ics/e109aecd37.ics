@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e109aecd37-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261206T003000Z
+DTEND:20261206T013000Z
+SUMMARY:Santa Parade & Tree Lighting
+LOCATION:Downtown Auburn\, 25 W Main St\, Auburn\, WA\, 98001-4916
+DESCRIPTION:From Auburn High School to City Hall\, lighted entries will fil
+ l Main Street with holiday joy!\n\nhttps://www.parentmap.com/calendar/sant
+ a-parade-tree-lighting/
+URL:https://www.parentmap.com/calendar/santa-parade-tree-lighting/
+END:VEVENT
+END:VCALENDAR

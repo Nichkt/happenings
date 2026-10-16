@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f8f6a3fd0d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261213T213000Z
+DTEND:20261213T233000Z
+SUMMARY:Visit with Santa
+LOCATION:MIni Treehouse\, MIni Treehouse 8050 Railroad Ave Snoqualmie WA 98
+ 065
+DESCRIPTION:First 30 minutes reserved for special needs families https://ww
+ w.snoqualmiewa.gov/calendar.aspx?EID=3418\n\nhttps://www.snoqualmiewa.gov/
+ calendar.aspx?EID=3418
+URL:https://www.snoqualmiewa.gov/calendar.aspx?EID=3418
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3d4766cab3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261209T023000Z
+DTEND:20261209T040000Z
+SUMMARY:Needle Felting: Snowman Holiday Ornament
+LOCATION:Swoon City\, 1716 NW Market St\, Seattle\, WA
+DESCRIPTION:This class will take place at Swoon City.\n\nhttps://www.visitb
+ allard.com/event/needle-felting-snowman-holiday-ornament/
+URL:https://www.visitballard.com/event/needle-felting-snowman-holiday-ornam
+ ent/
+END:VEVENT
+END:VCALENDAR

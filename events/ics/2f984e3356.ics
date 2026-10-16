@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2f984e3356-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+SUMMARY:Catrinas Day of the Dead Festival
+LOCATION:Town Hall Seattle\, 1119 8th Ave\, Seattle\, WA\, 98101-2738
+DESCRIPTION:Hours: 1–9 PM\n\nSeattle Catrinas Festival.\n\nhttps://www.pa
+ rentmap.com/calendar/catrinas-day-dead-festival/2026-10-31/
+URL:https://www.parentmap.com/calendar/catrinas-day-dead-festival/2026-10-3
+ 1/
+END:VEVENT
+END:VCALENDAR

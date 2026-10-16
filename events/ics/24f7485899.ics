@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:24f7485899-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261212T180000Z
+DTEND:20261212T230000Z
+SUMMARY:Holiday Market
+LOCATION:Infinity Farm Issaquah\, 16523 Issaquah-Hobart Rd SE\, Issaquah\, 
+ WA\, 98027
+DESCRIPTION:Come out to Infinity Farm Issaquah and support local!\n\nhttps:
+ //www.parentmap.com/calendar/holiday-market-0/
+URL:https://www.parentmap.com/calendar/holiday-market-0/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18a1da981b-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261018T190000Z
+DTEND:20261019T000000Z
+SUMMARY:Washington Fall Mead Festival
+LOCATION:Skål Beer Hall\, 5429 Ballard Ave NW\, Seattle\, WA\, 98107
+DESCRIPTION:Celebrate the Nectar of the Gods with WA Mead Makers!\n\nhttps:
+ //www.visitballard.com/event/washington-fall-mead-festival/
+URL:https://www.visitballard.com/event/washington-fall-mead-festival/
+END:VEVENT
+END:VCALENDAR

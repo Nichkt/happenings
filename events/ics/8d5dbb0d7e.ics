@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d5dbb0d7e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T220000Z
+DTEND:20261101T020000Z
+SUMMARY:LeMay Halloween Trunk or Treat
+LOCATION:LeMay – America’s Car Museum\, 2702 E D St\, Tacoma\, WA\, 984
+ 21-1200
+DESCRIPTION:FREE COMMUNITY EVENT Bring the whole family and join us for a f
+ un-filled community event featuring food trucks\, entertainment\, activiti
+ es\, decorated trunks\,…\n\nhttps://www.parentmap.com/calendar/22651/
+URL:https://www.parentmap.com/calendar/22651/
+END:VEVENT
+END:VCALENDAR

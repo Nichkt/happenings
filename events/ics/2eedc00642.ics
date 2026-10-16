@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2eedc00642-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261128T190000Z
+DTEND:20261129T020000Z
+SUMMARY:Magic in the Market
+LOCATION:Pike Place Market\, 85 Pike Street\, Seattle\, WA\, 98101
+DESCRIPTION:Kick-off the holiday season at Pike Place Market as we celebrat
+ e our 31st annual Magic in the Market!\n\nhttps://www.parentmap.com/calend
+ ar/55146/
+URL:https://www.parentmap.com/calendar/55146/
+END:VEVENT
+END:VCALENDAR

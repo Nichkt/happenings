@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2ba75951ad-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261022T230000Z
+DTEND:20261023T020000Z
+SUMMARY:Jack-O’-Lantern Jubilee at the Lakewood Family YMCA
+LOCATION:Lakewood Family YMCA\, 9715 Lakewood Dr SW\, Lakewood\, WA\, 98499
+ -3980
+DESCRIPTION:Join us for Jack-O’-Lantern Jubilee on October 22 from 4-7pm 
+ at the Lakewood Family YMCA. Families will enjoy a guided tour through the
+  facility featuring…\n\nhttps://www.parentmap.com/calendar/jack-o-lanter
+ n-jubilee-at-the-lakewood-family-ymca/
+URL:https://www.parentmap.com/calendar/jack-o-lantern-jubilee-at-the-lakewo
+ od-family-ymca/
+END:VEVENT
+END:VCALENDAR

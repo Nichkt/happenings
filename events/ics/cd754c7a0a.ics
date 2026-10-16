@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cd754c7a0a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261223T040000Z
+DTEND:20261223T053000Z
+SUMMARY:Christmas Ship Viewing at Madrona Beach Park
+LOCATION:Madrona Beach Park\, 853 Lake Washington Blvd\, Seattle\, WA\, 981
+ 22
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-madrona-beach-
+ park/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-madrona-beach
+ -park/
+END:VEVENT
+END:VCALENDAR

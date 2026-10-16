@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d4f4ae6a41-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T010000Z
+DTEND:20261101T060000Z
+SUMMARY:Spooky Salsa & Boo‑Chata
+LOCATION:Pier 66\, 2225 Alaskan Way\, Seattle\, WA\, 98121-1604
+DESCRIPTION:Salsa and Bachata returns to Pier 66 for a spooky-themed evenin
+ g of Latin music\, dance and community.\n\nhttps://www.parentmap.com/calen
+ dar/spooky-salsa-boo-chata/
+URL:https://www.parentmap.com/calendar/spooky-salsa-boo-chata/
+END:VEVENT
+END:VCALENDAR

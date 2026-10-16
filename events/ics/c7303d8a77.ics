@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c7303d8a77-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T000000Z
+DTEND:20261101T043000Z
+SUMMARY:Georgetown Halloween Parade
+LOCATION:Oxbow Park\, 6430 Corson Ave S\, Seattle\, WA\, 98134
+DESCRIPTION:An all ages celebration of the weird\, spooky\, and devilish in
+  Seattle’s historic Georgetown Neighborhood.\n\nhttps://www.parentmap.co
+ m/calendar/georgetown-halloween-parade/
+URL:https://www.parentmap.com/calendar/georgetown-halloween-parade/
+END:VEVENT
+END:VCALENDAR

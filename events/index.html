@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' https:; connect-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta name="theme-color" content="#123946">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="Night markets, festivals, street fairs, art walks and other community events around Seattle and the Eastside, from community and city calendars. Updated every day; add any of them to your calendar.">
+  <meta name="robots" content="index, follow">
+
+  <title>What's on around Seattle | Seattle Happenings</title>
+
+  <link rel="canonical" href="https://nichkt.github.io/happenings/events/">
+  <link rel="icon" type="image/png" sizes="32x32" href="../assets/icon-32.png">
+  <link rel="apple-touch-icon" sizes="192x192" href="../assets/icon-192.png">
+  <link rel="stylesheet" href="app.css?v=61b82b8e5f">
+  <link rel="stylesheet" href="theme.css?v=61b82b8e5f">
+  <script src="app.js?v=61b82b8e5f" defer></script>
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Seattle Happenings">
+  <meta property="og:title" content="What's on around Seattle | Seattle Happenings">
+  <meta property="og:description" content="Night markets, festivals, street fairs, art walks and other community events around Seattle and the Eastside, from community and city calendars. Updated every day; add any of them to your calendar.">
+  <meta property="og:url" content="https://nichkt.github.io/happenings/events/">
+  <meta property="og:image" content="https://nichkt.github.io/happenings/assets/feature-graphic.png">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="500">
+  <meta property="og:image:alt" content="Seattle Happenings artwork with Mount Rainier, festival lights, and a sunset over Puget Sound">
+  <meta name="twitter:card" content="summary_large_image">
+</head>
+<body data-email="nichkt@gmail.com">
+  <svg class="sprite" aria-hidden="true" focusable="false">
+    <symbol id="i-search" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></symbol>
+    <symbol id="i-star-outline" viewBox="0 0 24 24"><path d="m22 9.24-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/></symbol>
+    <symbol id="i-calendar-add" viewBox="0 0 24 24"><path d="M19 3h-1V1h-2v2H8V1H6v2H5a2 2 0 0 0-1.99 2L3 19a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zm-8-2h2v-3h3v-2h-3V9h-2v3H8v2h3v3z"/></symbol>
+    <symbol id="i-calendar" viewBox="0 0 24 24"><path d="M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5a2 2 0 0 0-1.99 2L3 19a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z"/></symbol>
+    <symbol id="i-web" viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95a15.65 15.65 0 0 0-1.38-3.56A8.03 8.03 0 0 1 18.92 8zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56A7.99 7.99 0 0 1 5.08 16zm2.95-8H5.08a7.99 7.99 0 0 1 4.33-3.56A15.65 15.65 0 0 0 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95a8.03 8.03 0 0 1-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z"/></symbol>
+    <symbol id="i-place" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 0 1 0-5 2.5 2.5 0 0 1 0 5z"/></symbol>
+    <symbol id="i-time" viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67V7z"/></symbol>
+    <symbol id="i-tag" viewBox="0 0 24 24"><path d="m21.41 11.58-9-9A2 2 0 0 0 11 2H4c-1.1 0-2 .9-2 2v7c0 .55.22 1.05.59 1.42l9 9c.36.36.86.58 1.41.58s1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41s-.23-1.06-.59-1.42zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5 6.33 7 5.5 7z"/></symbol>
+    <symbol id="i-kind" viewBox="0 0 24 24"><path d="m12 2-5.5 9h11L12 2zm5.5 11a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9zM3 21.5h8v-8H3v8z"/></symbol>
+    <symbol id="i-directions" viewBox="0 0 24 24"><path d="m21.71 11.29-9-9a1 1 0 0 0-1.41 0l-9 9a1 1 0 0 0 0 1.41l9 9c.39.39 1.02.39 1.41 0l9-9a1 1 0 0 0 0-1.41zM14 14.5V12h-4v3H8v-4c0-.55.45-1 1-1h5V7.5l3.5 3.5-3.5 3.5z"/></symbol>
+    <symbol id="i-share" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11A2.99 2.99 0 0 0 21 5c0-1.66-1.34-3-3-3s-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81A2.99 2.99 0 0 0 3 12a2.99 2.99 0 0 0 5.04 2.19l7.12 4.16c-.05.21-.08.43-.08.65a2.92 2.92 0 1 0 2.92-2.92z"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></symbol>
+    <symbol id="i-tune" viewBox="0 0 24 24"><path d="M3 17v2h6v-2H3zM3 5v2h10V5H3zm10 16v-2h8v-2h-8v-2h-2v6h2zM7 9v2H3v2h4v2h2V9H7zm14 4v-2H11v2h10zm-6-4h2V7h4V5h-4V3h-2v6z"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></symbol>
+    <symbol id="i-open" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/></symbol>
+    <symbol id="i-flag" viewBox="0 0 24 24"><path d="M14.4 6 14 4H5v17h2v-7h5.6l.4 2h7V6z"/></symbol>
+  </svg>
+
+  <a class="skip" href="#list">Skip to the events</a>
+
+  <header class="top">
+    <div class="wrap bar">
+      <a class="brand" href="../">
+        <img src="../assets/icon-32.png" width="32" height="32" alt="">
+        <span>Seattle Happenings</span>
+      </a>
+      <a class="get" href="https://play.google.com/store/apps/details?id=com.nicholaston.happenings" target="_blank" rel="noopener">Get the Android app</a>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    <section class="intro">
+      <h1>What's on around Seattle</h1>
+      <p>Night markets, festivals, street fairs and art walks from community and city calendars, checked every day. Add any of them to your calendar.</p>
+    </section>
+
+    <div class="controls" id="controls">
+      <div class="tabs" role="tablist" aria-label="Show">
+        <button type="button" role="tab" id="tab-upcoming" data-mode="upcoming" aria-selected="true">Upcoming</button>
+        <button type="button" role="tab" id="tab-free" data-mode="free" aria-selected="false">Free</button>
+        <button type="button" role="tab" id="tab-starred" data-mode="starred" aria-selected="false">Starred<span class="count" id="star-count"></span></button>
+      </div>
+      <div class="narrow">
+        <label class="search">
+          <svg class="icon" aria-hidden="true"><use href="#i-search"/></svg>
+          <span class="visually-hidden">Search events</span>
+          <input id="q" type="search" placeholder="Search markets, festivals, places…" autocomplete="off" enterkeyhint="search" spellcheck="false">
+        </label>
+        <button type="button" class="chip" id="weekend" aria-pressed="false">This weekend</button>
+        <button type="button" class="chip" id="open-filters" aria-haspopup="dialog">
+          <svg class="icon" aria-hidden="true"><use href="#i-tune"/></svg>Filters<span class="count" id="filter-count"></span>
+        </button>
+      </div>
+    </div>
+
+    <p id="notice" class="notice" hidden></p>
+    <div id="list" class="list" aria-live="polite" aria-busy="true">
+      <p class="empty">Loading events…</p>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <p id="updated"></p>
+      <details id="where">
+        <summary>Where these come from</summary>
+        <p id="sources"></p>
+      </details>
+      <p>No accounts, ads or tracking. Your stars and filters are kept in this browser only. Event photos load from the sites that list them.</p>
+      <p class="links">
+        <a href="../">About Seattle Happenings</a>
+        <a href="https://play.google.com/store/apps/details?id=com.nicholaston.happenings" target="_blank" rel="noopener">Get the Android app</a>
+        <a href="https://nichkt.github.io/seattle-happenings-privacy/" target="_blank" rel="noopener">Privacy policy</a>
+        <a href="mailto:nichkt@gmail.com">Contact</a>
+      </p>
+    </div>
+  </footer>
+
+  <dialog id="details" class="sheet" aria-labelledby="d-title">
+    <div class="sheet-body" id="details-body"></div>
+  </dialog>
+
+  <dialog id="add" class="sheet small" aria-labelledby="add-title">
+    <div class="sheet-body">
+      <div class="sheet-head">
+        <h2 id="add-title">Add to calendar</h2>
+        <button type="button" class="icon-button" data-close aria-label="Close"><svg class="icon" aria-hidden="true"><use href="#i-close"/></svg></button>
+      </div>
+      <p class="add-what" id="add-what"></p>
+      <div class="add-list" id="add-list"></div>
+      <p class="fine">Other calendars, like Samsung's, Proton's or Thunderbird: download the event file and open it.</p>
+    </div>
+  </dialog>
+
+  <dialog id="filters" class="sheet small" aria-labelledby="filters-title">
+    <form class="sheet-body" method="dialog" id="filters-form">
+      <div class="sheet-head">
+        <h2 id="filters-title">Filters</h2>
+        <button type="button" class="icon-button" data-close aria-label="Close"><svg class="icon" aria-hidden="true"><use href="#i-close"/></svg></button>
+      </div>
+      <fieldset>
+        <legend>Areas</legend>
+        <div id="f-regions" class="checks"></div>
+      </fieldset>
+      <fieldset>
+        <legend>Kinds of events</legend>
+        <div id="f-categories" class="checks"></div>
+      </fieldset>
+      <fieldset>
+        <legend>Leave out</legend>
+        <div class="checks">
+          <label class="check"><input type="checkbox" id="f-paid"><span>Events that aren't free<small>Ones that don't say what they cost still show</small></span></label>
+          <label class="check"><input type="checkbox" id="f-kids"><span>Events for kids<small>Storytimes, kids' carnivals and the like. Family festivals still show</small></span></label>
+          <label class="check"><input type="checkbox" id="f-politics"><span>Political events<small>Protests, rallies, campaign events. Parades and celebrations still show</small></span></label>
+        </div>
+      </fieldset>
+      <p class="fine">Starred events always show.</p>
+      <div class="sheet-actions">
+        <button type="button" class="button quiet" id="f-reset">Reset</button>
+        <button type="submit" class="button">Done</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>

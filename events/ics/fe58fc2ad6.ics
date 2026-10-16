@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe58fc2ad6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:November Native Art Market
+LOCATION:Daybreak Star Indian Cultural Center\, 5011 Bernie Whitebear Way\,
+  Seattle\, WA\, 98199
+DESCRIPTION:The November Native Art Market is back!\n\nhttps://unitedindian
+ s.org/event/november-native-art-market-2/
+URL:https://unitedindians.org/event/november-native-art-market-2/
+END:VEVENT
+END:VCALENDAR

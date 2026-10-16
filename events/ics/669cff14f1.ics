@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:669cff14f1-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261107T003000Z
+DTEND:20261107T033000Z
+SUMMARY:Friday Family Movie Night at South Park Community Center - Ratatoui
+ lle
+LOCATION:South Park Community Center\, WA
+DESCRIPTION:Parks Event Category: Community Center Special Events Neighborh
+ oods: South Park Community Center: South Park Community Center Contact: So
+ uth Park Community…\n\nhttps://www.seattle.gov/event-calendar?trumbaEmbe
+ d=view%3Devent%26eventid%3D210700763
+URL:https://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26event
+ id%3D210700763
+END:VEVENT
+END:VCALENDAR

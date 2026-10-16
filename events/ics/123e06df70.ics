@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:123e06df70-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261205T220000Z
+DTEND:20261205T233000Z
+SUMMARY:Christmas Ship Viewing at Ferdinand Street Park
+LOCATION:Ferdinand Street Boat Launch\, 5018 Lake Washington Blvd S.\, Seat
+ tle\, WA\, 98118
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-ferdinand-stre
+ et-park/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-ferdinand-str
+ eet-park/
+END:VEVENT
+END:VCALENDAR

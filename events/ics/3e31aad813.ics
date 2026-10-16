@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3e31aad813-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261205T220000Z
+DTEND:20261206T030000Z
+SUMMARY:Kent Tree Lighting and Parade
+LOCATION:Town Square Plaza\, Second Ave. and Harrison St.\, Kent\, WA\, 980
+ 32
+DESCRIPTION:Pack up the family and meet us at Town Square Plaza (2nd Ave & 
+ Smith St) on Saturday\, December 5 for the annual Tree Lighting Festival &
+  Parade.\n\nhttps://www.parentmap.com/calendar/kent-tree-lighting-and-para
+ de/
+URL:https://www.parentmap.com/calendar/kent-tree-lighting-and-parade/
+END:VEVENT
+END:VCALENDAR

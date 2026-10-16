@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:27bd63ef9a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261025T000000Z
+DTEND:20261025T030000Z
+SUMMARY:Treat Street at Kirkland Urban
+LOCATION:Kirkland Urban\, 425 Urban Plaza\, Kirkland\, WA\, 98033
+DESCRIPTION:Get Ready for a Spooktacular Time at Kirkland Urban!\n\nhttps:/
+ /www.parentmap.com/calendar/treat-street-kirkland-urban-0/
+URL:https://www.parentmap.com/calendar/treat-street-kirkland-urban-0/
+END:VEVENT
+END:VCALENDAR

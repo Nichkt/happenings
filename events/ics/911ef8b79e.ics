@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:911ef8b79e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261105T180000Z
+DTEND:20261106T050000Z
+SUMMARY:SAM Día de los Muertos Community Celebration
+LOCATION:Seattle Art Museum\, 1300 1st Ave\, Seattle\, WA\, 98101-2003
+DESCRIPTION:Join us as we celebrate Día de los Muertos at Seattle Art Muse
+ um on Free First Thursday!\n\nhttps://www.parentmap.com/calendar/47922/
+URL:https://www.parentmap.com/calendar/47922/
+END:VEVENT
+END:VCALENDAR

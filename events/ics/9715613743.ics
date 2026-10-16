@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9715613743-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261028T230000Z
+DTEND:20261029T000000Z
+SUMMARY:Celebrate Hispanic Heritage Month with The TurnUps!
+LOCATION:Renton Highlands Library\, 2801 NE 10th Street\, Renton\, WA\, 980
+ 56
+DESCRIPTION:Join us for an energetic\, bilingual music and movement experie
+ nce featuring interactive songs\, dancing\, and family-friendly fun.\n\nht
+ tps://www.parentmap.com/calendar/celebrate-hispanic-heritage-month-with-th
+ e-turnups/2026-10-28/
+URL:https://www.parentmap.com/calendar/celebrate-hispanic-heritage-month-wi
+ th-the-turnups/2026-10-28/
+END:VEVENT
+END:VCALENDAR

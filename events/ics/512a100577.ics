@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:512a100577-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:October Weekends at Jubilee Harvest Festival
+LOCATION:Jubilee Farm\, 229 W Snoqualmie River Rd NE\, Carnation\, WA\, 980
+ 14-8002
+DESCRIPTION:Hours: 10 AM–5 PM\n\nThis might be our favorite season of the
+  whole year.\n\nhttps://www.parentmap.com/calendar/october-weekends-jubile
+ e-harvest-festival/2026-10-17/
+URL:https://www.parentmap.com/calendar/october-weekends-jubilee-harvest-fes
+ tival/2026-10-17/
+END:VEVENT
+END:VCALENDAR

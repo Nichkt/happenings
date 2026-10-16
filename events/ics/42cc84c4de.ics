@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:42cc84c4de-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261018T190000Z
+DTEND:20261018T230000Z
+SUMMARY:Walk’n Wag Harvest at Lake Sammamish State Park
+LOCATION:Lake Sammamish State Park\, 2000 NW Sammamish Rd\, Issaquah\, WA\,
+  98027
+DESCRIPTION:Cooling temperatures and smaller crowds are a great indication 
+ of the harvest season\, which FLSSP will celebrate this year with Walk n W
+ ag Harvest.\n\nhttps://www.parentmap.com/calendar/walkn-wag-harvest-at-lak
+ e-sammamish-state-park/
+URL:https://www.parentmap.com/calendar/walkn-wag-harvest-at-lake-sammamish-
+ state-park/
+END:VEVENT
+END:VCALENDAR

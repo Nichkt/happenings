@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb3a500fda-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261205T013000Z
+DTEND:20261205T033000Z
+SUMMARY:Light Up the Night: Annual Saint Lucia Festival
+LOCATION:Harbor History Museum\, 4121 Haborview Dr\, Gig Harbor\, WA\, 9833
+ 2
+DESCRIPTION:Once again we’ll light the night with our annual St.\n\nhttps
+ ://www.parentmap.com/calendar/light-night-annual-saint-lucia-festival/
+URL:https://www.parentmap.com/calendar/light-night-annual-saint-lucia-festi
+ val/
+END:VEVENT
+END:VCALENDAR

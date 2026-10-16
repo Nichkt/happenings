@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:83cb988b26-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+SUMMARY:Lake Stevens Winterfest
+LOCATION:North Cove Park\, 1806 Main St\, Lake Stevens\, WA\, 98258
+DESCRIPTION:Join the City for festive fun on Saturday\, December 12\, 4:00 
+ PM – 7:00 PM at North Cove Park for the 9th annual WinterFest.\n\nhttps:
+ //www.parentmap.com/calendar/lake-stevens-winterfest/
+URL:https://www.parentmap.com/calendar/lake-stevens-winterfest/
+END:VEVENT
+END:VCALENDAR

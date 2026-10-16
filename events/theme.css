@@ -1,0 +1,39 @@
+/* Seattle's colours, from the landing page: Puget Sound blues with festival-light amber. */
+:root {
+  --brand: #1b5e73;
+  --brand-strong: #0d3b49;
+  --brand-deep: #082c36;
+  --brand-soft: #dceef4;
+  --on-brand: #ffffff;
+  --accent: #ffbe5c;
+  --accent-2: #ff8a66;
+  --sky: #c3e8f5;
+  --ink: #172124;
+  --muted: #556165;
+  --bg: #f7f3ec;
+  --bg-deep: #ece5db;
+  --card: #fffdf9;
+  --line: rgba(23, 33, 36, 0.14);
+  --shadow: 0 10px 30px rgba(16, 44, 52, 0.09);
+  --new: #e2603f;
+  --star: #e09a1f;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --brand: #8ccfe6;
+    --brand-strong: #c3e8f5;
+    --brand-deep: #082c36;
+    --brand-soft: #173f4c;
+    --on-brand: #082c36;
+    --ink: #e8eef0;
+    --muted: #a3b3b8;
+    --bg: #0e191d;
+    --bg-deep: #0a1316;
+    --card: #15242a;
+    --line: rgba(232, 238, 240, 0.14);
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    --new: #ff8a66;
+    --star: #ffbe5c;
+  }
+}

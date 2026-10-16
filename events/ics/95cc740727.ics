@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:95cc740727-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T170000Z
+DTEND:20261017T210000Z
+SUMMARY:Duwamish Alive! Saving Our Salmon Saves Our Orca
+LOCATION:4600 W Marginal Way SW\, Seattle\, WA 98106
+DESCRIPTION:Join Duwamish Alive!\n\nhttps://www.parentmap.com/calendar/duwa
+ mish-alive-celebrate-salmon-homecoming-saturday/
+URL:https://www.parentmap.com/calendar/duwamish-alive-celebrate-salmon-home
+ coming-saturday/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:21265f7b94-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261205T230000Z
+DTEND:20261206T020000Z
+SUMMARY:Snoqualmie Winter Lights Tree Lighting
+LOCATION:Railroad Park\, 7971 Railroad Ave S.E.\, Snoqualmie\, WA\, 98065
+DESCRIPTION:From Thanksgiving through New Year’s Day\, Snoqualmie lights 
+ up with festive cheer.\n\nhttps://www.parentmap.com/calendar/snoqualmie-wi
+ nter-lights-tree-lighting/
+URL:https://www.parentmap.com/calendar/snoqualmie-winter-lights-tree-lighti
+ ng/
+END:VEVENT
+END:VCALENDAR

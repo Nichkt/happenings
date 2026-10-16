@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6c0bb07f8d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T170000Z
+DTEND:20261017T210000Z
+SUMMARY:Delridge Farmers Market
+LOCATION:8855 9th Ave SW\, Seattle WA 98106
+DESCRIPTION:Neighborhoods: Delridge/North Delridge\,Highland Park Audience:
+  Adults\,All\,Children\,Family\,Pets\,Senior\,Special Needs\,Teen Contact:
+  Indra Budiman Pre-Register:…\n\nhttps://www.seattle.gov/event-calendar?
+ trumbaEmbed=view%3Devent%26eventid%3D203367773
+URL:https://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26event
+ id%3D203367773
+END:VEVENT
+END:VCALENDAR

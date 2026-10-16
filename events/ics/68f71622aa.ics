@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68f71622aa-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261107T200000Z
+DTEND:20261108T020000Z
+SUMMARY:Diwali: Lights of India
+LOCATION:Armory Food & Event Hall\, 305 Harrison St\, Seattle\, WA\, 98109
+DESCRIPTION:Diwali: Lights of India will take place November 7\, 2026 in th
+ e Armory Food & Event Hall.\n\nhttps://nwasianweekly.com/community-calenda
+ r/diwali-lights-of-india-2/
+URL:https://nwasianweekly.com/community-calendar/diwali-lights-of-india-2/
+END:VEVENT
+END:VCALENDAR

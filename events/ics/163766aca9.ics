@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:163766aca9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T200000Z
+DTEND:20261102T013000Z
+SUMMARY:Día de los Muertos Celebtration Raíces que Nos Unen | Roots That 
+ Unite Us
+LOCATION:El Centro de la Raza\, 2524 16th Ave S\, Seattle\, WA\, 98144
+DESCRIPTION:@ El Día de los Muertos (The Day of the Dead) is a time to rem
+ ember and honor those who have passed.\n\nhttps://www.elcentrodelaraza.org
+ /event/dia-de-los-muertos-celebtration-raices-que-nos-unen-roots-that-unit
+ e-us/
+URL:https://www.elcentrodelaraza.org/event/dia-de-los-muertos-celebtration-
+ raices-que-nos-unen-roots-that-unite-us/
+END:VEVENT
+END:VCALENDAR

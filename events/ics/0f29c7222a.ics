@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0f29c7222a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Luckie Farms Pumpkin Smash with Highland Cows
+LOCATION:Luckie Farms\, 930 Sunnyside Blvd\, Lake Stevens\, WA\, 98258
+DESCRIPTION:Hours: 10 AM–6 PM\n\nBring your Halloween pumpkin to the farm
+  and smash it for our Highland cows!\n\nhttps://www.parentmap.com/calendar
+ /luckie-farms-pumpkin-smash-with-highland-cows/2026-11-01/
+URL:https://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-high
+ land-cows/2026-11-01/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2562e57e2a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:Trick or Treat Mini Print Crawl
+DESCRIPTION:Trick-or-treating gets a creative twist this Halloween — coll
+ ect tiny art instead of candy.\n\nhttps://www.visitballard.com/event/trick
+ -or-treat-mini-print-crawl/
+URL:https://www.visitballard.com/event/trick-or-treat-mini-print-crawl/
+END:VEVENT
+END:VCALENDAR

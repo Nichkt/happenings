@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:816f7a7f7a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T160000Z
+DTEND:20261031T230000Z
+SUMMARY:Spooktacular! at Kidsquest
+LOCATION:KidsQuest Children’s Museum\, 1116 108th Ave NE\, Bellevue\, WA\
+ , 98004
+DESCRIPTION:Giddy up for a rootin’-tootin’ Halloween celebration!\n\nht
+ tps://www.parentmap.com/calendar/halloween-hangover/
+URL:https://www.parentmap.com/calendar/halloween-hangover/
+END:VEVENT
+END:VCALENDAR

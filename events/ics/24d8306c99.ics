@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:24d8306c99-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261025
+TRANSP:TRANSPARENT
+SUMMARY:Trick or Tree: Glow-In-The-Dark Candy Egg Hunt
+LOCATION:Olmsted Tree Farms\, 17526 Clear Creek RD NW\, Poulsbo\, WA\, 9837
+ 0
+DESCRIPTION:Hours: 5:30–9 PM\n\nA One-Of-A-Kind Event!\n\nhttps://www.par
+ entmap.com/calendar/trick-or-tree-glow-dark-candy-egg-hunt/2026-10-23/
+URL:https://www.parentmap.com/calendar/trick-or-tree-glow-dark-candy-egg-hu
+ nt/2026-10-23/
+END:VEVENT
+END:VCALENDAR

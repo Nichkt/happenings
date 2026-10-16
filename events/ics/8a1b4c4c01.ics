@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a1b4c4c01-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261219T010000Z
+DTEND:20261219T030000Z
+SUMMARY:The Great Gingerbread Bash
+LOCATION:Hiawatha Community Center\, 2700 California Ave SW\, Seattle\, WA\
+ , 98116-2451
+DESCRIPTION:Get ready for a festive\, family-friendly celebration at Hiawat
+ ha Community Center!\n\nhttps://www.parentmap.com/calendar/the-great-ginge
+ rbread-bash/
+URL:https://www.parentmap.com/calendar/the-great-gingerbread-bash/
+END:VEVENT
+END:VCALENDAR

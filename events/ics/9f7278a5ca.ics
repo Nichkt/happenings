@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9f7278a5ca-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261206T000000Z
+SUMMARY:Holiday Cookie Crawl
+LOCATION:Downtown Burien\, WA
+DESCRIPTION:Holiday Cookie Crawl Family fun strolling through Downtown Buri
+ en collecting sweet holiday treats and enjoying the festive spirit of the 
+ season!\n\nhttps://www.discoverburien.org/calendar/2025/cookie-crawl
+URL:https://www.discoverburien.org/calendar/2025/cookie-crawl
+END:VEVENT
+END:VCALENDAR

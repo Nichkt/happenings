@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af92652434-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261204T010000Z
+DTEND:20261204T023000Z
+SUMMARY:Christmas Ship Viewing at Pritchard Island Beach
+LOCATION:Pritchard Island Beach\, 8400 55th Ave S\, Seattle\, WA\, 98118
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/55336/
+URL:https://www.parentmap.com/calendar/55336/
+END:VEVENT
+END:VCALENDAR

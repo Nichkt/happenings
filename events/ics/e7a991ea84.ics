@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e7a991ea84-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T180000Z
+DTEND:20261017T220000Z
+SUMMARY:CAToberfest
+LOCATION:Renton Technical College\, 3000 NE 4th St\, Renton\, WA\, 98056
+DESCRIPTION:Celebrate felines at this annual event\, sponsored by South Cou
+ nty Cats.\n\nhttps://www.parentmap.com/calendar/catoberfest/
+URL:https://www.parentmap.com/calendar/catoberfest/
+END:VEVENT
+END:VCALENDAR

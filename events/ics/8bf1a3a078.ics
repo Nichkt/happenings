@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8bf1a3a078-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261213T040000Z
+DTEND:20261213T054500Z
+SUMMARY:Christmas Ship Viewing at Meydenbauer Bay Park
+LOCATION:Meydenbauer Bay Park\, 9899 Lake Washington Blvd NE\, Bellevue\, W
+ A\, 98004
+DESCRIPTION:Join us on shore to welcome the Christmas Ship Festival present
+ ed by Argosy Cruises.\n\nhttps://www.parentmap.com/calendar/christmas-ship
+ -viewing-meydenbauer-bay-park/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-meydenbauer-b
+ ay-park/
+END:VEVENT
+END:VCALENDAR

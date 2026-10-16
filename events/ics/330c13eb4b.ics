@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:330c13eb4b-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261212T220000Z
+DTEND:20261212T233000Z
+SUMMARY:Christmas Ship Viewing at Medina Beach Park
+LOCATION:Medina Beach Park\, 501 Evergreen Point Rd\, Medina\, WA\, 98039
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-medina-beach-p
+ ark/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-medina-beach-
+ park/
+END:VEVENT
+END:VCALENDAR

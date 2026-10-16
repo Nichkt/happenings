@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f896b97b2f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T163000Z
+DTEND:20261031T220000Z
+SUMMARY:Pumpkin Bash at Woodland Park Zoo
+LOCATION:Woodland Park Zoo\, 5500 Phinney Ave N\, Seattle\, WA\, 98103
+DESCRIPTION:Pumpkin Bash activities are included with zoo admission or memb
+ ership!\n\nhttps://www.parentmap.com/calendar/31798/
+URL:https://www.parentmap.com/calendar/31798/
+END:VEVENT
+END:VCALENDAR

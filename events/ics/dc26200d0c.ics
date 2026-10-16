@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dc26200d0c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+SUMMARY:Seattle Forest Week – Land & Community Days!
+LOCATION:Daybreak Star Indian Cultural Center\, 5011 Bernie Whitebear Way\,
+  Seattle\, WA\, 98199
+DESCRIPTION:Hours: 11 AM–3 PM\n\nJoin us as we gather with neighbors\, fa
+ milies\, and community members to welcome planting season and care for the
+  land together.\n\nhttps://unitedindians.org/event/seattle-forest-week-lan
+ d-community-days/
+URL:https://unitedindians.org/event/seattle-forest-week-land-community-days
+ /
+END:VEVENT
+END:VCALENDAR

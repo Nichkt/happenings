@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e750fb0809-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261128T183000Z
+DTEND:20261128T193000Z
+SUMMARY:FWPAEC Holiday Festival
+LOCATION:Federal Way Performing Arts and Event Center\, 31510 Pete von Reic
+ hbauer Way South\, Federal Way\, WA\, 98003
+DESCRIPTION:The Holiday Festival will bring the community together for a jo
+ yful seasonal celebration featuring the return of the Children’s Entrepr
+ eneur Market’s youth…\n\nhttps://www.parentmap.com/calendar/fwpaec-hol
+ iday-festival/
+URL:https://www.parentmap.com/calendar/fwpaec-holiday-festival/
+END:VEVENT
+END:VCALENDAR

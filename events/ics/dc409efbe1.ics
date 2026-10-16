@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dc409efbe1-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T160000Z
+DTEND:20261017T210000Z
+SUMMARY:Issaquah Goes Apples
+LOCATION:Historic Shell Station & Downtown Issaquah\, 232 Front St N\, Issa
+ quah\, WA\, 98027-3232
+DESCRIPTION:This community event celebrates the harvest season in historic 
+ Downtown Issaquah with a variety of fun activities\, including a Farm Fres
+ h Market\, Historically…\n\nhttps://www.parentmap.com/calendar/54920/
+URL:https://www.parentmap.com/calendar/54920/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:761525e2dd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Seattle Festival of Trees
+LOCATION:Fairmont Olympic Hotel\, 411 University St.\, Seattle\, WA\, 98101
+DESCRIPTION:Hours: 8 AM–9 PM\n\nFor years\, our hotel has been home to a 
+ sparkling tradition—glowing Christmas trees\, each uniquely designed and
+  filled with holiday magic.\n\nhttps://www.parentmap.com/calendar/41635/20
+ 26-11-16/
+URL:https://www.parentmap.com/calendar/41635/2026-11-16/
+END:VEVENT
+END:VCALENDAR

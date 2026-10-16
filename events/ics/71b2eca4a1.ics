@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71b2eca4a1-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261207T000000Z
+DTEND:20261207T013000Z
+SUMMARY:Christmas Ship Viewing at Edmonds Fishing Pier
+LOCATION:Edmonds Fishing Pier\, 200 Admiral Way\, Edmonds\, WA\, 98020
+DESCRIPTION:The Christmas Ship™ Festival is departing from Edmonds!\n\nht
+ tps://www.parentmap.com/calendar/christmas-ship-viewing-edmonds-fishing-pi
+ er/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-edmonds-fishi
+ ng-pier/
+END:VEVENT
+END:VCALENDAR

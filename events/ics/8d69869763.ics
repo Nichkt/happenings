@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d69869763-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261213T010000Z
+DTEND:20261213T023000Z
+SUMMARY:Christmas Ship Viewing at Juanita Beach Park
+LOCATION:Juanita Beach Park\, 9703 NE Juanita Dr\, Kirkland\, WA\, 98034-42
+ 01
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-juanita-beach-
+ park/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-juanita-beach
+ -park/
+END:VEVENT
+END:VCALENDAR

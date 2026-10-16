@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:846b980695-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T190000Z
+DTEND:20261101T220000Z
+SUMMARY:Kenmore Dia de los Muertos Celebration
+LOCATION:Kenmore Hangar\, 6728 NE 181st St\, Kenmore\, WA\, 98028
+DESCRIPTION:You’re invited to the third annual Kenmore Dia de los Muertos
+  Celebration on Sunday\, November 1\, 2026 from 11am – 2pm at the Hangar
+  in Kenmore Town Square.\n\nhttps://www.parentmap.com/calendar/kenmore-dia
+ -de-los-muertos-celebration/
+URL:https://www.parentmap.com/calendar/kenmore-dia-de-los-muertos-celebrati
+ on/
+END:VEVENT
+END:VCALENDAR

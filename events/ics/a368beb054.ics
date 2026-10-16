@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a368beb054-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Little Monsters on Main Street
+LOCATION:Old Bellevue\, Main Street\, Bellevue\, WA\, 98004
+DESCRIPTION:The Old Bellevue Merchants Association invites families\, neigh
+ bors\, and Halloween lovers of all ages to join the annual Little Monsters
+  on Main Street…\n\nhttps://www.parentmap.com/calendar/little-monsters-m
+ ain-street/
+URL:https://www.parentmap.com/calendar/little-monsters-main-street/
+END:VEVENT
+END:VCALENDAR

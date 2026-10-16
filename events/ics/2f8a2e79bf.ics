@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2f8a2e79bf-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T233000Z
+DTEND:20261025T023000Z
+SUMMARY:Trick or Treat at Redmond Community Center at Marymoor Village
+LOCATION:Redmond Community Center at Marymoor Village\, Redmond Community C
+ enter at Marymoor Village - 6505 176th Ave NE Redmond WA 98052
+DESCRIPTION:https://www.redmond.gov/calendar.aspx?EID=3539\n\nhttps://www.r
+ edmond.gov/calendar.aspx?EID=3539
+URL:https://www.redmond.gov/calendar.aspx?EID=3539
+END:VEVENT
+END:VCALENDAR

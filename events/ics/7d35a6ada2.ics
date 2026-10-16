@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7d35a6ada2-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261216T200000Z
+DTEND:20261216T213000Z
+SUMMARY:Winter Holiday Lunch - 50+
+LOCATION:Redmond Senior & Community Center\, Redmond Senior & Community Cen
+ ter - 8703 160th Ave NE Redmond WA 98052
+DESCRIPTION:https://www.redmond.gov/calendar.aspx?EID=3564\n\nhttps://www.r
+ edmond.gov/calendar.aspx?EID=3564
+URL:https://www.redmond.gov/calendar.aspx?EID=3564
+END:VEVENT
+END:VCALENDAR

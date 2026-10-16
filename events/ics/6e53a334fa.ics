@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6e53a334fa-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261115T020000Z
+DTEND:20261115T050000Z
+SUMMARY:Ballard ArtWalk
+DESCRIPTION:a long-standing tradition celebrating and supporting the local 
+ artist community in Ballard since 1997.\n\nhttps://www.visitballard.com/ev
+ ent/ballard-artwalk-2/2026-11-14/
+URL:https://www.visitballard.com/event/ballard-artwalk-2/2026-11-14/
+END:VEVENT
+END:VCALENDAR

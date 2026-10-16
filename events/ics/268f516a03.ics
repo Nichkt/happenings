@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:268f516a03-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261121T210000Z
+DTEND:20261122T010000Z
+SUMMARY:HULLABALOO! A Queer All-Ages Variety Show
+LOCATION:Quest Church\, 1401 NW Leary Way\, Seattle\, 98107
+DESCRIPTION:Step right up\, Seattle!\n\nhttps://www.visitballard.com/event/
+ hullabaloo-a-queer-all-ages-variety-show/
+URL:https://www.visitballard.com/event/hullabaloo-a-queer-all-ages-variety-
+ show/
+END:VEVENT
+END:VCALENDAR

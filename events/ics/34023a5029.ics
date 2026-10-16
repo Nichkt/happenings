@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:34023a5029-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+SUMMARY:Halloween Factoria
+LOCATION:Factoria Mall\, 4089 Factoria Blvd. S.E.\, Bellevue\, WA\, 98004
+DESCRIPTION:“Halloween Factoria\,” a children’s trick or treat\, to b
+ e held Saturday\, October 31st from 2 – 4 PM. During the event\, childre
+ n 12 and under who are dressed in…\n\nhttps://www.parentmap.com/calendar
+ /halloween-factoria/
+URL:https://www.parentmap.com/calendar/halloween-factoria/
+END:VEVENT
+END:VCALENDAR

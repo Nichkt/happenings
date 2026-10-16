@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9254b4b3e8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T210000Z
+DTEND:20261017T230000Z
+SUMMARY:Freeway Estates Community Orchard Cider Fest
+DESCRIPTION:Building/Room #: 6th Ave NE\, just north of NE 60th St - on the
+  west side of I-5 Neighborhoods: Green Lake\,Greenwood/Phinney…\n\nhttps
+ ://freewayestates.org/
+URL:https://freewayestates.org/
+END:VEVENT
+END:VCALENDAR

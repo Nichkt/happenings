@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1811acb36c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T170000Z
+DTEND:20261017T210000Z
+SUMMARY:Bayanihan Fest at Kerry Hall
+LOCATION:Kerry Hall\, 710 E Roy St\, Seattle\, WA\, 98102
+DESCRIPTION:Celebrate Filipino American History Month with Seattle Theatre 
+ Group on October 17 at STG’s Kerry Hall on Capitol Hill in Seattle.\n\nh
+ ttps://www.parentmap.com/calendar/bayanihan-fest-kerry-hall/
+URL:https://www.parentmap.com/calendar/bayanihan-fest-kerry-hall/
+END:VEVENT
+END:VCALENDAR

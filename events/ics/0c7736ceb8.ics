@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0c7736ceb8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T210000Z
+DTEND:20261025T030000Z
+SUMMARY:Boo at the Barn
+LOCATION:Pickering Barn\, 1730 10th Ave NW\, Issaquah\, WA\, 98027
+DESCRIPTION:Get ready for a hauntingly good time: October 24 On Saturday\, 
+ October 24 from 2-8 p.m.\n\nhttps://www.parentmap.com/calendar/boo-barn/
+URL:https://www.parentmap.com/calendar/boo-barn/
+END:VEVENT
+END:VCALENDAR

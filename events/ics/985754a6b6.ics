@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:985754a6b6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261222T040000Z
+DTEND:20261222T054500Z
+SUMMARY:Christmas Ship Viewing at Luther Burbank Park
+LOCATION:Luther Burbank Park\, 2040 84th Ave SE\, Mercer Island\, WA\, 9804
+ 0-2222
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-luther-burbank
+ -park/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-luther-burban
+ k-park/
+END:VEVENT
+END:VCALENDAR

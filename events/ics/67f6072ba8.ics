@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67f6072ba8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:Fall Festival and Pumpkin Patch
+LOCATION:Kiddie Academy of Kenmore\, 7800 NE Bothell Way\, Kenmore\, WA\, 9
+ 8028
+DESCRIPTION:Life is gourd\, but it’s even better when we’re together!\n
+ \nhttps://www.parentmap.com/calendar/fall-festival-and-pumpkin-patch/
+URL:https://www.parentmap.com/calendar/fall-festival-and-pumpkin-patch/
+END:VEVENT
+END:VCALENDAR

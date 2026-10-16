@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab23e92694-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261107T220000Z
+DTEND:20261108T010000Z
+SUMMARY:Dia De Los Muertos
+LOCATION:Phinney Center Campus\, 6532 Phinney Ave. N.\, Seattle\, WA\, 9810
+ 3
+DESCRIPTION:This Mexican holiday honors the deceased with a cultural extrav
+ aganza filled with food\, drink\, and festivities.\n\nhttps://www.phinneyc
+ enter.org/event/dia-de-los-muertos/
+URL:https://www.phinneycenter.org/event/dia-de-los-muertos/
+END:VEVENT
+END:VCALENDAR

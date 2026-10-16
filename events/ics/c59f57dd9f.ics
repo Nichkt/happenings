@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c59f57dd9f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Arts at the Armory
+LOCATION:Tacoma Armory – Tacoma Arts Live\, 1001 S. Yakima Ave.\, Tacoma\
+ , WA\, 98405
+DESCRIPTION:Hours: 11 AM–5 PM\n\nArts at the Armory is proud to be return
+ ing to the Tacoma Armory for our 6th year.\n\nhttps://www.parentmap.com/ca
+ lendar/arts-armory/2026-11-14/
+URL:https://www.parentmap.com/calendar/arts-armory/2026-11-14/
+END:VEVENT
+END:VCALENDAR

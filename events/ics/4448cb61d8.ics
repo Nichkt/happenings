@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4448cb61d8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261107T020000Z
+DTEND:20261107T060000Z
+SUMMARY:Powering Inclusion: A Night Out with PROVAIL
+LOCATION:Victory Hall at the Boxyard\, 1201 1st Ave S\, Seattle\, WA\, 9813
+ 4
+DESCRIPTION:Powering Inclusion will be an opportunity to mingle with commun
+ ity members\, advocates\, and leaders to celebrate a shared commitment to 
+ what’s possible for…\n\nhttps://www.parentmap.com/calendar/powering-in
+ clusion-a-night-out-with-provail/
+URL:https://www.parentmap.com/calendar/powering-inclusion-a-night-out-with-
+ provail/
+END:VEVENT
+END:VCALENDAR

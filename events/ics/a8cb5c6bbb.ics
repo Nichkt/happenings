@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a8cb5c6bbb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+SUMMARY:Día de los Muertos Festival at the Outlet Collection
+LOCATION:The Outlet Collection | Seattle\, 1101 Outlet Collection Way\, Aub
+ urn\, WA\, 98001
+DESCRIPTION:Hours: 10 AM–7 PM\n\nDía de los Muertos: “Remember Me” O
+ ctober 30–November 1 | 10 a.m.–7 p.m.\n\nhttps://www.parentmap.com/cal
+ endar/dia-de-los-muertos-festival-outlet-collection/2026-10-30/
+URL:https://www.parentmap.com/calendar/dia-de-los-muertos-festival-outlet-c
+ ollection/2026-10-30/
+END:VEVENT
+END:VCALENDAR

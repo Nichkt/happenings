@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f839ba17f5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T170000Z
+DTEND:20261018T000000Z
+SUMMARY:Pumpkin Plunge
+LOCATION:Federal Way Community Center\, 876 S 333rd St\, Federal Way\, WA\,
+  98003-6343
+DESCRIPTION:Pre-Registration will be required!\n\nhttps://www.parentmap.com
+ /calendar/pumpkin-plunge/
+URL:https://www.parentmap.com/calendar/pumpkin-plunge/
+END:VEVENT
+END:VCALENDAR

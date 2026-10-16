@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b9568ca75-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T190000Z
+DTEND:20261024T214500Z
+SUMMARY:The Great Si View Spooktacular
+LOCATION:Si View Community Center\, Si View Community Center - 400 SE Orcha
+ rd Dr North Bend WA 98045
+DESCRIPTION:Si View Metro Parks invites you to the Great Si View Spooktacul
+ ar\, with a fun spooky Haunted House\, fun Halloween themed games and acti
+ vities\, pumpkin…\n\nhttps://www.northbendwa.gov/m/calendar/event/detail
+ /4742
+URL:https://www.northbendwa.gov/m/calendar/event/detail/4742
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:df7eb723fd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Snow Globe at Pacific Place
+LOCATION:Pacific Place\, 600 Pine St.\, Seattle\, WA\, 98101
+DESCRIPTION:Hours: 11 AM–9 PM\n\nCelebrate the season with a new downtown
+  Seattle holiday tradition!\n\nhttps://www.parentmap.com/calendar/snow-glo
+ be-at-pacific-place/2026-12-04/
+URL:https://www.parentmap.com/calendar/snow-globe-at-pacific-place/2026-12-
+ 04/
+END:VEVENT
+END:VCALENDAR

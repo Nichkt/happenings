@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c5f23033e9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T180000Z
+DTEND:20261017T230000Z
+SUMMARY:Diwali Family Festival at SAAM
+LOCATION:Seattle Asian Art Museum\, 1400 E. Prospect St.\, Seattle\, WA\, 9
+ 8112
+DESCRIPTION:Join us in celebrating Diwali\, the Festival of Lights!\n\nhttp
+ s://www.parentmap.com/calendar/diwali-family-festival-saam/
+URL:https://www.parentmap.com/calendar/diwali-family-festival-saam/
+END:VEVENT
+END:VCALENDAR

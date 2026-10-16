@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66098e1591-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261224T010000Z
+DTEND:20261224T023000Z
+SUMMARY:Christmas Ship Viewing at Ivar’s Salmon House
+LOCATION:Ivar’s Salmon House\, 401 NE Northlake Way\, Seattle\, WA\, 9810
+ 5
+DESCRIPTION:Witness the grand finale of the Christmas Ship Festival as it a
+ rrives at Ivar’s Salmon House.\n\nhttps://www.parentmap.com/calendar/chr
+ istmas-ship-viewing-ivars-salmon-house/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-ivars-salmon-
+ house/
+END:VEVENT
+END:VCALENDAR

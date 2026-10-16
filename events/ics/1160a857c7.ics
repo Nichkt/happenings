@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1160a857c7-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261117T020000Z
+DTEND:20261117T040000Z
+SUMMARY:Cultural Conversations - Art Meets Culture
+LOCATION:BelRed Arts District Studio\, BelRed Arts District Studio\, 1615 1
+ 33rd Pl NE\, Bellevue\, WA 98005
+DESCRIPTION:Join us for an evening of sharing the universal language of art
+ !\n\nhttps://bellevuewa.gov/events/cultural-conversations-art-meets-cultur
+ e
+URL:https://bellevuewa.gov/events/cultural-conversations-art-meets-culture
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c30cdd5b72-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261222T010000Z
+DTEND:20261222T050000Z
+SUMMARY:Longest Night: Solstice Ceremony
+LOCATION:ARTS at King Street Station\, ARTS at King Street Station\, 303 S.
+  Jackson Street\, Top Floor\, Seattle\, WA 98104
+DESCRIPTION:Event Types: Arts\,Community\,Dance\,Film\,Holiday/Seasonal Eve
+ nts\,Music\,Special Events\,Youth Neighborhoods: Citywide\,Pioneer Square 
+ Contact: Rana San Contact…\n\nhttps://www.seattle.gov/event-calendar?tru
+ mbaEmbed=view%3Devent%26eventid%3D206638345
+URL:https://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26event
+ id%3D206638345
+END:VEVENT
+END:VCALENDAR

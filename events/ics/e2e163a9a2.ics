@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2e163a9a2-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261129T180000Z
+DTEND:20261130T000000Z
+SUMMARY:LoveOly WinterFest
+LOCATION:Downtown Olympia\, Corner of 5th Ave. & Washington St\, Olympia\, 
+ WA\, 98501
+DESCRIPTION:We are excited to welcome back Downtown for the Holidays.\n\nht
+ tps://www.parentmap.com/calendar/loveoly-winterfest/
+URL:https://www.parentmap.com/calendar/loveoly-winterfest/
+END:VEVENT
+END:VCALENDAR

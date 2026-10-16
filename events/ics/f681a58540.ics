@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f681a58540-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261106T020000Z
+DTEND:20261106T040000Z
+SUMMARY:Diwali Festival of Lights
+LOCATION:Rosehill Community Center - Mukilteo
+DESCRIPTION:https://www.mukilteowa.gov/calendar.aspx?EID=1063\n\nhttps://ww
+ w.mukilteowa.gov/calendar.aspx?EID=1063
+URL:https://www.mukilteowa.gov/calendar.aspx?EID=1063
+END:VEVENT
+END:VCALENDAR

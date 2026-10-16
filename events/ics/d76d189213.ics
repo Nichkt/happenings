@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d76d189213-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Community Holiday Party
+LOCATION:Garfield Community Center\, 2323 E Cherry St\, Seattle\, WA\, 9812
+ 2-4829
+DESCRIPTION:Celebrate the season’s many wonders with your neighbors and f
+ riends!\n\nhttps://www.parentmap.com/calendar/community-holiday-party/
+URL:https://www.parentmap.com/calendar/community-holiday-party/
+END:VEVENT
+END:VCALENDAR

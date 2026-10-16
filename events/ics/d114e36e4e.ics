@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d114e36e4e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Winterfest Campus Lighting
+LOCATION:Seattle Center Campus\, 305 Harrison Street\, Seattle\, WA\, 98109
+DESCRIPTION:Hours: 5–9 PM\n\nWe are keeping the annual tradition of decki
+ ng out our campus alive with twinkling lights in the trees and other speci
+ alty light features across the grounds.\n\nhttps://www.parentmap.com/calen
+ dar/winterfest-campus-lighting/2026-11-27/
+URL:https://www.parentmap.com/calendar/winterfest-campus-lighting/2026-11-2
+ 7/
+END:VEVENT
+END:VCALENDAR

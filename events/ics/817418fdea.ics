@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:817418fdea-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T010000Z
+DTEND:20261101T040000Z
+SUMMARY:Ballard Boo! Bash Halloween Party
+LOCATION:Center for Spiritual Living Ballard\, 2007 NW 61st St\, Seattle\, 
+ 98107
+DESCRIPTION:Get ready for Ballard’s ultimate neighborhood Halloween gathe
+ ring!\n\nhttps://www.visitballard.com/event/ballard-boo-bash-halloween-par
+ ty/
+URL:https://www.visitballard.com/event/ballard-boo-bash-halloween-party/
+END:VEVENT
+END:VCALENDAR

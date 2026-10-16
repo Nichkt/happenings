@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:91a45cad9e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261205T023000Z
+DTEND:20261205T043000Z
+SUMMARY:Winterfest Movie Night
+LOCATION:Seattle Center Armory\, 305 Harrison Street\, Seattle\, WA\, 98109
+DESCRIPTION:Join us at 6:30pm on Friday nights during Winterfest for free h
+ oliday film screenings in the Armory.\n\nhttps://www.parentmap.com/calenda
+ r/winterfest-movie-night/2026-12-04/
+URL:https://www.parentmap.com/calendar/winterfest-movie-night/2026-12-04/
+END:VEVENT
+END:VCALENDAR

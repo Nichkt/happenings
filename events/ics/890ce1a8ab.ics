@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:890ce1a8ab-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:Red Barn Farm Fall Festival
+LOCATION:The Red Barn Farm\, 5703 208th Ave NE\, Redmond\, WA\, 98053
+DESCRIPTION:Hours: 10 AM–4 PM\n\nFall is just around the corner\, and tha
+ t means it’s time for our favorite tradition of the year!\n\nhttps://www
+ .parentmap.com/calendar/red-barn-farm-fall-festival/2026-10-17/
+URL:https://www.parentmap.com/calendar/red-barn-farm-fall-festival/2026-10-
+ 17/
+END:VEVENT
+END:VCALENDAR

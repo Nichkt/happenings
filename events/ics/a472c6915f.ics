@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a472c6915f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+TRANSP:TRANSPARENT
+SUMMARY:Oxtober Fall Festival
+LOCATION:Oxbow Farm & Conservation Center\, 10819 Carnation-Duvall Rd. N..E
+ \, Carnation\, WA\, 98014-9514
+DESCRIPTION:Hours: 10 AM–4 PM\n\nNestled among Oxbow’s organic farm fie
+ lds and forest trails\, Oxtober is a place where the beauty of the changin
+ g season truly shines.\n\nhttps://www.parentmap.com/calendar/33316/2026-10
+ -24/
+URL:https://www.parentmap.com/calendar/33316/2026-10-24/
+END:VEVENT
+END:VCALENDAR

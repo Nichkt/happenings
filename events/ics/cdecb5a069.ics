@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdecb5a069-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+SUMMARY:Halloween Spooktacular at the Landing
+LOCATION:The Landing\, 828 North 10th Place\, Renton\, WA\, 98057
+DESCRIPTION:Something spooky this way comes!\n\nhttps://www.parentmap.com/c
+ alendar/halloween-spooktacular-landing/
+URL:https://www.parentmap.com/calendar/halloween-spooktacular-landing/
+END:VEVENT
+END:VCALENDAR

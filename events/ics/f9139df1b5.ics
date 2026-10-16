@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f9139df1b5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T180000Z
+DTEND:20261101T033000Z
+SUMMARY:Kirkland Catrina Walk
+LOCATION:Kirkland Marina Park\, 25 Lakeshore Plaza Dr\, Kirkland\, WA\, 980
+ 33
+DESCRIPTION:Kirkland Catrina Walk 2026 is a family-friendly Día de Muertos
+  cultural celebration presented by Mundo Catrina at Marina Park in Kirklan
+ d.\n\nhttps://www.parentmap.com/calendar/kirkland-catrina-walk/
+URL:https://www.parentmap.com/calendar/kirkland-catrina-walk/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:44fe9fb985-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261107T190000Z
+DTEND:20261108T040000Z
+SUMMARY:Veterans Gourd Dance and Powwow
+LOCATION:Daybreak Star Indian Cultural Center\, 5011 Bernie Whitebear Way\,
+  Seattle\, WA\, 98199
+DESCRIPTION:Join us on Saturday\, November 7\, 2026\, at Daybreak Star Indi
+ an Cultural Center for a day of honoring Native veterans\, celebrating cul
+ ture\, and strengthening…\n\nhttps://unitedindians.org/event/veterans-go
+ urd-dance-and-powwow/
+URL:https://unitedindians.org/event/veterans-gourd-dance-and-powwow/
+END:VEVENT
+END:VCALENDAR

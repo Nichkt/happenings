@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:45a6c95bb6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261206T020000Z
+SUMMARY:Snoqualmie Winter Market
+LOCATION:HIstoric Downtown Snoqualmie Snoqualmie
+DESCRIPTION:Outdoor holiday market\, shop for artisan gifts\, festive goodi
+ es\, and holiday cheer.\n\nhttps://www.snoqualmiewa.gov/calendar.aspx?EID=
+ 3427
+URL:https://www.snoqualmiewa.gov/calendar.aspx?EID=3427
+END:VEVENT
+END:VCALENDAR

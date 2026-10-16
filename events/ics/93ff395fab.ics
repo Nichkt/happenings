@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:93ff395fab-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T160000Z
+DTEND:20261024T165000Z
+SUMMARY:My First Halloween Party at My Gym Kent
+LOCATION:My Gym Kent\, 24030 132nd Ave SE\, Kent\, WA\, 98042
+DESCRIPTION:Celebrate your baby’s 1st Halloween at My Gym Kent!\n\nhttps:
+ //www.parentmap.com/calendar/my-first-halloween-party-at-my-gym-kent/2026-
+ 10-24/
+URL:https://www.parentmap.com/calendar/my-first-halloween-party-at-my-gym-k
+ ent/2026-10-24/
+END:VEVENT
+END:VCALENDAR

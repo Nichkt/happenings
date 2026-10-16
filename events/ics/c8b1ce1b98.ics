@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c8b1ce1b98-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:Remlinger Farms Fall Harvest Festival
+LOCATION:Remlinger Farms\, 32610 NE 32nd St\, Carnation\, WA\, 98014-6104
+DESCRIPTION:Hours: 10 AM–6 PM\n\nOpening weekend is Saturday\, September 
+ 26.\n\nhttps://www.parentmap.com/calendar/remlinger-farms-fall-harvest-fes
+ tival-0-s2/2026-10-16/
+URL:https://www.parentmap.com/calendar/remlinger-farms-fall-harvest-festiva
+ l-0-s2/2026-10-16/
+END:VEVENT
+END:VCALENDAR

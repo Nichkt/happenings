@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:52e1d230de-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261019T000000Z
+DTEND:20261019T033000Z
+SUMMARY:Seattle Astronomical Society Annual Celebration
+LOCATION:The Mountaineers Club\, 7700 Sand Point Way NE\, Seattle\, WA\, 98
+ 115
+DESCRIPTION:Spend an evening with Seattle’s stargazing community.\n\nhttp
+ s://www.parentmap.com/calendar/seattle-astronomical-society-annual-celebra
+ tion/
+URL:https://www.parentmap.com/calendar/seattle-astronomical-society-annual-
+ celebration/
+END:VEVENT
+END:VCALENDAR

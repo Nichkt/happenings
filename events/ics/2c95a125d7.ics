@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2c95a125d7-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T180000Z
+DTEND:20261031T210000Z
+SUMMARY:Trunk-Or-Treat at Pacific Raceways
+LOCATION:Pacific Raceways\, 31001 144th Ave SE\, Kent\, WA\, 98042
+DESCRIPTION:We are back with our annual Trunk or Treat at Pacific Raceways!
+ \n\nhttps://www.parentmap.com/calendar/race-car-show-and-trunk-or-treat-pa
+ cific-raceways/
+URL:https://www.parentmap.com/calendar/race-car-show-and-trunk-or-treat-pac
+ ific-raceways/
+END:VEVENT
+END:VCALENDAR

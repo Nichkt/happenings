@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:09e8b434ac-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:Bellewood Farms Harvest Festival
+LOCATION:Bellewood Farms\, 6140 Guide Meridian Rd\, Lynden\, WA\, 98264
+DESCRIPTION:Hours: 9 AM–4 PM\n\nIf you love the Fall\, and you love apple
+ s\, you’ll want to visit Bellewood Farms this harvest season.\n\nhttps:/
+ /www.parentmap.com/calendar/bellewood-farms-harvest-festival/2026-10-14/
+URL:https://www.parentmap.com/calendar/bellewood-farms-harvest-festival/202
+ 6-10-14/
+END:VEVENT
+END:VCALENDAR

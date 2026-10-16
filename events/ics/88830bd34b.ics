@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:88830bd34b-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:Seattle Water Lantern Festival
+LOCATION:Seward Park\, 5900 Lake Washington Blvd S\, Seattle\, WA\, 98118-3
+ 008
+DESCRIPTION:Hours: 3:30–7:30 PM\n\nFamilies design their own floating lan
+ tern with a message\, wish\, or drawing\, then launch it together at sunse
+ t as thousands of lights drift across Lake…\n\nhttps://www.parentmap.com
+ /calendar/seattle-water-lantern-festival-0/2026-10-17/
+URL:https://www.parentmap.com/calendar/seattle-water-lantern-festival-0/202
+ 6-10-17/
+END:VEVENT
+END:VCALENDAR

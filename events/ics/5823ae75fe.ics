@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5823ae75fe-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T160000Z
+DTEND:20261101T003000Z
+SUMMARY:Lattin’s Fall Festival
+LOCATION:Lattin’s Country Cider Mill and Farm\, 9402 Rich Rd SE\, Olympia
+ \, WA\, 98501-9558
+DESCRIPTION:Celebrate fall fun at Lattin’s Pumpkin Patch starting Septemb
+ er 26–27 and continuing every weekend in October!\n\nhttps://www.parentm
+ ap.com/calendar/27140-3/2026-10-31/
+URL:https://www.parentmap.com/calendar/27140-3/2026-10-31/
+END:VEVENT
+END:VCALENDAR

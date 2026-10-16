@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:07889aad02-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261111T190000Z
+DTEND:20261112T000000Z
+SUMMARY:Veterans Day Food Drive Train Rides
+LOCATION:Northwest Railway Museum\, 38625 SE King St\, Snoqualmie\, WA\, 98
+ 065
+DESCRIPTION:Celebrate the 100th birthday of Locomotive 11 and Veterans Day 
+ with a train ride.\n\nhttps://www.parentmap.com/calendar/veterans-day-food
+ -drive-train-rides/
+URL:https://www.parentmap.com/calendar/veterans-day-food-drive-train-rides/
+END:VEVENT
+END:VCALENDAR

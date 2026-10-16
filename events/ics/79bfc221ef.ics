@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:79bfc221ef-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261017T170000Z
+DTEND:20261017T200000Z
+SUMMARY:Harvest Fest & PlayGarden Community Reunion
+LOCATION:Seattle Children’s PlayGarden\, 1745 24th Ave S\, Seattle\, WA\,
+  98144-4624
+DESCRIPTION:Join us for a day of Fall festivities at the PlayGarden!\n\nhtt
+ ps://www.parentmap.com/calendar/harvest-fest-playgarden-community-reunion/
+URL:https://www.parentmap.com/calendar/harvest-fest-playgarden-community-re
+ union/
+END:VEVENT
+END:VCALENDAR

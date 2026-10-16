@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ecb9ac63fe-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T190000Z
+DTEND:20261024T230000Z
+SUMMARY:Boo in Burien
+LOCATION:Burien Town Square Park\, 480 SW 152nd St\, Burien\, WA\, 98166
+DESCRIPTION:Throw on your costumes\, capes\, masks and hats for a fun trick
+ -or-treat journey in Downtown Burien!\n\nhttps://www.parentmap.com/calenda
+ r/boo-burien/
+URL:https://www.parentmap.com/calendar/boo-burien/
+END:VEVENT
+END:VCALENDAR

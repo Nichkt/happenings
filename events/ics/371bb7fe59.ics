@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:371bb7fe59-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261205T190000Z
+DTEND:20261206T000000Z
+SUMMARY:Christmas Regale
+LOCATION:Fort Nisqually Living History Museum\, 5519 Five Mile Dr\, Tacoma\
+ , WA\, 98407
+DESCRIPTION:Celebrate the holiday season with ornament making\, the harvest
+ ing of the Yule Log\, parlor games\, and a visit with Father Christmas.\n\
+ nhttps://www.parentmap.com/calendar/48139/
+URL:https://www.parentmap.com/calendar/48139/
+END:VEVENT
+END:VCALENDAR

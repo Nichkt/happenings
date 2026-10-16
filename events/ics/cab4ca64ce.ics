@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cab4ca64ce-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:Fall Festival at the Sammamish Community YMCA
+LOCATION:Sammamish Community YMCA\, 831 228th Ave SE\, Sammamish\, WA\, 980
+ 75
+DESCRIPTION:Experience all things fall and see the Y transformed at this ye
+ ar’s Fall Family Festival.\n\nhttps://www.parentmap.com/calendar/fall-fe
+ stival-at-the-sammamish-community-ymca/
+URL:https://www.parentmap.com/calendar/fall-festival-at-the-sammamish-commu
+ nity-ymca/
+END:VEVENT
+END:VCALENDAR

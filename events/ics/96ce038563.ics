@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:96ce038563-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261025T180000Z
+DTEND:20261025T210000Z
+SUMMARY:Harvest Festival in the Junction
+LOCATION:West Seattle Junction\, S.W. Alaska Street and California Ave. S.W
+ .\, Seattle\, WA\, 98116
+DESCRIPTION:Gather your monsters for a good ol’ fashioned Trick or Treat 
+ in the Junction on Sunday\, October 25th.\n\nhttps://www.parentmap.com/cal
+ endar/halloween-junction-0/
+URL:https://www.parentmap.com/calendar/halloween-junction-0/
+END:VEVENT
+END:VCALENDAR

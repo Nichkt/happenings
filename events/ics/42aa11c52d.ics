@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:42aa11c52d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:Dia de los Muertos in Seabrook
+LOCATION:Seabrook\, Washington\, 4275 SR 109\, Seabrook\, WA\, 98571
+DESCRIPTION:Hours: 1–6 PM\n\nCelebrate Día de los Muertos in Seabrook on
+  Friday\, October 30 and Saturday\, October 31 with a weekend of creativit
+ y\, remembrance\, and community.\n\nhttps://www.parentmap.com/calendar/dia
+ -de-los-muertos-in-seabrook/
+URL:https://www.parentmap.com/calendar/dia-de-los-muertos-in-seabrook/
+END:VEVENT
+END:VCALENDAR

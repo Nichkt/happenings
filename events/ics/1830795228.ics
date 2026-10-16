@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1830795228-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Seymour Holiday Workshops
+LOCATION:W.W. Seymour Botanical Conservatory\, 316 S G St\, Tacoma\, WA\, 9
+ 8405-4733
+DESCRIPTION:Sunday\, December 6\, 13 and 20 and 27 | 10 am-1 pm at the W.W.
+  Seymour Botanical Conservatory Free!\n\nhttps://www.parentmap.com/calenda
+ r/seymour-holiday-workshops/2026-12-20/
+URL:https://www.parentmap.com/calendar/seymour-holiday-workshops/2026-12-20
+ /
+END:VEVENT
+END:VCALENDAR

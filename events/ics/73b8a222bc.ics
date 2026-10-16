@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73b8a222bc-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T200000Z
+DTEND:20261025T020000Z
+SUMMARY:Pythagorean Palooza
+LOCATION:SUMM at Kent Station\, 437 Ramsay Way\, Suite 102\, Kent\, WA\, 98
+ 032
+DESCRIPTION:Come join us at the Seattle Universal Math Museum and celebrate
+  the magic of right triangles on the last Pythagorean triple date of the c
+ entury!\n\nhttps://www.parentmap.com/calendar/pythagorean-palooza-2/
+URL:https://www.parentmap.com/calendar/pythagorean-palooza-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2b0f4776d4-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261107T173000Z
+DTEND:20261107T230000Z
+SUMMARY:Día de los Muertos Mariposa (Butterfly) Wings Procession
+LOCATION:Bainbridge Island Museum of Art\, 100 Ravine Lane N.E.\, Bainbridg
+ e Island\, WA\, 98110
+DESCRIPTION:Bring the kids and grandkids to create and decorate wearable bu
+ tterfly wings and join in the mariposa (butterfly) processions before each
+  daytime Día de los…\n\nhttps://www.parentmap.com/calendar/dia-de-los-m
+ uertos-kidimu/
+URL:https://www.parentmap.com/calendar/dia-de-los-muertos-kidimu/
+END:VEVENT
+END:VCALENDAR

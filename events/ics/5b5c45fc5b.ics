@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b5c45fc5b-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:Winterfest Ice Sculpting
+LOCATION:Seattle Center Mural Amphitheatre\, 350 Harrison St\, Seattle\, WA
+ \, 98109
+DESCRIPTION:Our weekly Ice Sculpting series is back!\n\nhttps://www.parentm
+ ap.com/calendar/48509/2026-12-12/
+URL:https://www.parentmap.com/calendar/48509/2026-12-12/
+END:VEVENT
+END:VCALENDAR

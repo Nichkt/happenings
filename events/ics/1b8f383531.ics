@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1b8f383531-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T220000Z
+DTEND:20261101T010000Z
+SUMMARY:Halloween in the Commons
+LOCATION:Third Place Commons\, 17171 Bothell Way NE\, Lake Forest Park\, WA
+ \, 98155
+DESCRIPTION:Halloween is coming to the Commons!\n\nhttps://www.parentmap.co
+ m/calendar/halloween-in-the-commons/
+URL:https://www.parentmap.com/calendar/halloween-in-the-commons/
+END:VEVENT
+END:VCALENDAR

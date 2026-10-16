@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69caf4d19d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261204T020000Z
+DTEND:20261204T040000Z
+SUMMARY:VPT Holiday in the Park
+LOCATION:Volunteer Park\, 1247 15th Ave E\, Seattle\, WA\, 98112
+DESCRIPTION:Mark your calendar for our annual Holiday in the Park!\n\nhttps
+ ://www.volunteerparktrust.org/events/vpt-holiday-in-the-park
+URL:https://www.volunteerparktrust.org/events/vpt-holiday-in-the-park
+END:VEVENT
+END:VCALENDAR

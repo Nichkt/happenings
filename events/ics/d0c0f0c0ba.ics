@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d0c0f0c0ba-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:Pumpkin Farm and Puzzle Patch
+LOCATION:JB Family Growers\, 14063 NE 145th Street\, Woodinville\, WA\, 980
+ 72
+DESCRIPTION:Spend hours exploring miles of winding trails through our giant
+  corn maze\, hand-pick the perfect pumpkin\, mini squash\, or colorful gou
+ rds\, and capture…\n\nhttps://www.parentmap.com/calendar/pumpkin-farm-an
+ d-puzzle-patch-s2/2026-10-29/
+URL:https://www.parentmap.com/calendar/pumpkin-farm-and-puzzle-patch-s2/202
+ 6-10-29/
+END:VEVENT
+END:VCALENDAR

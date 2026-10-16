@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:39082efb39-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Lake Stevens HarvestFest
+LOCATION:North Cove Park\, 1806 Main St\, Lake Stevens\, WA\, 98258
+DESCRIPTION:The City’s free\, family-friendly annual event\, HarvestFest\
+ , returns to North Cove Park on Halloween Saturday\, October 31\, 2026\, f
+ rom 4:00 pm – 7:00 pm.\n\nhttps://www.parentmap.com/calendar/lake-steven
+ s-harvestfest/
+URL:https://www.parentmap.com/calendar/lake-stevens-harvestfest/
+END:VEVENT
+END:VCALENDAR

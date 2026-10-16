@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b482c98fda-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261030T220000Z
+DTEND:20261031T020000Z
+SUMMARY:Bell Street Park Halloween Bash
+LOCATION:Bell Street Park\, First to Fifth avenues on Bell St.\, WA
+DESCRIPTION:Celebrate Halloween with a family-friendly party at Bell Street
+  Park!\n\nhttps://downtownseattle.org/event/bell-street-park-halloween-bas
+ h/
+URL:https://downtownseattle.org/event/bell-street-park-halloween-bash/
+END:VEVENT
+END:VCALENDAR

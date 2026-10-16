@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:06b07dc05c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T000000Z
+DTEND:20261024T023000Z
+SUMMARY:Fall Lantern Festival
+LOCATION:Freeway Park\, 700 Seneca St.\, Seattle\, WA\, 98101
+DESCRIPTION:Join us to celebrate the creativity of our community and embrac
+ e the changing of seasons with light\, art\, and music!\n\nhttps://www.par
+ entmap.com/calendar/fall-lantern-festival/
+URL:https://www.parentmap.com/calendar/fall-lantern-festival/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:042b952c2c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Samena Spooktacular
+LOCATION:Samena Swim and Recreation Club\, 15231 Lake Hills Blvd\, Bellevue
+ \, WA\, 98007-5925
+DESCRIPTION:The evening begins with a Spooktacular favorite\, the Haunted T
+ rail!\n\nhttps://www.parentmap.com/calendar/samena-spooktacular-1/
+URL:https://www.parentmap.com/calendar/samena-spooktacular-1/
+END:VEVENT
+END:VCALENDAR

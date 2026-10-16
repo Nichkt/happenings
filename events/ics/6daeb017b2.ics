@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6daeb017b2-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:Trick-or-Treat on Main Street
+LOCATION:Downtown Bothell\, Main St\, Bothell\, WA\, 98011\, Main Street in
+  Downtown Bothell - Bothell
+DESCRIPTION:https://www.bothellwa.gov/calendar.aspx?EID=2751\n\nhttps://www
+ .bothellwa.gov/calendar.aspx?EID=2751
+URL:https://www.bothellwa.gov/calendar.aspx?EID=2751
+END:VEVENT
+END:VCALENDAR

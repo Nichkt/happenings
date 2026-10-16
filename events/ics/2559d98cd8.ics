@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2559d98cd8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261024T010000Z
+DTEND:20261024T030000Z
+SUMMARY:Halloween Bounce and Swim
+LOCATION:Green Lake Community Center\, 7201 E Green Lake Dr N\, Seattle\, W
+ A\, 98115-5301
+DESCRIPTION:Green Lake Community Center and Evans Pool are co-hosting a hau
+ nted celebration!\n\nhttps://www.parentmap.com/calendar/halloween-bounce-a
+ nd-swim/
+URL:https://www.parentmap.com/calendar/halloween-bounce-and-swim/
+END:VEVENT
+END:VCALENDAR

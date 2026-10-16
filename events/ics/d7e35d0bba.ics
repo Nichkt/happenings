@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d7e35d0bba-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T210000Z
+DTEND:20261101T010000Z
+SUMMARY:Spooktacular Pup Party
+LOCATION:Obec Brewing\, 1144 NW 52nd Street\, Seattle\, WA\, 98107
+DESCRIPTION:Join us at Obec Brewing for the Spooktacular Pup Party — a FR
+ EE Halloween celebration for pups + their people!\n\nhttps://www.visitball
+ ard.com/event/spooktacular-pup-party/
+URL:https://www.visitballard.com/event/spooktacular-pup-party/
+END:VEVENT
+END:VCALENDAR

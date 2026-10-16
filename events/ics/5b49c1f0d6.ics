@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b49c1f0d6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261214T030000Z
+DTEND:20261214T040000Z
+SUMMARY:Christmas Ship Viewing at Stan Sayres Park
+LOCATION:Stan Sayres Memorial Park\, 3808 Lake Washington Blvd S\, Seattle\
+ , WA\, 98118
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-stan-sayres-pa
+ rk/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-stan-sayres-p
+ ark/
+END:VEVENT
+END:VCALENDAR

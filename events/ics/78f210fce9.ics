@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:78f210fce9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T220000Z
+DTEND:20261101T030000Z
+SUMMARY:Spooky Family Fun at McMenamins
+LOCATION:McMenamins Anderson School\, 18607 Bothell Way NE\, Bothell\, WA\,
+  98011-1928
+DESCRIPTION:Come celebrate the spookiest of holidays with us!\n\nhttps://ww
+ w.parentmap.com/calendar/spooky-family-fun-at-mcmenamins/
+URL:https://www.parentmap.com/calendar/spooky-family-fun-at-mcmenamins/
+END:VEVENT
+END:VCALENDAR

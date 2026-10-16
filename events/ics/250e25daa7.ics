@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:250e25daa7-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+SUMMARY:Donkey Creek Chum Fest
+LOCATION:Donkey Creek Park\, 8714 Harborview Dr\, Gig Harbor\, WA\, 98332
+DESCRIPTION:Every year\, the greater Gig Harbor community celebrates the re
+ turn of salmon to our local waters.\n\nhttps://www.parentmap.com/calendar/
+ donkey-creek-chum-fest/
+URL:https://www.parentmap.com/calendar/donkey-creek-chum-fest/
+END:VEVENT
+END:VCALENDAR

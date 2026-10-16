@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72c105319a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:‘Aladdin’\, a Holiday Panto
+LOCATION:Centerstage Theatre\, 3200 SW Dash Point Rd\, Federal Way\, WA\, 9
+ 8023-2340
+DESCRIPTION:Join us for another magical holiday adventure in Aladdin: A Hol
+ iday Panto!\n\nhttps://www.parentmap.com/calendar/aladdin-a-holiday-panto/
+ 2026-12-05/1/
+URL:https://www.parentmap.com/calendar/aladdin-a-holiday-panto/2026-12-05/1
+ /
+END:VEVENT
+END:VCALENDAR

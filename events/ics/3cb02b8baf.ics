@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3cb02b8baf-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T190000Z
+DTEND:20261101T000000Z
+SUMMARY:Collector’s Choice Halloween Card Show
+LOCATION:Meydenbauer Center\, 11100 NE 6th St\, Bellevue\, WA\, 98004-5524
+DESCRIPTION:SPOOK-TACULAR HALLOWEEN SHOW Saturday\, October 31st Meydenbaue
+ r Center | Bellevue\, WA 12:00pm – 5:00pm (VIP 10:00am) TICKETS General 
+ Admission – $10 VIP…\n\nhttps://www.parentmap.com/calendar/collectors-
+ choice-halloween-card-show/
+URL:https://www.parentmap.com/calendar/collectors-choice-halloween-card-sho
+ w/
+END:VEVENT
+END:VCALENDAR

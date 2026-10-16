@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0b822b85eb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261204T040000Z
+DTEND:20261204T054000Z
+SUMMARY:Christmas Ship Viewing at Mount Baker Beach
+LOCATION:Mount Baker Park\, 2521 Lake Park Dr S\, Seattle\, WA\, 98144
+DESCRIPTION:Almost every night\, from late November to December 23\, the Ar
+ gosy Christmas Ship sails to different Puget Sound waterfront locations.\n
+ \nhttps://www.parentmap.com/calendar/christmas-ship-viewing-mount-baker-be
+ ach/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-mount-baker-b
+ each/
+END:VEVENT
+END:VCALENDAR

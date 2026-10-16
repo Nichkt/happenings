@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:61b8e5e881-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261118T200000Z
+DTEND:20261119T013000Z
+SUMMARY:Festival of Trees Opening and Holiday Bake Sale
+LOCATION:White River Valley Museum\, 918 H St SE\, Auburn\, WA\, 98002-6112
+DESCRIPTION:Wednesday\, November 18 | 12-5:30PM Free Event!\n\nhttps://www.
+ parentmap.com/calendar/festival-of-trees-opening-and-holiday-bake-sale/
+URL:https://www.parentmap.com/calendar/festival-of-trees-opening-and-holida
+ y-bake-sale/
+END:VEVENT
+END:VCALENDAR

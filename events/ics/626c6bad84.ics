@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:626c6bad84-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T010000Z
+DTEND:20261031T030000Z
+SUMMARY:Halloween Party @ Duwamish Longhouse
+LOCATION:Duwamish Longhouse & Cultural Center\, 4705 West Marginal Way Sout
+ hwest\, Seattle\, WA\, 98106
+DESCRIPTION:PLEASE RSVP BY USING THE QR CODE OR LINK TO SIGN UP\n\nhttps://
+ www.duwamishtribe.org/eventcalendar/2026/10/30/halloween-party-duwamish-lo
+ nghouse
+URL:https://www.duwamishtribe.org/eventcalendar/2026/10/30/halloween-party-
+ duwamish-longhouse
+END:VEVENT
+END:VCALENDAR

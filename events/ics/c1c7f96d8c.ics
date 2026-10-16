@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c1c7f96d8c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261206T213000Z
+DTEND:20261207T003000Z
+SUMMARY:Hanukkah Family Show: Mark Nizer 4D Juggling + Laser Show
+LOCATION:Stroum Jewish Community Center\, 3801 E Mercer Way\, Mercer Island
+ \, WA\, 98040-3805
+DESCRIPTION:On Hanukkah\, the Festival of Lights\, we light menorah candles
+  with a helper candle (called the shamash) and commemorate the brave Macca
+ bees and how a single…\n\nhttps://www.parentmap.com/calendar/hanukkah-fa
+ mily-show-mark-nizer-4d-juggling-laser-show/
+URL:https://www.parentmap.com/calendar/hanukkah-family-show-mark-nizer-4d-j
+ uggling-laser-show/
+END:VEVENT
+END:VCALENDAR

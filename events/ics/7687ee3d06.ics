@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7687ee3d06-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Fall Foliage Festival
+LOCATION:Rhododendron Species Botanical Garden\, 2525 S. 336th Street\, Fed
+ eral Way\, WA\, 98003
+DESCRIPTION:Hours: 10 AM–4 PM\n\nCelebrate the colors of autumn at the Rh
+ ododendron Species Botanical Garden during our annual Fall Foliage Festiva
+ l & Plant Sale.\n\nhttps://www.parentmap.com/calendar/fall-foliage-festiva
+ l/2026-11-07/
+URL:https://www.parentmap.com/calendar/fall-foliage-festival/2026-11-07/
+END:VEVENT
+END:VCALENDAR

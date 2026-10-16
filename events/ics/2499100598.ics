@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2499100598-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261107T190000Z
+DTEND:20261107T220000Z
+SUMMARY:61st Annual Veterans Day Parade & Observance
+LOCATION:Downtown Auburn\, Washington\, 25 Main St\, Auburn\, WA\, 98001
+DESCRIPTION:Auburn\, Washington has been designated by the Veterans Day Nat
+ ional Committee and the U.S. Department of Veterans Affairs as a Regional 
+ Site for the 2026…\n\nhttps://www.parentmap.com/calendar/60th-annual-vet
+ erans-day-parade-observance/
+URL:https://www.parentmap.com/calendar/60th-annual-veterans-day-parade-obse
+ rvance/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:439d8bb22f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261212T170000Z
+DTEND:20261212T230000Z
+SUMMARY:Jingle Bell Breakfast & Craft Fair
+LOCATION:Lynnwood Event Center\, 3711 196th St\, Lynnwood\, WA\, 98036
+DESCRIPTION:Join us for a festive morning of holiday cheer at our 5th Annua
+ l Jingle Bell Breakfast & Craft Fair!\n\nhttps://www.parentmap.com/calenda
+ r/jingle-bell-breakfast-craft-fair/
+URL:https://www.parentmap.com/calendar/jingle-bell-breakfast-craft-fair/
+END:VEVENT
+END:VCALENDAR

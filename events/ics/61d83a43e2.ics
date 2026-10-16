@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:61d83a43e2-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261114T190000Z
+DTEND:20261115T020000Z
+SUMMARY:Holiday Open House
+LOCATION:Snoqualmie
+DESCRIPTION:Celebrate the season throughout all of Snoqualmie\, the Downtow
+ n District\, Ridge District\, and all the surrounding areas.\n\nhttps://ww
+ w.snoqualmiewa.gov/calendar.aspx?EID=3421
+URL:https://www.snoqualmiewa.gov/calendar.aspx?EID=3421
+END:VEVENT
+END:VCALENDAR

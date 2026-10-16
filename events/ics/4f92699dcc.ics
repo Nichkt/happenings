@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f92699dcc-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261222T044000Z
+DTEND:20261222T054000Z
+SUMMARY:Argosy Ship at Luther Burbank
+DESCRIPTION:Argosy Cruises Christmas Ship™ Festival is a ship-to-shore ho
+ liday celebration that has been a Northwest tradition since 1949.\n\nhttps
+ ://www.mercerisland.gov/parksrec/page/argosy-ship-luther-burbank
+URL:https://www.mercerisland.gov/parksrec/page/argosy-ship-luther-burbank
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:25faf59d0d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261213T013000Z
+DTEND:20261213T040000Z
+SUMMARY:Battle of the Badges\, Holiday Lights!
+LOCATION:Renton Technical College\, 3000 NE 4th St\, Renton\, WA\, 98056
+DESCRIPTION:Celebrate one of Renton’s brightest holiday traditions as reg
+ ional public safety agencies transform their vehicles into dazzling light 
+ displays.\n\nhttps://www.parentmap.com/calendar/battle-badges-holiday-ligh
+ ts-0/
+URL:https://www.parentmap.com/calendar/battle-badges-holiday-lights-0/
+END:VEVENT
+END:VCALENDAR

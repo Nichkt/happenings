@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:40ab7b4fac-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Halloween Carnival
+LOCATION:Church of Scientology WA State\, 300 W Harrison St\, Seattle\, 981
+ 19
+DESCRIPTION:Celebrate Halloween with an evening of family-friendly fun for 
+ the whole community!\n\nhttps://www.parentmap.com/calendar/halloween-carni
+ val/
+URL:https://www.parentmap.com/calendar/halloween-carnival/
+END:VEVENT
+END:VCALENDAR

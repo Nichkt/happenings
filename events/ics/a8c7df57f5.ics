@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a8c7df57f5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261224T040000Z
+DTEND:20261224T054500Z
+SUMMARY:Christmas Ship Viewing at Gasworks Park
+LOCATION:Gas Works Park\, 2101 N. Northlake Way\, Seattle\, WA\, 98103
+DESCRIPTION:Witness the grand finale of the Christmas Ship Festival as it a
+ rrives at Gasworks Park.\n\nhttps://www.parentmap.com/calendar/christmas-s
+ hip-viewing-gasworks-park/
+URL:https://www.parentmap.com/calendar/christmas-ship-viewing-gasworks-park
+ /
+END:VEVENT
+END:VCALENDAR

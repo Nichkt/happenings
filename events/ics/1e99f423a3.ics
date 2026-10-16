@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e99f423a3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Olympia Watson’s Holiday Open House
+LOCATION:Watson’s Greenhouse – Olympia\, 4004 Harrison Ave NW\, Olympia
+ \, WA\, 98502
+DESCRIPTION:Step into the magic of the season at the Watson’s Holiday Ope
+ n House!\n\nhttps://www.parentmap.com/calendar/olympia-watsons-holiday-ope
+ n-house/
+URL:https://www.parentmap.com/calendar/olympia-watsons-holiday-open-house/
+END:VEVENT
+END:VCALENDAR

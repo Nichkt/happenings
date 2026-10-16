@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0d6f4102f7-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Renton’s Clam Lights
+LOCATION:Gene Coulon Memorial Park\, 1201 Lake Washington Blvd N\, Renton\,
+  WA\, 98056-2567
+DESCRIPTION:Hours: 4–9 PM\n\nCelebrate the start of the holiday season wi
+ th lights\, music\, Santa\, and a tree lighting at Gene Coulon Beach Park!
+ \n\nhttps://www.parentmap.com/calendar/34328/2026-12-05/
+URL:https://www.parentmap.com/calendar/34328/2026-12-05/
+END:VEVENT
+END:VCALENDAR

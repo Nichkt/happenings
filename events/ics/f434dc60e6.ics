@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f434dc60e6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Trick or Treat in Ballard
+LOCATION:Ballard Alliance\, 2208 Northwest Market Street\, Seattle\, WA\, 9
+ 8107
+DESCRIPTION:Bring your little goblins to downtown Ballard on HALLOWEEN for 
+ Trick or Treat in Ballard!\n\nhttps://www.visitballard.com/event/trick-or-
+ treat-in-ballard-2/
+URL:https://www.visitballard.com/event/trick-or-treat-in-ballard-2/
+END:VEVENT
+END:VCALENDAR

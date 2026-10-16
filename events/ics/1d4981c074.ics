@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1d4981c074-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261030T230000Z
+DTEND:20261031T010000Z
+SUMMARY:Town Center Trick or Treat 2026
+DESCRIPTION:Town Center Trick-or-Treat returns this year on Friday\, Octobe
+ r 30th!\n\nhttps://www.mercerisland.gov/parksrec/page/town-center-trick-or
+ -treat-2026
+URL:https://www.mercerisland.gov/parksrec/page/town-center-trick-or-treat-2
+ 026
+END:VEVENT
+END:VCALENDAR

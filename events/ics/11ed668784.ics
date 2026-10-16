@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:11ed668784-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+TRANSP:TRANSPARENT
+SUMMARY:Spooktacular Costume Parties at My Gym Kent
+DESCRIPTION:Our annual ‘Spooktacular’ Costume Parties are back!\n\nhttp
+ s://www.parentmap.com/calendar/spooktacular-costume-parties-at-my-gym-kent
+ -2/2026-10-24/1/
+URL:https://www.parentmap.com/calendar/spooktacular-costume-parties-at-my-g
+ ym-kent-2/2026-10-24/1/
+END:VEVENT
+END:VCALENDAR

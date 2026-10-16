@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:96248f11f3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Arbor Day
+LOCATION:Lake Boren Park\, 13058 SE 84th Way\, Newcastle\, Washington
+DESCRIPTION:Add to calendar Google Calendar iCalendar Outlook 365 Outlook L
+ ive @\n\nhttps://newcastlewa.gov/event/arbor-day/2026-11-07/
+URL:https://newcastlewa.gov/event/arbor-day/2026-11-07/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:91855eccc1-seattle-happenings@nichkt.github.io
+DTSTAMP:20261016T075906Z
+SEQUENCE:0
+DTSTART:20261101T010000Z
+DTEND:20261101T023000Z
+SUMMARY:Trick-or-Treat at Lakewold Gardens
+LOCATION:Lakewold Gardens\, 12317 Gravelly Lake Dr SW\, Lakewood\, WA\, 984
+ 99-1419
+DESCRIPTION:Bring the kids for a Halloween scavenger hunt and trick-or-trea
+ ting!\n\nhttps://www.parentmap.com/calendar/trick-or-treat-scavenger-hunt-
+ lakewold-gardens/
+URL:https://www.parentmap.com/calendar/trick-or-treat-scavenger-hunt-lakewo
+ ld-gardens/
+END:VEVENT
+END:VCALENDAR
