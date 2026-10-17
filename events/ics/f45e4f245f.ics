@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f45e4f245f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261017T141716Z
+SEQUENCE:0
+DTSTART:20261226T200000Z
+DTEND:20261227T000000Z
+SUMMARY:Winterfest Armory Stage Entertainment
+LOCATION:Seattle Center Armory\, 305 Harrison St\, Seattle\, WA\, 98109-462
+ 3
+DESCRIPTION:Each weekend from November 27 – December 27\, we’ll feature
+  live performances on the Armory Stage\, providing visitors with fun\, sea
+ sonal entertainment while…\n\nhttps://www.parentmap.com/calendar/winterf
+ est-armory-stage-entertainment/2026-12-26/
+URL:https://www.parentmap.com/calendar/winterfest-armory-stage-entertainmen
+ t/2026-12-26/
+END:VEVENT
+END:VCALENDAR
