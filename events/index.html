@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' https:; connect-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' https:; connect-src 'self' https://generativelanguage.googleapis.com https://www.greaterseattleonthecheap.com https://secretseattle.co; base-uri 'none'; form-action 'none'">
   <meta name="theme-color" content="#123946">
   <meta name="color-scheme" content="light dark">
   <meta name="description" content="Night markets, festivals, street fairs, art walks and other community events around Seattle and the Eastside, from community and city calendars. Updated every day; add any of them to your calendar.">
@@ -14,9 +14,9 @@
   <link rel="canonical" href="https://nichkt.github.io/happenings/events/">
   <link rel="icon" type="image/png" sizes="32x32" href="../assets/icon-32.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../assets/icon-192.png">
-  <link rel="stylesheet" href="app.css?v=61b82b8e5f">
-  <link rel="stylesheet" href="theme.css?v=61b82b8e5f">
-  <script src="app.js?v=61b82b8e5f" defer></script>
+  <link rel="stylesheet" href="app.css?v=e2b9f8a14b">
+  <link rel="stylesheet" href="theme.css?v=e2b9f8a14b">
+  <script src="app.js?v=e2b9f8a14b" defer></script>
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Seattle Happenings">
@@ -48,6 +48,8 @@
     <symbol id="i-download" viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></symbol>
     <symbol id="i-open" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/></symbol>
     <symbol id="i-flag" viewBox="0 0 24 24"><path d="M14.4 6 14 4H5v17h2v-7h5.6l.4 2h7V6z"/></symbol>
+    <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M17.65 6.35A7.958 7.958 0 0 0 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08A5.99 5.99 0 0 1 12 18c-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/></symbol>
+    <symbol id="i-sparkle" viewBox="0 0 24 24"><path d="M19 9l1.25-2.75L23 5l-2.75-1.25L19 1l-1.25 2.75L15 5l2.75 1.25L19 9zm-7.5.5L9 4 6.5 9.5 1 12l5.5 2.5L9 20l2.5-5.5L17 12l-5.5-2.5zM19 15l-1.25 2.75L15 19l2.75 1.25L19 23l1.25-2.75L23 19l-2.75-1.25L19 15z"/></symbol>
   </svg>
 
   <a class="skip" href="#list">Skip to the events</a>
@@ -66,6 +68,11 @@
     <section class="intro">
       <h1>What's on around Seattle</h1>
       <p>Night markets, festivals, street fairs and art walks from community and city calendars, checked every day. Add any of them to your calendar.</p>
+      <div class="intro-actions">
+        <button type="button" class="button quiet" id="refresh" data-idle="Refresh" data-busy="Refreshing…"><svg class="icon" aria-hidden="true"><use href="#i-refresh"/></svg><span>Refresh</span></button>
+        <button type="button" class="button gemini" id="gemini-search" data-idle="Search with Gemini" data-busy="Searching…" hidden><svg class="icon" aria-hidden="true"><use href="#i-sparkle"/></svg><span>Search with Gemini</span></button>
+      </div>
+      <div id="gemini-status" class="gemini-status" role="status" aria-live="polite" hidden></div>
     </section>
 
     <div class="controls" id="controls">
@@ -100,7 +107,7 @@
         <summary>Where these come from</summary>
         <p id="sources"></p>
       </details>
-      <p>No accounts, ads or tracking. Your stars and filters are kept in this browser only. Event photos load from the sites that list them.</p>
+      <p>No accounts, ads or tracking. Your stars and filters are kept in this browser only. Event photos load from the sites that list them. Search with Gemini uses your own free Gemini key, which is sent only to Google.</p>
       <p class="links">
         <a href="../">About Seattle Happenings</a>
         <a href="https://play.google.com/store/apps/details?id=com.nicholaston.happenings" target="_blank" rel="noopener">Get the Android app</a>
@@ -153,6 +160,38 @@
         <button type="button" class="button quiet" id="f-reset">Reset</button>
         <button type="submit" class="button">Done</button>
       </div>
+    </form>
+  </dialog>
+
+  <dialog id="gemini-key" class="sheet small" aria-labelledby="key-title">
+    <form class="sheet-body" id="key-form" novalidate>
+      <div class="sheet-head">
+        <h2 id="key-title">Search with Gemini</h2>
+        <button type="button" class="icon-button" data-close aria-label="Close"><svg class="icon" aria-hidden="true"><use href="#i-close"/></svg></button>
+      </div>
+      <p class="key-lead">Optional and free. The list comes from community and city calendars. With your own free key from Google AI Studio, Gemini also reads festival pages and local news, and adds what else it finds.</p>
+      <div class="wash-sample">
+        <span class="tag gemini"><svg class="icon" aria-hidden="true"><use href="#i-sparkle"/></svg>Gemini</span>
+        <p>On the list, what only Gemini found is tinted like this and marked Gemini. The rest came from the calendars.</p>
+      </div>
+      <ol class="steps">
+        <li>
+          <p>Get a free key from Google AI Studio: sign in with a Google account, then choose Create API key.</p>
+          <a class="button quiet" href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">Get a free key<svg class="icon" aria-hidden="true"><use href="#i-open"/></svg></a>
+        </li>
+        <li>
+          <label for="key-input">Copy the key, come back and paste it here.</label>
+          <input id="key-input" class="key-input" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Your Gemini API key" enterkeyhint="go">
+        </li>
+        <li><p>Search. Gemini reads the pages one at a time, so it takes a minute or two.</p></li>
+      </ol>
+      <label class="check"><input type="checkbox" id="key-remember" checked><span>Remember the key in this browser<small>Otherwise it's forgotten when you close the page</small></span></label>
+      <p id="key-error" class="key-error" role="alert" hidden></p>
+      <div class="sheet-actions">
+        <button type="button" class="button quiet" id="key-forget" hidden>Forget the key</button>
+        <button type="submit" class="button gemini" id="key-save" data-idle="Save &amp; search" data-busy="Checking…"><svg class="icon" aria-hidden="true"><use href="#i-sparkle"/></svg><span>Save &amp; search</span></button>
+      </div>
+      <p class="fine">The key is sent only to Google, with the addresses of public festival pages and the text of public news articles, and nothing about you. Google handles them under your key and its <a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Gemini API terms</a>; on the free tier it may use them to improve its products.</p>
     </form>
   </dialog>
 

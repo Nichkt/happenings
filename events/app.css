@@ -1,5 +1,22 @@
 /* The events page, the same for every city; theme.css has each city's colours. */
 
+/* What only Gemini found: the app's soft lavender (Theme.kt), the same for every city. */
+:root {
+  --gem-wash: #eee9fb;
+  --gem-tag: #dfd7f7;
+  --gem-ink: #5b4b9a;
+  --gem-line: rgba(91, 75, 154, 0.26);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --gem-wash: #282338;
+    --gem-tag: #3d3558;
+    --gem-ink: #d3c8ff;
+    --gem-line: rgba(211, 200, 255, 0.22);
+  }
+}
+
 *,
 *::before,
 *::after {
@@ -49,6 +66,11 @@ img {
 
 .sprite {
   display: none;
+}
+
+/* A button's display would otherwise show it while it's hidden. */
+[hidden] {
+  display: none !important;
 }
 
 .icon {
@@ -157,6 +179,137 @@ img {
   max-width: 62ch;
   margin: 0;
   color: var(--muted);
+}
+
+.intro-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+/*
+ * A button whose words change while it's busy (app.js puts in data-busy, then data-idle again) is as wide
+ * as the longer of the two, so nothing moves when they change. The two, invisible, span all four columns
+ * and the outer two share what's left over, so the icon stays beside the words, in the middle.
+ */
+.button[data-busy] {
+  display: inline-grid;
+  grid-template-columns: 1fr auto auto 1fr;
+  gap: 0;
+}
+
+.button[data-busy] > .icon {
+  grid-area: 1 / 2;
+  margin-inline-end: 8px;
+}
+
+.button[data-busy] > span {
+  grid-area: 1 / 3;
+}
+
+.button[data-busy]::before,
+.button[data-busy]::after {
+  grid-area: 1 / 1 / 2 / -1;
+  height: 0;
+  padding-inline-start: 28px;
+  visibility: hidden;
+}
+
+.button[data-busy]::before {
+  content: attr(data-idle);
+}
+
+.button[data-busy]::after {
+  content: attr(data-busy);
+}
+
+/* Search with Gemini: how far it's got, then what it found */
+
+.gemini-status {
+  display: grid;
+  gap: 8px;
+  max-width: 640px;
+  margin-top: 12px;
+  padding: 12px 14px;
+  border: 1px solid var(--gem-line);
+  border-radius: 16px;
+  background: var(--gem-wash);
+}
+
+.intro .gemini-status p {
+  max-width: none;
+  color: var(--ink);
+}
+
+.gs-row,
+.gs-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.intro .gemini-status .gs-text,
+.intro .gemini-status .gs-head {
+  color: var(--gem-ink);
+  font-weight: 650;
+}
+
+.gs-head .icon {
+  width: 18px;
+  height: 18px;
+}
+
+.intro .gemini-status .gs-fine {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.spinner {
+  flex: none;
+  width: 18px;
+  height: 18px;
+  border: 2.5px solid var(--gem-line);
+  border-top-color: var(--gem-ink);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+.gs-bar {
+  width: 100%;
+  height: 6px;
+  border: 0;
+  border-radius: 999px;
+  overflow: hidden;
+  background: var(--gem-tag);
+  color: var(--gem-ink);
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.gs-bar:not([value]) {
+  display: none;
+}
+
+.gs-bar::-webkit-progress-bar {
+  background: var(--gem-tag);
+}
+
+.gs-bar::-webkit-progress-value {
+  background: var(--gem-ink);
+  border-radius: 999px;
+  transition: width 300ms ease;
+}
+
+.gs-bar::-moz-progress-bar {
+  background: var(--gem-ink);
+  border-radius: 999px;
+}
+
+.gs-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 /* Tabs, search and chips, kept in reach while scrolling */
@@ -410,6 +563,29 @@ img {
   background: color-mix(in srgb, var(--new) 20%, var(--card));
 }
 
+.tag.gemini {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--gem-tag);
+  color: var(--gem-ink);
+}
+
+.tag.gemini .icon {
+  width: 13px;
+  height: 13px;
+}
+
+.card.gemini {
+  background: var(--gem-wash);
+  border-color: var(--gem-line);
+}
+
+.card.gemini .badge:not(.soon),
+.card.gemini .tag:not(.free):not(.gemini) {
+  background: color-mix(in srgb, var(--gem-tag) 70%, var(--card));
+}
+
 .more-dates {
   margin: 6px 0 0;
   color: var(--brand);
@@ -496,6 +672,49 @@ img {
   min-height: 54px;
   padding: 12px 28px;
   font-size: 1.06rem;
+}
+
+.button.quiet:hover {
+  background: var(--bg-deep);
+  filter: none;
+}
+
+.button.gemini {
+  background: var(--gem-tag);
+  border-color: var(--gem-line);
+  color: var(--gem-ink);
+}
+
+.button.small {
+  min-height: 36px;
+  padding: 4px 14px;
+  font-size: 0.88rem;
+}
+
+.button:disabled {
+  cursor: default;
+  opacity: 0.75;
+  filter: none;
+}
+
+.spinning .icon {
+  animation: spin 0.9s linear infinite;
+}
+
+.button.busy .icon {
+  animation: pulse 1.4s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse {
+  50% {
+    opacity: 0.3;
+  }
 }
 
 .empty {
@@ -706,6 +925,22 @@ img {
   height: 16px;
 }
 
+.gemini-note {
+  display: flex;
+  gap: 10px;
+  margin: 14px 0 0;
+  padding: 10px 12px;
+  border: 1px solid var(--gem-line);
+  border-radius: 12px;
+  background: var(--gem-wash);
+  font-size: 0.9rem;
+}
+
+.gemini-note .icon {
+  margin-top: 1px;
+  color: var(--gem-ink);
+}
+
 /* Add to calendar */
 
 .add-what {
@@ -817,6 +1052,83 @@ legend {
   margin-top: 18px;
 }
 
+/* The Gemini key */
+
+.key-lead {
+  margin: 10px 0 0;
+}
+
+.wash-sample {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 14px;
+  padding: 10px 12px;
+  border: 1px solid var(--gem-line);
+  border-radius: 14px;
+  background: var(--gem-wash);
+  font-size: 0.9rem;
+}
+
+.wash-sample .tag {
+  flex: none;
+  margin-top: 1px;
+}
+
+.wash-sample p {
+  margin: 0;
+}
+
+.steps {
+  display: grid;
+  gap: 14px;
+  margin: 18px 0 8px;
+  padding-left: 22px;
+}
+
+.steps li::marker {
+  color: var(--gem-ink);
+  font-weight: 750;
+}
+
+.steps p {
+  margin: 0;
+}
+
+.steps .button {
+  margin-top: 8px;
+}
+
+.steps label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.key-input {
+  width: 100%;
+  min-height: 46px;
+  padding: 10px 14px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--bg);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 1rem;
+}
+
+.key-input:focus {
+  border-color: var(--gem-ink);
+  outline: 3px solid var(--gem-line);
+  outline-offset: 0;
+}
+
+.key-error {
+  margin: 10px 0 0;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: color-mix(in srgb, #d93025 14%, var(--card));
+  font-size: 0.9rem;
+}
+
 /* Footer */
 
 .foot {
@@ -862,6 +1174,12 @@ legend {
     font-size: 0.8rem;
   }
 
+  /* Side by side when they fit, a row each when they don't, as the chips below. */
+  .intro-actions .button {
+    flex: 1 1 auto;
+    padding-inline: 13px;
+  }
+
   .tabs {
     width: 100%;
   }
@@ -885,5 +1203,13 @@ legend {
 @media (prefers-reduced-motion: reduce) {
   .sheet[open] {
     animation: none;
+  }
+
+  .spinning .icon,
+  .button.busy .icon,
+  .spinner,
+  .gs-bar::-webkit-progress-value {
+    animation: none;
+    transition: none;
   }
 }
