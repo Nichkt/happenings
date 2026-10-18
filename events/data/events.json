@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-10-17T14:17:16Z",
+ "generatedAt": "2026-10-18T14:41:25Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-10-17",
- "until": "2027-01-09",
+ "from": "2026-10-18",
+ "until": "2027-01-10",
  "regions": [
   {
    "id": "SEATTLE",
@@ -107,15 +107,15 @@
   },
   {
    "name": "City of North Bend",
-   "events": 4
+   "events": 3
   },
   {
    "name": "City of Redmond",
-   "events": 7
+   "events": 6
   },
   {
    "name": "City of Seattle",
-   "events": 15
+   "events": 10
   },
   {
    "name": "City of Snoqualmie",
@@ -135,15 +135,19 @@
   },
   {
    "name": "El Centro de la Raza",
-   "events": 2
+   "events": 1
+  },
+  {
+   "name": "Northwest African American Museum",
+   "events": 1
   },
   {
    "name": "Northwest Asian Weekly",
-   "events": 6
+   "events": 4
   },
   {
    "name": "ParentMap",
-   "events": 320
+   "events": 303
   },
   {
    "name": "Phinney Center",
@@ -155,7 +159,7 @@
   },
   {
    "name": "Visit Ballard",
-   "events": 12
+   "events": 11
   },
   {
    "name": "Volunteer Park Trust",
@@ -167,568 +171,6 @@
   }
  ],
  "events": [
-  {
-   "id": "32ca09b0fb",
-   "series": "950c8880f7",
-   "title": "Maris Farms Fall Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-18",
-   "dates": "Oct 15–18",
-   "place": "Maris Farms, Buckley",
-   "placeLines": "Maris Farms, Buckley\n25001 Sumner Buckley Hwy, Buckley, WA, 98321",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$19 – $33",
-   "free": false,
-   "summary": "40+ activities and a full day of fall fun waiting for you!",
-   "description": "40+ activities and a full day of fall fun waiting for you!\n\nFall is almost here, and we cannot wait to welcome you back to the farm! Pick your day below and start planning a full day of pumpkins, pig races, farm fun, and memories with your favorite people.\n\nAll admission pricing is for anyone age 3 and up",
-   "url": "https://www.parentmap.com/calendar/maris-farms-fall-festival-s4/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775184951164-maris-home-800x647-4dca1313141c.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Maris Farms, 25001 Sumner Buckley Hwy, Buckley, WA, 98321",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-10-19",
-    "notes": "40+ activities and a full day of fall fun waiting for you!\n\nhttps://www.parentmap.com/calendar/maris-farms-fall-festival-s4/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "71987032a8",
-   "series": "be50fdedc0",
-   "title": "Picha Farms Fall Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-30",
-   "dates": "Oct 15–30",
-   "place": "Picha Farms, Puyallup",
-   "placeLines": "Picha Farms, Puyallup\n6502 52nd ST E, Puyallup, WA, 98371",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Picha Farms is ready for you to come and enjoy some fall family fun on the farm.",
-   "description": "Picha Farms is ready for you to come and enjoy some fall family fun on the farm.\nHere are the fun fall activities you get to experience:\n\n• Corn Maze — Picha Farms is celebrating our spider friends in our corn maze! You’ll stroll through the web, in search of answers to eight trivia questions. A free mini pumpkin awaits you at the exit as a reward for all your hard work.\n• Hayride — Relax and enjoy the fresh air as you meander through wide-open fields of pumpkins.\n• Slingshot — Hit your target and win $5 off your pumpkin purchase.\n• Food — Sip on a latte or hot apple cider; munch on kettle corn, enjoy gourmet hot dogs, hamburgers, tacos, potatoes and much more from our awesome vendors.\n• Fall Décor — With over 25 varieties of pumpkins to choose from, grab a wheelbarrow and stroll through the wide-open spaces. You have over 9-acres to search and find your perfect pumpkin. And don’t forget to stalk up on gourds and cornstalks.\n• If you’d like to celebrate a birthday in our birthday tent, the rental is $60 for 2 hours, including set up and clean up time. Pumpkin coupons and tickets to the maze, hayride, slingshot and kiddie train are available for purchase in our stand. (Groups wishing to gather in our party tent are also welcome to reserve a time.)\n\nCheck the Facebook page for updates.",
-   "url": "https://www.parentmap.com/calendar/picha-farms-fall-festival-2/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188293524-screenshot-2022-09-10-1341102-ab67441a3f8a.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Picha Farms, 6502 52nd ST E, Puyallup, WA, 98371",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-10-31",
-    "notes": "Picha Farms is ready for you to come and enjoy some fall family fun on the farm.\n\nhttps://www.parentmap.com/calendar/picha-farms-fall-festival-2/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "1cc86d455c",
-   "series": "ae5353c9a5",
-   "title": "Pumpkin Farm and Puzzle Patch",
-   "start": "2026-10-15",
-   "end": "2026-10-18",
-   "dates": "Oct 15–18",
-   "place": "JB Family Growers, Woodinville",
-   "placeLines": "JB Family Growers, Woodinville\n14063 NE 145th Street, Woodinville, WA, 98072",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "$2 – $12",
-   "free": false,
-   "summary": "Spend hours exploring miles of winding trails through our giant corn maze, hand-pick the perfect pumpkin, mini squash, or colorful gourds, and capture…",
-   "description": "Spend hours exploring miles of winding trails through our giant corn maze, hand-pick the perfect pumpkin, mini squash, or colorful gourds, and capture beautiful photos that you’ll treasure for years to come. Whether it’s your first visit or an annual tradition, there’s something special waiting for everyone at the farm.\nWe can’t wait to welcome you for a fun-filled autumn adventure that’s affordable, memorable, and full of everything you love about the season. Come make lasting memories with us this fall!",
-   "url": "https://www.parentmap.com/calendar/pumpkin-farm-and-puzzle-patch-s2/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188861538-ig_692022_62a247ce6a0ed105068264_0-45a8d8ce63c1.jpeg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "JB Family Growers, 14063 NE 145th Street, Woodinville, WA, 98072",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-10-19",
-    "notes": "Spend hours exploring miles of winding trails through our giant corn maze, hand-pick the perfect pumpkin, mini squash, or colorful gourds, and capture…\n\nhttps://www.parentmap.com/calendar/pumpkin-farm-and-puzzle-patch-s2/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "ea78f0f98f",
-   "series": "353b5d0cdb",
-   "title": "Rutledge Fall on the Farm",
-   "start": "2026-10-15",
-   "end": "2026-10-31",
-   "dates": "Oct 15–31",
-   "place": "Rutledge Corn Maze, Olympia",
-   "placeLines": "Rutledge Corn Maze, Olympia\n302 93rd Ave SE, Olympia, WA, 98501",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$10 – $13",
-   "free": false,
-   "summary": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories.",
-   "description": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories. Explore the farm, enjoy festive attractions, and experience everything that makes fall at Rutledge Family Farm special.\n\nWe have all kinds of activities.\n\nEveryday:\n\nCorn Maze (Checkpoint and FSI game)\nSwings\nCattle roping practice station\nCorn Hole bean bag toss\nWall ball maze game\nBubble barn\nSpookley photo op\nJump Pad weather permitting .\n\nFriday, Saturday and Sunday only (10am to 6pm):\n\nCorn Train\nCow train\nCorn Cannon (first shot included with admission).",
-   "url": "https://www.parentmap.com/calendar/rutledge-fall-farm-2/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190361489-zach-the-singing-tractor-30be9ae87221.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Rutledge Corn Maze, 302 93rd Ave SE, Olympia, WA, 98501",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-01",
-    "notes": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories.\n\nhttps://www.parentmap.com/calendar/rutledge-fall-farm-2/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "92f8b5f7d8",
-   "series": "6da44602ab",
-   "title": "Schilter Family Farm Fall Harvest Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-31",
-   "dates": "Oct 15–31",
-   "place": "Schilter Family Farm, Olympia",
-   "placeLines": "Schilter Family Farm, Olympia\n141 Nisqually Cutoff Road SE, Olympia, WA, 98513",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$15 – $20",
-   "free": false,
-   "summary": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun!",
-   "description": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun! Get lost in our massive corn maze, cuddle cute critters, zip down our swings, and jump to your heart’s content on our bounce pillow. And Lots of other fun to be had. Don’t forget to snag your perfect pumpkin!\n\nVisit our farm and make some special memories in the cozy Fall spirit! Enjoy our pumpkin patches, 5-acre corn maze, delicious seasonal fall food offerings and over 25 family-friendly acivities!\n\n***New this year***\nGiant Bubble Station and Pumpkin Bobber Fishing\n\nActivity bracelets provide access to farm activities (wagon ride, corn maze, animal barn, bounce pillow, etc.) our sweet Country charm gift shop is located behind the big barn.\n\nThe farm market/farm exit is located near the entrance in the white building where pumpkins are weighed and purchased.\n\nOpen 6 days a week (closed Tuesdays)!",
-   "url": "https://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-festival-s3/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185821408-screenshot-2023-09-08-113213-f9b7d72092ae.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Schilter Family Farm, 141 Nisqually Cutoff Road SE, Olympia, WA, 98513",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-01",
-    "notes": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun!\n\nhttps://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-festival-s3/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "ec643d5ab9",
-   "series": "f9da8f3bd3",
-   "title": "Tacoma Holiday Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-18",
-   "dates": "Oct 15–18",
-   "place": "Tacoma Dome",
-   "placeLines": "Tacoma Dome\n2727 E D St, Tacoma, WA, 98421-1216",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$12 – $17.50",
-   "free": false,
-   "summary": "Join us for a festive celebration of the holiday season at the 44th annual Tacoma Holiday Festival!",
-   "description": "Join us for a festive celebration of the holiday season at the 44th annual Tacoma Holiday Festival!\n\nThis annual event brings together the Tacoma community and the PNW to enjoy a delightful array of food, gifts, entertainment, and holiday spirit. Whether you’re shopping for unique gifts, savoring delicious food, or seeking a fun family outing, our festival has something for everyone.\n\nYou can look forward to:\n\nVisits with Santa Claus: Stop by the Santa area and let your kids share their Christmas wishes and snap a photo with the jolly man himself!\nPuppermint Lane: Help every pet find a home for the holidays! Meet adorable, adoptable pups from local rescues who are ready to find their fur-ever homes.\nLadies Night: On Friday, October 16 (5-7 PM), enjoy an evening of sipping and shopping with your friends! Don’t forget to enter the Ladies Night Grand Prize raffle featuring a curated collection of items from our women-owned exhibitors.\nHoliday Elf: Explore the festival while searching for the hidden holiday elf. If you find him, enter to win a $100 Visa Gift Card, thanks to ShelfGenie!",
-   "url": "https://www.parentmap.com/calendar/tacoma-holiday-festival/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/workshops11064b81a-bd5d-4b16-a307-af044e0bb1d8.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Tacoma Dome, 2727 E D St, Tacoma, WA, 98421-1216",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-10-19",
-    "notes": "Join us for a festive celebration of the holiday season at the 44th annual Tacoma Holiday Festival!\n\nhttps://www.parentmap.com/calendar/tacoma-holiday-festival/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "10e2ea89e0",
-   "series": "928c05f801",
-   "title": "Edmonds Museum Scarecrow Festival Contest",
-   "start": "2026-10-15",
-   "end": "2026-11-01",
-   "startMinute": 480,
-   "endMinute": 1080,
-   "dates": "Oct 15–Nov 1",
-   "time": "8 AM–6 PM",
-   "region": "NORTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!",
-   "description": "The Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!\n\nIt’s a fun event for the community, it fosters ties between businesses, residents, customers, arts and student groups, and you can have fun decorating the city for trick-or-treating.\n\n-Submit your scarecrow entry between September 24th and October 24th by 6 pm.\n-Vote for your favorite entry between October 25th and November 1st.\n-The top three winners in each category will receive a commemorative certificate. The top winners will receive a ghoulish goodie bag.\n-Winners will be announced November 8th.",
-   "url": "https://www.parentmap.com/calendar/47695-2/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185945756-muerte-florecida-800x683-2c1989b825cb.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-02",
-    "notes": "Hours: 8 AM–6 PM\n\nThe Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!\n\nhttps://www.parentmap.com/calendar/47695-2/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "09e8b434ac",
-   "series": "5a7d5a4f25",
-   "title": "Bellewood Farms Harvest Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-18",
-   "startMinute": 540,
-   "endMinute": 960,
-   "dates": "Oct 15–18",
-   "time": "9 AM–4 PM",
-   "place": "Bellewood Farms, Lynden",
-   "placeLines": "Bellewood Farms, Lynden\n6140 Guide Meridian Rd, Lynden, WA, 98264",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Items for purchase",
-   "summary": "If you love the Fall, and you love apples, you’ll want to visit Bellewood Farms this harvest season.",
-   "description": "If you love the Fall, and you love apples, you’ll want to visit Bellewood Farms this harvest season. You’re invited to join in the fall festivities beginning Saturday, Sep 5th, running through the Fall. Beat the weekend crowds and come on a weekday.\n\nBellewood Farms is the largest apple orchard in western Washington, with over 24 varieties and specializing in the best Honeycrisp apples on the planet. Come pick your own apples for a fun farm experience. Our pumpkin patch opens Sep 26th and is the largest in Whatcom County.\n\nU-pick Apples: Experience picking your own fresh fruit when the orchard opens on 9/5, starting off with Tsugaru apples, a farm favorite. Other varieties will follow each week. Our Farmstore also has the best of the crop apples, clean and ready to take home. Check back here for info on u-pick varieties:\n\n9/5-13 Tsugaru Apples\n\nTasty Food: Enjoy a special harvest breakfast and lunch menu in our Ten Mile Cafe and Bakery. Featuring apple cider slushies, local beers and hard cider, and Lynden’s best cinnamon rolls.\n\nFun Gifts: Grab some fun gifts in our Farmstore where we carry wide varieties of apples and cider and Caramel apples, and our famous Honey Roasted Peanut Butter\n\nBin Rides: Travel out to the orchard on a tractor pulled bin train (nominal charge). Or get some fresh air and walk out to the orchard for a healthy family experience.\n\nSchool Tours (weekdays only): Reserve a spot for your Whatcom County school. We love sharing with kids and the community…",
-   "url": "https://www.parentmap.com/calendar/bellewood-farms-harvest-festival/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775186090143-unnamed---2024-08-27t095534615-ee508a415727.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Bellewood Farms, 6140 Guide Meridian Rd, Lynden, WA, 98264",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-10-19",
-    "notes": "Hours: 9 AM–4 PM\n\nIf you love the Fall, and you love apples, you’ll want to visit Bellewood Farms this harvest season.\n\nhttps://www.parentmap.com/calendar/bellewood-farms-harvest-festival/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "b57b7b94d6",
-   "series": "02c6505ff7",
-   "title": "Carpinito Brothers Fall Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-31",
-   "startMinute": 540,
-   "endMinute": 1080,
-   "dates": "Oct 15–31",
-   "time": "9 AM–6 PM",
-   "place": "Carpinito Brothers Farm, Kent",
-   "placeLines": "Carpinito Brothers Farm, Kent\nS. 277th and West Valley Highway, Kent, WA, 98032",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "$7",
-   "free": false,
-   "summary": "On a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze.",
-   "description": "On a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze. Throughout the farm, you’ll encounter a sea of pumpkins, challenging corn mazes, kids activities, and plenty of photo inspiration. No pets, firearms or smoking/vaping, please.\n\n-Meet the farm animals\n-Play in the kids area\n-Take a hayride\n-Race rubber ducks\n-Practice your roping\n… and so much more!\n\nPlan to bring the whole family for a day full of fun!\n\nPatch and corn maze: 27508 W. Valley Hwy N., Kent. Farm Fun Yard: 6720 S 277th St., Kent.",
-   "url": "https://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775079648246-165_carpinitos-pumpkin-patch-84-e7e0d602f503-768x512.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Carpinito Brothers Farm, S. 277th and West Valley Highway, Kent, WA, 98032",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-01",
-    "notes": "Hours: 9 AM–6 PM\n\nOn a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze.\n\nhttps://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "5f61ef6480",
-   "series": "81f2a3e6a5",
-   "title": "Spooner Farms Harvest Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-31",
-   "startMinute": 540,
-   "endMinute": 1080,
-   "dates": "Oct 15–31",
-   "time": "9 AM–6 PM",
-   "place": "Spooner Farms, Puyallup",
-   "placeLines": "Spooner Farms, Puyallup\n9710 State Route 162 E, Puyallup, WA, 98374",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882!",
-   "description": "The Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882! This year we are harvesting over 50 varieties of pumpkins, gourds, squash, and corn.\n\nDuring October most of the farm is available for your enjoyment as we celebrate fall the way we love – with fun for the whole family, including our pumpkin patch, corn maze, and more.\n\nEnjoy these activities:\n\n• Pumpkin Sling Shot\n\n• Farm Animals\n\n• Gift Shop\n\n• Pete’s Play Town\n\n• Concessions\n\n• Speedway\n\n• Candy Store\n\n• Caramel Popcorn\n\n• Caramel Apples\n\n• Roasted Corn (weekends only)\n\n• Becky’s Animal Barn\n\n• Corn Maze\n\n• Great Fall Decorations\n\n• Fun for the whole family\n\nOpen Daily 9:00 AM TO 6:00 PM Sept. 27th – Oct. 31st",
-   "url": "https://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775080201941-spooner-farm-harvest-festivaljpg-c92c11312f2a.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Spooner Farms, 9710 State Route 162 E, Puyallup, WA, 98374",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-01",
-    "notes": "Hours: 9 AM–6 PM\n\nThe Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882!\n\nhttps://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "a580b67550",
-   "series": "a54d077e49",
-   "title": "Thomasson Family Farm Fall Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-30",
-   "startMinute": 570,
-   "endMinute": 1050,
-   "dates": "Oct 15–30",
-   "time": "9:30 AM–5:30 PM",
-   "place": "Thomasson Family Farm, Enumclaw",
-   "placeLines": "Thomasson Family Farm, Enumclaw\n38223 236th Ave SE, Enumclaw, WA, 98022-8812",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$2 – $23",
-   "free": false,
-   "summary": "Join us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food.",
-   "description": "Join us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food. #WeGrowFun\n\nWEEKDAY (Mon-Fri): Entrance onto our farm, Wagon rides, Corn maze, jr. Corn maze, Farm animals, Tractor train rides, Corn box, gravel pit, tetherball, Feedbox basketball, Life size foosball, Chalkboard house, Farm inspired playground activities, Sand pit, Backyard Billiards, Slides, Trike track (Kids & Adults), Bubble table, Rubber duck races, Corn hole, Rainy day alley way (indoor activities), Wall mazes, Who’s your pumpkin, Activity tables, Fairy tail trail, Giant connect 4, Giant jenga, Gift Shop, Photo ops. Open Food Locations: Cathy’s Kitchen serves pizza, hot sandwiches, nachos & pies, Latte Stand, the Mercantile, carries sweet treats such as fudge, caramel apples and more.\n\nWEEKEND (Sat & Sun): Entrance onto our farm, All weekday activities listed above, plus: Apple sling shot, Laser tag (weather permitting), Mega Slide, Zip Line. All Food Locations Open: Cathy’s Kitchen, Feed Store, Mini Donuts, Ice Cream Parlor, Latte Stand, Kettle Corn.\nAdmission prices differ between weekdays (Mon–Fri) and weekends (Sat–Sun), as select attractions and food stations are closed on weekdays.",
-   "url": "https://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-s3/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775189809733-img_2956-a92d5218c27d.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Thomasson Family Farm, 38223 236th Ave SE, Enumclaw, WA, 98022-8812",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-10-31",
-    "notes": "Hours: 9:30 AM–5:30 PM\n\nJoin us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food.\n\nhttps://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-s3/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "f734a81193",
-   "series": "bfc6566ce2",
-   "title": "A Very Farmy Halloween Edition",
-   "start": "2026-10-15",
-   "end": "2026-10-18",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Oct 15–18",
-   "time": "10 AM–6 PM",
-   "place": "Luckie Farms, Lake Stevens",
-   "placeLines": "Luckie Farms, Lake Stevens\n930 Sunnyside Blvd, Lake Stevens, WA, 98258",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$35",
-   "free": false,
-   "summary": "October only- Halloween costumes (especially farm themed) encouraged!",
-   "description": "October only- Halloween costumes (especially farm themed) encouraged! Lots of fall photo opportunities await!\n\nThis is the only place in the Pacific Northwest where you can pet, feed, and connect with Scottish Highland cows, yaks, reindeer, alpacas, mini donkeys, and horses—all in one unforgettable visit. And yes, our adorable baby calves can’t wait to meet you!\n\nMore than just a tour, this is your chance to slow down in nature, savor the moment, and create heartwarming memories with majestic animals. Perfect for all ages!",
-   "url": "https://www.parentmap.com/calendar/a-very-farmy-halloween-edition/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/e5510e7c-1331-4d23-9c89-9b585d13af06.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Luckie Farms, 930 Sunnyside Blvd, Lake Stevens, WA, 98258",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-10-19",
-    "notes": "Hours: 10 AM–6 PM\n\nOctober only- Halloween costumes (especially farm themed) encouraged!\n\nhttps://www.parentmap.com/calendar/a-very-farmy-halloween-edition/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "351ee64325",
-   "series": "635bcc1f6c",
-   "title": "Craven Farm Fall Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-18",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Oct 15–18",
-   "time": "10 AM–6 PM",
-   "place": "Craven Farm, Snohomish",
-   "placeLines": "Craven Farm, Snohomish\n13817 Shorts School Rd, Snohomish, WA, 98290-6907",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Named Washington State’s  best pumpkin patch  by “Readers Digest” in 2019, and more recently  among the best pumpkin farms in the country (!), this farm is…",
-   "description": "Named Washington State’s best pumpkin patch by “Readers Digest” in 2019, and more recently among the best pumpkin farms in the country(!), this farm is justifiably very popular, especially with younger kids.\n\nAs the Snohomish Valley’s Original Pumpkin Patch, Craven Farm is a decades old tradition for many families. Continue your family tradition or start a new one this fall at Craven Farm!\n\nAt Craven Farm, we’re dedicated to creating an enjoyable and memorable fall experience for everyone who visits us. Our farm offers an extensive range of activities to suit all age groups, including apple cannons and slingers, fair foods, espresso, and donuts. Our unique attractions like cow trains, wagon rides, multiple acres of themed corn mazes, jump pad & animals are sure to keep you entertained for hours on end. Visit us today and make some unforgettable memories with us this fall!\n\nCheck out our huge list of pumpkin extravaganzas happening this year.",
-   "url": "https://www.parentmap.com/calendar/craven-farm-fall-festival-0/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187588608-craven-farm-pumpkin-patchjpg-ea0a337f1a6e.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Craven Farm, 13817 Shorts School Rd, Snohomish, WA, 98290-6907",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-10-19",
-    "notes": "Hours: 10 AM–6 PM\n\nNamed Washington State’s  best pumpkin patch  by “Readers Digest” in 2019, and more recently  among the best pumpkin farms in the country (!), this farm is…\n\nhttps://www.parentmap.com/calendar/craven-farm-fall-festival-0/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "d9c90628b3",
-   "series": "3de80e4877",
-   "title": "Fall Festival at Bob’s Corn and Pumpkin Farm",
-   "start": "2026-10-15",
-   "end": "2026-11-01",
-   "startMinute": 600,
-   "endMinute": 1140,
-   "dates": "Oct 15–Nov 1",
-   "time": "10 AM–7 PM",
-   "place": "Bob’s Corn and Pumpkin Farm, Snohomish",
-   "placeLines": "Bob’s Corn and Pumpkin Farm, Snohomish\n10917 Elliott Rd, Snohomish, WA, 98296-8106",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$2 – $28.95",
-   "free": false,
-   "summary": "Welcome to Bob’s Fall Festival!",
-   "description": "Welcome to Bob’s Fall Festival! We have combined some of the best parts of the fall season into what we are now calling our Annual Fall Festival! Pumpkins and Corn are part of what we are known for here and we love it! Plan a visit between September 19th and November 1st to enjoy a fun tractor ride down to our lower fields, pick your own pumpkins from our pumpkin patches, find your way through our corn maze, enjoy some of Sarah’s famous donuts, drink some hot apple cider, and pick up your farm favorite treats in our Country Store! Coming on a Saturday or Sunday? Eat lunch or dinner at our Country Kitchen or try some of our roasted corn! Bob’s Corn is the place to be this fall!",
-   "url": "https://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775184855087-2016bobscornmaze-6e081d183b0a.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Bob’s Corn and Pumpkin Farm, 10917 Elliott Rd, Snohomish, WA, 98296-8106",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-02",
-    "notes": "Hours: 10 AM–7 PM\n\nWelcome to Bob’s Fall Festival!\n\nhttps://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "01ab81a31c",
-   "series": "b54a23153b",
-   "title": "Harvest Festival at Swans Trail Farms",
-   "start": "2026-10-15",
-   "end": "2026-10-31",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Oct 15–31",
-   "time": "10 AM–6 PM",
-   "place": "Swan’s Trail Farms, Snohomish",
-   "placeLines": "Swan’s Trail Farms, Snohomish\n7301 Rivershore Rd., Snohomish, WA, 98290",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$1 – $25",
-   "free": false,
-   "summary": "Get ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle!",
-   "description": "Get ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle! Harvest Festival is open daily from 10 AM–6 PM, with U-Pick apples and pumpkins, family-friendly attractions, farm-fresh food, and plenty of fall memories to make. Don’t miss our magical pumpkin garden, a favorite spot for fall photos!\n\nEnjoy the full experience of the Harvest Festival with over 30+ farm fun attractions! Wander through the legendary Washington State Corn Maze, a 12-acre masterpiece meticulously shaped like our state. You’ll navigate 4.5 miles of paths, discovering over 700 state roads and landmarks. Afterward, warm up with our famous apple cider donuts and fresh-pressed cider, or visit our Cidery for a hard cider made with apples from our own orchard. With friendly farm animals and a charming Country Store full of local honey and goods, jarred food, fall and farm-related decor, books, puzzles, and more; there’s something for everyone to enjoy. Come spend the day with us and make lasting fall memories!",
-   "url": "https://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190565890-wagon-ride--102b1d0eace0.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Swan’s Trail Farms, 7301 Rivershore Rd., Snohomish, WA, 98290",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-01",
-    "notes": "Hours: 10 AM–6 PM\n\nGet ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle!\n\nhttps://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "b7d5cdb7c7",
-   "series": "cf6661baf0",
-   "title": "Stocker Farms Fall Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-31",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Oct 15–31",
-   "time": "10 AM–6 PM",
-   "place": "Stocker Farms, Snohomish",
-   "placeLines": "Stocker Farms, Snohomish\n8705 Marsh Rd, Snohomish, WA, 98296",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$2 – $30.95",
-   "free": false,
-   "summary": "Plan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze!",
-   "description": "Plan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze! You’ll find something for everyone in our 30+ farm fun attractions!\n\nGeneral Attractions: Some of our top attractions include: Entry into the U-Pick Pumpkin Patch, Corn Maze, Two Giant Jumping Pillows (weather permitting), Pumpkin Barn, One Mega Slide Ride, Zip Lines, Pig Races, Children’s Climbing Wall, Tractor Slide, Cow Train, Sport Ball Arcade, Corn Hole, Photo-Ops, Bubble Barn, Trike Track, Children’s Pumpkin Barn & More!\n\nAttractions Only Available on Weekends: Hay Ride, Candy Cannon & Pumpkin Cannon.\n\nTickets and pricing.",
-   "url": "https://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185746733-screenshot-2022-09-09-135814-932cbc26b76c.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Stocker Farms, 8705 Marsh Rd, Snohomish, WA, 98296",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-01",
-    "notes": "Hours: 10 AM–6 PM\n\nPlan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze!\n\nhttps://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "00d98af465",
-   "series": "f1abc59406",
-   "title": "Mexam NW Festival",
-   "start": "2026-10-15",
-   "end": "2026-10-31",
-   "startMinute": 720,
-   "endMinute": 1380,
-   "dates": "Oct 15–31",
-   "time": "12–11 PM",
-   "category": "COMMUNITY",
-   "cost": "Varies by event",
-   "summary": "Editor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration.",
-   "description": "Editor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration. Please consult the schedule for specific dates, times, fees and locations.\n\nMEXAM NW Festival 2026 is an exhilarating multi-event, multi-venue festival that spotlights the vibrant tapestry of contemporary Hispanic and Mexican-American culture. Curated by the Consulate of Mexico in Seattle and proudly presented by Delta – Aeromexico Airlines, MEXAM is supported and joined by multiple local partners.\n\nWe come together in a collective endeavor to celebrate the profound relationship between Hispanic heritage and the United States. Join us as we embrace the diversity of Hispanic culture and revel in the cultural exchange.\n\nFull schedule here.",
-   "url": "https://www.parentmap.com/calendar/mexam-nw-festival/2026-10-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188706153-screenshot-2025-08-22-121651-79b5da9ef90b.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-01",
-    "notes": "Hours: 12–11 PM\n\nEditor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration.\n\nhttps://www.parentmap.com/calendar/mexam-nw-festival/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
-  },
   {
    "id": "bacef3de95",
    "series": "e530e1210e",
@@ -760,6 +202,166 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "32ca09b0fb",
+   "series": "950c8880f7",
+   "title": "Maris Farms Fall Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "dates": "Oct 16–18",
+   "place": "Maris Farms, Buckley",
+   "placeLines": "Maris Farms, Buckley\n25001 Sumner Buckley Hwy, Buckley, WA, 98321",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$19 – $33",
+   "free": false,
+   "summary": "40+ activities and a full day of fall fun waiting for you!",
+   "description": "40+ activities and a full day of fall fun waiting for you!\n\nFall is almost here, and we cannot wait to welcome you back to the farm! Pick your day below and start planning a full day of pumpkins, pig races, farm fun, and memories with your favorite people.\n\nAll admission pricing is for anyone age 3 and up",
+   "url": "https://www.parentmap.com/calendar/maris-farms-fall-festival-s3/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775184951164-maris-home-800x647-4dca1313141c.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Maris Farms, 25001 Sumner Buckley Hwy, Buckley, WA, 98321",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-10-19",
+    "notes": "40+ activities and a full day of fall fun waiting for you!\n\nhttps://www.parentmap.com/calendar/maris-farms-fall-festival-s3/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 1,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "71987032a8",
+   "series": "be50fdedc0",
+   "title": "Picha Farms Fall Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-30",
+   "dates": "Oct 16–30",
+   "place": "Picha Farms, Puyallup",
+   "placeLines": "Picha Farms, Puyallup\n6502 52nd ST E, Puyallup, WA, 98371",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Picha Farms is ready for you to come and enjoy some fall family fun on the farm.",
+   "description": "Picha Farms is ready for you to come and enjoy some fall family fun on the farm.\nHere are the fun fall activities you get to experience:\n\n• Corn Maze — Picha Farms is celebrating our spider friends in our corn maze! You’ll stroll through the web, in search of answers to eight trivia questions. A free mini pumpkin awaits you at the exit as a reward for all your hard work.\n• Hayride — Relax and enjoy the fresh air as you meander through wide-open fields of pumpkins.\n• Slingshot — Hit your target and win $5 off your pumpkin purchase.\n• Food — Sip on a latte or hot apple cider; munch on kettle corn, enjoy gourmet hot dogs, hamburgers, tacos, potatoes and much more from our awesome vendors.\n• Fall Décor — With over 25 varieties of pumpkins to choose from, grab a wheelbarrow and stroll through the wide-open spaces. You have over 9-acres to search and find your perfect pumpkin. And don’t forget to stalk up on gourds and cornstalks.\n• If you’d like to celebrate a birthday in our birthday tent, the rental is $60 for 2 hours, including set up and clean up time. Pumpkin coupons and tickets to the maze, hayride, slingshot and kiddie train are available for purchase in our stand. (Groups wishing to gather in our party tent are also welcome to reserve a time.)\n\nCheck the Facebook page for updates.",
+   "url": "https://www.parentmap.com/calendar/picha-farms-fall-festival-2/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188293524-screenshot-2022-09-10-1341102-ab67441a3f8a.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Picha Farms, 6502 52nd ST E, Puyallup, WA, 98371",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-10-31",
+    "notes": "Picha Farms is ready for you to come and enjoy some fall family fun on the farm.\n\nhttps://www.parentmap.com/calendar/picha-farms-fall-festival-2/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "ea78f0f98f",
+   "series": "353b5d0cdb",
+   "title": "Rutledge Fall on the Farm",
+   "start": "2026-10-16",
+   "end": "2026-10-31",
+   "dates": "Oct 16–31",
+   "place": "Rutledge Corn Maze, Olympia",
+   "placeLines": "Rutledge Corn Maze, Olympia\n302 93rd Ave SE, Olympia, WA, 98501",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$10 – $13",
+   "free": false,
+   "summary": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories.",
+   "description": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories. Explore the farm, enjoy festive attractions, and experience everything that makes fall at Rutledge Family Farm special.\n\nWe have all kinds of activities.\n\nEveryday:\n\nCorn Maze (Checkpoint and FSI game)\nSwings\nCattle roping practice station\nCorn Hole bean bag toss\nWall ball maze game\nBubble barn\nSpookley photo op\nJump Pad weather permitting .\n\nFriday, Saturday and Sunday only (10am to 6pm):\n\nCorn Train\nCow train\nCorn Cannon (first shot included with admission).",
+   "url": "https://www.parentmap.com/calendar/rutledge-fall-farm-s2-3-4/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190361489-zach-the-singing-tractor-30be9ae87221.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Rutledge Corn Maze, 302 93rd Ave SE, Olympia, WA, 98501",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-11-01",
+    "notes": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories.\n\nhttps://www.parentmap.com/calendar/rutledge-fall-farm-s2-3-4/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "92f8b5f7d8",
+   "series": "6da44602ab",
+   "title": "Schilter Family Farm Fall Harvest Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-31",
+   "dates": "Oct 16–31",
+   "place": "Schilter Family Farm, Olympia",
+   "placeLines": "Schilter Family Farm, Olympia\n141 Nisqually Cutoff Road SE, Olympia, WA, 98513",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$15 – $20",
+   "free": false,
+   "summary": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun!",
+   "description": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun! Get lost in our massive corn maze, cuddle cute critters, zip down our swings, and jump to your heart’s content on our bounce pillow. And Lots of other fun to be had. Don’t forget to snag your perfect pumpkin!\n\nVisit our farm and make some special memories in the cozy Fall spirit! Enjoy our pumpkin patches, 5-acre corn maze, delicious seasonal fall food offerings and over 25 family-friendly acivities!\n\n***New this year***\nGiant Bubble Station and Pumpkin Bobber Fishing\n\nActivity bracelets provide access to farm activities (wagon ride, corn maze, animal barn, bounce pillow, etc.) our sweet Country charm gift shop is located behind the big barn.\n\nThe farm market/farm exit is located near the entrance in the white building where pumpkins are weighed and purchased.\n\nOpen 6 days a week (closed Tuesdays)!",
+   "url": "https://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-festival-s3/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185821408-screenshot-2023-09-08-113213-f9b7d72092ae.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Schilter Family Farm, 141 Nisqually Cutoff Road SE, Olympia, WA, 98513",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-11-01",
+    "notes": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun!\n\nhttps://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-festival-s3/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "ec643d5ab9",
+   "series": "f9da8f3bd3",
+   "title": "Tacoma Holiday Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "dates": "Oct 16–18",
+   "place": "Tacoma Dome",
+   "placeLines": "Tacoma Dome\n2727 E D St, Tacoma, WA, 98421-1216",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$12 – $17.50",
+   "free": false,
+   "summary": "Join us for a festive celebration of the holiday season at the 44th annual Tacoma Holiday Festival!",
+   "description": "Join us for a festive celebration of the holiday season at the 44th annual Tacoma Holiday Festival!\n\nThis annual event brings together the Tacoma community and the PNW to enjoy a delightful array of food, gifts, entertainment, and holiday spirit. Whether you’re shopping for unique gifts, savoring delicious food, or seeking a fun family outing, our festival has something for everyone.\n\nYou can look forward to:\n\nVisits with Santa Claus: Stop by the Santa area and let your kids share their Christmas wishes and snap a photo with the jolly man himself!\nPuppermint Lane: Help every pet find a home for the holidays! Meet adorable, adoptable pups from local rescues who are ready to find their fur-ever homes.\nLadies Night: On Friday, October 16 (5-7 PM), enjoy an evening of sipping and shopping with your friends! Don’t forget to enter the Ladies Night Grand Prize raffle featuring a curated collection of items from our women-owned exhibitors.\nHoliday Elf: Explore the festival while searching for the hidden holiday elf. If you find him, enter to win a $100 Visa Gift Card, thanks to ShelfGenie!",
+   "url": "https://www.parentmap.com/calendar/tacoma-holiday-festival/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/workshops11064b81a-bd5d-4b16-a307-af044e0bb1d8.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Tacoma Dome, 2727 E D St, Tacoma, WA, 98421-1216",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-10-19",
+    "notes": "Join us for a festive celebration of the holiday season at the 44th annual Tacoma Holiday Festival!\n\nhttps://www.parentmap.com/calendar/tacoma-holiday-festival/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 1,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
    "id": "2562e57e2a",
    "series": "7ca71d62ee",
    "title": "Trick or Treat Mini Print Crawl",
@@ -788,35 +390,350 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "4f740c9dff",
-   "series": "2eafa593d2",
-   "title": "Family Friendly Cider Pressing",
+   "id": "10e2ea89e0",
+   "series": "928c05f801",
+   "title": "Edmonds Museum Scarecrow Festival Contest",
    "start": "2026-10-16",
-   "end": "2026-10-17",
-   "startMinute": 600,
-   "endMinute": 720,
-   "dates": "Oct 16–17",
-   "time": "10 AM–12 PM",
-   "place": "Padilla Bay National Estuarine Research Reserve, Mount Vernon",
-   "placeLines": "Padilla Bay National Estuarine Research Reserve, Mount Vernon\n10441 Bayview Edison Rd, Mount Vernon, WA, 98273",
-   "region": "FARTHER",
-   "category": "FOOD",
-   "summary": "Learn about the Breazeale family and crank the old cider press in the orchard!",
-   "description": "Learn about the Breazeale family and crank the old cider press in the orchard! This is a hands on class suitable for ages 3 up, please register everyone in your group not just children!",
-   "url": "https://www.parentmap.com/calendar/family-friendly-cider-pressing-2/2026-10-16/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/pataleex-food-9911963_640.jpg",
+   "end": "2026-11-01",
+   "startMinute": 480,
+   "endMinute": 1080,
+   "dates": "Oct 16–Nov 1",
+   "time": "8 AM–6 PM",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!",
+   "description": "The Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!\n\nIt’s a fun event for the community, it fosters ties between businesses, residents, customers, arts and student groups, and you can have fun decorating the city for trick-or-treating.\n\n-Submit your scarecrow entry between September 24th and October 24th by 6 pm.\n-Vote for your favorite entry between October 25th and November 1st.\n-The top three winners in each category will receive a commemorative certificate. The top winners will receive a ghoulish goodie bag.\n-Winners will be announced November 8th.",
+   "url": "https://www.parentmap.com/calendar/47695-2/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185945756-muerte-florecida-800x683-2c1989b825cb.jpg",
    "imageCredit": "ParentMap",
    "sources": [
     "ParentMap"
    ],
-   "map": "Padilla Bay National Estuarine Research Reserve, 10441 Bayview Edison Rd, Mount Vernon, WA, 98273",
    "calendar": {
     "allDay": true,
     "start": "2026-10-16",
-    "end": "2026-10-18",
-    "notes": "Hours: 10 AM–12 PM\n\nLearn about the Breazeale family and crank the old cider press in the orchard!\n\nhttps://www.parentmap.com/calendar/family-friendly-cider-pressing-2/2026-10-16/"
+    "end": "2026-11-02",
+    "notes": "Hours: 8 AM–6 PM\n\nThe Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!\n\nhttps://www.parentmap.com/calendar/47695-2/2026-10-16/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "09e8b434ac",
+   "series": "5a7d5a4f25",
+   "title": "Bellewood Farms Harvest Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Oct 16–18",
+   "time": "9 AM–4 PM",
+   "place": "Bellewood Farms, Lynden",
+   "placeLines": "Bellewood Farms, Lynden\n6140 Guide Meridian Rd, Lynden, WA, 98264",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Items for purchase",
+   "summary": "If you love the Fall, and you love apples, you’ll want to visit Bellewood Farms this harvest season.",
+   "description": "If you love the Fall, and you love apples, you’ll want to visit Bellewood Farms this harvest season. You’re invited to join in the fall festivities beginning Saturday, Sep 5th, running through the Fall. Beat the weekend crowds and come on a weekday.\n\nBellewood Farms is the largest apple orchard in western Washington, with over 24 varieties and specializing in the best Honeycrisp apples on the planet. Come pick your own apples for a fun farm experience. Our pumpkin patch opens Sep 26th and is the largest in Whatcom County.\n\nU-pick Apples: Experience picking your own fresh fruit when the orchard opens on 9/5, starting off with Tsugaru apples, a farm favorite. Other varieties will follow each week. Our Farmstore also has the best of the crop apples, clean and ready to take home. Check back here for info on u-pick varieties:\n\n9/5-13 Tsugaru Apples\n\nTasty Food: Enjoy a special harvest breakfast and lunch menu in our Ten Mile Cafe and Bakery. Featuring apple cider slushies, local beers and hard cider, and Lynden’s best cinnamon rolls.\n\nFun Gifts: Grab some fun gifts in our Farmstore where we carry wide varieties of apples and cider and Caramel apples, and our famous Honey Roasted Peanut Butter\n\nBin Rides: Travel out to the orchard on a tractor pulled bin train (nominal charge). Or get some fresh air and walk out to the orchard for a healthy family experience.\n\nSchool Tours (weekdays only): Reserve a spot for your Whatcom County school. We love sharing with kids and the community…",
+   "url": "https://www.parentmap.com/calendar/bellewood-farms-harvest-festival/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775186090143-unnamed---2024-08-27t095534615-ee508a415727.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Bellewood Farms, 6140 Guide Meridian Rd, Lynden, WA, 98264",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-10-19",
+    "notes": "Hours: 9 AM–4 PM\n\nIf you love the Fall, and you love apples, you’ll want to visit Bellewood Farms this harvest season.\n\nhttps://www.parentmap.com/calendar/bellewood-farms-harvest-festival/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "b57b7b94d6",
+   "series": "02c6505ff7",
+   "title": "Carpinito Brothers Fall Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-31",
+   "startMinute": 540,
+   "endMinute": 1080,
+   "dates": "Oct 16–31",
+   "time": "9 AM–6 PM",
+   "place": "Carpinito Brothers Farm, Kent",
+   "placeLines": "Carpinito Brothers Farm, Kent\nS. 277th and West Valley Highway, Kent, WA, 98032",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "$7",
+   "free": false,
+   "summary": "On a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze.",
+   "description": "On a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze. Throughout the farm, you’ll encounter a sea of pumpkins, challenging corn mazes, kids activities, and plenty of photo inspiration. No pets, firearms or smoking/vaping, please.\n\n-Meet the farm animals\n-Play in the kids area\n-Take a hayride\n-Race rubber ducks\n-Practice your roping\n… and so much more!\n\nPlan to bring the whole family for a day full of fun!\n\nPatch and corn maze: 27508 W. Valley Hwy N., Kent. Farm Fun Yard: 6720 S 277th St., Kent.",
+   "url": "https://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775079648246-165_carpinitos-pumpkin-patch-84-e7e0d602f503-768x512.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Carpinito Brothers Farm, S. 277th and West Valley Highway, Kent, WA, 98032",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-11-01",
+    "notes": "Hours: 9 AM–6 PM\n\nOn a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze.\n\nhttps://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "1cc86d455c",
+   "series": "ae5353c9a5",
+   "title": "Pumpkin Farm and Puzzle Patch",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "startMinute": 540,
+   "endMinute": 1140,
+   "dates": "Oct 16–18",
+   "time": "9 AM–7 PM",
+   "place": "JB Family Growers, Woodinville",
+   "placeLines": "JB Family Growers, Woodinville\n14063 NE 145th Street, Woodinville, WA, 98072",
+   "region": "EASTSIDE",
+   "category": "SEASONAL",
+   "cost": "$2 – $12",
+   "free": false,
+   "summary": "Spend hours exploring miles of winding trails through our giant corn maze, hand-pick the perfect pumpkin, mini squash, or colorful gourds, and capture…",
+   "description": "Spend hours exploring miles of winding trails through our giant corn maze, hand-pick the perfect pumpkin, mini squash, or colorful gourds, and capture beautiful photos that you’ll treasure for years to come. Whether it’s your first visit or an annual tradition, there’s something special waiting for everyone at the farm.\nWe can’t wait to welcome you for a fun-filled autumn adventure that’s affordable, memorable, and full of everything you love about the season. Come make lasting memories with us this fall!",
+   "url": "https://www.parentmap.com/calendar/pumpkin-farm-and-puzzle-patch/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188861538-ig_692022_62a247ce6a0ed105068264_0-45a8d8ce63c1.jpeg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "JB Family Growers, 14063 NE 145th Street, Woodinville, WA, 98072",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-10-19",
+    "notes": "Hours: 9 AM–7 PM\n\nSpend hours exploring miles of winding trails through our giant corn maze, hand-pick the perfect pumpkin, mini squash, or colorful gourds, and capture…\n\nhttps://www.parentmap.com/calendar/pumpkin-farm-and-puzzle-patch/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 1,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "5f61ef6480",
+   "series": "81f2a3e6a5",
+   "title": "Spooner Farms Harvest Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-31",
+   "startMinute": 540,
+   "endMinute": 1080,
+   "dates": "Oct 16–31",
+   "time": "9 AM–6 PM",
+   "place": "Spooner Farms, Puyallup",
+   "placeLines": "Spooner Farms, Puyallup\n9710 State Route 162 E, Puyallup, WA, 98374",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882!",
+   "description": "The Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882! This year we are harvesting over 50 varieties of pumpkins, gourds, squash, and corn.\n\nDuring October most of the farm is available for your enjoyment as we celebrate fall the way we love – with fun for the whole family, including our pumpkin patch, corn maze, and more.\n\nEnjoy these activities:\n\n• Pumpkin Sling Shot\n\n• Farm Animals\n\n• Gift Shop\n\n• Pete’s Play Town\n\n• Concessions\n\n• Speedway\n\n• Candy Store\n\n• Caramel Popcorn\n\n• Caramel Apples\n\n• Roasted Corn (weekends only)\n\n• Becky’s Animal Barn\n\n• Corn Maze\n\n• Great Fall Decorations\n\n• Fun for the whole family\n\nOpen Daily 9:00 AM TO 6:00 PM Sept. 27th – Oct. 31st",
+   "url": "https://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775080201941-spooner-farm-harvest-festivaljpg-c92c11312f2a.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Spooner Farms, 9710 State Route 162 E, Puyallup, WA, 98374",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-11-01",
+    "notes": "Hours: 9 AM–6 PM\n\nThe Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882!\n\nhttps://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "a580b67550",
+   "series": "a54d077e49",
+   "title": "Thomasson Family Farm Fall Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-30",
+   "startMinute": 570,
+   "endMinute": 1050,
+   "dates": "Oct 16–30",
+   "time": "9:30 AM–5:30 PM",
+   "place": "Thomasson Family Farm, Enumclaw",
+   "placeLines": "Thomasson Family Farm, Enumclaw\n38223 236th Ave SE, Enumclaw, WA, 98022-8812",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$2 – $23",
+   "free": false,
+   "summary": "Join us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food.",
+   "description": "Join us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food. #WeGrowFun\n\nWEEKDAY (Mon-Fri): Entrance onto our farm, Wagon rides, Corn maze, jr. Corn maze, Farm animals, Tractor train rides, Corn box, gravel pit, tetherball, Feedbox basketball, Life size foosball, Chalkboard house, Farm inspired playground activities, Sand pit, Backyard Billiards, Slides, Trike track (Kids & Adults), Bubble table, Rubber duck races, Corn hole, Rainy day alley way (indoor activities), Wall mazes, Who’s your pumpkin, Activity tables, Fairy tail trail, Giant connect 4, Giant jenga, Gift Shop, Photo ops. Open Food Locations: Cathy’s Kitchen serves pizza, hot sandwiches, nachos & pies, Latte Stand, the Mercantile, carries sweet treats such as fudge, caramel apples and more.\n\nWEEKEND (Sat & Sun): Entrance onto our farm, All weekday activities listed above, plus: Apple sling shot, Laser tag (weather permitting), Mega Slide, Zip Line. All Food Locations Open: Cathy’s Kitchen, Feed Store, Mini Donuts, Ice Cream Parlor, Latte Stand, Kettle Corn.\nAdmission prices differ between weekdays (Mon–Fri) and weekends (Sat–Sun), as select attractions and food stations are closed on weekdays.",
+   "url": "https://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-s3/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775189809733-img_2956-a92d5218c27d.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Thomasson Family Farm, 38223 236th Ave SE, Enumclaw, WA, 98022-8812",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-10-31",
+    "notes": "Hours: 9:30 AM–5:30 PM\n\nJoin us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food.\n\nhttps://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-s3/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "f734a81193",
+   "series": "bfc6566ce2",
+   "title": "A Very Farmy Halloween Edition",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "startMinute": 600,
+   "endMinute": 1080,
+   "dates": "Oct 16–18",
+   "time": "10 AM–6 PM",
+   "place": "Luckie Farms, Lake Stevens",
+   "placeLines": "Luckie Farms, Lake Stevens\n930 Sunnyside Blvd, Lake Stevens, WA, 98258",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$35",
+   "free": false,
+   "summary": "October only- Halloween costumes (especially farm themed) encouraged!",
+   "description": "October only- Halloween costumes (especially farm themed) encouraged! Lots of fall photo opportunities await!\n\nThis is the only place in the Pacific Northwest where you can pet, feed, and connect with Scottish Highland cows, yaks, reindeer, alpacas, mini donkeys, and horses—all in one unforgettable visit. And yes, our adorable baby calves can’t wait to meet you!\n\nMore than just a tour, this is your chance to slow down in nature, savor the moment, and create heartwarming memories with majestic animals. Perfect for all ages!",
+   "url": "https://www.parentmap.com/calendar/a-very-farmy-halloween-edition/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/e5510e7c-1331-4d23-9c89-9b585d13af06.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Luckie Farms, 930 Sunnyside Blvd, Lake Stevens, WA, 98258",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-10-19",
+    "notes": "Hours: 10 AM–6 PM\n\nOctober only- Halloween costumes (especially farm themed) encouraged!\n\nhttps://www.parentmap.com/calendar/a-very-farmy-halloween-edition/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "351ee64325",
+   "series": "635bcc1f6c",
+   "title": "Craven Farm Fall Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "startMinute": 600,
+   "endMinute": 1080,
+   "dates": "Oct 16–18",
+   "time": "10 AM–6 PM",
+   "place": "Craven Farm, Snohomish",
+   "placeLines": "Craven Farm, Snohomish\n13817 Shorts School Rd, Snohomish, WA, 98290-6907",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Named Washington State’s  best pumpkin patch  by “Readers Digest” in 2019, and more recently  among the best pumpkin farms in the country (!), this farm is…",
+   "description": "Named Washington State’s best pumpkin patch by “Readers Digest” in 2019, and more recently among the best pumpkin farms in the country(!), this farm is justifiably very popular, especially with younger kids.\n\nAs the Snohomish Valley’s Original Pumpkin Patch, Craven Farm is a decades old tradition for many families. Continue your family tradition or start a new one this fall at Craven Farm!\n\nAt Craven Farm, we’re dedicated to creating an enjoyable and memorable fall experience for everyone who visits us. Our farm offers an extensive range of activities to suit all age groups, including apple cannons and slingers, fair foods, espresso, and donuts. Our unique attractions like cow trains, wagon rides, multiple acres of themed corn mazes, jump pad & animals are sure to keep you entertained for hours on end. Visit us today and make some unforgettable memories with us this fall!\n\nCheck out our huge list of pumpkin extravaganzas happening this year.",
+   "url": "https://www.parentmap.com/calendar/craven-farm-fall-festival-0/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187588608-craven-farm-pumpkin-patchjpg-ea0a337f1a6e.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Craven Farm, 13817 Shorts School Rd, Snohomish, WA, 98290-6907",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-10-19",
+    "notes": "Hours: 10 AM–6 PM\n\nNamed Washington State’s  best pumpkin patch  by “Readers Digest” in 2019, and more recently  among the best pumpkin farms in the country (!), this farm is…\n\nhttps://www.parentmap.com/calendar/craven-farm-fall-festival-0/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "d9c90628b3",
+   "series": "3de80e4877",
+   "title": "Fall Festival at Bob’s Corn and Pumpkin Farm",
+   "start": "2026-10-16",
+   "end": "2026-11-01",
+   "startMinute": 600,
+   "endMinute": 1140,
+   "dates": "Oct 16–Nov 1",
+   "time": "10 AM–7 PM",
+   "place": "Bob’s Corn and Pumpkin Farm, Snohomish",
+   "placeLines": "Bob’s Corn and Pumpkin Farm, Snohomish\n10917 Elliott Rd, Snohomish, WA, 98296-8106",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$2 – $28.95",
+   "free": false,
+   "summary": "Welcome to Bob’s Fall Festival!",
+   "description": "Welcome to Bob’s Fall Festival! We have combined some of the best parts of the fall season into what we are now calling our Annual Fall Festival! Pumpkins and Corn are part of what we are known for here and we love it! Plan a visit between September 19th and November 1st to enjoy a fun tractor ride down to our lower fields, pick your own pumpkins from our pumpkin patches, find your way through our corn maze, enjoy some of Sarah’s famous donuts, drink some hot apple cider, and pick up your farm favorite treats in our Country Store! Coming on a Saturday or Sunday? Eat lunch or dinner at our Country Kitchen or try some of our roasted corn! Bob’s Corn is the place to be this fall!",
+   "url": "https://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775184855087-2016bobscornmaze-6e081d183b0a.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Bob’s Corn and Pumpkin Farm, 10917 Elliott Rd, Snohomish, WA, 98296-8106",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-11-02",
+    "notes": "Hours: 10 AM–7 PM\n\nWelcome to Bob’s Fall Festival!\n\nhttps://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
+   "id": "01ab81a31c",
+   "series": "b54a23153b",
+   "title": "Harvest Festival at Swans Trail Farms",
+   "start": "2026-10-16",
+   "end": "2026-10-31",
+   "startMinute": 600,
+   "endMinute": 1080,
+   "dates": "Oct 16–31",
+   "time": "10 AM–6 PM",
+   "place": "Swan’s Trail Farms, Snohomish",
+   "placeLines": "Swan’s Trail Farms, Snohomish\n7301 Rivershore Rd., Snohomish, WA, 98290",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$1 – $25",
+   "free": false,
+   "summary": "Get ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle!",
+   "description": "Get ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle! Harvest Festival is open daily from 10 AM–6 PM, with U-Pick apples and pumpkins, family-friendly attractions, farm-fresh food, and plenty of fall memories to make. Don’t miss our magical pumpkin garden, a favorite spot for fall photos!\n\nEnjoy the full experience of the Harvest Festival with over 30+ farm fun attractions! Wander through the legendary Washington State Corn Maze, a 12-acre masterpiece meticulously shaped like our state. You’ll navigate 4.5 miles of paths, discovering over 700 state roads and landmarks. Afterward, warm up with our famous apple cider donuts and fresh-pressed cider, or visit our Cidery for a hard cider made with apples from our own orchard. With friendly farm animals and a charming Country Store full of local honey and goods, jarred food, fall and farm-related decor, books, puzzles, and more; there’s something for everyone to enjoy. Come spend the day with us and make lasting fall memories!",
+   "url": "https://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190565890-wagon-ride--102b1d0eace0.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Swan’s Trail Farms, 7301 Rivershore Rd., Snohomish, WA, 98290",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-11-01",
+    "notes": "Hours: 10 AM–6 PM\n\nGet ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle!\n\nhttps://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
   },
   {
    "id": "c8b1ce1b98",
@@ -852,105 +769,69 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "78bded79f2",
-   "series": "f4f17285b0",
-   "title": "Trick or Tree: Glow-In-The-Dark Candy Egg Hunt",
+   "id": "b7d5cdb7c7",
+   "series": "cf6661baf0",
+   "title": "Stocker Farms Fall Festival",
    "start": "2026-10-16",
-   "end": "2026-10-17",
-   "startMinute": 1050,
-   "endMinute": 1260,
-   "dates": "Oct 16–17",
-   "time": "5:30–9 PM",
-   "place": "Olmsted Tree Farms, Poulsbo",
-   "placeLines": "Olmsted Tree Farms, Poulsbo\n17526 Clear Creek RD NW, Poulsbo, WA, 98370",
+   "end": "2026-10-31",
+   "startMinute": 600,
+   "endMinute": 1080,
+   "dates": "Oct 16–31",
+   "time": "10 AM–6 PM",
+   "place": "Stocker Farms, Snohomish",
+   "placeLines": "Stocker Farms, Snohomish\n8705 Marsh Rd, Snohomish, WA, 98296",
    "region": "FARTHER",
    "category": "SEASONAL",
-   "cost": "$17.99 – $33.99",
+   "cost": "$2 – $30.95",
    "free": false,
-   "kids": true,
-   "summary": "A One-Of-A-Kind Event!",
-   "description": "A One-Of-A-Kind Event!\nTrick or Tree – Glow-In-The-Dark Egg Hunt is an epic night of family fun! Your kids will scour our Christmas tree field where THOUSANDS of glowing and non-glowing hidden candy-filled eggs are just waiting to be found. The best part? They’ll do it in the dark! And 3 lucky golden egg winners will win a special prize each night! After filling their buckets, the Spooky Woods await them – only if they dare! Choose from 6 nights in October!\n\nBut don’t forget all the fun even before the hunt kicks off!\n\nYour admission price also includes:\n\nFamily Stage Show\nDJ Dance Party\nTrolley Ride\nCandy Grab\nClimbing Hay Tower\nSpooky Woods Walk\nBon Fires\nFamily Games\nReal Fire Truck\n\nFamily Stage Show Schedule\n\nOct. 9: Wren the Juggler\nOct. 10: Zerbe the Zaniac\nOct. 16: Zerbe the Zaniac\nOct. 17: Wren the Juggler\nOct. 23: Zerbe the Zaniac\nOct. 24: The Magic of Louie Foxx",
-   "url": "https://www.parentmap.com/calendar/trick-or-tree-glow-dark-candy-egg-hunt/2026-10-16/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773118488041-screenshot-2024-09-23-092246-e154c1d84fa6.png",
+   "summary": "Plan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze!",
+   "description": "Plan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze! You’ll find something for everyone in our 30+ farm fun attractions!\n\nGeneral Attractions: Some of our top attractions include: Entry into the U-Pick Pumpkin Patch, Corn Maze, Two Giant Jumping Pillows (weather permitting), Pumpkin Barn, One Mega Slide Ride, Zip Lines, Pig Races, Children’s Climbing Wall, Tractor Slide, Cow Train, Sport Ball Arcade, Corn Hole, Photo-Ops, Bubble Barn, Trike Track, Children’s Pumpkin Barn & More!\n\nAttractions Only Available on Weekends: Hay Ride, Candy Cannon & Pumpkin Cannon.\n\nTickets and pricing.",
+   "url": "https://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185746733-screenshot-2022-09-09-135814-932cbc26b76c.png",
    "imageCredit": "ParentMap",
    "sources": [
     "ParentMap"
    ],
-   "map": "Olmsted Tree Farms, 17526 Clear Creek RD NW, Poulsbo, WA, 98370",
+   "map": "Stocker Farms, 8705 Marsh Rd, Snohomish, WA, 98296",
    "calendar": {
     "allDay": true,
     "start": "2026-10-16",
-    "end": "2026-10-18",
-    "notes": "Hours: 5:30–9 PM\n\nA One-Of-A-Kind Event!\n\nhttps://www.parentmap.com/calendar/trick-or-tree-glow-dark-candy-egg-hunt/2026-10-16/"
+    "end": "2026-11-01",
+    "notes": "Hours: 10 AM–6 PM\n\nPlan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze!\n\nhttps://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-16/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
   },
   {
-   "id": "3090366d7c",
-   "series": "b92ec65d05",
-   "title": "Arbor Day and Oaktoberfest",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 540,
-   "endMinute": 780,
-   "dates": "Sat, Oct 17",
-   "time": "9 AM–1 PM",
-   "place": "Meadowbrook Farm Interpretive Center, North Bend",
-   "placeLines": "Meadowbrook Farm Interpretive Center, North Bend",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "On Saturday, October 17, grab your gardening gloves and shovel, dress for the weather, and meet up at the Meadowbrook Farm Interpretive Center for two hands-on…",
-   "description": "On Saturday, October 17, grab your gardening gloves and shovel, dress for the weather, and meet up at the Meadowbrook Farm Interpretive Center for two hands-on community events that celebrate local environmental conservation! https://www.northbendwa.gov/m/calendar/event/detail/4739",
-   "url": "https://www.northbendwa.gov/m/calendar/event/detail/4739",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-131432.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "City of North Bend",
-    "ParentMap"
-   ],
-   "map": "Meadowbrook Farm Interpretive Center, Meadowbrook Farm Interpretive Center - 1711 Boalch Ave NW North Bend WA 98045",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T16:00:00Z",
-    "end": "2026-10-17T20:00:00Z",
-    "notes": "On Saturday, October 17, grab your gardening gloves and shovel, dress for the weather, and meet up at the Meadowbrook Farm Interpretive Center for two hands-on…\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4739"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "dc409efbe1",
-   "series": "627be6975a",
-   "title": "Issaquah Goes Apples",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 540,
-   "endMinute": 840,
-   "dates": "Sat, Oct 17",
-   "time": "9 AM–2 PM",
-   "place": "Historic Shell Station & Downtown Issaquah",
-   "placeLines": "Historic Shell Station & Downtown Issaquah\n232 Front St N, Issaquah, WA, 98027-3232",
-   "region": "EASTSIDE",
+   "id": "00d98af465",
+   "series": "f1abc59406",
+   "title": "Mexam NW Festival",
+   "start": "2026-10-16",
+   "end": "2026-10-31",
+   "startMinute": 720,
+   "endMinute": 1380,
+   "dates": "Oct 16–31",
+   "time": "12–11 PM",
    "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "This community event celebrates the harvest season in historic Downtown Issaquah with a variety of fun activities, including a Farm Fresh Market, Historically…",
-   "description": "This community event celebrates the harvest season in historic Downtown Issaquah with a variety of fun activities, including a Farm Fresh Market, Historically Hip Artisan Market, apple cider press, scarecrow building, art experiences, seasonal photo opportunities, live music, and more. Shop the markets and enjoy family-friendly activities.\n\nIssaquah Goes Apples is a sweet, festive fall celebration for the whole family! Downtown bursts with apple-themed games, tasty samples, inspired dining menus, local crafts, and seasonal entertainment that get everyone laughing, exploring, and enjoying the harvest season.\n\nIt’s a celebration that keeps downtown buzzing. Families and visitors wander from shop to shop, supporting local businesses while savoring the flavors of the region’s apple harvest. By mixing fun, food, and fall festivities, Issaquah Goes Apples brings the community together, sparks joy across generations, and turns downtown into a lively, family-friendly destination that feels warm, welcoming, and unmistakably seasonal.",
-   "url": "https://www.parentmap.com/calendar/54920/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775080223205-apple-g2ab5287b7_640-0bb6f34015fc.jpg",
+   "cost": "Varies by event",
+   "summary": "Editor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration.",
+   "description": "Editor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration. Please consult the schedule for specific dates, times, fees and locations.\n\nMEXAM NW Festival 2026 is an exhilarating multi-event, multi-venue festival that spotlights the vibrant tapestry of contemporary Hispanic and Mexican-American culture. Curated by the Consulate of Mexico in Seattle and proudly presented by Delta – Aeromexico Airlines, MEXAM is supported and joined by multiple local partners.\n\nWe come together in a collective endeavor to celebrate the profound relationship between Hispanic heritage and the United States. Join us as we embrace the diversity of Hispanic culture and revel in the cultural exchange.\n\nFull schedule here.",
+   "url": "https://www.parentmap.com/calendar/mexam-nw-festival/2026-10-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188706153-screenshot-2025-08-22-121651-79b5da9ef90b.jpg",
    "imageCredit": "ParentMap",
    "sources": [
     "ParentMap"
    ],
-   "map": "Historic Shell Station & Downtown Issaquah, 232 Front St N, Issaquah, WA, 98027-3232",
    "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T16:00:00Z",
-    "end": "2026-10-17T21:00:00Z",
-    "notes": "This community event celebrates the harvest season in historic Downtown Issaquah with a variety of fun activities, including a Farm Fresh Market, Historically…\n\nhttps://www.parentmap.com/calendar/54920/"
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-11-01",
+    "notes": "Hours: 12–11 PM\n\nEditor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration.\n\nhttps://www.parentmap.com/calendar/mexam-nw-festival/2026-10-16/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
   },
   {
    "id": "c3bfc8a5f7",
@@ -1019,104 +900,6 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "1811acb36c",
-   "series": "1cea9b8a2b",
-   "title": "Bayanihan Fest at Kerry Hall",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sat, Oct 17",
-   "time": "10 AM–2 PM",
-   "place": "Kerry Hall, Seattle",
-   "placeLines": "Kerry Hall, Seattle\n710 E Roy St, Seattle, WA, 98102",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Celebrate Filipino American History Month with Seattle Theatre Group on October 17 at STG’s Kerry Hall on Capitol Hill in Seattle.",
-   "description": "Celebrate Filipino American History Month with Seattle Theatre Group on October 17 at STG’s Kerry Hall on Capitol Hill in Seattle. Events will include free workshops, performances, arts & crafts for the family and market/vendors. Join STG for a fun-filled day of events and celebration!\n\nFilipino American History Month is celebrated every October to commemorate the first Filipinos arriving in the continental United States in Morro Bay, California on October 18, 1587. The month-long celebration highlights the history and contributions of Filipino Americans to the United States.\n\nSTAGE\n10am – 2pm\nPerformances include Kontagious Performing Company, Pork-Filled Productions, Sayaw Dance Troupe, Beatbox Panda and screening of 2026 DANCE This\n\nMARKET (101 & 105)\n10am – 2pm\nMarket and food vendors\n\nWORKSHOPS\nWalis Broom Workshops with Michelle Matulac\n10am & 12pm\nFor information and registration\n\nFilipino Story Time Seattle\n10:30am – 11:30am\nFor more information\n\nParol Making Workshop\n1pm – 2pm\nFor more information",
-   "url": "https://www.parentmap.com/calendar/bayanihan-fest-kerry-hall/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2025/10/Screenshot-2026-10-13-121332.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Kerry Hall, 710 E Roy St, Seattle, WA, 98102",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T17:00:00Z",
-    "end": "2026-10-17T21:00:00Z",
-    "notes": "Celebrate Filipino American History Month with Seattle Theatre Group on October 17 at STG’s Kerry Hall on Capitol Hill in Seattle.\n\nhttps://www.parentmap.com/calendar/bayanihan-fest-kerry-hall/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "6c0bb07f8d",
-   "series": "f0f0316615",
-   "title": "Delridge Farmers Market",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sat, Oct 17",
-   "time": "10 AM–2 PM",
-   "place": "Seattle",
-   "placeLines": "8855 9th Ave SW, Seattle WA 98106",
-   "region": "SEATTLE",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Neighborhoods: Delridge/North Delridge,Highland Park Audience: Adults,All,Children,Family,Pets,Senior,Special Needs,Teen Contact: Indra Budiman Pre-Register:…",
-   "description": "Neighborhoods: Delridge/North Delridge,Highland Park\nAudience: Adults,All,Children,Family,Pets,Senior,Special Needs,Teen\nContact: Indra Budiman\nPre-Register: No\nCost: Free\n\nThe Delridge Farmers Market is operating at a new location in the beautiful Highland Park neighborhood at 8855 9th Ave SW, Seattle, WA 98106! This move intentionally brings community activation to the corner of 9th Ave SW and SW Henderson, adjacent to the site of ACHD’s future Seattle International Public Market development proect expected to break ground in late 2027.\nLed by African Community Housing & Development (ACHD), our markets prioritize farmers, food producers, and artisans of color. We operate as a true nonprofit market charging no vendor fees, so vendors keep 100% of their earnings. In partnership with local organizations, we also provide free food, wellness resources, and community services, distributing thousands of dollars in food and resources at each market. We hope you can join us on opening day, or anytime during the season, as we advance food justice, health equity, and economic development in Southwest Seattle through a community-centered market model.",
-   "url": "https://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D203367773",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "8855 9th Ave SW, Seattle WA 98106",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T17:00:00Z",
-    "end": "2026-10-17T21:00:00Z",
-    "notes": "Neighborhoods: Delridge/North Delridge,Highland Park Audience: Adults,All,Children,Family,Pets,Senior,Special Needs,Teen Contact: Indra Budiman Pre-Register:…\n\nhttps://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D203367773"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "95cc740727",
-   "series": "f2404b53a9",
-   "title": "Duwamish Alive! Saving Our Salmon Saves Our Orca",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sat, Oct 17",
-   "time": "10 AM–2 PM",
-   "place": "Seattle",
-   "placeLines": "4600 W Marginal Way SW, Seattle, WA 98106",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join Duwamish Alive!",
-   "description": "Join Duwamish Alive! this Fall as our salmon are returning in our Green-Duwamish River, with this watershed wide effort in improving the health of our salmon by restoring their habitat which provides food, shelter and cool, clean water that salmon need. Volunteers will be restoring native habitat on in multiple urban parks and open spaces in the ongoing effort to keep our river alive and healthy for our communities, salmon and the Puget Sound. Proving that by working together, we can make a substantial difference in improving the health of our region. This is a family friendly event, ALL ARE WELCOME!\n\nTo volunteer, visit DuwamishAlive.org to see the different volunteer opportunities and register for the site of your choice, or email info@duwamishalive.org",
-   "url": "https://www.parentmap.com/calendar/duwamish-alive-celebrate-salmon-homecoming-saturday/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185095970-30902-3831bdf8a050.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap",
-    "City of Seattle"
-   ],
-   "map": "4600 W Marginal Way SW, Seattle, WA 98106",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T17:00:00Z",
-    "end": "2026-10-17T21:00:00Z",
-    "notes": "Join Duwamish Alive!\n\nhttps://www.parentmap.com/calendar/duwamish-alive-celebrate-salmon-homecoming-saturday/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
    "id": "70f536d38a",
    "series": "e59c32875c",
    "title": "Fairbank Animal & Pumpkin Farm",
@@ -1146,100 +929,6 @@
     "start": "2026-10-17",
     "end": "2026-10-19",
     "notes": "Hours: 10 AM–5 PM\n\nThe farm and pumpkin fields are Open on weekends in October Open 10am-5pm, Saturday and Sundays The farm opens for you to see all the animals and pumpkin…\n\nhttps://www.parentmap.com/calendar/fairbank-animal-pumpkin-farm/2026-10-17/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "67f6072ba8",
-   "series": "ce32debbfa",
-   "title": "Fall Festival and Pumpkin Patch",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 600,
-   "endMinute": 720,
-   "dates": "Sat, Oct 17",
-   "time": "10 AM–12 PM",
-   "place": "Kiddie Academy of Kenmore",
-   "placeLines": "Kiddie Academy of Kenmore\n7800 NE Bothell Way, Kenmore, WA, 98028",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Life is gourd, but it’s even better when we’re together!",
-   "description": "Life is gourd, but it’s even better when we’re together!\n\nJoin us for our Fall Festival! It’ll be a family-friendly morning full of pumpkins, crisp autumn air, and seasonal fun. Drop by, explore the patch, and celebrate the season with us. Check the details below and save the date!\n\nDate: Saturday, 10/17\nTime: 10AM-12PM\nLocation: Kiddie Academy of Kenmore | 7760 NE Bothell Way, Kenmore, WA 98028\n\nEvent is free, registration is recommended to ensure we have plenty for our guests! Bring the kids, invite the neighbors, and let’s make some memories. We can’t wait to see you there!",
-   "url": "https://www.parentmap.com/calendar/fall-festival-and-pumpkin-patch/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Kenmore-1017-Parent-Map-Patch.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Kiddie Academy of Kenmore, 7800 NE Bothell Way, Kenmore, WA, 98028",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T17:00:00Z",
-    "end": "2026-10-17T19:00:00Z",
-    "notes": "Life is gourd, but it’s even better when we’re together!\n\nhttps://www.parentmap.com/calendar/fall-festival-and-pumpkin-patch/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "79bfc221ef",
-   "series": "d6c34c29ed",
-   "title": "Harvest Fest & PlayGarden Community Reunion",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 600,
-   "endMinute": 780,
-   "dates": "Sat, Oct 17",
-   "time": "10 AM–1 PM",
-   "place": "Seattle Children’s PlayGarden",
-   "placeLines": "Seattle Children’s PlayGarden\n1745 24th Ave S, Seattle, WA, 98144-4624",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us for a day of Fall festivities at the PlayGarden!",
-   "description": "Join us for a day of Fall festivities at the PlayGarden! We will have inclusive and family-friendly activities for all to enjoy including an Autumn leaf print making station, a cozy campfire in the grape arbor, festive photo opportunities, a pumpkin carving station, & a pie potluck!\n\nDon’t forget to BYOP- Bring Your Own Pumpkins and/or Pie for the pie potluck!\n\nOur PlayGarden staff will be excited to greet and play with your kids, carve pumpkins, make art projects and help your family visit with our flock of chickens, ducks and rabbits.\n\nThis event is free to attend and requires no prior registration.",
-   "url": "https://www.parentmap.com/calendar/harvest-fest-playgarden-community-reunion/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190424375-screenshot-2024-09-19-093422-4a474e63d321.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Children’s PlayGarden, 1745 24th Ave S, Seattle, WA, 98144-4624",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T17:00:00Z",
-    "end": "2026-10-17T20:00:00Z",
-    "notes": "Join us for a day of Fall festivities at the PlayGarden!\n\nhttps://www.parentmap.com/calendar/harvest-fest-playgarden-community-reunion/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "e63736090d",
-   "series": "43a40c6e7c",
-   "title": "Harvest Festival",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 600,
-   "endMinute": 900,
-   "dates": "Sat, Oct 17",
-   "time": "10 AM–3 PM",
-   "place": "Farrel-McWhirter Park, Redmond",
-   "placeLines": "Farrel-McWhirter Park, Redmond",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "summary": "https://www.redmond.gov/calendar.aspx?EID=3559",
-   "url": "https://www.redmond.gov/calendar.aspx?EID=3559",
-   "sources": [
-    "City of Redmond"
-   ],
-   "map": "Farrel-McWhirter Park, Farrel-McWhirter Park - 19545 Redmond Road Redmond WA 98052",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T17:00:00Z",
-    "end": "2026-10-17T22:00:00Z",
-    "notes": "https://www.redmond.gov/calendar.aspx?EID=3559\n\nhttps://www.redmond.gov/calendar.aspx?EID=3559"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
   },
@@ -1310,39 +999,6 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "f839ba17f5",
-   "series": "05b7fbed69",
-   "title": "Pumpkin Plunge",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Sat, Oct 17",
-   "time": "10 AM–5 PM",
-   "place": "Federal Way Community Center",
-   "placeLines": "Federal Way Community Center\n876 S 333rd St, Federal Way, WA, 98003-6343",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "$10 – $12",
-   "free": false,
-   "summary": "Pre-Registration will be required!",
-   "description": "Pre-Registration will be required!\n\nJoin us for the Third Annual Pumpkin Plunge at the Federal Way Community Center on Saturday, October 17! Enjoy a unique pumpkin picking experience in our pools. Swim around with your pumpkins and take one home afterward. Each participant will choose a floating pumpkin from the pool.\nAdmission is $10 for youth and $12 for adults. Don’t miss out on this fun and festive event!",
-   "url": "https://www.parentmap.com/calendar/pumpkin-plunge/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775080252691-screenshot-2024-09-17-114033-9cffde271f5c-e1789574658632.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Federal Way Community Center, 876 S 333rd St, Federal Way, WA, 98003-6343",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T17:00:00Z",
-    "end": "2026-10-18T00:00:00Z",
-    "notes": "Pre-Registration will be required!\n\nhttps://www.parentmap.com/calendar/pumpkin-plunge/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
    "id": "890ce1a8ab",
    "series": "b7cc5cccc7",
    "title": "Red Barn Farm Fall Festival",
@@ -1372,137 +1028,6 @@
     "start": "2026-10-17",
     "end": "2026-10-19",
     "notes": "Hours: 10 AM–4 PM\n\nFall is just around the corner, and that means it’s time for our favorite tradition of the year!\n\nhttps://www.parentmap.com/calendar/red-barn-farm-fall-festival/2026-10-17/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "e7a991ea84",
-   "series": "09b9c4a217",
-   "title": "CAToberfest",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 660,
-   "endMinute": 900,
-   "dates": "Sat, Oct 17",
-   "time": "11 AM–3 PM",
-   "place": "Renton Technical College",
-   "placeLines": "Renton Technical College\n3000 NE 4th St, Renton, WA, 98056",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Celebrate felines at this annual event, sponsored by South County Cats.",
-   "description": "Celebrate felines at this annual event, sponsored by South County Cats. Enjoy kids’ activities, exhibits, raffle, auction, a cat-themed marketplace, artisan vendors and more.\n\n• Free admission!\n• Kids’ Activities\n• Exhibits\n• Raffle\n• Artisans\n• Vendors\n• Hand Crafted Gifts\n• Cat-Themed Marketplace\n• Baked goods",
-   "url": "https://www.parentmap.com/calendar/catoberfest/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773118065886-cat-323262_640-5936a2469c92.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Renton Technical College, 3000 NE 4th St, Renton, WA, 98056",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T18:00:00Z",
-    "end": "2026-10-17T22:00:00Z",
-    "notes": "Celebrate felines at this annual event, sponsored by South County Cats.\n\nhttps://www.parentmap.com/calendar/catoberfest/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "7ea38dc344",
-   "series": "664494d16f",
-   "title": "Crow Fest",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 660,
-   "endMinute": 1020,
-   "dates": "Sat, Oct 17",
-   "time": "11 AM–5 PM",
-   "place": "Downtown Bothell",
-   "placeLines": "Downtown Bothell\nMain St, Bothell, WA, 98011",
-   "region": "EASTSIDE",
-   "category": "COMMUNITY",
-   "summary": "Crow Fest is: a harvest market / Halloween-vibes outdoor event for shopping, eating, discovering, and building community!",
-   "description": "Crow Fest is:\n\na harvest market / Halloween-vibes outdoor event for shopping, eating, discovering, and building community! It’s a super fun, family friendly event celebrating our local crows, the beautiful fall season, and a chance to shop from incredible handmade businesses! There will also be fun additions like food trucks, tarot readings, tattoos, yard games, and more!\n\nlocated in Downtown Bothell on Main St and 101st St NE!\n\nBothell is about 30 mins North of Seattle and 20 mins North of Bellevue.",
-   "url": "https://www.parentmap.com/calendar/crow-fest/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-092532.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Downtown Bothell, Main St, Bothell, WA, 98011",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T18:00:00Z",
-    "end": "2026-10-18T00:00:00Z",
-    "notes": "Crow Fest is: a harvest market / Halloween-vibes outdoor event for shopping, eating, discovering, and building community!\n\nhttps://www.parentmap.com/calendar/crow-fest/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "c5f23033e9",
-   "series": "4840c9776b",
-   "title": "Diwali Family Festival at SAAM",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 660,
-   "endMinute": 960,
-   "dates": "Sat, Oct 17",
-   "time": "11 AM–4 PM",
-   "place": "Seattle Asian Art Museum",
-   "placeLines": "Seattle Asian Art Museum\n1400 E. Prospect St., Seattle, WA, 98112",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us in celebrating Diwali, the Festival of Lights!",
-   "description": "Join us in celebrating Diwali, the Festival of Lights! Explore the galleries and a youth art exhibition, make art together, enjoy live performances, capture memories, and share delicious treats while experiencing the vibrant cultural traditions of India.\n\nSpace is limited, so be sure to reserve your free tickets for all the timed festivities!\n\nAll day\nArt making with Deepti Agrawal\nEducation Studio\nExplore patterns and motifs of India’s artistic traditions, then paint, personalize, and transform a simple wooden form guided by heritage artist and educator, Deepti Agrawal.\n\nThe Art of Visual Storytelling presentations\nStimson Auditorium\nMeet the youth artists featured in The Art of Visual Storytelling exhibition through presentations and conversations that offer a glimpse into their creative processes and connections to India’s cultural heritage presented by Deepti Designs.\n\n11–11:20 am | Tiny tot fashion show\nGarden Court\nDiscover the beauty and meaning behind some of India’s regional clothing styles through a tiny tot fashion show presented by Asha for Education Seattle.\n\n11 am–2 pm | Henna and photobooth\nAlvord Board Room\nReceive a custom henna design from Asha for Education Seattle, then capture Diwali memories with a photo booth designed by Culture Clicks Studio.\n\n11 am–3 pm | Outdoor food truck\nTaste your way through the flavors of Indian street food available for purchase from Spice Waala!\n\n11:30–11:50 am | Movement with Garba\nGarden Court\nParticipate in the vibrant and…",
-   "url": "https://www.parentmap.com/calendar/diwali-family-festival-saam/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185290696-unnamed-3_7-272ab93455f1.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Asian Art Museum, 1400 E. Prospect St., Seattle, WA, 98112",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T18:00:00Z",
-    "end": "2026-10-17T23:00:00Z",
-    "notes": "Join us in celebrating Diwali, the Festival of Lights!\n\nhttps://www.parentmap.com/calendar/diwali-family-festival-saam/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "936bb56dd9",
-   "series": "b80df6e0e7",
-   "title": "Fall Fest: Spooky Scary SCM",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 660,
-   "endMinute": 1020,
-   "dates": "Sat, Oct 17",
-   "time": "11 AM–5 PM",
-   "place": "Seattle Children’s Museum",
-   "placeLines": "Seattle Children’s Museum\n305 Harrison St, Seattle, WA, 98109-4623",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "$12",
-   "free": false,
-   "kids": true,
-   "summary": "Get ready to mix, melt, squish, create, and explore at Seattle Children’s Museum’s Spooky Scary SCM Fall Fest!",
-   "description": "Get ready to mix, melt, squish, create, and explore at Seattle Children’s Museum’s Spooky Scary SCM Fall Fest! Little goblins and ghouls can dive into a day of hands-on fun designed for the whole family.\n\n– Make magical potions\n– Melt colorful crayons onto pumpkins\n– Squish and stretch glowing slime\n– Experiment with creepy-crawly creations\n– Explore printmaking and storytelling while discovering how art can connect us to culture identity, and community.\n\nIt’s a spooky day of learning through play, where curiosity leads the way and every creepy, gooey, colorful creation is an opportunity to discover something new.\n\nWith activities designed for children of all ages, including sensory-friendly experiences for younger visitors, there’s plenty to explore for every little learner.\n\nCostumes are welcome, imaginations are encouraged, and the spooky fun is always kid-friendly!\n\nWe’ll also be joined by incredible community partners:\n\nMeet some slittery friends with Snakes and Science | Time: 1pm – 3pm\nDance to spooky tunes with Mr. Bri Guy & The Radio Flyers | Time: 3pm – 4pm",
-   "url": "https://www.parentmap.com/calendar/fall-fest-eerie-encounters/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2024/09/Screenshot-2026-09-10-111717.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Children’s Museum, 305 Harrison St, Seattle, WA, 98109-4623",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T18:00:00Z",
-    "end": "2026-10-18T00:00:00Z",
-    "notes": "Get ready to mix, melt, squish, create, and explore at Seattle Children’s Museum’s Spooky Scary SCM Fall Fest!\n\nhttps://www.parentmap.com/calendar/fall-fest-eerie-encounters/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
   },
@@ -1540,264 +1065,6 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "ba0a495bfb",
-   "series": "2c247eca1e",
-   "title": "Salmon Saturday",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 660,
-   "endMinute": 840,
-   "dates": "Sat, Oct 17",
-   "time": "11 AM–2 PM",
-   "place": "Tukwila Community Center",
-   "placeLines": "Tukwila Community Center\n12424 42nd Ave S, Tukwila, WA, 98168-2526",
-   "region": "SOUTH",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Celebrate salmon, rivers, and community at this FREE bilingual family festival!",
-   "description": "Celebrate salmon, rivers, and community at this FREE bilingual family festival! Join us for an afternoon of hands-on activities, art, education, and outdoor exploration focused on the incredible salmon that call our local waterways home.\n\nLearn about the salmon life cycle, discover how healthy rivers support wildlife and people, connect with local organizations, and find out what you can do to help protect salmon and their habitat.\n\nFestival activities include:\n\nInteractive, hands-on learning stations\n\nSalmon-themed arts and crafts\n\nInformation for anglers and fishing families\n\nLive salmon viewing along the Duwamish River\n\nFamily-friendly games and activities\n\nBilingual educational resources and programs\n\nThis event is free and open to all ages, abilities, identities, and backgrounds. The venue is ADA accessible. Come celebrate one of the Pacific Northwest’s most iconic species and learn how we can all help keep our rivers healthy for future generations.",
-   "url": "https://www.parentmap.com/calendar/salmon-saturday-0/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192415123-161-1de4f1a8b171.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Tukwila Community Center, 12424 42nd Ave S, Tukwila, WA, 98168-2526",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T18:00:00Z",
-    "end": "2026-10-17T21:00:00Z",
-    "notes": "Celebrate salmon, rivers, and community at this FREE bilingual family festival!\n\nhttps://www.parentmap.com/calendar/salmon-saturday-0/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "183794e3ae",
-   "series": "400608be52",
-   "title": "Redmond Howl-O-Ween",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 720,
-   "endMinute": 960,
-   "dates": "Sat, Oct 17",
-   "time": "12–4 PM",
-   "place": "Redmond Town Center",
-   "placeLines": "Redmond Town Center\n16474 NE 74th St Ste B-220, Redmond, WA, 98052-7802",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Redmond Howl-O-Ween is back for its 3rd annual Pup Parade + Halloween Party, bringing together costumed canines and their humans!",
-   "description": "Redmond Howl-O-Ween is back for its 3rd annual Pup Parade + Halloween Party, bringing together costumed canines and their humans!\n\n3rd Annual Redmond Howl-O-Ween\n\nPowered by OneRedmond Foundation\n\nSaturday, October 17, 2026\nNoon–4:00 PM\nRedmond Town Center\n\nCalling all good dogs, bad witches and four-legged monsters!\n\nRedmond Howl-O-Ween is back for its 3rd annual Pup Parade + Halloween Party, bringing together costumed canines and their humans for one seriously spook-tacular afternoon in Redmond.\n\nDress your pup in their Halloween best and join us for a day filled with costumes, tricks, treats, prizes, wagging tails and plenty of photo-worthy moments.",
-   "url": "https://www.parentmap.com/calendar/redmond-howl-o-ween/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-115350.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Redmond Town Center, 16474 NE 74th St Ste B-220, Redmond, WA, 98052-7802",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T19:00:00Z",
-    "end": "2026-10-17T23:00:00Z",
-    "notes": "Redmond Howl-O-Ween is back for its 3rd annual Pup Parade + Halloween Party, bringing together costumed canines and their humans!\n\nhttps://www.parentmap.com/calendar/redmond-howl-o-ween/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "62e20009e8",
-   "series": "dbace29ae9",
-   "title": "Okinawa Day",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 780,
-   "endMinute": 960,
-   "dates": "Sat, Oct 17",
-   "time": "1–4 PM",
-   "place": "Asia Pacific Cultural Center, Tacoma",
-   "placeLines": "Asia Pacific Cultural Center, Tacoma\n4851 South Tacoma Way, Tacoma, WA, 98409",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us for our Annual Okinawa Day at APCC. A FREE FAMILY EVENT we many exciting entertainment, food, hands-on activities and workshops and more.",
-   "url": "https://www.parentmap.com/calendar/okinawa-day/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-05-123906.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap",
-    "Northwest Asian Weekly"
-   ],
-   "map": "Asia Pacific Cultural Center, 4851 South Tacoma Way, Tacoma, WA, 98409",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T20:00:00Z",
-    "end": "2026-10-17T23:00:00Z",
-    "notes": "Join us for our Annual Okinawa Day at APCC. A FREE FAMILY EVENT we many exciting entertainment, food, hands-on activities and workshops and more.\n\nhttps://www.parentmap.com/calendar/okinawa-day/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "9254b4b3e8",
-   "series": "c850d15965",
-   "title": "Freeway Estates Community Orchard Cider Fest",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 840,
-   "endMinute": 960,
-   "dates": "Sat, Oct 17",
-   "time": "2–4 PM",
-   "region": "SEATTLE",
-   "category": "FOOD",
-   "cost": "Free",
-   "free": true,
-   "summary": "Building/Room #: 6th Ave NE, just north of NE 60th St - on the west side of I-5 Neighborhoods: Green Lake,Greenwood/Phinney…",
-   "description": "Building/Room #: 6th Ave NE, just north of NE 60th St - on the west side of I-5\nNeighborhoods: Green Lake,Greenwood/Phinney Ridge,Ravenna/Bryant/Roosevelt,University District,Wallingford\nEvent Types: Community,Dance,Festivals/Fairs,Gardening,Nature/Environment\nAudience: All\nSponsoring Organization: Freeway Estates Community Orchard\nContact: Ruth Callard\nContact Phone: 206-398-9091\nContact Email: rooth@zipcon.net\nSite Contact Details: 206-228-9140 Nancy H\nPre-Register: No\nCost: free\nRegistration Details: n/a\nLink: https://freewayestates.org/\n\n16th Annual Cider Fest\nFree Cider, Morris Dancers, Kid's activity, Knot-tying, Music\nSales - Homemade Pie Slices, Homemade Jam, Salsa, Bulbs and Native Plants",
-   "url": "https://freewayestates.org/",
-   "sources": [
-    "City of Seattle"
-   ],
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T21:00:00Z",
-    "end": "2026-10-17T23:00:00Z",
-    "notes": "Building/Room #: 6th Ave NE, just north of NE 60th St - on the west side of I-5 Neighborhoods: Green Lake,Greenwood/Phinney…\n\nhttps://freewayestates.org/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "0892e3dd82",
-   "series": "49f1e2a14a",
-   "title": "Halloween Costume Swap",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 840,
-   "endMinute": 960,
-   "dates": "Sat, Oct 17",
-   "time": "2–4 PM",
-   "place": "Center for Spiritual Living Ballard, Seattle",
-   "placeLines": "Center for Spiritual Living Ballard, Seattle\n2007 NW 61st St, Seattle, 98107",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "That costume your kid wore once and outgrew?",
-   "description": "That costume your kid wore once and outgrew? Someone else’s kid is dreaming of being exactly that this year. Our Halloween Costume Exchange is where costumes — for adults, kids, and babies — find their next wearer, for free. We’ll also have a mask-making station and spooky tunes going.\n\nHosted by Sustainable Ballard and Pass It at the Center for Spiritual Living Ballard, bring your gently used costumes, accessories, and Halloween gear, and take home whatever fits your crew this year.",
-   "url": "https://www.visitballard.com/event/halloween-costume-swap/",
-   "image": "https://www.visitballard.com/wp-content/uploads/2026/10/Halloween_Costume_Swap_900x900.jpg",
-   "imageCredit": "Visit Ballard",
-   "sources": [
-    "Visit Ballard"
-   ],
-   "map": "Center for Spiritual Living Ballard, 2007 NW 61st St, Seattle, 98107",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T21:00:00Z",
-    "end": "2026-10-17T23:00:00Z",
-    "notes": "That costume your kid wore once and outgrew?\n\nhttps://www.visitballard.com/event/halloween-costume-swap/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "a809a2d7e3",
-   "series": "8723fbdfae",
-   "title": "No Kings Seattle Vote Early - March and Voting Fair",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 840,
-   "endMinute": 900,
-   "dates": "Sat, Oct 17",
-   "time": "2–3 PM",
-   "place": "Westlake Park, Seattle",
-   "placeLines": "Westlake Park, Seattle",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "political": true,
-   "summary": "Building/Room #: NA Neighborhoods: Downtown Commercial Core Event Types: Public Outreach and Engagement Audience: All Sponsoring Organization: No Kings Seattle…",
-   "description": "Building/Room #: NA\nNeighborhoods: Downtown Commercial Core\nEvent Types: Public Outreach and Engagement\nAudience: All\nSponsoring Organization: No Kings Seattle Coalition\nContact: Robin Stanton\nContact Phone: 4254785641\nContact Email: rbnstntn@gmail.com\nSite Contact Details: rbnstntn@gmail.com\nPre-Register: No\nCost: free\nRegistration Details: https://www.mobilize.us/nokings/event/1035153/\nLink: https://seattleindivisible.com/no-kings-seattle-vote-early-oct-17-2026/\n\nMarch joyfully through Seattle to a Voting Fair at Seattle Center\nWe March for Free and Fair Elections, and to Protect/Defend our Vote by Mail.\nOn Oct 17th we are turning people power into voting power. Our community is coming together to celebrate voting, to make a plan to vote early, and to ensure that every eligible voter has the opportunity to cast their ballot.\nNo Kings: Vote Early events are nonpartisan and are designed to increase participation from all eligible voters.",
-   "url": "https://seattleindivisible.com/no-kings-seattle-vote-early-oct-17-2026/",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "Westlake Park, Westlake Park, 401 Pine St., Seattle, 98101",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T21:00:00Z",
-    "end": "2026-10-17T22:00:00Z",
-    "notes": "Building/Room #: NA Neighborhoods: Downtown Commercial Core Event Types: Public Outreach and Engagement Audience: All Sponsoring Organization: No Kings Seattle…\n\nhttps://seattleindivisible.com/no-kings-seattle-vote-early-oct-17-2026/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "967b754008",
-   "series": "0141db0b32",
-   "title": "Wallingford Co-op Preschool Fall Fest",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 840,
-   "endMinute": 1020,
-   "dates": "Sat, Oct 17",
-   "time": "2–5 PM",
-   "place": "Wallingford Cooperative Preschool, Seatthe",
-   "placeLines": "Wallingford Cooperative Preschool, Seatthe\n5019 Keystone Pl N, Seatthe, WA, 98103",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "kids": true,
-   "summary": "Come celebrate fall at Wallingford Cooperative Preschool’s second annual Fall Fest!",
-   "description": "Come celebrate fall at Wallingford Cooperative Preschool’s second annual Fall Fest! Our event is geared towards kids ages 18 months to 8 years. Enjoy an afternoon of food, games, and prizes! Admission is free!",
-   "url": "https://www.parentmap.com/calendar/wallingford-co-op-preschool-fall-fest/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Fall-Fest-Flyer-26-3-x-4-in-3-x-4-in-8.5-x-11-in-1-768x994.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Wallingford Cooperative Preschool, 5019 Keystone Pl N, Seatthe, WA, 98103",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T21:00:00Z",
-    "end": "2026-10-18T00:00:00Z",
-    "notes": "Come celebrate fall at Wallingford Cooperative Preschool’s second annual Fall Fest!\n\nhttps://www.parentmap.com/calendar/wallingford-co-op-preschool-fall-fest/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "433e5c573e",
-   "series": "48c2fa9721",
-   "title": "No Kings Seattle Vote Early - Voting Fair",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 870,
-   "endMinute": 990,
-   "dates": "Sat, Oct 17",
-   "time": "2:30–4:30 PM",
-   "place": "Seattle Center International Fountain",
-   "placeLines": "Seattle Center International Fountain",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "political": true,
-   "summary": "Building/Room #: NA Neighborhoods: Uptown Event Types: Public Outreach and Engagement Audience: All Sponsoring Organization: No Kings Seattle Coalition…",
-   "description": "Building/Room #: NA\nNeighborhoods: Uptown\nEvent Types: Public Outreach and Engagement\nAudience: All\nSponsoring Organization: No Kings Seattle Coalition\nContact: Robin Stanton\nContact Phone: 4254785641\nContact Email: rbnstntn@gmail.com\nSite Contact Details: rbnstntn@gmail.com\nPre-Register: No\nCost: free\nRegistration Details: https://www.mobilize.us/nokings/event/1035153/\nLink: https://seattleindivisible.com/no-kings-seattle-vote-early-oct-17-2026/\n\nVoting Fair at Seattle Center\nMusic and Entertainment. Voting information. Issue information.\nOn Oct 17th we are turning people power into voting power. Our community is coming together to celebrate voting, to make a plan to vote early, and to ensure that every eligible voter has the opportunity to cast their ballot.\nNo Kings: Vote Early events are nonpartisan and are designed to increase participation from all eligible voters.",
-   "url": "https://seattleindivisible.com/no-kings-seattle-vote-early-oct-17-2026/",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "Seattle Center International Fountain, WA",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T21:30:00Z",
-    "end": "2026-10-17T23:30:00Z",
-    "notes": "Building/Room #: NA Neighborhoods: Uptown Event Types: Public Outreach and Engagement Audience: All Sponsoring Organization: No Kings Seattle Coalition…\n\nhttps://seattleindivisible.com/no-kings-seattle-vote-early-oct-17-2026/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
    "id": "88830bd34b",
    "series": "801980d3a7",
    "title": "Seattle Water Lantern Festival",
@@ -1827,39 +1094,6 @@
     "start": "2026-10-17",
     "end": "2026-10-19",
     "notes": "Hours: 3:30–7:30 PM\n\nFamilies design their own floating lantern with a message, wish, or drawing, then launch it together at sunset as thousands of lights drift across Lake…\n\nhttps://www.parentmap.com/calendar/seattle-water-lantern-festival-0/2026-10-17/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "febabee84a",
-   "series": "11907daa74",
-   "title": "Fall Festival at the Coal Creek Family YMCA",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 1050,
-   "endMinute": 1170,
-   "dates": "Sat, Oct 17",
-   "time": "5:30–7:30 PM",
-   "place": "Coal Creek Family YMCA, Newcastle",
-   "placeLines": "Coal Creek Family YMCA, Newcastle\n13750 Newcastle Golf Club Rd., Newcastle, WA, 98059",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Experience all things fall and see the Y transformed at this year’s Fall Family Festival.",
-   "description": "Experience all things fall and see the Y transformed at this year’s Fall Family Festival. The fun will include crafts, games, and more! This event is free and open to the community.\n\nCostumes are welcome! To help keep the event safe and fun for everyone, please follow these costume guidelines:\n\n– Adults must not wear masks or face coverings. Health or medical-related face coverings are welcome.\n– No weapons or realistic-looking weapon props.\n– Costumes should be family-friendly and appropriate for all ages.\n\nActivities:\n\n– Jump and play in our bounce house.\nTwist, turn, and find your way through the Adventure Zone maze!\nCruise from car to car for trunk-or-treat fun",
-   "url": "https://www.parentmap.com/calendar/fall-festival-at-the-coal-creek-family-ymca/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/ParentMap_Fall-Festival-1-2-768x432.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Coal Creek Family YMCA, 13750 Newcastle Golf Club Rd., Newcastle, WA, 98059",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-18T00:30:00Z",
-    "end": "2026-10-18T02:30:00Z",
-    "notes": "Experience all things fall and see the Y transformed at this year’s Fall Family Festival.\n\nhttps://www.parentmap.com/calendar/fall-festival-at-the-coal-creek-family-ymca/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
   },
@@ -1926,32 +1160,6 @@
     "start": "2026-10-17",
     "end": "2026-10-19",
     "notes": "Hours: 6–9 PM\n\nCelebrate Halloween at Lakewold Gardens with nature-themed scavenger hunt, crafts, science experiments, and more.\n\nhttps://www.parentmap.com/calendar/creepy-creatures/2026-10-17/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "853d554bd6",
-   "series": "11df6db6ca",
-   "title": "Filipino Heritage Bundle Offer",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 1170,
-   "dates": "Sat, Oct 17",
-   "time": "7:30 PM",
-   "place": "Lumen Field, Seattle",
-   "placeLines": "Lumen Field, Seattle\n800 Occidental Ave S, Seattle, WA, 98134",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "url": "https://nwasianweekly.com/community-calendar/filipino-heritage-bundle-offer/",
-   "sources": [
-    "Northwest Asian Weekly"
-   ],
-   "map": "Lumen Field, 800 Occidental Ave S, Seattle, WA, 98134",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-18T02:30:00Z",
-    "end": "2026-10-18T03:30:00Z",
-    "notes": "https://nwasianweekly.com/community-calendar/filipino-heritage-bundle-offer/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
   },
@@ -2832,9 +2040,9 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "f82dc58940",
-   "series": "e539082a26",
-   "title": "Día de Muertos Pike Place Market",
+   "id": "fa4c9552f0",
+   "series": "47b7fc5948",
+   "title": "Día de Muertos en Pike Place Market",
    "start": "2026-10-23",
    "end": "2026-10-23",
    "startMinute": 720,
@@ -2847,13 +2055,12 @@
    "category": "CULTURAL",
    "cost": "Free",
    "free": true,
-   "summary": "@ This event is a collaboration between Pike Place Market, and the PNW organization.",
-   "description": "@\n\nThis event is a collaboration between Pike Place Market, and the PNW organization. El Centro de la Raza is partnering with these organizations and supporting the event by coordinating the participating vendors.\n\nThe event will take place on Friday, October 23, from 12:00 PM to 9:00 PM, with a parade scheduled for 6:30 PM.\n\nAdd to calendar\n\n• Google Calendar\n• iCalendar\n• Outlook 365\n• Outlook Live\n\nDetails\n\n• Date:\n• Time:",
-   "url": "https://www.elcentrodelaraza.org/event/dia-de-muertos-pike-place-market/",
-   "image": "https://www.elcentrodelaraza.org/wp-content/uploads/2026/09/Flyer-Pike-Place-Market-DDLM-2026.png",
-   "imageCredit": "El Centro de la Raza",
+   "summary": "Honor the traditions of Día de Muertos at the final Night Shift of the season at Pike Place Market!",
+   "description": "Honor the traditions of Día de Muertos at the final Night Shift of the season at Pike Place Market!\n\nPresented in partnership with Día de Muertos PNW, Downtown Art Walk, El Centro de la Raza, The Rabbit Box, and the Seattle Office of Economic Development, this special event honors Día de Muertos while celebrating Seattle’s vibrant arts community and the diverse cultures that make our city unique. As one of Seattle’s oldest and most beloved gathering places, Pike Place Market welcomes people from all backgrounds to connect through art, music, food, and shared experiences.\n\nExplore Pike Place Market as it comes alive with local artists, live music, mariachi, folklórico performances, cultural displays and more! Families can enjoy face painting, Lucha Libre, and community altars that invite reflection, remembrance, and connection.\n\nAt 6:30 p.m., a Día de Muertos parade kicks off featuring dozens of Catrinas, dancing devils, caballos bailadores, and more. The procession will travel through the Pike Place Market Historic District along Lenora Street and 1st Avenue before making its way into the Market on Pike Place.\n\nJoin us for a day of art, music, food, culture, and community as we honor Mexican traditions, remember loved ones, and celebrate the connections that bring Seattle together.\n\nEvent Details\n12pm – 5pm: Shop from Mexican artists, makers, and businesses\n12pm – 5pm: Face painting by Seattle Catrinas\n12pm – 7pm: Enjoy authentic Mexican cuisine\n12pm – 9pm: Public altars for…",
+   "url": "https://www.parentmap.com/calendar/dia-de-muertos-en-pike-place-market/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-112901-1.png",
+   "imageCredit": "ParentMap",
    "sources": [
-    "El Centro de la Raza",
     "ParentMap"
    ],
    "map": "Pike Place Market, 85 Pike Street, Seattle, WA, 98101",
@@ -2861,9 +2068,9 @@
     "allDay": false,
     "start": "2026-10-23T19:00:00Z",
     "end": "2026-10-24T04:00:00Z",
-    "notes": "@ This event is a collaboration between Pike Place Market, and the PNW organization.\n\nhttps://www.elcentrodelaraza.org/event/dia-de-muertos-pike-place-market/"
+    "notes": "Honor the traditions of Día de Muertos at the final Night Shift of the season at Pike Place Market!\n\nhttps://www.parentmap.com/calendar/dia-de-muertos-en-pike-place-market/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-18T14:41:25Z"
   },
   {
    "id": "f4e9d710ef",
@@ -7608,7 +6815,8 @@
     "end": "2026-11-02T01:30:00Z",
     "notes": "@ El Día de los Muertos (The Day of the Dead) is a time to remember and honor those who have passed.\n\nhttps://www.elcentrodelaraza.org/event/dia-de-los-muertos-celebtration-raices-que-nos-unen-roots-that-unite-us/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "keptSince": "2026-10-18T14:41:25Z"
   },
   {
    "id": "262ed2ff22",
@@ -8850,8 +8058,8 @@
    "series": "c74df0c741",
    "title": "2026 Seattle Christmas Market",
    "start": "2026-11-20",
-   "end": "2026-12-26",
-   "dates": "Nov 20–Dec 26",
+   "end": "2026-12-27",
+   "dates": "Nov 20–Dec 27",
    "place": "Seattle Center Fisher Pavilion",
    "placeLines": "Seattle Center Fisher Pavilion\n305 Harrison St, Seattle, WA, 98109-4623",
    "region": "SEATTLE",
@@ -8870,12 +8078,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-20",
-    "end": "2026-12-27",
+    "end": "2026-12-28",
     "notes": "With European and local vendors, holiday karaoke, Santa meetings, festive drinks and more, there’s a little something for everyone.\n\nhttps://www.parentmap.com/calendar/2026-seattle-christmas-market/2026-11-20/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
   },
   {
    "id": "fe58fc2ad6",
@@ -9003,7 +8211,8 @@
     "end": "2026-11-22T00:00:00Z",
     "notes": "Wing Luke Museum’s Holiday Market returns!\n\nhttps://www.wingluke.org/eventscalendar/2026-holiday-market"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "keptSince": "2026-10-18T14:41:25Z"
   },
   {
    "id": "e008fc39e4",
@@ -9070,6 +8279,39 @@
     "notes": "Step right up, Seattle!\n\nhttps://www.visitballard.com/event/hullabaloo-a-queer-all-ages-variety-show/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "13d15cede0",
+   "series": "86ae126ba7",
+   "title": "Jimi Hendrix Celebration",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "startMinute": 720,
+   "endMinute": 900,
+   "dates": "Sun, Nov 22",
+   "time": "12–3 PM",
+   "place": "Northwest African American Museum, Seattle",
+   "placeLines": "Northwest African American Museum, Seattle\n2300 South Massachusetts Street, Seattle, WA, 98144",
+   "region": "SEATTLE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join the Northwest African American Museum for a special celebration honoring the life, music, and lasting legacy of Seattle legend Jimi Hendrix.",
+   "description": "Join the Northwest African American Museum for a special celebration honoring the life, music, and lasting legacy of Seattle legend Jimi Hendrix.\n\nEnjoy an afternoon of music, culture, and community featuring a live performance by Claytin Hendrix, delicious food from West Coast Seattle Boys, an interactive craft station with Imani Sims, a Jimi Hendrix merchandise raffle, and more!\n\nCome celebrate one of Seattle’s most iconic musicians and his enduring influence on music and culture.\nRSVP TODAY! Free Admission.\n\nSunday, November 22, 2026 | 12–3 PM",
+   "url": "https://www.naamnw.org/events/jimi-hendrix-celebration",
+   "image": "https://static1.squarespace.com/static/5e38aefc1baca77386a5fe81/5e38c4fabbfd62031197054b/6ad3ab34b9a6a76aaf4d24d0/1792259205234/",
+   "imageCredit": "Northwest African American Museum",
+   "sources": [
+    "Northwest African American Museum"
+   ],
+   "map": "Northwest African American Museum, 2300 South Massachusetts Street, Seattle, WA, 98144",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-22T20:00:00Z",
+    "end": "2026-11-22T23:00:00Z",
+    "notes": "Join the Northwest African American Museum for a special celebration honoring the life, music, and lasting legacy of Seattle legend Jimi Hendrix.\n\nhttps://www.naamnw.org/events/jimi-hendrix-celebration"
+   },
+   "firstSeen": "2026-10-18T14:41:25Z"
   },
   {
    "id": "045f849f50",
@@ -9224,10 +8466,10 @@
    "series": "2e9ac2827a",
    "title": "Winterfest Train & Village Display",
    "start": "2026-11-27",
-   "end": "2026-12-27",
+   "end": "2026-12-29",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Nov 27–Dec 27",
+   "dates": "Nov 27–Dec 29",
    "time": "10 AM–6 PM",
    "place": "Seattle Center Armory",
    "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
@@ -9247,12 +8489,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-28",
+    "end": "2026-12-30",
     "notes": "Hours: 10 AM–6 PM\n\nDelight in viewing a late 19th-century model train and village display, installed inside the Seattle Center Armory Food & Event Hall.\n\nhttps://www.parentmap.com/calendar/28004/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
   },
   {
    "id": "956b5a5437",
@@ -9358,10 +8600,10 @@
    "series": "bc5d1a9f6c",
    "title": "Winterfest Campus Lighting",
    "start": "2026-11-27",
-   "end": "2026-12-26",
+   "end": "2026-12-28",
    "startMinute": 1020,
    "endMinute": 1260,
-   "dates": "Nov 27–Dec 26",
+   "dates": "Nov 27–Dec 28",
    "time": "5–9 PM",
    "place": "Seattle Center Campus",
    "placeLines": "Seattle Center Campus\n305 Harrison Street, Seattle, WA, 98109",
@@ -9381,12 +8623,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-27",
+    "end": "2026-12-29",
     "notes": "Hours: 5–9 PM\n\nWe are keeping the annual tradition of decking out our campus alive with twinkling lights in the trees and other specialty light features across the grounds.\n\nhttps://www.parentmap.com/calendar/winterfest-campus-lighting/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
   },
   {
    "id": "0c21fe0bd9",
@@ -10570,10 +9812,10 @@
    "series": "8242fea67a",
    "title": "Renton’s Clam Lights",
    "start": "2026-12-05",
-   "end": "2026-12-26",
+   "end": "2026-12-28",
    "startMinute": 960,
    "endMinute": 1260,
-   "dates": "Dec 5–26",
+   "dates": "Dec 5–28",
    "time": "4–9 PM",
    "place": "Gene Coulon Memorial Park, Renton",
    "placeLines": "Gene Coulon Memorial Park, Renton\n1201 Lake Washington Blvd N, Renton, WA, 98056-2567",
@@ -10593,12 +9835,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-05",
-    "end": "2026-12-27",
+    "end": "2026-12-29",
     "notes": "Hours: 4–9 PM\n\nCelebrate the start of the holiday season with lights, music, Santa, and a tree lighting at Gene Coulon Beach Park!\n\nhttps://www.parentmap.com/calendar/34328/2026-12-05/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:16Z"
+   "revision": 2,
+   "changed": "2026-10-18T14:41:25Z"
   },
   {
    "id": "e109aecd37",
@@ -11239,7 +10481,8 @@
     "end": "2026-12-12T23:00:00Z",
     "notes": "Celebrate the season with CID Santa!\n\nhttps://www.wingluke.org/eventscalendar/cidsanta2026"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "keptSince": "2026-10-18T14:41:25Z"
   },
   {
    "id": "5b5c45fc5b",
@@ -12595,14 +11838,46 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "f45e4f245f",
+   "series": "ddf32f51fa",
+   "title": "Winterfest Armory Stage Entertainment",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "dates": "Dec 26–27",
+   "place": "Seattle Center Armory",
+   "placeLines": "Seattle Center Armory\n305 Harrison St, Seattle, WA, 98109-4623",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Each weekend from November 27 – December 27, we’ll feature live performances on the Armory Stage, providing visitors with fun, seasonal entertainment while…",
+   "description": "Each weekend from November 27 – December 27, we’ll feature live performances on the Armory Stage, providing visitors with fun, seasonal entertainment while they check out our Winterfest Train & Village or grab a bite to eat at an Armory food merchant. View this year’s line-up below.\n\nNov. 27\n\nnoon: Zaniac Comedy Show\n2 p.m.: Holiday Harmony Pop\n3:30 p.m.: DJ Fishure\n\nNov. 28\n\n12:30 p.m.: Twelve Tones of Christmas\n2:30 p.m.: School of Rock\n\nNov. 29\n\n12:30 p.m.: Xmas Maximus\n2 p.m.: Louis Cano\n3:30 p.m.: Bailadores de Bronce\n\nDec. 5\n\n12:30 p.m.: SANCA\n2:30 p.m.: Northwest Boy Choir\n4 p.m.: KlezKids\n\nDec. 6\n\n12:30 p.m.: Garfield Jazz Band\n\nDec. 12\n\n12:30 p.m.: Rain City Tap\n2:30 p.m.: Swedish Singers of Seattle\n6 p.m.: Classical Holiday Sing-along\n\nDec. 13\n\n12:30 p.m.: NW Junior Pipe Band\n3 p.m.: Zje Mongol\n\nDec. 19\n\n12:30 p.m.: Lexi Nguyen\n2:30 p.m.: Michael Cagle and JP Cates\n5 p.m.: Rainbow City Band & Orchestra\n\nDec. 20\n\n12 p.m.: NW Tap Connection\n2 p.m.: WA Trumpet Guild\n5 p.m.: Greater Seattle Tubachristmas\n\nDec. 26\n\n12:30 p.m.: The Dickens Carolers\n3 p.m.: Seattle Civic Band\n\nDec. 27\n\n12:30 p.m.: Zaniac Comedy Show\n3 p.m.: Tlalokan",
+   "url": "https://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-100137.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Seattle Center Armory, 305 Harrison St, Seattle, WA, 98109-4623",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-26",
+    "end": "2026-12-28",
+    "notes": "Each weekend from November 27 – December 27, we’ll feature live performances on the Armory Stage, providing visitors with fun, seasonal entertainment while…\n\nhttps://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/"
+   },
+   "firstSeen": "2026-10-17T14:17:16Z",
+   "revision": 1,
+   "changed": "2026-10-18T14:41:25Z"
+  },
+  {
    "id": "98596a2d16",
    "series": "fa61e33b79",
    "title": "Annual Model Train Festival",
    "start": "2026-12-26",
-   "end": "2026-12-27",
+   "end": "2026-12-29",
    "startMinute": 600,
    "endMinute": 1020,
-   "dates": "Dec 26–27",
+   "dates": "Dec 26–29",
    "time": "10 AM–5 PM",
    "place": "Washington State History Museum, Tacoma",
    "placeLines": "Washington State History Museum, Tacoma\n1911 Pacific Ave, Tacoma, WA, 98402-3109",
@@ -12622,20 +11897,22 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-26",
-    "end": "2026-12-28",
+    "end": "2026-12-30",
     "notes": "Hours: 10 AM–5 PM\n\nCelebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!\n\nhttps://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-26/"
    },
-   "firstSeen": "2026-10-17T14:17:16Z"
+   "firstSeen": "2026-10-17T14:17:16Z",
+   "revision": 1,
+   "changed": "2026-10-18T14:41:25Z"
   },
   {
    "id": "2b7841e43a",
    "series": "81a5ec9f49",
    "title": "Issaquah Reindeer Festival",
    "start": "2026-12-26",
-   "end": "2026-12-27",
+   "end": "2026-12-28",
    "startMinute": 630,
    "endMinute": 930,
-   "dates": "Dec 26–27",
+   "dates": "Dec 26–28",
    "time": "10:30 AM–3:30 PM",
    "place": "Cougar Mountain Zoo, Issaquah",
    "placeLines": "Cougar Mountain Zoo, Issaquah\n19525 SE 54th St, Issaquah, WA, 98027-8676",
@@ -12655,43 +11932,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-26",
-    "end": "2026-12-28",
+    "end": "2026-12-29",
     "notes": "Hours: 10:30 AM–3:30 PM\n\nEnjoy the sights and sounds of the holidays with family and friends!\n\nhttps://www.parentmap.com/calendar/55371-s2/2026-12-26/"
    },
-   "firstSeen": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "f45e4f245f",
-   "series": "ddf32f51fa",
-   "title": "Winterfest Armory Stage Entertainment",
-   "start": "2026-12-26",
-   "end": "2026-12-26",
-   "startMinute": 720,
-   "endMinute": 960,
-   "dates": "Sat, Dec 26",
-   "time": "12–4 PM",
-   "place": "Seattle Center Armory",
-   "placeLines": "Seattle Center Armory\n305 Harrison St, Seattle, WA, 98109-4623",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Each weekend from November 27 – December 27, we’ll feature live performances on the Armory Stage, providing visitors with fun, seasonal entertainment while…",
-   "description": "Each weekend from November 27 – December 27, we’ll feature live performances on the Armory Stage, providing visitors with fun, seasonal entertainment while they check out our Winterfest Train & Village or grab a bite to eat at an Armory food merchant. View this year’s line-up below.\n\nNov. 27\n\nnoon: Zaniac Comedy Show\n2 p.m.: Holiday Harmony Pop\n3:30 p.m.: DJ Fishure\n\nNov. 28\n\n12:30 p.m.: Twelve Tones of Christmas\n2:30 p.m.: School of Rock\n\nNov. 29\n\n12:30 p.m.: Xmas Maximus\n2 p.m.: Louis Cano\n3:30 p.m.: Bailadores de Bronce\n\nDec. 5\n\n12:30 p.m.: SANCA\n2:30 p.m.: Northwest Boy Choir\n4 p.m.: KlezKids\n\nDec. 6\n\n12:30 p.m.: Garfield Jazz Band\n\nDec. 12\n\n12:30 p.m.: Rain City Tap\n2:30 p.m.: Swedish Singers of Seattle\n6 p.m.: Classical Holiday Sing-along\n\nDec. 13\n\n12:30 p.m.: NW Junior Pipe Band\n3 p.m.: Zje Mongol\n\nDec. 19\n\n12:30 p.m.: Lexi Nguyen\n2:30 p.m.: Michael Cagle and JP Cates\n5 p.m.: Rainbow City Band & Orchestra\n\nDec. 20\n\n12 p.m.: NW Tap Connection\n2 p.m.: WA Trumpet Guild\n5 p.m.: Greater Seattle Tubachristmas\n\nDec. 26\n\n12:30 p.m.: The Dickens Carolers\n3 p.m.: Seattle Civic Band\n\nDec. 27\n\n12:30 p.m.: Zaniac Comedy Show\n3 p.m.: Tlalokan",
-   "url": "https://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-100137.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Center Armory, 305 Harrison St, Seattle, WA, 98109-4623",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-26T20:00:00Z",
-    "end": "2026-12-27T00:00:00Z",
-    "notes": "Each weekend from November 27 – December 27, we’ll feature live performances on the Armory Stage, providing visitors with fun, seasonal entertainment while…\n\nhttps://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/"
-   },
-   "firstSeen": "2026-10-17T14:17:16Z"
+   "firstSeen": "2026-10-17T14:17:16Z",
+   "revision": 1,
+   "changed": "2026-10-18T14:41:25Z"
   },
   {
    "id": "ac00cc2a2b",
@@ -12725,6 +11971,36 @@
     "notes": "Our weekly Ice Sculpting series is back!\n\nhttps://www.parentmap.com/calendar/48509/2026-12-26/"
    },
    "firstSeen": "2026-10-17T14:17:16Z"
+  },
+  {
+   "id": "09c06c25b5",
+   "series": "5f77d20c66",
+   "title": "A Magical Cirque Christmas",
+   "start": "2026-12-27",
+   "end": "2026-12-29",
+   "dates": "Dec 27–29",
+   "place": "Washington Center for the Performing Arts, Olympia",
+   "placeLines": "Washington Center for the Performing Arts, Olympia\n512 Washington St SE, Olympia, WA, 98501-1330",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$58 – $125",
+   "free": false,
+   "summary": "For more than five spectacular holiday seasons, A Magical Cirque Christmas has captivated fans and welcomed families, making it part of their seasonal…",
+   "description": "For more than five spectacular holiday seasons, A Magical Cirque Christmas has captivated fans and welcomed families, making it part of their seasonal celebrations.Overflowing with festive charm and dazzling cirque artistry, A Magical Cirque Christmas showcases the extraordinary talents of world-class performers through gravity-defying acrobatics, awe-inspiring displays of strength and agility, laugh-out-loud comedy, and heartwarming magic. Set to a lively soundtrack of modern holiday hits, each act delivers a fresh and unforgettable Christmastime experience.\n\nBeloved by audiences of all ages, A Magical Cirque Christmas is a joyful way to celebrate the season together.",
+   "url": "https://www.parentmap.com/calendar/a-magical-cirque-christmas/2026-12-27/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/08/AMCC25_Horizontal-small.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Washington Center for the Performing Arts, 512 Washington St SE, Olympia, WA, 98501-1330",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-27",
+    "end": "2026-12-30",
+    "notes": "For more than five spectacular holiday seasons, A Magical Cirque Christmas has captivated fans and welcomed families, making it part of their seasonal…\n\nhttps://www.parentmap.com/calendar/a-magical-cirque-christmas/2026-12-27/"
+   },
+   "firstSeen": "2026-10-18T14:41:25Z"
   },
   {
    "id": "4823e89428",

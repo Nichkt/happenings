@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:351ee64325-seattle-happenings@nichkt.github.io
-DTSTAMP:20261017T141716Z
-SEQUENCE:1
-LAST-MODIFIED:20261017T141716Z
-DTSTART;VALUE=DATE:20261015
+DTSTAMP:20261018T144125Z
+SEQUENCE:2
+LAST-MODIFIED:20261018T144125Z
+DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 TRANSP:TRANSPARENT
 SUMMARY:Craven Farm Fall Festival
@@ -16,8 +16,8 @@ LOCATION:Craven Farm\, 13817 Shorts School Rd\, Snohomish\, WA\, 98290-6907
 DESCRIPTION:Hours: 10 AM–6 PM\n\nNamed Washington State’s  best pumpki
  n patch  by “Readers Digest” in 2019\, and more recently  among the 
  best pumpkin farms in the country (!)\, this farm is…\n\nhttps://www.par
- entmap.com/calendar/craven-farm-fall-festival-0/2026-10-15/
+ entmap.com/calendar/craven-farm-fall-festival-0/2026-10-16/
 URL:https://www.parentmap.com/calendar/craven-farm-fall-festival-0/2026-10-
- 15/
+ 16/
 END:VEVENT
 END:VCALENDAR

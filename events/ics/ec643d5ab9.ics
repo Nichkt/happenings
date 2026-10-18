@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ec643d5ab9-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261015
+DTSTAMP:20261018T144125Z
+SEQUENCE:1
+LAST-MODIFIED:20261018T144125Z
+DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 TRANSP:TRANSPARENT
 SUMMARY:Tacoma Holiday Festival
 LOCATION:Tacoma Dome\, 2727 E D St\, Tacoma\, WA\, 98421-1216
 DESCRIPTION:Join us for a festive celebration of the holiday season at the 
  44th annual Tacoma Holiday Festival!\n\nhttps://www.parentmap.com/calendar
- /tacoma-holiday-festival/2026-10-15/
-URL:https://www.parentmap.com/calendar/tacoma-holiday-festival/2026-10-15/
+ /tacoma-holiday-festival/2026-10-16/
+URL:https://www.parentmap.com/calendar/tacoma-holiday-festival/2026-10-16/
 END:VEVENT
 END:VCALENDAR
