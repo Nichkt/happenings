@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a30ca98086-seattle-happenings@nichkt.github.io
+DTSTAMP:20261019T173530Z
+SEQUENCE:0
+DTSTART:20261205T210000Z
+DTEND:20261206T000000Z
+SUMMARY:Free Pics with Santa at Ounces
+LOCATION:Ounces Taproom & Beer Garden\, 3809 Delridge Way SW\, Seattle\, WA
+ \, 98106
+DESCRIPTION:Skip the mall line.\n\nhttps://www.parentmap.com/calendar/free-
+ pics-santa-ounces/
+URL:https://www.parentmap.com/calendar/free-pics-santa-ounces/
+END:VEVENT
+END:VCALENDAR

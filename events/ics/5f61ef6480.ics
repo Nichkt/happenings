@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:5f61ef6480-seattle-happenings@nichkt.github.io
-DTSTAMP:20261018T144125Z
-SEQUENCE:2
-LAST-MODIFIED:20261018T144125Z
-DTSTART;VALUE=DATE:20261016
+DTSTAMP:20261019T173530Z
+SEQUENCE:3
+LAST-MODIFIED:20261019T173530Z
+DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Spooner Farms Harvest Festival
@@ -16,8 +16,8 @@ LOCATION:Spooner Farms\, 9710 State Route 162 E\, Puyallup\, WA\, 98374
 DESCRIPTION:Hours: 9 AM–6 PM\n\nThe Spooner Farms family is 6th generatio
  n farmers fortunate to have been farming in the Puyallup Valley since 1882
  !\n\nhttps://www.parentmap.com/calendar/spooner-farms-harvest-festival/202
- 6-10-16/
+ 6-10-17/
 URL:https://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-
- 10-16/
+ 10-17/
 END:VEVENT
 END:VCALENDAR

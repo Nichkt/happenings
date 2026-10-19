@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6862bf5cd7-seattle-happenings@nichkt.github.io
+DTSTAMP:20261019T173530Z
+SEQUENCE:0
+DTSTART:20261031T180000Z
+DTEND:20261031T210000Z
+SUMMARY:Howl-O-Weenie at SLU and Trick or Treating
+LOCATION:SLU Farmers Market\, 2120 6th Ave and Blanchard\, Seattle\, 98109
+DESCRIPTION:Something wickedly fun for your four-legging friends is coming 
+ to the market!\n\nhttps://www.parentmap.com/calendar/howl-o-weenie-at-slu-
+ and-trick-or-treating/
+URL:https://www.parentmap.com/calendar/howl-o-weenie-at-slu-and-trick-or-tr
+ eating/
+END:VEVENT
+END:VCALENDAR

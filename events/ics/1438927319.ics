@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1438927319-seattle-happenings@nichkt.github.io
+DTSTAMP:20261019T173530Z
+SEQUENCE:0
+DTSTART:20270111T180000Z
+DTEND:20270112T010000Z
+SUMMARY:PNA Winter Festival Juried Art Show
+LOCATION:Piano Nobile\, PNA — Level 2\, Brick Building\, 6532 Phinney Ave
+ nue North\, Seattle\, WA\, 98103
+DESCRIPTION:https://www.phinneycenter.org/event/pna-winter-festival-juried-
+ art-show/2027-01-11/
+URL:https://www.phinneycenter.org/event/pna-winter-festival-juried-art-show
+ /2027-01-11/
+END:VEVENT
+END:VCALENDAR

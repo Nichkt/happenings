@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:00d98af465-seattle-happenings@nichkt.github.io
-DTSTAMP:20261018T144125Z
-SEQUENCE:2
-LAST-MODIFIED:20261018T144125Z
-DTSTART;VALUE=DATE:20261016
+DTSTAMP:20261019T173530Z
+SEQUENCE:3
+LAST-MODIFIED:20261019T173530Z
+DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Mexam NW Festival
 DESCRIPTION:Hours: 12–11 PM\n\nEditor’s note: The Mexam Festival encomp
  asses events taking place at different venues and times throughout its dur
- ation.\n\nhttps://www.parentmap.com/calendar/mexam-nw-festival/2026-10-16/
-URL:https://www.parentmap.com/calendar/mexam-nw-festival/2026-10-16/
+ ation.\n\nhttps://www.parentmap.com/calendar/mexam-nw-festival/2026-10-17/
+URL:https://www.parentmap.com/calendar/mexam-nw-festival/2026-10-17/
 END:VEVENT
 END:VCALENDAR
