@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:836f01036c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261020T154143Z
+SEQUENCE:0
+DTSTART:20261113T220000Z
+DTEND:20261114T000000Z
+SUMMARY:Holly Days Window Fest
+LOCATION:Various storefronts throughout Downtown North Bend - North Bend
+DESCRIPTION:To spread the magic of the season\, the North Bend Downtown Fou
+ ndation invites you to the 3rd Annual Holly Days Window Fest!\n\nhttps://w
+ ww.northbendwa.gov/m/calendar/event/detail/4766
+URL:https://www.northbendwa.gov/m/calendar/event/detail/4766
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1648869207-seattle-happenings@nichkt.github.io
+DTSTAMP:20261020T154143Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Waterfront Park Firepit Socials
+LOCATION:Pier 62\, 1951 Alaskan Way\, Seattle\, WA\, 98101
+DESCRIPTION:Hours: 3–6 PM\n\nCome to the waterfront and enjoy the wood-bu
+ rning fire on Pier 62 with hot beverages\, beautiful views\, sunsets\, and
+  meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterf
+ ront-park-firepit-socials/2026-11-14/
+URL:https://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026
+ -11-14/
+END:VEVENT
+END:VCALENDAR

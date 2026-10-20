@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2590182d6c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261020T154143Z
+SEQUENCE:0
+DTSTART:20261024T170000Z
+DTEND:20261024T190000Z
+SUMMARY:North Slope Historic Park Reopening Celebration and Planting Party
+LOCATION:North Slope Historic Park\, 1015 N 8th St\, Tacoma\, 98403
+DESCRIPTION:Help us welcome a new chapter at North Slope Historic Park!\n\n
+ https://www.parentmap.com/calendar/north-slope-historic-park-reopening-cel
+ ebration-and-planting-party/
+URL:https://www.parentmap.com/calendar/north-slope-historic-park-reopening-
+ celebration-and-planting-party/
+END:VEVENT
+END:VCALENDAR

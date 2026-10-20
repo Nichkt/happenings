@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:74c2bdbd38-seattle-happenings@nichkt.github.io
+DTSTAMP:20261020T154143Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Garden d’Lights
+LOCATION:Garden Grounds\, 12001 Main Street\, Bellevue\, 98005
+DESCRIPTION:Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday t
+ radition that transforms the Bellevue Botanical Garden into a magical wond
+ erland\, featuring over half a million…\n\nhttps://bellevuebotanical.org
+ /event/garden-dlights-4/2026-12-04/
+URL:https://bellevuebotanical.org/event/garden-dlights-4/2026-12-04/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e558a5663d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261020T154143Z
+SEQUENCE:0
+DTSTART:20261209T003000Z
+DTEND:20261209T040000Z
+SUMMARY:Garden d’Lights $5 Night & Sensory Friendly Night
+LOCATION:Garden Grounds\, 12001 Main Street\, Bellevue\, 98005
+DESCRIPTION:Sensory Friendly Night Enjoy Garden d’Lights in a quieter set
+ ting.\n\nhttps://bellevuebotanical.org/event/garden-dlights-5-night-5-2/
+URL:https://bellevuebotanical.org/event/garden-dlights-5-night-5-2/
+END:VEVENT
+END:VCALENDAR

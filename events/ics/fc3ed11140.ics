@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc3ed11140-seattle-happenings@nichkt.github.io
+DTSTAMP:20261020T154143Z
+SEQUENCE:0
+DTSTART:20261108T000000Z
+DTEND:20261108T030000Z
+SUMMARY:Federal Way Watson’s Holiday Open House
+LOCATION:Watson’s Greenhouse – Federal Way\, 3909 S. 320th St.\, Auburn
+ \, 98001
+DESCRIPTION:Step into the magic of the season at the Watson’s Holiday Ope
+ n House!\n\nhttps://www.parentmap.com/calendar/federal-way-watsons-holiday
+ -open-house/
+URL:https://www.parentmap.com/calendar/federal-way-watsons-holiday-open-hou
+ se/
+END:VEVENT
+END:VCALENDAR

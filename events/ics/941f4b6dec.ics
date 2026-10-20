@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:941f4b6dec-seattle-happenings@nichkt.github.io
+DTSTAMP:20261020T154143Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T040000Z
+SUMMARY:Holly Days Winter Festival and Tree Lighting
+LOCATION:Downtown North Bend\, Downtown North Bend\, at the corner of North
+  Bend Way and Main Avenue - North Bend WA 98045
+DESCRIPTION:The North Bend Downtown Foundation invites you to join communit
+ y for our annual winter festival and tree lighting ceremony on Saturday\, 
+ December 5\, from 5 to 8…\n\nhttps://www.northbendwa.gov/m/calendar/even
+ t/detail/4765
+URL:https://www.northbendwa.gov/m/calendar/event/detail/4765
+END:VEVENT
+END:VCALENDAR

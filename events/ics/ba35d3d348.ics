@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba35d3d348-seattle-happenings@nichkt.github.io
+DTSTAMP:20261020T154143Z
+SEQUENCE:0
+DTSTART:20261129T200000Z
+DTEND:20261129T230000Z
+SUMMARY:Cookies With Santa
+LOCATION:Heritage Cottage\, 19903 Poplar Way\, Lynnwood\, WA\, 98036
+DESCRIPTION:Visit Santa in our Heritage Cottage.\n\nhttps://www.parentmap.c
+ om/calendar/cookies-santa/
+URL:https://www.parentmap.com/calendar/cookies-santa/
+END:VEVENT
+END:VCALENDAR
