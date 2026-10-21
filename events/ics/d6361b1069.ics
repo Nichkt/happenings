@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d6361b1069-seattle-happenings@nichkt.github.io
+DTSTAMP:20261021T160015Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:Pumpkin Drop
+LOCATION:Farrel McWhirter Park\, 19545 NE Redmond Road\, Redmond\, WA\, 980
+ 53
+DESCRIPTION:Hours: 10 AM–2 PM\n\n(All Ages) Halloween may be over\, but t
+ he fun is just beginning with pumpkins!\n\nhttps://www.parentmap.com/calen
+ dar/pumpkin-drop/2026-11-13/
+URL:https://www.parentmap.com/calendar/pumpkin-drop/2026-11-13/
+END:VEVENT
+END:VCALENDAR

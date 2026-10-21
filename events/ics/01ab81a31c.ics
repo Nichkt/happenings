@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:01ab81a31c-seattle-happenings@nichkt.github.io
-DTSTAMP:20261020T154143Z
-SEQUENCE:4
-LAST-MODIFIED:20261020T154143Z
-DTSTART;VALUE=DATE:20261018
+DTSTAMP:20261021T160015Z
+SEQUENCE:5
+LAST-MODIFIED:20261021T160015Z
+DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Harvest Festival at Swans Trail Farms
@@ -16,8 +16,8 @@ LOCATION:Swan’s Trail Farms\, 7301 Rivershore Rd.\, Snohomish\, WA\, 9829
  0
 DESCRIPTION:Hours: 10 AM–6 PM\n\nGet ready for fall fun at Swans Trail Fa
  rms\, just 30 minutes from Seattle!\n\nhttps://www.parentmap.com/calendar/
- harvest-festival-swans-trail-farms/2026-10-18/
+ harvest-festival-swans-trail-farms/2026-10-19/
 URL:https://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2
- 026-10-18/
+ 026-10-19/
 END:VEVENT
 END:VCALENDAR

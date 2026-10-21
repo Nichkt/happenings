@@ -5,15 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:20431ef01f-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
+DTSTAMP:20261021T160015Z
+SEQUENCE:1
+LAST-MODIFIED:20261021T160015Z
 DTSTART:20261107T180000Z
 DTEND:20261107T220000Z
 SUMMARY:Pumpkin Drop
 LOCATION:Farrel McWhirter Park\, 19545 NE Redmond Road\, Redmond\, WA\, 980
  53
 DESCRIPTION:(All Ages) Halloween may be over\, but the fun is just beginnin
- g with pumpkins!\n\nhttps://www.parentmap.com/calendar/pumpkin-drop/
-URL:https://www.parentmap.com/calendar/pumpkin-drop/
+ g with pumpkins!\n\nhttps://www.parentmap.com/calendar/pumpkin-drop/2026-1
+ 1-07/
+URL:https://www.parentmap.com/calendar/pumpkin-drop/2026-11-07/
 END:VEVENT
 END:VCALENDAR

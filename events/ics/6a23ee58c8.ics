@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a23ee58c8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261021T160015Z
+SEQUENCE:0
+DTSTART:20261112T010000Z
+DTEND:20261112T033000Z
+SUMMARY:Veterans Day Celebration at the Museum of Glass
+LOCATION:Museum of Glass\, 1801 Dock St\, Tacoma\, WA\, 98402-3217
+DESCRIPTION:Join Museum of Glass for a special Veterans Day Celebration\, f
+ eaturing a color guard ceremony\, veteran choir\, guest speakers\, and the
+  awarding of certificates…\n\nhttps://www.parentmap.com/calendar/veteran
+ s-day-celebration-at-the-museum-of-glass/
+URL:https://www.parentmap.com/calendar/veterans-day-celebration-at-the-muse
+ um-of-glass/
+END:VEVENT
+END:VCALENDAR

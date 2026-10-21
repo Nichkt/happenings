@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:913e3ff6af-seattle-happenings@nichkt.github.io
+DTSTAMP:20261021T160015Z
+SEQUENCE:0
+DTSTART:20261104T010000Z
+DTEND:20261104T030000Z
+SUMMARY:Diwali (Festival of Lights) Celebration at Newcastle Library
+LOCATION:Newcastle Library\, 12901 Newcastle Way\, Newcastle\, WA\, 98056-1
+ 331
+DESCRIPTION:Come celebrate and learn about Diwali\, the Festival of Lights.
+ \n\nhttps://www.parentmap.com/calendar/diwali-festival-lights-celebration-
+ newcastle-library/
+URL:https://www.parentmap.com/calendar/diwali-festival-lights-celebration-n
+ ewcastle-library/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:26b1ebff0c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261021T160015Z
+SEQUENCE:0
+DTSTART:20261023T210000Z
+DTEND:20261023T230000Z
+SUMMARY:Halloween Trick-or-Treat Down Delta
+LOCATION:Delta Plaza\, 501 Delta Ave.\, Marysville\, WA\, 98270
+DESCRIPTION:Welcome to the Halloween Trick or Treat Down Delta!\n\nhttps://
+ www.parentmap.com/calendar/halloween-trick-or-treat-down-delta/
+URL:https://www.parentmap.com/calendar/halloween-trick-or-treat-down-delta/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1aadda6ab2-seattle-happenings@nichkt.github.io
+DTSTAMP:20261021T160015Z
+SEQUENCE:0
+DTSTART:20261114T180000Z
+DTEND:20261115T010000Z
+SUMMARY:Gobble Up Seattle by Urban Craft Uprising
+LOCATION:Hangar 30 in Magnuson Park\, 7400 Sand Point Way NE\, Seattle\, WA
+ \, 98115-8166
+DESCRIPTION:Gobble Up Seattle 2026 Saturday\, November 14th | 10 AM – 5 P
+ M Magnuson Park Hangar 30 | 6310 NE 74th St Come shop\, sample\, and savor
+ !\n\nhttps://www.parentmap.com/calendar/gobble-seattle-urban-craft-uprisin
+ g/
+URL:https://www.parentmap.com/calendar/gobble-seattle-urban-craft-uprising/
+END:VEVENT
+END:VCALENDAR

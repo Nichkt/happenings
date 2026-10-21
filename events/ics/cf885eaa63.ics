@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf885eaa63-seattle-happenings@nichkt.github.io
+DTSTAMP:20261021T160015Z
+SEQUENCE:0
+DTSTART:20261101T210000Z
+DTEND:20261102T010000Z
+SUMMARY:Issaquah Day of the Dead Celebration
+LOCATION:Issaquah Community Center\, 301 Rainier Blvd S\, Issaquah\, WA\, 9
+ 8027-3923
+DESCRIPTION:We are excited to invite you to our spectacular Dia de Los Muer
+ tos\, Day of the Dead celebration!\n\nhttps://www.parentmap.com/calendar/i
+ ssaquah-day-of-the-dead-celebration/
+URL:https://www.parentmap.com/calendar/issaquah-day-of-the-dead-celebration
+ /
+END:VEVENT
+END:VCALENDAR
