@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f68d67c288-seattle-happenings@nichkt.github.io
+DTSTAMP:20261022T155613Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Celebrate Diwali at The Bellevue Collection
+LOCATION:Bellevue Square\, 575 Bellevue Square\, Bellevue\, WA\, 98004
+DESCRIPTION:Enjoy Diwali decor and displays!\n\nhttps://www.parentmap.com/c
+ alendar/celebrate-diwali-bellevue-collection-2/2026-11-02/
+URL:https://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection
+ -2/2026-11-02/
+END:VEVENT
+END:VCALENDAR

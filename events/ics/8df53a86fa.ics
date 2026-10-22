@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8df53a86fa-seattle-happenings@nichkt.github.io
+DTSTAMP:20261022T155613Z
+SEQUENCE:0
+DTSTART:20261107T180000Z
+DTEND:20261107T220000Z
+SUMMARY:Harvest Carnival at Shoreline Cooperative Preschool
+LOCATION:Shoreline Cooperative Preschool\, 18560 1st Ave NE\, Shoreline\, W
+ A\, 98155-2148
+DESCRIPTION:Shoreline Cooperative Preschool’s 39th Annual Carnival Get yo
+ ur calendars out and be ready to celebrate our preschool’s biggest commu
+ nity event of the year!\n\nhttps://www.parentmap.com/calendar/harvest-carn
+ ival-at-shoreline-cooperative-preschool/
+URL:https://www.parentmap.com/calendar/harvest-carnival-at-shoreline-cooper
+ ative-preschool/
+END:VEVENT
+END:VCALENDAR

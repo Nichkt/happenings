@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5704f816c9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261022T155613Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Minis at The Fremont Social
+LOCATION:The Fremont Social\, 132 N Canal St.\, Seattle\, WA\, 98103
+DESCRIPTION:Hours: 10 AM–3 PM\n\nJoin us for a festive celebration at The
+  Fremont Social on November 6-8\, 2026!\n\nhttps://www.parentmap.com/calen
+ dar/christmas-minis-at-the-fremont-social/2026-11-06/
+URL:https://www.parentmap.com/calendar/christmas-minis-at-the-fremont-socia
+ l/2026-11-06/
+END:VEVENT
+END:VCALENDAR

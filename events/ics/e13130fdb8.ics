@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e13130fdb8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261022T155613Z
+SEQUENCE:0
+DTSTART:20261101T190000Z
+DTEND:20261102T010000Z
+SUMMARY:Bunka no Hi — Japanese Culture Day Festival
+LOCATION:Japanese Cultural & Community Center of WA\, 1414 South Weller Str
+ eet\, Seattle\, WA\, 98144
+DESCRIPTION:https://nwasianweekly.com/community-calendar/bunka-no-hi-japane
+ se-culture-day-festival/
+URL:https://nwasianweekly.com/community-calendar/bunka-no-hi-japanese-cultu
+ re-day-festival/
+END:VEVENT
+END:VCALENDAR

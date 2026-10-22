@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fbd7aaaaea-seattle-happenings@nichkt.github.io
+DTSTAMP:20261022T155613Z
+SEQUENCE:0
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+SUMMARY:Diwali Celebration
+LOCATION:Tacoma City Hall\, 747 Market St\, Tacoma\, WA\, 98402
+DESCRIPTION:https://nwasianweekly.com/community-calendar/diwali-celebration
+ /
+URL:https://nwasianweekly.com/community-calendar/diwali-celebration/
+END:VEVENT
+END:VCALENDAR

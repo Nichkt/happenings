@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa4c9552f0-seattle-happenings@nichkt.github.io
+DTSTAMP:20261022T155613Z
+SEQUENCE:0
+DTSTART:20261023T190000Z
+DTEND:20261024T040000Z
+SUMMARY:Día de Muertos en Pike Place Market
+LOCATION:Pike Place Market\, 85 Pike Street\, Seattle\, WA\, 98101
+DESCRIPTION:Honor the traditions of Día de Muertos at the final Night Shif
+ t of the season at Pike Place Market!\n\nhttps://www.parentmap.com/calenda
+ r/dia-de-muertos-en-pike-place-market/
+URL:https://www.parentmap.com/calendar/dia-de-muertos-en-pike-place-market/
+END:VEVENT
+END:VCALENDAR
