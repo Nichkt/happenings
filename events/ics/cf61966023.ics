@@ -5,17 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cf61966023-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
+DTSTAMP:20261023T154736Z
+SEQUENCE:1
+LAST-MODIFIED:20261023T154736Z
 DTSTART:20261101T190000Z
 DTEND:20261101T220000Z
 SUMMARY:Day of the Dead at the Junction
 LOCATION:Fauntleroy neighborhood\, exact address disclosed upon registratio
  n\, Seattle\, WA\, 98136
-DESCRIPTION:Join us for a vibrant Day of the Dead celebration as we transfo
- rm Fauntleroy Way SW into a colorful block filled with papel picado\, mari
- golds\, and community…\n\nhttps://www.parentmap.com/calendar/day-of-the-
- dead-at-the-junction/
+DESCRIPTION:Join us for a vibrant Día de los Muertos celebration as we tra
+ nsform Fauntleroy Way SW into a colorful block filled with papel picado\, 
+ marigolds\, and community…\n\nhttps://www.parentmap.com/calendar/day-of-
+ the-dead-at-the-junction/
 URL:https://www.parentmap.com/calendar/day-of-the-dead-at-the-junction/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:622014cb80-seattle-happenings@nichkt.github.io
+DTSTAMP:20261023T154736Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:Thanksgiving For the Turkeys
+LOCATION:Pasado’s Safe Haven\, Address provided upon registration\, Monro
+ e\, WA\, 98272
+DESCRIPTION:This holiday season\, you’re invited to Pasado’s Safe Haven
+  for a heartwarming celebration honoring the turkeys!\n\nhttps://www.paren
+ tmap.com/calendar/thanksgiving-turkeys/2026-11-14/1/
+URL:https://www.parentmap.com/calendar/thanksgiving-turkeys/2026-11-14/1/
+END:VEVENT
+END:VCALENDAR

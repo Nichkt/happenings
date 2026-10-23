@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:99a5bfd284-seattle-happenings@nichkt.github.io
+DTSTAMP:20261023T154736Z
+SEQUENCE:0
+DTSTART:20261101T190000Z
+DTEND:20261101T220000Z
+SUMMARY:Tacoma Buddhist Temple – Fall Bazaar
+LOCATION:Tacoma Buddhist Temple\, 1717 S. Fawcett Avenue\, Tacoma\, Washing
+ ton\, 98402
+DESCRIPTION:@ Add to calendar Google Calendar iCalendar Outlook 365 Outlook
+  Live\n\nhttps://seattlebetsuin.org/event/tacoma-buddhist-temple-fall-baza
+ ar/
+URL:https://seattlebetsuin.org/event/tacoma-buddhist-temple-fall-bazaar/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:76b7d37aff-seattle-happenings@nichkt.github.io
+DTSTAMP:20261023T154736Z
+SEQUENCE:0
+DTSTART:20261124T210000Z
+DTEND:20261124T223000Z
+SUMMARY:Unlonely Film Festival
+LOCATION:Greenwood Senior Center\, 525 N. 85th St.\, Seattle\, WA\, 98103
+DESCRIPTION:The annual UnLonely Film Festival\, sponsored by the Foundation
+  for Art & Healing\, is curated series of award-winning short films that g
+ ive voice to the…\n\nhttps://www.phinneycenter.org/event/unlonely-film-f
+ estival/
+URL:https://www.phinneycenter.org/event/unlonely-film-festival/
+END:VEVENT
+END:VCALENDAR

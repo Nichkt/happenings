@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fdcc68b9e8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261023T154736Z
+SEQUENCE:0
+DTSTART:20261107T030000Z
+DTEND:20261107T050000Z
+SUMMARY:Get the Funk Out
+LOCATION:Lynnwood Event Center\, 3711 196th St\, Lynnwood\, WA\, 98036
+DESCRIPTION:On November 6\, come hang out\, let loose and have some fun wit
+ h us at Get the Funk Out!\n\nhttps://www.parentmap.com/calendar/get-the-fu
+ nk-out/
+URL:https://www.parentmap.com/calendar/get-the-funk-out/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:610dd1ec00-seattle-happenings@nichkt.github.io
+DTSTAMP:20261023T154736Z
+SEQUENCE:0
+DTSTART:20261030T160000Z
+DTEND:20261031T000000Z
+SUMMARY:Halloween Costume Sand Play at The Sand Garden
+LOCATION:The Sand Garden\, 660 NW Gilman Blvd\, C-2\, Issaquah\, WA\, 98027
+DESCRIPTION:Bring your little ghosts and superheroes in costume for candy a
+ nd sand play in our indoor sandbox\, with 60\,000 lbs of soft\, low-dust\,
+  silica-free sand\, calm…\n\nhttps://www.parentmap.com/calendar/hallowee
+ n-costume-sand-play-at-the-sand-garden/
+URL:https://www.parentmap.com/calendar/halloween-costume-sand-play-at-the-s
+ and-garden/
+END:VEVENT
+END:VCALENDAR

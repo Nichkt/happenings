@@ -5,15 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:f9d2cf6b07-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
+DTSTAMP:20261023T154736Z
+SEQUENCE:1
+LAST-MODIFIED:20261023T154736Z
 DTSTART:20261031T003000Z
 DTEND:20261031T030000Z
 SUMMARY:Monster Mash Halloween Bash
-LOCATION:Northwest Arts Center\, 9825 NE 24th St\, Bellevue\, WA\, 98004
-DESCRIPTION:This indoor event is an opportunity for all ages to enjoy a fun
-  spooky-themed trick or treat party!\n\nhttps://www.parentmap.com/calendar
- /monster-mash-halloween-bash/
-URL:https://www.parentmap.com/calendar/monster-mash-halloween-bash/
+LOCATION:Northwest Arts Center\, Northwest Arts Center\, 9825 NE 24th Stree
+ t Bellevue\, WA 98004
+DESCRIPTION:The Monster Mash Halloween Bash event is an opportunity for all
+  ages to enjoy a fun and spooky themed trick or treat party!\n\nhttps://be
+ llevuewa.gov/events/monster-mash-halloween-bash-0
+URL:https://bellevuewa.gov/events/monster-mash-halloween-bash-0
 END:VEVENT
 END:VCALENDAR
