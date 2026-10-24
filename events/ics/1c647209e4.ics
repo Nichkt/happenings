@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1c647209e4-seattle-happenings@nichkt.github.io
+DTSTAMP:20261024T144009Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261219
+TRANSP:TRANSPARENT
+SUMMARY:Pines on Pike Christmas Tree Lot
+LOCATION:First & Pike\, First Ave. and Pike St.\, Seattle\, WA
+DESCRIPTION:Hours: 10 AM–7 PM\n\nPick up a new piece of holiday decor\, r
+ ight in the heart of downtown at Pines on Pike Christmas Tree Lot!\n\nhttp
+ s://downtownseattle.org/event/pines-on-pike-christmas-tree-lot/
+URL:https://downtownseattle.org/event/pines-on-pike-christmas-tree-lot/
+END:VEVENT
+END:VCALENDAR

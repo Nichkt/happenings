@@ -5,18 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:71987032a8-seattle-happenings@nichkt.github.io
-DTSTAMP:20261023T154736Z
-SEQUENCE:7
-LAST-MODIFIED:20261023T154736Z
-DTSTART;VALUE=DATE:20261021
+DTSTAMP:20261024T144009Z
+SEQUENCE:8
+LAST-MODIFIED:20261024T144009Z
+DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261031
 TRANSP:TRANSPARENT
 SUMMARY:Picha Farms Fall Festival
 LOCATION:Picha Farms\, 6502 52nd ST E\, Puyallup\, WA\, 98371
 DESCRIPTION:Picha Farms is ready for you to come and enjoy some fall family
   fun on the farm.\n\nhttps://www.parentmap.com/calendar/picha-farms-fall-f
- estival-2/2026-10-21/
+ estival-2/2026-10-22/
 URL:https://www.parentmap.com/calendar/picha-farms-fall-festival-2/2026-10-
- 21/
+ 22/
 END:VEVENT
 END:VCALENDAR
