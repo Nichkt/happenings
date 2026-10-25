@@ -5,18 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:d2a52fd904-seattle-happenings@nichkt.github.io
-DTSTAMP:20261024T144009Z
-SEQUENCE:1
-LAST-MODIFIED:20261024T144009Z
-DTSTART;VALUE=DATE:20261022
+DTSTAMP:20261025T145934Z
+SEQUENCE:2
+LAST-MODIFIED:20261025T145934Z
+DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
 TRANSP:TRANSPARENT
 SUMMARY:A Very Farmy Halloween Edition
 LOCATION:Luckie Farms\, 930 Sunnyside Blvd\, Lake Stevens\, WA\, 98258
 DESCRIPTION:Hours: 10 AM–6 PM\n\nOctober only- Halloween costumes (especi
  ally farm themed) encouraged!\n\nhttps://www.parentmap.com/calendar/a-very
- -farmy-halloween-edition/2026-10-22/
+ -farmy-halloween-edition/2026-10-23/
 URL:https://www.parentmap.com/calendar/a-very-farmy-halloween-edition/2026-
- 10-22/
+ 10-23/
 END:VEVENT
 END:VCALENDAR

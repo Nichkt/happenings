@@ -5,17 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:86077d910f-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
+DTSTAMP:20261025T145934Z
+SEQUENCE:1
+LAST-MODIFIED:20261025T145934Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
 SUMMARY:December Art Market
 LOCATION:Duwamish Longhouse & Cultural Center\, 4705 West Marginal Way Sout
  hwest\, Seattle\, WA\, 98106
-DESCRIPTION:✨ The December Native Art Market is back!\n\nhttps://www.duwa
- mishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz
- -b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny
+DESCRIPTION:Volunteers Needed - Click to sign up.\n\nhttps://www.duwamishtr
+ ibe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl
+ -53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny
 URL:https://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed
  -for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny
 END:VEVENT

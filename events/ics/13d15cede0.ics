@@ -5,15 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:13d15cede0-seattle-happenings@nichkt.github.io
-DTSTAMP:20261024T144009Z
-SEQUENCE:1
-LAST-MODIFIED:20261024T144009Z
+DTSTAMP:20261025T145934Z
+SEQUENCE:2
+LAST-MODIFIED:20261025T145934Z
 DTSTART:20261122T200000Z
 DTEND:20261122T230000Z
 SUMMARY:Jimi Hendrix Celebration
 LOCATION:Northwest African American Museum\, 2300 South Massachusetts Stree
  t\, Seattle\, WA\, 98144
-DESCRIPTION:https://www.naamnw.org/events/jimi-hendrix-celebration
+DESCRIPTION:Join us at the Northwest African American Museum for a special 
+ celebration honoring the life\, music\, and enduring legacy of Jimi Hendri
+ x!\n\nhttps://www.naamnw.org/events/jimi-hendrix-celebration
 URL:https://www.naamnw.org/events/jimi-hendrix-celebration
 END:VEVENT
 END:VCALENDAR
