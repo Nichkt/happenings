@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:92f8b5f7d8-seattle-happenings@nichkt.github.io
-DTSTAMP:20261025T145934Z
-SEQUENCE:8
-LAST-MODIFIED:20261025T145934Z
-DTSTART;VALUE=DATE:20261023
+DTSTAMP:20261026T172811Z
+SEQUENCE:9
+LAST-MODIFIED:20261026T172811Z
+DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Schilter Family Farm Fall Harvest Festival
@@ -16,8 +16,8 @@ LOCATION:Schilter Family Farm\, 141 Nisqually Cutoff Road SE\, Olympia\, WA
  \, 98513
 DESCRIPTION:Every fall\, we transform into a paradise of pumpkins\, a haven
   of hayrides\, and a maze of corny fun!\n\nhttps://www.parentmap.com/calen
- dar/schilter-family-farm-fall-harvest-festival-s3/2026-10-23/
+ dar/schilter-family-farm-fall-harvest-festival/2026-10-24/
 URL:https://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-fe
- stival-s3/2026-10-23/
+ stival/2026-10-24/
 END:VEVENT
 END:VCALENDAR

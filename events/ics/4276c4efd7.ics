@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4276c4efd7-seattle-happenings@nichkt.github.io
+DTSTAMP:20261026T172811Z
+SEQUENCE:0
+DTSTART:20270101T040000Z
+DTEND:20270101T072900Z
+SUMMARY:2026 Seattle Christmas Market
+LOCATION:Seattle Center Fisher Pavilion\, 305 Harrison St\, Seattle\, WA\, 
+ 98109-4623
+DESCRIPTION:With European and local vendors\, holiday karaoke\, Santa meeti
+ ngs\, festive drinks and more\, there’s a little something for everyone.
+ \n\nhttps://www.parentmap.com/calendar/2026-seattle-christmas-market-2-3/
+URL:https://www.parentmap.com/calendar/2026-seattle-christmas-market-2-3/
+END:VEVENT
+END:VCALENDAR
