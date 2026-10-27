@@ -5,15 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:c185fa1531-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
+DTSTAMP:20261027T164446Z
+SEQUENCE:1
+LAST-MODIFIED:20261027T164446Z
 DTSTART:20261114T180000Z
-DTEND:20261115T020000Z
+DTEND:20261115T060000Z
 SUMMARY:Seattle Hmong New Year
 LOCATION:Armory Food & Event Hall\, 305 Harrison St\, Seattle\, WA\, 98109
-DESCRIPTION:Seattle Hmong New Year will take place November 14\, 2026 in th
- e Armory Food & Event Hall.\n\nhttps://nwasianweekly.com/community-calenda
- r/seattle-hmong-new-year-2/
+DESCRIPTION:For generations\, Hmong families have marked the end of the har
+ vest season by giving thanks to their ancestors and welcoming the year ahe
+ ad.\n\nhttps://nwasianweekly.com/community-calendar/seattle-hmong-new-year
+ -2/
 URL:https://nwasianweekly.com/community-calendar/seattle-hmong-new-year-2/
 END:VEVENT
 END:VCALENDAR

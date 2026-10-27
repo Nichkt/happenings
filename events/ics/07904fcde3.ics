@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:07904fcde3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261027T164446Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Festival of Trees at White River Valley Museum
+LOCATION:White River Valley Museum\, 918 H St SE\, Auburn\, WA\, 98002-6112
+DESCRIPTION:Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees d
+ ecorated by local businesses and community organizations.\n\nhttps://www.p
+ arentmap.com/calendar/festival-trees-white-river-valley-museum/2026-11-25/
+URL:https://www.parentmap.com/calendar/festival-trees-white-river-valley-mu
+ seum/2026-11-25/
+END:VEVENT
+END:VCALENDAR

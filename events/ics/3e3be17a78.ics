@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3e3be17a78-seattle-happenings@nichkt.github.io
+DTSTAMP:20261027T164446Z
+SEQUENCE:0
+DTSTART:20261128T230000Z
+DTEND:20261129T030000Z
+SUMMARY:WinterFest at Kirkland Urban
+LOCATION:Kirkland Urban\, 425 Urban Plaza\, Kirkland\, WA\, 98033
+DESCRIPTION:A complimentary community celebration\, open to all!\n\nhttps:/
+ /www.parentmap.com/calendar/winterfest-kirkland-urban/
+URL:https://www.parentmap.com/calendar/winterfest-kirkland-urban/
+END:VEVENT
+END:VCALENDAR

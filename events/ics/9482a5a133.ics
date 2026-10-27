@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9482a5a133-seattle-happenings@nichkt.github.io
+DTSTAMP:20261027T164446Z
+SEQUENCE:0
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+SUMMARY:Santa Saturdays in Old Bellevue
+LOCATION:Old Bellevue\, Main Street\, Bellevue\, WA\, 98004
+DESCRIPTION:A Little Holiday Magic on Main Street!\n\nhttps://www.parentmap
+ .com/calendar/santa-saturdays-in-old-bellevue/2026-12-12/
+URL:https://www.parentmap.com/calendar/santa-saturdays-in-old-bellevue/2026
+ -12-12/
+END:VEVENT
+END:VCALENDAR

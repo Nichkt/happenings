@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bb74df7872-seattle-happenings@nichkt.github.io
+DTSTAMP:20261027T164446Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20270105
+TRANSP:TRANSPARENT
+SUMMARY:Redmond Lights
+LOCATION:Redmond Downtown Park\, 16101 Redmond Way\, Redmond\, WA\, 98052
+DESCRIPTION:Hours: 5–11 PM\n\nA free\, month-long celebration of light an
+ d art in Downtown Park & Esterra Park.\n\nhttps://www.parentmap.com/calend
+ ar/redmond-lights/2026-12-05/
+URL:https://www.parentmap.com/calendar/redmond-lights/2026-12-05/
+END:VEVENT
+END:VCALENDAR

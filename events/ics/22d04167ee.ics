@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:22d04167ee-seattle-happenings@nichkt.github.io
+DTSTAMP:20261027T164446Z
+SEQUENCE:0
+DTSTART:20261116T030000Z
+DTEND:20261116T050000Z
+SUMMARY:Jim Brickman Piano Sensation LIVE! & A Little Bit Of Christmas
+LOCATION:The Washington Center for the Performing Arts\, 512 Washington St 
+ SE\, Olympia\, WA\, 98501-1330
+DESCRIPTION:Jim Brickman dazzles audiences with his live concert experience
+  “Piano Sensation LIVE! & A Little Bit Of Christmas.” This spectacular
+  performance blends…\n\nhttps://www.parentmap.com/calendar/jim-brickman-
+ piano-sensation-live-a-little-bit-of-christmas/
+URL:https://www.parentmap.com/calendar/jim-brickman-piano-sensation-live-a-
+ little-bit-of-christmas/
+END:VEVENT
+END:VCALENDAR

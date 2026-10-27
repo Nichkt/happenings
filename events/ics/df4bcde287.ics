@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:df4bcde287-seattle-happenings@nichkt.github.io
+DTSTAMP:20261027T164446Z
+SEQUENCE:0
+DTSTART:20261031T190000Z
+DTEND:20261031T220000Z
+SUMMARY:Hunger Goblin’ Trick or Treat & Food Drive
+LOCATION:Greenwood Ave & 67th\, 67th & Greenwood\, Seattle\, 98103
+DESCRIPTION:For over 30 years the PhinneyWood business district has hosted 
+ a daytime trick or treat the Saturday closest to Halloween.\n\nhttps://www
+ .parentmap.com/calendar/hunger-goblin-trick-or-treat-food-drive-2/
+URL:https://www.parentmap.com/calendar/hunger-goblin-trick-or-treat-food-dr
+ ive-2/
+END:VEVENT
+END:VCALENDAR

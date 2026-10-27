@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:549a1638ce-seattle-happenings@nichkt.github.io
+DTSTAMP:20261027T164446Z
+SEQUENCE:0
+DTSTART:20261031T003000Z
+DTEND:20261031T020000Z
+SUMMARY:Free Community Indoor Trick-or-Treat
+LOCATION:Circle Creek Therapy\, 1314 Auburn Wy N\, Auburn\, 98002
+DESCRIPTION:Join us for a free\, family-friendly indoor trick-or-treat with
+  themed hallways\, treats\, costumes\, and an inclusive\, sensory-friendly
+  environment.\n\nhttps://www.parentmap.com/calendar/free-community-indoor-
+ trick-or-treat/
+URL:https://www.parentmap.com/calendar/free-community-indoor-trick-or-treat
+ /
+END:VEVENT
+END:VCALENDAR

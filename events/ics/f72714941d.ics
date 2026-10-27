@@ -5,18 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:f72714941d-seattle-happenings@nichkt.github.io
-DTSTAMP:20261026T172811Z
-SEQUENCE:4
-LAST-MODIFIED:20261026T172811Z
-DTSTART;VALUE=DATE:20261024
+DTSTAMP:20261027T164446Z
+SEQUENCE:5
+LAST-MODIFIED:20261027T164446Z
+DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Boo-Tacular at Chuck E. Cheese
 DESCRIPTION:Hours: 12–8 PM\n\nThrough October 31\, Chuck E. Cheese is hos
  ting its biggest kid-focused Halloween celebration\, with a month of costu
  mes\, games and festive fun.\n\nhttps://www.parentmap.com/calendar/boo-tac
- ular-chuck-e-cheese/2026-10-24/
+ ular-chuck-e-cheese/2026-10-25/
 URL:https://www.parentmap.com/calendar/boo-tacular-chuck-e-cheese/2026-10-2
- 4/
+ 5/
 END:VEVENT
 END:VCALENDAR

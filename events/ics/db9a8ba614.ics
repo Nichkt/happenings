@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db9a8ba614-seattle-happenings@nichkt.github.io
+DTSTAMP:20261027T164446Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+SUMMARY:Zoolights
+LOCATION:Point Defiance Zoo & Aquarium\, 5400 N Pearl St\, Tacoma\, WA\, 98
+ 407-3224
+DESCRIPTION:Hours: 4:30–10 PM\n\nStroll through a magical world with over
+  1.5 million sparkling lights.\n\nhttps://www.parentmap.com/calendar/56485
+ -2/2026-12-26/
+URL:https://www.parentmap.com/calendar/56485-2/2026-12-26/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d8b0caa7c6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261027T164446Z
+SEQUENCE:0
+DTSTART:20261031T170000Z
+DTEND:20261031T210000Z
+SUMMARY:Fear on the Pier at MaST Center
+LOCATION:MaST Center\, 28203 Redondo Beach Dr. S\, Des Moines\, WA\, 98198
+DESCRIPTION:It’s October!\n\nhttps://www.parentmap.com/calendar/fear-pier
+ -mast-center/
+URL:https://www.parentmap.com/calendar/fear-pier-mast-center/
+END:VEVENT
+END:VCALENDAR

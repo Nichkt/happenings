@@ -5,13 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ceb8e1ba97-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
+DTSTAMP:20261027T164446Z
+SEQUENCE:1
+LAST-MODIFIED:20261027T164446Z
 DTSTART:20261205T190000Z
 DTEND:20261205T200000Z
 SUMMARY:Taste of Asia Pacific 2026
-LOCATION:Asia Pacific Cultural Center\, 3513 Portland Ave E\, Tacoma\, WA\,
-  98404
+LOCATION:Asia Pacific Cultural Center\, 4851 South Tacoma Way\, Tacoma\, WA
+ \, 98409
 DESCRIPTION:Mongolia\n\nhttps://nwasianweekly.com/community-calendar/taste-
  of-asia-pacific-2026-11/
 URL:https://nwasianweekly.com/community-calendar/taste-of-asia-pacific-2026
