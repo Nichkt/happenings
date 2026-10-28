@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:11c5c1d07f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261028T171334Z
+SEQUENCE:0
+DTSTART:20261205T230000Z
+DTEND:20261206T020000Z
+SUMMARY:Celebrate Woodinville Winterfest
+DESCRIPTION:Holiday Fair & Tree Lighting December 5\, 2026 | 3-6pm DeYoung 
+ Park\, The Schoolhouse District\, Woodin Creek Village Enjoy an afternoon 
+ of holiday fun with…\n\nhttps://www.parentmap.com/calendar/celebrate-woo
+ dinville-winterfest/
+URL:https://www.parentmap.com/calendar/celebrate-woodinville-winterfest/
+END:VEVENT
+END:VCALENDAR

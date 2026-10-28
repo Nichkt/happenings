@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:653eeb3428-seattle-happenings@nichkt.github.io
+DTSTAMP:20261028T171334Z
+SEQUENCE:0
+DTSTART:20261214T020000Z
+DTEND:20261214T040000Z
+SUMMARY:Woodinville Winterfest Car Parade & Festival
+LOCATION:Woodin Creek Village\, 17255 135th Avenue NE\, Woodinville\, WA\, 
+ 98072
+DESCRIPTION:Rev up your holiday spirit and join us for the 10th Annual Wood
+ inville Car Parade & Festival\, now proudly part of the Winterfest event s
+ eries!\n\nhttps://www.parentmap.com/calendar/woodinville-winterfest-car-pa
+ rade-festival/
+URL:https://www.parentmap.com/calendar/woodinville-winterfest-car-parade-fe
+ stival/
+END:VEVENT
+END:VCALENDAR

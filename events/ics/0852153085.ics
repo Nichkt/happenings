@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0852153085-seattle-happenings@nichkt.github.io
+DTSTAMP:20261028T171334Z
+SEQUENCE:0
+DTSTART:20261205T203000Z
+DTEND:20261205T233000Z
+SUMMARY:Santa Parade Cookies\, Cocoa\, and Craft
+LOCATION:Postmark Center for the Arts\, 20 Auburn Avenue\, Auburn\, WA\, 98
+ 002
+DESCRIPTION:Get your craft on at Postmark Center for the Arts prior to Aubu
+ rn’s Santa Parade & Tree Lighting festivities!\n\nhttps://www.parentmap.
+ com/calendar/santa-parade-cookies-cocoa-and-craft/
+URL:https://www.parentmap.com/calendar/santa-parade-cookies-cocoa-and-craft
+ /
+END:VEVENT
+END:VCALENDAR

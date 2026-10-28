@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:10e2ea89e0-seattle-happenings@nichkt.github.io
-DTSTAMP:20261027T164446Z
-SEQUENCE:11
-LAST-MODIFIED:20261027T164446Z
-DTSTART;VALUE=DATE:20261025
+DTSTAMP:20261028T171334Z
+SEQUENCE:12
+LAST-MODIFIED:20261028T171334Z
+DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261102
 TRANSP:TRANSPARENT
 SUMMARY:Edmonds Museum Scarecrow Festival Contest
 DESCRIPTION:Hours: 8 AM–6 PM\n\nThe Scarecrow festival is a family-friend
  ly event that allows local residents and businesses to show off their scar
- ecrows!\n\nhttps://www.parentmap.com/calendar/47695-2/2026-10-25/
-URL:https://www.parentmap.com/calendar/47695-2/2026-10-25/
+ ecrows!\n\nhttps://www.parentmap.com/calendar/47695-2/2026-10-26/
+URL:https://www.parentmap.com/calendar/47695-2/2026-10-26/
 END:VEVENT
 END:VCALENDAR

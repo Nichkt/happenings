@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa083ef7c4-seattle-happenings@nichkt.github.io
+DTSTAMP:20261028T171334Z
+SEQUENCE:0
+DTSTART:20261206T030000Z
+DTEND:20261206T050000Z
+SUMMARY:Encanto Holiday Concierto
+LOCATION:Langston Hughes Performing Arts Institute\, Langston Hughes Perfor
+ ming Arts Institute\, 104 17th Ave S\, Seattle\, WA 98144
+DESCRIPTION:Event Types: Arts\,Music Neighborhoods: Central Area/Squire Par
+ k Sponsoring Organization: LANGSTON Contact: Marshonne Walker Contact Phon
+ e: 2066844758 Contact…\n\nhttps://www.tickettailor.com/events/encantoart
+ s/2446568
+URL:https://www.tickettailor.com/events/encantoarts/2446568
+END:VEVENT
+END:VCALENDAR

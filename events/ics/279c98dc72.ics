@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:279c98dc72-seattle-happenings@nichkt.github.io
+DTSTAMP:20261028T171334Z
+SEQUENCE:0
+DTSTART:20261201T180000Z
+DTEND:20261201T210000Z
+SUMMARY:Garden d’Lights Senior Social
+LOCATION:The Aaron Education Center at the Bellevue Botanical Garden\, 1200
+ 1 Main St\, Bellevue\, WA\, 98005
+DESCRIPTION:Join us for a special daytime viewing of Garden d’Lights with
+  live music\, festive treats\, and a special shopping opportunity in The T
+ rillium Store.\n\nhttps://bellevuebotanical.org/event/garden-dlights-senio
+ r-social-2/
+URL:https://bellevuebotanical.org/event/garden-dlights-senior-social-2/
+END:VEVENT
+END:VCALENDAR

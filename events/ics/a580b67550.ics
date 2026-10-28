@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:a580b67550-seattle-happenings@nichkt.github.io
-DTSTAMP:20261027T164446Z
-SEQUENCE:11
-LAST-MODIFIED:20261027T164446Z
-DTSTART;VALUE=DATE:20261025
+DTSTAMP:20261028T171334Z
+SEQUENCE:12
+LAST-MODIFIED:20261028T171334Z
+DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261031
 TRANSP:TRANSPARENT
 SUMMARY:Thomasson Family Farm Fall Festival
@@ -17,8 +17,8 @@ LOCATION:Thomasson Family Farm\, 38223 236th Ave SE\, Enumclaw\, WA\, 98022
 DESCRIPTION:Hours: 9:30 AM–5:30 PM\n\nJoin us at TFF for day of FALL FARM
   FUN! Pumpkin picking\, corn maze\, animals\, lots of fun activities and y
  ummy food.\n\nhttps://www.parentmap.com/calendar/thomasson-family-farm-fal
- l-festival-s3/2026-10-25/
+ l-festival-s3/2026-10-26/
 URL:https://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-
- s3/2026-10-25/
+ s3/2026-10-26/
 END:VEVENT
 END:VCALENDAR

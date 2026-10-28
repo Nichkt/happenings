@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:b7d5cdb7c7-seattle-happenings@nichkt.github.io
-DTSTAMP:20261027T164446Z
-SEQUENCE:11
-LAST-MODIFIED:20261027T164446Z
-DTSTART;VALUE=DATE:20261025
+DTSTAMP:20261028T171334Z
+SEQUENCE:12
+LAST-MODIFIED:20261028T171334Z
+DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Stocker Farms Fall Festival
@@ -16,8 +16,8 @@ LOCATION:Stocker Farms\, 8705 Marsh Rd\, Snohomish\, WA\, 98296
 DESCRIPTION:Hours: 10 AM–6 PM\n\nPlan your visit now to our Fall Festival
   to get the perfect photo op\, U-Pick ‘Em Pumpkins\, and explore our ico
  nic Corn Maze!\n\nhttps://www.parentmap.com/calendar/stocker-farms-fall-fe
- stival/2026-10-25/
+ stival/2026-10-26/
 URL:https://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-
- 25/
+ 26/
 END:VEVENT
 END:VCALENDAR
