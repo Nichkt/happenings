@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:d9c90628b3-seattle-happenings@nichkt.github.io
-DTSTAMP:20261028T171334Z
-SEQUENCE:12
-LAST-MODIFIED:20261028T171334Z
-DTSTART;VALUE=DATE:20261026
+DTSTAMP:20261029T172836Z
+SEQUENCE:13
+LAST-MODIFIED:20261029T172836Z
+DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261102
 TRANSP:TRANSPARENT
 SUMMARY:Fall Festival at Bob’s Corn and Pumpkin Farm
@@ -16,8 +16,8 @@ LOCATION:Bob’s Corn and Pumpkin Farm\, 10917 Elliott Rd\, Snohomish\, WA\
  , 98296-8106
 DESCRIPTION:Hours: 10 AM–7 PM\n\nWelcome to Bob’s Fall Festival!\n\nhtt
  ps://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2
- 026-10-26/
+ 026-10-27/
 URL:https://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-
- farm/2026-10-26/
+ farm/2026-10-27/
 END:VEVENT
 END:VCALENDAR

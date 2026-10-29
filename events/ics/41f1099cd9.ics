@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:41f1099cd9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261212T013000Z
+DTEND:20261212T043000Z
+SUMMARY:Reindeer and Reels
+LOCATION:Peter Kirk Park\, 202 3rd St.\, Kirkland\, WA\, 98033
+DESCRIPTION:Venture into the unknown with us as we ring in the season at ou
+ r brand-new winter celebration!\n\nhttps://www.parentmap.com/calendar/rein
+ deer-and-reels/
+URL:https://www.parentmap.com/calendar/reindeer-and-reels/
+END:VEVENT
+END:VCALENDAR

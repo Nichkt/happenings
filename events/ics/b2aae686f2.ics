@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b2aae686f2-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261225
+TRANSP:TRANSPARENT
+SUMMARY:Holiday on the Docks
+LOCATION:Port of Edmonds Marina\, 358 Admiral Way\, Edmonds\, WA\, 98020
+DESCRIPTION:Hours: 6–9:30 PM\n\nVisit boats decked out in holiday decorat
+ ions and twinkling lights\, on display in the Port of Edmonds Marina for a
+ ll to enjoy nightly\, December 1st- January…\n\nhttps://www.parentmap.co
+ m/calendar/holiday-docks/2026-12-01/
+URL:https://www.parentmap.com/calendar/holiday-docks/2026-12-01/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ac9f06ff6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261205T020000Z
+DTEND:20261205T050000Z
+SUMMARY:Black Artists Market at Midtown Square
+LOCATION:Midtown Square Plaza\, 2301 E Union St\, Seattle\, WA\, 98122
+DESCRIPTION:Join us for our holiday craft market featuring an array of uniq
+ ue treasures from Black artists\, artisans\, and Black-owned small busines
+ ses.\n\nhttps://www.parentmap.com/calendar/black-artists-market-at-midtown
+ -square/
+URL:https://www.parentmap.com/calendar/black-artists-market-at-midtown-squa
+ re/
+END:VEVENT
+END:VCALENDAR

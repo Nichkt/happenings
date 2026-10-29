@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b02a45bc66-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Urban Craft Uprising Winter Market
+LOCATION:Seattle Center Exhibition Hall\, 301 Mercer St\, Seattle\, WA\, 98
+ 109-4600
+DESCRIPTION:Hours: 10 AM–5 PM\n\nThis winter marks Urban Craft Uprising
+ ’s 22nd Annual Winter Show!\n\nhttps://www.parentmap.com/calendar/urban-
+ craft-uprising-winter-market/2026-12-05/
+URL:https://www.parentmap.com/calendar/urban-craft-uprising-winter-market/2
+ 026-12-05/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b872090dd7-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T040000Z
+SUMMARY:Downtown Edmonds Luminaria Walk
+DESCRIPTION:The Edmonds Tree Lighting Ceremony is beloved by young and old 
+ as the kick off to the holiday season.\n\nhttps://www.parentmap.com/calend
+ ar/downtown-edmonds-luminaria-walk/
+URL:https://www.parentmap.com/calendar/downtown-edmonds-luminaria-walk/
+END:VEVENT
+END:VCALENDAR

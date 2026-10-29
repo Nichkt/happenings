@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c065837ee5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261211T020000Z
+DTEND:20261211T040000Z
+SUMMARY:Holiday Night at the Marina
+LOCATION:Port of Edmonds Public Plaza\, 458 Admiral Way\, Edmonds\, WA\, 98
+ 020
+DESCRIPTION:Our annual holiday celebration for the community with music\, f
+ ood trucks\, free hot beverages and treats\, and decorated boats.\n\nhttps
+ ://www.parentmap.com/calendar/holiday-night-marina/
+URL:https://www.parentmap.com/calendar/holiday-night-marina/
+END:VEVENT
+END:VCALENDAR

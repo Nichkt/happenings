@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8466c28b0d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261212T013000Z
+DTEND:20261212T030000Z
+SUMMARY:Family Hanukkah Celebration
+LOCATION:Stroum Jewish Community Center\, 3801 E Mercer Way\, Mercer Island
+ \, WA\, 98040-3805
+DESCRIPTION:Celebrate the eighth night of Hanukkah with your J Community at
+  the SJCC Family Hanukkah Celebration!\n\nhttps://www.parentmap.com/calend
+ ar/family-hanukkah-celebration/
+URL:https://www.parentmap.com/calendar/family-hanukkah-celebration/
+END:VEVENT
+END:VCALENDAR

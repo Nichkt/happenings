@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c202b2dbce-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Edmonds Tree Lighting
+LOCATION:Centennial Plaza\, Corner of 5th and Bell\, Edmonds\, WA\, 98020
+DESCRIPTION:Come for the live band rocking out holiday favorites and stay f
+ or a magical community celebration of the season.\n\nhttps://www.parentmap
+ .com/calendar/edmonds-tree-lighting/
+URL:https://www.parentmap.com/calendar/edmonds-tree-lighting/
+END:VEVENT
+END:VCALENDAR

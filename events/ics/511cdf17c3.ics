@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:511cdf17c3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261121T180000Z
+DTEND:20261121T230000Z
+SUMMARY:Shoreline Arts Market
+LOCATION:Downtown Ridgecrest\, 521 NE 165th St\, Shoreline\, 98155
+DESCRIPTION:We can’t think of anything more quintessentially wintery than
+  a stroll through a unique holiday market.\n\nhttps://www.parentmap.com/ca
+ lendar/shoreline-arts-market/
+URL:https://www.parentmap.com/calendar/shoreline-arts-market/
+END:VEVENT
+END:VCALENDAR

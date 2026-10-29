@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9bf473dc3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261122T210000Z
+DTEND:20261122T223000Z
+SUMMARY:Hanukkah Mitzvah and Cookie Party
+LOCATION:Stroum Jewish Community Center\, 3801 E Mercer Way\, Mercer Island
+ \, WA\, 98040-3805
+DESCRIPTION:Join the J community for a hands-on volunteer opportunity to br
+ ing winter warmth to families in need this holiday season by assembling wa
+ rmth kits for refugees…\n\nhttps://www.parentmap.com/calendar/hanukkah-c
+ ookie-dreidel-decorating/
+URL:https://www.parentmap.com/calendar/hanukkah-cookie-dreidel-decorating/
+END:VEVENT
+END:VCALENDAR

@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-10-28T17:13:34Z",
+ "generatedAt": "2026-10-29T17:28:36Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-10-28",
- "until": "2027-01-20",
+ "from": "2026-10-29",
+ "until": "2027-01-21",
  "regions": [
   {
    "id": "SEATTLE",
@@ -151,7 +151,7 @@
   },
   {
    "name": "ParentMap",
-   "events": 250
+   "events": 260
   },
   {
    "name": "Phinney Center",
@@ -179,9 +179,9 @@
    "id": "ea78f0f98f",
    "series": "353b5d0cdb",
    "title": "Rutledge Fall on the Farm",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-31",
-   "dates": "Oct 26–31",
+   "dates": "Oct 27–31",
    "place": "Rutledge Corn Maze, Olympia",
    "placeLines": "Rutledge Corn Maze, Olympia\n302 93rd Ave SE, Olympia, WA, 98501",
    "region": "FARTHER",
@@ -190,7 +190,7 @@
    "free": false,
    "summary": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories.",
    "description": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories. Explore the farm, enjoy festive attractions, and experience everything that makes fall at Rutledge Family Farm special.\n\nWe have all kinds of activities.\n\nEveryday:\n\nCorn Maze (Checkpoint and FSI game)\nSwings\nCattle roping practice station\nCorn Hole bean bag toss\nWall ball maze game\nBubble barn\nSpookley photo op\nJump Pad weather permitting .\n\nFriday, Saturday and Sunday only (10am to 6pm):\n\nCorn Train\nCow train\nCorn Cannon (first shot included with admission).",
-   "url": "https://www.parentmap.com/calendar/rutledge-fall-farm-2/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/rutledge-fall-farm-2/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190361489-zach-the-singing-tractor-30be9ae87221.png",
    "imageCredit": "ParentMap",
    "sources": [
@@ -199,55 +199,23 @@
    "map": "Rutledge Corn Maze, 302 93rd Ave SE, Olympia, WA, 98501",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-01",
-    "notes": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories.\n\nhttps://www.parentmap.com/calendar/rutledge-fall-farm-2/2026-10-26/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 10,
-   "changed": "2026-10-27T16:44:46Z"
-  },
-  {
-   "id": "92f8b5f7d8",
-   "series": "6da44602ab",
-   "title": "Schilter Family Farm Fall Harvest Festival",
-   "start": "2026-10-26",
-   "end": "2026-10-31",
-   "dates": "Oct 26–31",
-   "place": "Schilter Family Farm, Olympia",
-   "placeLines": "Schilter Family Farm, Olympia\n141 Nisqually Cutoff Road SE, Olympia, WA, 98513",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$15 – $20",
-   "free": false,
-   "summary": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun!",
-   "description": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun! Get lost in our massive corn maze, cuddle cute critters, zip down our swings, and jump to your heart’s content on our bounce pillow. And Lots of other fun to be had. Don’t forget to snag your perfect pumpkin!\n\nVisit our farm and make some special memories in the cozy Fall spirit! Enjoy our pumpkin patches, 5-acre corn maze, delicious seasonal fall food offerings and over 25 family-friendly acivities!\n\n***New this year***\nGiant Bubble Station and Pumpkin Bobber Fishing\n\nActivity bracelets provide access to farm activities (wagon ride, corn maze, animal barn, bounce pillow, etc.) our sweet Country charm gift shop is located behind the big barn.\n\nThe farm market/farm exit is located near the entrance in the white building where pumpkins are weighed and purchased.\n\nOpen 6 days a week (closed Tuesdays)!",
-   "url": "https://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-festival-s3/2026-10-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185821408-screenshot-2023-09-08-113213-f9b7d72092ae.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Schilter Family Farm, 141 Nisqually Cutoff Road SE, Olympia, WA, 98513",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-26",
-    "end": "2026-11-01",
-    "notes": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun!\n\nhttps://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-festival-s3/2026-10-26/"
+    "notes": "Join us for Fall on the Farm, a seasonal celebration of autumn fun, fresh air, and family memories.\n\nhttps://www.parentmap.com/calendar/rutledge-fall-farm-2/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
    "revision": 11,
-   "changed": "2026-10-28T17:13:34Z"
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "10e2ea89e0",
    "series": "928c05f801",
    "title": "Edmonds Museum Scarecrow Festival Contest",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-11-01",
    "startMinute": 480,
    "endMinute": 1080,
-   "dates": "Oct 26–Nov 1",
+   "dates": "Oct 27–Nov 1",
    "time": "8 AM–6 PM",
    "region": "NORTH",
    "category": "SEASONAL",
@@ -255,7 +223,7 @@
    "free": true,
    "summary": "The Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!",
    "description": "The Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!\n\nIt’s a fun event for the community, it fosters ties between businesses, residents, customers, arts and student groups, and you can have fun decorating the city for trick-or-treating.\n\n-Submit your scarecrow entry between September 24th and October 24th by 6 pm.\n-Vote for your favorite entry between October 25th and November 1st.\n-The top three winners in each category will receive a commemorative certificate. The top winners will receive a ghoulish goodie bag.\n-Winners will be announced November 8th.",
-   "url": "https://www.parentmap.com/calendar/47695-2/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/47695-2/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185945756-muerte-florecida-800x683-2c1989b825cb.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -263,23 +231,23 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-02",
-    "notes": "Hours: 8 AM–6 PM\n\nThe Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!\n\nhttps://www.parentmap.com/calendar/47695-2/2026-10-26/"
+    "notes": "Hours: 8 AM–6 PM\n\nThe Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!\n\nhttps://www.parentmap.com/calendar/47695-2/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 12,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 13,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "b57b7b94d6",
    "series": "02c6505ff7",
    "title": "Carpinito Brothers Fall Festival",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-31",
    "startMinute": 540,
    "endMinute": 1080,
-   "dates": "Oct 26–31",
+   "dates": "Oct 27–31",
    "time": "9 AM–6 PM",
    "place": "Carpinito Brothers Farm, Kent",
    "placeLines": "Carpinito Brothers Farm, Kent\nS. 277th and West Valley Highway, Kent, WA, 98032",
@@ -289,7 +257,7 @@
    "free": false,
    "summary": "On a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze.",
    "description": "On a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze. Throughout the farm, you’ll encounter a sea of pumpkins, challenging corn mazes, kids activities, and plenty of photo inspiration. No pets, firearms or smoking/vaping, please.\n\n-Meet the farm animals\n-Play in the kids area\n-Take a hayride\n-Race rubber ducks\n-Practice your roping\n… and so much more!\n\nPlan to bring the whole family for a day full of fun!\n\nPatch and corn maze: 27508 W. Valley Hwy N., Kent. Farm Fun Yard: 6720 S 277th St., Kent.",
-   "url": "https://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775079648246-165_carpinitos-pumpkin-patch-84-e7e0d602f503-768x512.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -298,23 +266,23 @@
    "map": "Carpinito Brothers Farm, S. 277th and West Valley Highway, Kent, WA, 98032",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-01",
-    "notes": "Hours: 9 AM–6 PM\n\nOn a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze.\n\nhttps://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2026-10-26/"
+    "notes": "Hours: 9 AM–6 PM\n\nOn a clear day, the picturesque Mount Rainier serves as an impressive backdrop for our beautiful Kent Valley patch and corn maze.\n\nhttps://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 12,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 13,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "5f61ef6480",
    "series": "81f2a3e6a5",
    "title": "Spooner Farms Harvest Festival",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-31",
    "startMinute": 540,
    "endMinute": 1080,
-   "dates": "Oct 26–31",
+   "dates": "Oct 27–31",
    "time": "9 AM–6 PM",
    "place": "Spooner Farms, Puyallup",
    "placeLines": "Spooner Farms, Puyallup\n9710 State Route 162 E, Puyallup, WA, 98374",
@@ -324,7 +292,7 @@
    "free": true,
    "summary": "The Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882!",
    "description": "The Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882! This year we are harvesting over 50 varieties of pumpkins, gourds, squash, and corn.\n\nDuring October most of the farm is available for your enjoyment as we celebrate fall the way we love – with fun for the whole family, including our pumpkin patch, corn maze, and more.\n\nEnjoy these activities:\n\n• Pumpkin Sling Shot\n\n• Farm Animals\n\n• Gift Shop\n\n• Pete’s Play Town\n\n• Concessions\n\n• Speedway\n\n• Candy Store\n\n• Caramel Popcorn\n\n• Caramel Apples\n\n• Roasted Corn (weekends only)\n\n• Becky’s Animal Barn\n\n• Corn Maze\n\n• Great Fall Decorations\n\n• Fun for the whole family\n\nOpen Daily 9:00 AM TO 6:00 PM Sept. 27th – Oct. 31st",
-   "url": "https://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775080201941-spooner-farm-harvest-festivaljpg-c92c11312f2a.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -333,23 +301,23 @@
    "map": "Spooner Farms, 9710 State Route 162 E, Puyallup, WA, 98374",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-01",
-    "notes": "Hours: 9 AM–6 PM\n\nThe Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882!\n\nhttps://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-10-26/"
+    "notes": "Hours: 9 AM–6 PM\n\nThe Spooner Farms family is 6th generation farmers fortunate to have been farming in the Puyallup Valley since 1882!\n\nhttps://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 12,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 13,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "a580b67550",
    "series": "a54d077e49",
    "title": "Thomasson Family Farm Fall Festival",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-30",
    "startMinute": 570,
    "endMinute": 1050,
-   "dates": "Oct 26–30",
+   "dates": "Oct 27–30",
    "time": "9:30 AM–5:30 PM",
    "place": "Thomasson Family Farm, Enumclaw",
    "placeLines": "Thomasson Family Farm, Enumclaw\n38223 236th Ave SE, Enumclaw, WA, 98022-8812",
@@ -359,7 +327,7 @@
    "free": false,
    "summary": "Join us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food.",
    "description": "Join us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food. #WeGrowFun\n\nWEEKDAY (Mon-Fri): Entrance onto our farm, Wagon rides, Corn maze, jr. Corn maze, Farm animals, Tractor train rides, Corn box, gravel pit, tetherball, Feedbox basketball, Life size foosball, Chalkboard house, Farm inspired playground activities, Sand pit, Backyard Billiards, Slides, Trike track (Kids & Adults), Bubble table, Rubber duck races, Corn hole, Rainy day alley way (indoor activities), Wall mazes, Who’s your pumpkin, Activity tables, Fairy tail trail, Giant connect 4, Giant jenga, Gift Shop, Photo ops. Open Food Locations: Cathy’s Kitchen serves pizza, hot sandwiches, nachos & pies, Latte Stand, the Mercantile, carries sweet treats such as fudge, caramel apples and more.\n\nWEEKEND (Sat & Sun): Entrance onto our farm, All weekday activities listed above, plus: Apple sling shot, Laser tag (weather permitting), Mega Slide, Zip Line. All Food Locations Open: Cathy’s Kitchen, Feed Store, Mini Donuts, Ice Cream Parlor, Latte Stand, Kettle Corn.\nAdmission prices differ between weekdays (Mon–Fri) and weekends (Sat–Sun), as select attractions and food stations are closed on weekdays.",
-   "url": "https://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-s3/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-s3/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775189809733-img_2956-a92d5218c27d.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -368,23 +336,23 @@
    "map": "Thomasson Family Farm, 38223 236th Ave SE, Enumclaw, WA, 98022-8812",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-10-31",
-    "notes": "Hours: 9:30 AM–5:30 PM\n\nJoin us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food.\n\nhttps://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-s3/2026-10-26/"
+    "notes": "Hours: 9:30 AM–5:30 PM\n\nJoin us at TFF for day of FALL FARM FUN! Pumpkin picking, corn maze, animals, lots of fun activities and yummy food.\n\nhttps://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-s3/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 12,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 13,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "d9c90628b3",
    "series": "3de80e4877",
    "title": "Fall Festival at Bob’s Corn and Pumpkin Farm",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-11-01",
    "startMinute": 600,
    "endMinute": 1140,
-   "dates": "Oct 26–Nov 1",
+   "dates": "Oct 27–Nov 1",
    "time": "10 AM–7 PM",
    "place": "Bob’s Corn and Pumpkin Farm, Snohomish",
    "placeLines": "Bob’s Corn and Pumpkin Farm, Snohomish\n10917 Elliott Rd, Snohomish, WA, 98296-8106",
@@ -394,7 +362,7 @@
    "free": false,
    "summary": "Welcome to Bob’s Fall Festival!",
    "description": "Welcome to Bob’s Fall Festival! We have combined some of the best parts of the fall season into what we are now calling our Annual Fall Festival! Pumpkins and Corn are part of what we are known for here and we love it! Plan a visit between September 19th and November 1st to enjoy a fun tractor ride down to our lower fields, pick your own pumpkins from our pumpkin patches, find your way through our corn maze, enjoy some of Sarah’s famous donuts, drink some hot apple cider, and pick up your farm favorite treats in our Country Store! Coming on a Saturday or Sunday? Eat lunch or dinner at our Country Kitchen or try some of our roasted corn! Bob’s Corn is the place to be this fall!",
-   "url": "https://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775184855087-2016bobscornmaze-6e081d183b0a.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -403,23 +371,23 @@
    "map": "Bob’s Corn and Pumpkin Farm, 10917 Elliott Rd, Snohomish, WA, 98296-8106",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-02",
-    "notes": "Hours: 10 AM–7 PM\n\nWelcome to Bob’s Fall Festival!\n\nhttps://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-26/"
+    "notes": "Hours: 10 AM–7 PM\n\nWelcome to Bob’s Fall Festival!\n\nhttps://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 12,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 13,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "01ab81a31c",
    "series": "b54a23153b",
    "title": "Harvest Festival at Swans Trail Farms",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-31",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Oct 26–31",
+   "dates": "Oct 27–31",
    "time": "10 AM–6 PM",
    "place": "Swan’s Trail Farms, Snohomish",
    "placeLines": "Swan’s Trail Farms, Snohomish\n7301 Rivershore Rd., Snohomish, WA, 98290",
@@ -429,7 +397,7 @@
    "free": false,
    "summary": "Get ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle!",
    "description": "Get ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle! Harvest Festival is open daily from 10 AM–6 PM, with U-Pick apples and pumpkins, family-friendly attractions, farm-fresh food, and plenty of fall memories to make. Don’t miss our magical pumpkin garden, a favorite spot for fall photos!\n\nEnjoy the full experience of the Harvest Festival with over 30+ farm fun attractions! Wander through the legendary Washington State Corn Maze, a 12-acre masterpiece meticulously shaped like our state. You’ll navigate 4.5 miles of paths, discovering over 700 state roads and landmarks. Afterward, warm up with our famous apple cider donuts and fresh-pressed cider, or visit our Cidery for a hard cider made with apples from our own orchard. With friendly farm animals and a charming Country Store full of local honey and goods, jarred food, fall and farm-related decor, books, puzzles, and more; there’s something for everyone to enjoy. Come spend the day with us and make lasting fall memories!",
-   "url": "https://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190565890-wagon-ride--102b1d0eace0.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -438,23 +406,23 @@
    "map": "Swan’s Trail Farms, 7301 Rivershore Rd., Snohomish, WA, 98290",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-01",
-    "notes": "Hours: 10 AM–6 PM\n\nGet ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle!\n\nhttps://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2026-10-26/"
+    "notes": "Hours: 10 AM–6 PM\n\nGet ready for fall fun at Swans Trail Farms, just 30 minutes from Seattle!\n\nhttps://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 12,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 13,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "b7d5cdb7c7",
    "series": "cf6661baf0",
    "title": "Stocker Farms Fall Festival",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-31",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Oct 26–31",
+   "dates": "Oct 27–31",
    "time": "10 AM–6 PM",
    "place": "Stocker Farms, Snohomish",
    "placeLines": "Stocker Farms, Snohomish\n8705 Marsh Rd, Snohomish, WA, 98296",
@@ -464,7 +432,7 @@
    "free": false,
    "summary": "Plan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze!",
    "description": "Plan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze! You’ll find something for everyone in our 30+ farm fun attractions!\n\nGeneral Attractions: Some of our top attractions include: Entry into the U-Pick Pumpkin Patch, Corn Maze, Two Giant Jumping Pillows (weather permitting), Pumpkin Barn, One Mega Slide Ride, Zip Lines, Pig Races, Children’s Climbing Wall, Tractor Slide, Cow Train, Sport Ball Arcade, Corn Hole, Photo-Ops, Bubble Barn, Trike Track, Children’s Pumpkin Barn & More!\n\nAttractions Only Available on Weekends: Hay Ride, Candy Cannon & Pumpkin Cannon.\n\nTickets and pricing.",
-   "url": "https://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185746733-screenshot-2022-09-09-135814-932cbc26b76c.png",
    "imageCredit": "ParentMap",
    "sources": [
@@ -473,30 +441,30 @@
    "map": "Stocker Farms, 8705 Marsh Rd, Snohomish, WA, 98296",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-01",
-    "notes": "Hours: 10 AM–6 PM\n\nPlan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze!\n\nhttps://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-26/"
+    "notes": "Hours: 10 AM–6 PM\n\nPlan your visit now to our Fall Festival to get the perfect photo op, U-Pick ‘Em Pumpkins, and explore our iconic Corn Maze!\n\nhttps://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 12,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 13,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "f72714941d",
    "series": "a0a928c405",
    "title": "Boo-Tacular at Chuck E. Cheese",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-31",
    "startMinute": 720,
    "endMinute": 1200,
-   "dates": "Oct 26–31",
+   "dates": "Oct 27–31",
    "time": "12–8 PM",
    "category": "SEASONAL",
    "cost": "Free",
    "free": true,
    "summary": "Through October 31, Chuck E. Cheese is hosting its biggest kid-focused Halloween celebration, with a month of costumes, games and festive fun.",
    "description": "Through October 31, Chuck E. Cheese is hosting its biggest kid-focused Halloween celebration, with a month of costumes, games and festive fun. New this year is the Boo-Meal Deal: a large Pumpkin-Shaped Pepperoni Pizza, two drinks and a collectible Boo-Bucket filled with two Spider Web Cotton Candies, starting at $34.99 (dine-in only, limited time).\n\nWhat families can expect at their local Seattle location:\n\nSensory Sensitive Sunday, October 25: Participating locations open two hours early for a quieter, more welcoming experience for kids with sensory sensitivities.\nNightly Halloween dance parties: Kids can show off their costumes and dance with Chuck E.\nCostume-friendly fun all month: Kids are encouraged to dress up any day they visit.\nSpecial Halloween offers: Including the Boo-Bundle and chances to earn bonus tickets.",
-   "url": "https://www.parentmap.com/calendar/boo-tacular-chuck-e-cheese/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/boo-tacular-chuck-e-cheese/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775146708604-screenshot-2025-09-29-134157-7aef2797bf64.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -504,29 +472,29 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-01",
-    "notes": "Hours: 12–8 PM\n\nThrough October 31, Chuck E. Cheese is hosting its biggest kid-focused Halloween celebration, with a month of costumes, games and festive fun.\n\nhttps://www.parentmap.com/calendar/boo-tacular-chuck-e-cheese/2026-10-26/"
+    "notes": "Hours: 12–8 PM\n\nThrough October 31, Chuck E. Cheese is hosting its biggest kid-focused Halloween celebration, with a month of costumes, games and festive fun.\n\nhttps://www.parentmap.com/calendar/boo-tacular-chuck-e-cheese/2026-10-27/"
    },
    "firstSeen": "2026-10-20T15:41:43Z",
-   "revision": 6,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 7,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "00d98af465",
    "series": "f1abc59406",
    "title": "Mexam NW Festival",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-31",
    "startMinute": 720,
    "endMinute": 1380,
-   "dates": "Oct 26–31",
+   "dates": "Oct 27–31",
    "time": "12–11 PM",
    "category": "COMMUNITY",
    "cost": "Varies by event",
    "summary": "Editor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration.",
    "description": "Editor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration. Please consult the schedule for specific dates, times, fees and locations.\n\nMEXAM NW Festival 2026 is an exhilarating multi-event, multi-venue festival that spotlights the vibrant tapestry of contemporary Hispanic and Mexican-American culture. Curated by the Consulate of Mexico in Seattle and proudly presented by Delta – Aeromexico Airlines, MEXAM is supported and joined by multiple local partners.\n\nWe come together in a collective endeavor to celebrate the profound relationship between Hispanic heritage and the United States. Join us as we embrace the diversity of Hispanic culture and revel in the cultural exchange.\n\nFull schedule here.",
-   "url": "https://www.parentmap.com/calendar/mexam-nw-festival/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/mexam-nw-festival/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188706153-screenshot-2025-08-22-121651-79b5da9ef90b.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -534,23 +502,23 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-01",
-    "notes": "Hours: 12–11 PM\n\nEditor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration.\n\nhttps://www.parentmap.com/calendar/mexam-nw-festival/2026-10-26/"
+    "notes": "Hours: 12–11 PM\n\nEditor’s note: The Mexam Festival encompasses events taking place at different venues and times throughout its duration.\n\nhttps://www.parentmap.com/calendar/mexam-nw-festival/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 12,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 13,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "71987032a8",
    "series": "be50fdedc0",
    "title": "Picha Farms Fall Festival",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-30",
    "startMinute": 900,
    "endMinute": 1080,
-   "dates": "Oct 26–30",
+   "dates": "Oct 27–30",
    "time": "3–6 PM",
    "place": "Picha Farms, Puyallup",
    "placeLines": "Picha Farms, Puyallup\n6502 52nd ST E, Puyallup, WA, 98371",
@@ -560,7 +528,7 @@
    "free": true,
    "summary": "Picha Farms is ready for you to come and enjoy some fall family fun on the farm.",
    "description": "Picha Farms is ready for you to come and enjoy some fall family fun on the farm.\nHere are the fun fall activities you get to experience:\n\n• Corn Maze — Picha Farms is celebrating our spider friends in our corn maze! You’ll stroll through the web, in search of answers to eight trivia questions. A free mini pumpkin awaits you at the exit as a reward for all your hard work.\n• Hayride — Relax and enjoy the fresh air as you meander through wide-open fields of pumpkins.\n• Slingshot — Hit your target and win $5 off your pumpkin purchase.\n• Food — Sip on a latte or hot apple cider; munch on kettle corn, enjoy gourmet hot dogs, hamburgers, tacos, potatoes and much more from our awesome vendors.\n• Fall Décor — With over 25 varieties of pumpkins to choose from, grab a wheelbarrow and stroll through the wide-open spaces. You have over 9-acres to search and find your perfect pumpkin. And don’t forget to stalk up on gourds and cornstalks.\n• If you’d like to celebrate a birthday in our birthday tent, the rental is $60 for 2 hours, including set up and clean up time. Pumpkin coupons and tickets to the maze, hayride, slingshot and kiddie train are available for purchase in our stand. (Groups wishing to gather in our party tent are also welcome to reserve a time.)\n\nCheck the Facebook page for updates.",
-   "url": "https://www.parentmap.com/calendar/picha-farms-fall-festival-2/2026-10-26/",
+   "url": "https://www.parentmap.com/calendar/picha-farms-fall-festival-2/2026-10-27/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188293524-screenshot-2022-09-10-1341102-ab67441a3f8a.png",
    "imageCredit": "ParentMap",
    "sources": [
@@ -569,13 +537,45 @@
    "map": "Picha Farms, 6502 52nd ST E, Puyallup, WA, 98371",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-10-31",
-    "notes": "Hours: 3–6 PM\n\nPicha Farms is ready for you to come and enjoy some fall family fun on the farm.\n\nhttps://www.parentmap.com/calendar/picha-farms-fall-festival-2/2026-10-26/"
+    "notes": "Hours: 3–6 PM\n\nPicha Farms is ready for you to come and enjoy some fall family fun on the farm.\n\nhttps://www.parentmap.com/calendar/picha-farms-fall-festival-2/2026-10-27/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 13,
+   "changed": "2026-10-29T17:28:36Z"
+  },
+  {
+   "id": "92f8b5f7d8",
+   "series": "6da44602ab",
+   "title": "Schilter Family Farm Fall Harvest Festival",
+   "start": "2026-10-28",
+   "end": "2026-10-31",
+   "dates": "Oct 28–31",
+   "place": "Schilter Family Farm, Olympia",
+   "placeLines": "Schilter Family Farm, Olympia\n141 Nisqually Cutoff Road SE, Olympia, WA, 98513",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$15 – $20",
+   "free": false,
+   "summary": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun!",
+   "description": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun! Get lost in our massive corn maze, cuddle cute critters, zip down our swings, and jump to your heart’s content on our bounce pillow. And Lots of other fun to be had. Don’t forget to snag your perfect pumpkin!\n\nVisit our farm and make some special memories in the cozy Fall spirit! Enjoy our pumpkin patches, 5-acre corn maze, delicious seasonal fall food offerings and over 25 family-friendly acivities!\n\n***New this year***\nGiant Bubble Station and Pumpkin Bobber Fishing\n\nActivity bracelets provide access to farm activities (wagon ride, corn maze, animal barn, bounce pillow, etc.) our sweet Country charm gift shop is located behind the big barn.\n\nThe farm market/farm exit is located near the entrance in the white building where pumpkins are weighed and purchased.\n\nOpen 6 days a week (closed Tuesdays)!",
+   "url": "https://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-festival-s3/2026-10-28/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185821408-screenshot-2023-09-08-113213-f9b7d72092ae.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Schilter Family Farm, 141 Nisqually Cutoff Road SE, Olympia, WA, 98513",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-28",
+    "end": "2026-11-01",
+    "notes": "Every fall, we transform into a paradise of pumpkins, a haven of hayrides, and a maze of corny fun!\n\nhttps://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-festival-s3/2026-10-28/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
    "revision": 12,
-   "changed": "2026-10-28T17:13:34Z"
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "de8656c7b8",
@@ -672,138 +672,6 @@
     "start": "2026-10-28",
     "end": "2026-11-02",
     "notes": "Hours: 10 AM–6 PM\n\nNamed Washington State’s  best pumpkin patch  by “Readers Digest” in 2019, and more recently  among the best pumpkin farms in the country (!), this farm is…\n\nhttps://www.parentmap.com/calendar/craven-farm-fall-festival-0/2026-10-28/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "1c48cfd103",
-   "series": "81aa1f5677",
-   "title": "SeaTac Farmers Market",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "startMinute": 900,
-   "endMinute": 1140,
-   "dates": "Wed, Oct 28",
-   "time": "3–7 PM",
-   "place": "The Roadhouse, SeaTac",
-   "placeLines": "The Roadhouse, SeaTac\n19955 28th Ave S, SeaTac, WA, 98188",
-   "region": "SOUTH",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Enjoy global hot and prepared foods, fresh local produce, and family-friendly fun for all ages!",
-   "url": "https://www.parentmap.com/calendar/seatac-farmers-market/2026-10-28/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/ChatGPT-Edited-Image-Oct-1-2026-09_33_21-768x368.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "The Roadhouse, 19955 28th Ave S, SeaTac, WA, 98188",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-28T22:00:00Z",
-    "end": "2026-10-29T02:00:00Z",
-    "notes": "Enjoy global hot and prepared foods, fresh local produce, and family-friendly fun for all ages!\n\nhttps://www.parentmap.com/calendar/seatac-farmers-market/2026-10-28/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "9715613743",
-   "series": "58221d6eb2",
-   "title": "Celebrate Hispanic Heritage Month with The TurnUps!",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "startMinute": 960,
-   "endMinute": 1020,
-   "dates": "Wed, Oct 28",
-   "time": "4–5 PM",
-   "place": "Renton Highlands Library",
-   "placeLines": "Renton Highlands Library\n2801 NE 10th Street, Renton, WA, 98056",
-   "region": "SOUTH",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us for an energetic, bilingual music and movement experience featuring interactive songs, dancing, and family-friendly fun.",
-   "description": "Join us for an energetic, bilingual music and movement experience featuring interactive songs, dancing, and family-friendly fun. Children will sing, move, and play while exploring Spanish vocabulary, rhythms, and cultural connections through engaging performances that inspire creativity, participation, and joyful learning.\n\nChildren, teens and adults welcome.\n\nRegistration not required.",
-   "url": "https://www.parentmap.com/calendar/celebrate-hispanic-heritage-month-with-the-turnups/2026-10-28/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/08/TheTurnUps.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Renton Highlands Library, 2801 NE 10th Street, Renton, WA, 98056",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-28T23:00:00Z",
-    "end": "2026-10-29T00:00:00Z",
-    "notes": "Join us for an energetic, bilingual music and movement experience featuring interactive songs, dancing, and family-friendly fun.\n\nhttps://www.parentmap.com/calendar/celebrate-hispanic-heritage-month-with-the-turnups/2026-10-28/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "1a2158ac04",
-   "series": "9545b14504",
-   "title": "Endeavour Elementary PTSA’s Spooky Supper",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "startMinute": 1080,
-   "endMinute": 1200,
-   "dates": "Wed, Oct 28",
-   "time": "6–8 PM",
-   "place": "Endeavour Elementary School, Sammamish",
-   "placeLines": "Endeavour Elementary School, Sammamish\n26205 SE Issaquah-Fall City Rd Issaquah, Sammamish, WA, 98029",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Spooky Supper is coming!",
-   "description": "Spooky Supper is coming!\n\nGet your costumes ready, Endeavour families! Join us for a spook-tacular evening of family fun, with games, prizes, yummy treats from food trucks, and a Glow Party to show off your best dance moves!\n\nBring the whole family and come enjoy a chance to connect with our Endeavour community. It’s going to be a frightfully fun night!\n\nCheck the PTSA website for more information: https://endeavourptsa.org/Page/Events/Spooky%20Supper\n\nWe can’t wait to see you there!\n\nParking: Please park at Beaver Lake Middle School.\n\nShuttle bus provided. Last bus will be at 8:00pm",
-   "url": "https://www.parentmap.com/calendar/endeavour-elementary-ptsas-spooky-supper/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.27.27-AM-e1792690590562.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Endeavour Elementary School, 26205 SE Issaquah-Fall City Rd Issaquah, Sammamish, WA, 98029",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-29T01:00:00Z",
-    "end": "2026-10-29T03:00:00Z",
-    "notes": "Spooky Supper is coming!\n\nhttps://www.parentmap.com/calendar/endeavour-elementary-ptsas-spooky-supper/"
-   },
-   "firstSeen": "2026-10-23T15:47:36Z"
-  },
-  {
-   "id": "f45ecf4789",
-   "series": "21c84be2ce",
-   "title": "Kids Halloween Cupcake Making",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "startMinute": 1080,
-   "endMinute": 1170,
-   "dates": "Wed, Oct 28",
-   "time": "6–7:30 PM",
-   "place": "Tukwila Community Center",
-   "placeLines": "Tukwila Community Center\n12424 42nd Ave S, Tukwila, WA, 98168-2526",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "$49.50",
-   "free": false,
-   "kids": true,
-   "summary": "SPOOKY SWEETS & HALLOWEEN TREATS! Get ready for a night of creativity, cupcakes & Halloween fun!",
-   "description": "SPOOKY SWEETS & HALLOWEEN TREATS!\n\nGet ready for a night of creativity, cupcakes & Halloween fun!\n\nJoin Island Delites Cakes for a spooktacular Halloween Cupcake Decorating Class at the Tukwila Community Center!\n\nWEDNESDAY, OCTOBER 28, 2026\n6:00–7:30PM\nTukwila Community Center\n12424 42nd Ave S, Tukwila, WA 98168\n\nDECORATE • CREATE • HAVE FUN!\n\nGet hands-on and learn fun cupcake decorating techniques while transforming delicious cupcakes into your own Halloween masterpieces!\n\nWhat’s in Store:\nHalloween-themed cupcakes!\nSpooky & creative decorations!\nFun piping techniques!\nSprinkles, candies & sweet toppings!\nHands-on decorating!\nPhoto backdrops & take-home treats you’ll be proud to show off!\nFestive Goodie Bags for each participant!\n\nNo decorating experience needed—just bring your creativity and your Halloween spirit!\n\nWhether you’re looking for a fun night out, a creative activity to do with friends and family, or simply LOVE cupcakes, this class is going to be spooktacular!!!\n\nCOME DECORATE WITH US…IF YOU DARE!\n\nHosted by Island Delites Cakes:\nWhere every cake—and cupcake—is a celebration!",
-   "url": "https://www.parentmap.com/calendar/kids-halloween-cupcake-making/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/IMG_7571-768x767.jpeg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Tukwila Community Center, 12424 42nd Ave S, Tukwila, WA, 98168-2526",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-29T01:00:00Z",
-    "end": "2026-10-29T02:30:00Z",
-    "notes": "SPOOKY SWEETS & HALLOWEEN TREATS! Get ready for a night of creativity, cupcakes & Halloween fun!\n\nhttps://www.parentmap.com/calendar/kids-halloween-cupcake-making/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
   },
@@ -3865,12 +3733,43 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "8617aaebbe",
+   "series": "1482399993",
+   "title": "Edmonds Holiday Market",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 540,
+   "endMinute": 840,
+   "dates": "Sat, Nov 7",
+   "time": "9 AM–2 PM",
+   "region": "NORTH",
+   "category": "NIGHT_MARKET",
+   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
+   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
+   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market/2026-11-07/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T17:00:00Z",
+    "end": "2026-11-07T22:00:00Z",
+    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market/2026-11-07/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "896d821d74",
    "series": "e69d0f36a5",
    "title": "Swansons Nursery Model Train and Holiday Décor",
    "start": "2026-11-07",
    "end": "2026-12-24",
+   "startMinute": 540,
+   "endMinute": 1080,
    "dates": "Nov 7–Dec 24",
+   "time": "9 AM–6 PM",
    "place": "Swansons Nursery, Seattle",
    "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
    "region": "SEATTLE",
@@ -3890,9 +3789,11 @@
     "allDay": true,
     "start": "2026-11-07",
     "end": "2026-12-25",
-    "notes": "Add a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-07/"
+    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-07/"
    },
-   "firstSeen": "2026-10-28T17:13:34Z"
+   "firstSeen": "2026-10-28T17:13:34Z",
+   "revision": 1,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "2b0f4776d4",
@@ -4675,6 +4576,34 @@
    "firstSeen": "2026-10-23T15:47:36Z"
   },
   {
+   "id": "8c2a1991cf",
+   "series": "1482399993",
+   "title": "Edmonds Holiday Market",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 540,
+   "endMinute": 840,
+   "dates": "Sat, Nov 14",
+   "time": "9 AM–2 PM",
+   "region": "NORTH",
+   "category": "NIGHT_MARKET",
+   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
+   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
+   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market/2026-11-14/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-14T17:00:00Z",
+    "end": "2026-11-14T22:00:00Z",
+    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market/2026-11-14/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "bca5c6b958",
    "series": "8701207749",
    "title": "BIMA Mercado",
@@ -5150,8 +5079,8 @@
    "series": "c74df0c741",
    "title": "2026 Seattle Christmas Market",
    "start": "2026-11-20",
-   "end": "2026-12-26",
-   "dates": "Nov 20–Dec 26",
+   "end": "2026-12-24",
+   "dates": "Nov 20–Dec 24",
    "place": "Seattle Center Fisher Pavilion",
    "placeLines": "Seattle Center Fisher Pavilion\n305 Harrison St, Seattle, WA, 98109-4623",
    "region": "SEATTLE",
@@ -5170,12 +5099,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-20",
-    "end": "2026-12-27",
+    "end": "2026-12-25",
     "notes": "With European and local vendors, holiday karaoke, Santa meetings, festive drinks and more, there’s a little something for everyone.\n\nhttps://www.parentmap.com/calendar/2026-seattle-christmas-market/2026-11-20/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 3,
-   "changed": "2026-10-26T17:28:11Z"
+   "revision": 4,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "fe58fc2ad6",
@@ -5204,6 +5133,34 @@
     "notes": "The November Native Art Market is back!\n\nhttps://unitedindians.org/event/november-native-art-market-2/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "61b50058fb",
+   "series": "1482399993",
+   "title": "Edmonds Holiday Market",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 540,
+   "endMinute": 840,
+   "dates": "Sat, Nov 21",
+   "time": "9 AM–2 PM",
+   "region": "NORTH",
+   "category": "NIGHT_MARKET",
+   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
+   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
+   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market/2026-11-21/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T17:00:00Z",
+    "end": "2026-11-21T22:00:00Z",
+    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market/2026-11-21/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "b01850c7c6",
@@ -5238,6 +5195,37 @@
     "notes": "Hours: 10 AM–5 PM\n\nThroughout the weekend, bring the whole family and step into a winter wonderland for an authentic Nordic holiday experience with live music, unique treats, and…\n\nhttps://www.parentmap.com/calendar/julefest-a-nordic-holiday-celebration/2026-11-21/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "511cdf17c3",
+   "series": "b66874fd77",
+   "title": "Shoreline Arts Market",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 600,
+   "endMinute": 900,
+   "dates": "Sat, Nov 21",
+   "time": "10 AM–3 PM",
+   "place": "Downtown Ridgecrest, Shoreline",
+   "placeLines": "Downtown Ridgecrest, Shoreline\n521 NE 165th St, Shoreline, 98155",
+   "region": "NORTH",
+   "category": "NIGHT_MARKET",
+   "summary": "We can’t think of anything more quintessentially wintery than a stroll through a unique holiday market.",
+   "description": "We can’t think of anything more quintessentially wintery than a stroll through a unique holiday market. We are excited to host the Outdoor Winter Market in downtown Ridgecrest, in conjunction with Ridgecrest Books and the Drumlin at ShoreLake Arts – 521 NE 165th St, Shoreline.",
+   "url": "https://www.parentmap.com/calendar/shoreline-arts-market/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-112538.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Downtown Ridgecrest, 521 NE 165th St, Shoreline, 98155",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T18:00:00Z",
+    "end": "2026-11-21T23:00:00Z",
+    "notes": "We can’t think of anything more quintessentially wintery than a stroll through a unique holiday market.\n\nhttps://www.parentmap.com/calendar/shoreline-arts-market/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "250e25daa7",
@@ -5406,6 +5394,39 @@
    "firstSeen": "2026-10-18T14:41:25Z",
    "revision": 2,
    "changed": "2026-10-25T14:59:34Z"
+  },
+  {
+   "id": "c9bf473dc3",
+   "series": "8ba5fe8dd5",
+   "title": "Hanukkah Mitzvah and Cookie Party",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "startMinute": 780,
+   "endMinute": 870,
+   "dates": "Sun, Nov 22",
+   "time": "1–2:30 PM",
+   "place": "Stroum Jewish Community Center, Mercer Island",
+   "placeLines": "Stroum Jewish Community Center, Mercer Island\n3801 E Mercer Way, Mercer Island, WA, 98040-3805",
+   "region": "EASTSIDE",
+   "category": "SEASONAL",
+   "cost": "$15 – $20",
+   "free": false,
+   "summary": "Join the J community for a hands-on volunteer opportunity to bring winter warmth to families in need this holiday season by assembling warmth kits for refugees…",
+   "description": "Join the J community for a hands-on volunteer opportunity to bring winter warmth to families in need this holiday season by assembling warmth kits for refugees in our community.\n\nWe’ll assemble kits with essential items to keep the Seattle chill away this winter. The complete kits will be delivered to local shelters and families. These items help create a warm and safe environment and remind those who are in need that they are not alone.\n\nFor an extra treat, we’ll have a cookie decorating party as an early Hanukkah celebration.\n\nThis is an all-ages event. Whether you want to make a difference on your own or with your family, everyone is welcome!",
+   "url": "https://www.parentmap.com/calendar/hanukkah-cookie-dreidel-decorating/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775189580324-screenshot-2023-11-16-130504-691a1671469e.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Stroum Jewish Community Center, 3801 E Mercer Way, Mercer Island, WA, 98040-3805",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-22T21:00:00Z",
+    "end": "2026-11-22T22:30:00Z",
+    "notes": "Join the J community for a hands-on volunteer opportunity to bring winter warmth to families in need this holiday season by assembling warmth kits for refugees…\n\nhttps://www.parentmap.com/calendar/hanukkah-cookie-dreidel-decorating/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "045f849f50",
@@ -5664,10 +5685,10 @@
    "series": "2e9ac2827a",
    "title": "Winterfest Train & Village Display",
    "start": "2026-11-27",
-   "end": "2026-12-31",
+   "end": "2026-12-24",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Nov 27–Dec 31",
+   "dates": "Nov 27–Dec 24",
    "time": "10 AM–6 PM",
    "place": "Seattle Center Armory",
    "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
@@ -5687,12 +5708,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2027-01-01",
+    "end": "2026-12-25",
     "notes": "Hours: 10 AM–6 PM\n\nDelight in viewing a late 19th-century model train and village display, installed inside the Seattle Center Armory Food & Event Hall.\n\nhttps://www.parentmap.com/calendar/28004/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 4,
-   "changed": "2026-10-20T15:41:43Z"
+   "revision": 5,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "956b5a5437",
@@ -5771,25 +5792,30 @@
    "dates": "Fri, Nov 27",
    "time": "11 AM–6 PM",
    "place": "Westlake Park, Seattle",
-   "placeLines": "Westlake Park, Seattle\n401 Pine St, Seattle, WA, 98101",
+   "placeLines": "Westlake Park, Seattle\n401 Pine Street, Seattle, WA, 98101",
    "region": "SEATTLE",
    "category": "SEASONAL",
    "cost": "Free",
    "free": true,
    "summary": "Unwrap the holiday season at our annual Tree Lighting Celebration on Friday, Nov.",
-   "description": "Unwrap the holiday season at our annual Tree Lighting Celebration on Friday, Nov. 27! We’ll kick off the festivities at 11 a.m. with family-friendly craft making, costumed characters, sweet treats and more surprises in Westlake Park. It all leads up to the main event at 5 p.m.: the lighting of the massive holiday tree and star, immediately followed by a spectacular fireworks show!\n\nThe Tree Lighting Celebration is presented by Amazon.\n\nLooking for more holiday fun? Head to Love Your Seattle for a comprehensive listing of seasonal events in downtown Seattle.",
-   "url": "https://downtownseattle.org/event/tree-lighting-celebration-at-westlake-park/",
+   "description": "Unwrap the holiday season at our annual Tree Lighting Celebration on Friday, Nov. 27! We’ll kick off the festivities at 11 a.m. with family-friendly craft making, costumed characters, sweet treats and more surprises in Westlake Park. It all leads up to the main event at 5 p.m.: the lighting of the massive holiday tree and star, immediately followed by a spectacular fireworks show!",
+   "url": "https://www.parentmap.com/calendar/tree-lighting-celebration-westlake-park/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188059964-news-newsletter-dsa-intersections-202410-feature-holidays-treelighting-4x3-v1-6e04006ef34b.jpg",
+   "imageCredit": "ParentMap",
    "sources": [
+    "ParentMap",
     "Downtown Seattle Association"
    ],
-   "map": "Westlake Park, 401 Pine St, Seattle, WA, 98101",
+   "map": "Westlake Park, 401 Pine Street, Seattle, WA, 98101",
    "calendar": {
     "allDay": false,
     "start": "2026-11-27T19:00:00Z",
     "end": "2026-11-28T02:00:00Z",
-    "notes": "Unwrap the holiday season at our annual Tree Lighting Celebration on Friday, Nov.\n\nhttps://downtownseattle.org/event/tree-lighting-celebration-at-westlake-park/"
+    "notes": "Unwrap the holiday season at our annual Tree Lighting Celebration on Friday, Nov.\n\nhttps://www.parentmap.com/calendar/tree-lighting-celebration-westlake-park/"
    },
-   "firstSeen": "2026-10-24T14:40:09Z"
+   "firstSeen": "2026-10-24T14:40:09Z",
+   "revision": 1,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "eda1ccfc93",
@@ -5895,10 +5921,10 @@
    "series": "bc5d1a9f6c",
    "title": "Winterfest Campus Lighting",
    "start": "2026-11-27",
-   "end": "2026-12-30",
+   "end": "2026-12-24",
    "startMinute": 1020,
    "endMinute": 1260,
-   "dates": "Nov 27–Dec 30",
+   "dates": "Nov 27–Dec 24",
    "time": "5–9 PM",
    "place": "Seattle Center Campus",
    "placeLines": "Seattle Center Campus\n305 Harrison Street, Seattle, WA, 98109",
@@ -5918,12 +5944,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-31",
+    "end": "2026-12-25",
     "notes": "Hours: 5–9 PM\n\nWe are keeping the annual tradition of decking out our campus alive with twinkling lights in the trees and other specialty light features across the grounds.\n\nhttps://www.parentmap.com/calendar/winterfest-campus-lighting/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 5,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 6,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "0c21fe0bd9",
@@ -6156,6 +6182,39 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "c202b2dbce",
+   "series": "16593648ff",
+   "title": "Edmonds Tree Lighting",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "startMinute": 900,
+   "endMinute": 1020,
+   "dates": "Sat, Nov 28",
+   "time": "3–5 PM",
+   "place": "Centennial Plaza, Edmonds",
+   "placeLines": "Centennial Plaza, Edmonds\nCorner of 5th and Bell, Edmonds, WA, 98020",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Come for the live band rocking out holiday favorites and stay for a magical community celebration of the season.",
+   "description": "Come for the live band rocking out holiday favorites and stay for a magical community celebration of the season. The annual Tree Lighting Ceremony, produced by the Edmonds Chamber of Commerce and presented again in 2026 by Comstock Jewelers, takes place at Centennial Plaza in downtown Edmonds. (5th Ave N & Bell St.)\n\nThe 2026 ceremony is emceed by Richard Taylor Jr. and features live music and performances. Local vendors will be selling treats, there may even be a visit from Santa; and of course, the ceremonial lighting of the tree.",
+   "url": "https://www.parentmap.com/calendar/edmonds-tree-lighting/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188538580-70358742_10162299313890582_3052227695837446144_o-0e734d3229e4-768x513.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Centennial Plaza, Corner of 5th and Bell, Edmonds, WA, 98020",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-28T23:00:00Z",
+    "end": "2026-11-29T01:00:00Z",
+    "notes": "Come for the live band rocking out holiday favorites and stay for a magical community celebration of the season.\n\nhttps://www.parentmap.com/calendar/edmonds-tree-lighting/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "560f2b89a1",
    "series": "21c3d0e236",
    "title": "Waterfront Park Firepit Socials",
@@ -6254,6 +6313,34 @@
     "notes": "Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…\n\nhttps://bellevuebotanical.org/event/garden-dlights-5/2026-11-28/"
    },
    "firstSeen": "2026-10-20T15:41:43Z"
+  },
+  {
+   "id": "b872090dd7",
+   "series": "1723fab912",
+   "title": "Downtown Edmonds Luminaria Walk",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Sat, Nov 28",
+   "time": "5–8 PM",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "summary": "The Edmonds Tree Lighting Ceremony is beloved by young and old as the kick off to the holiday season.",
+   "description": "The Edmonds Tree Lighting Ceremony is beloved by young and old as the kick off to the holiday season. But this year, after the tree lights up, there is even more to celebrate!\n\nSomething new is glowing in downtown Edmonds this holiday season! Art Walk Edmonds, with help from Art for All, Spark! Creativity, Heart Art Studio, Graphite Arts Center, Cascadia Art Museum, Edmonds Arts Commission and the Edmonds Chamber of Commerce invite the community to experience the first annual Edmonds Luminaria Walk on Saturday, November 28th, from 5-8pm at Civic Park.\n\nImmediately following the Edmonds Tree Lighting Ceremony, visitors can take a peaceful evening stroll through Civic Park, where hundreds of luminaria will light the way, creating a warm and magical start to the holiday season.\n\nThe evening offers more than a beautiful walk. Families can visit the Creation Station beneath the park’s illuminated pavilion for hands-on creative activities, and children will receive glow necklaces to brighten their walk through the park.\n\nDesigned to bring the community together through art, light and shared experiences, the Luminaria Walk offers a new way to enjoy downtown Edmonds during one of the most festive times of the year. Whether you’re continuing your evening after the tree lighting or looking for a special outing with family and friends, there’s plenty of holiday magic to enjoy.\n\nGather your family and friends, mark your calendar and join us for this inaugural celebration. Come experience…",
+   "url": "https://www.parentmap.com/calendar/downtown-edmonds-luminaria-walk/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-111502.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T01:00:00Z",
+    "end": "2026-11-29T04:00:00Z",
+    "notes": "The Edmonds Tree Lighting Ceremony is beloved by young and old as the kick off to the holiday season.\n\nhttps://www.parentmap.com/calendar/downtown-edmonds-luminaria-walk/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "34112bcf07",
@@ -6419,6 +6506,39 @@
     "notes": "Hours: 6–9 PM\n\nBe filled with wonder and amazement at the Evergreen Christmas Light show in Bothell, Washington.\n\nhttps://www.parentmap.com/calendar/evergreen-christmas-lights/2026-12-01/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "b2aae686f2",
+   "series": "977a14e8db",
+   "title": "Holiday on the Docks",
+   "start": "2026-12-01",
+   "end": "2026-12-24",
+   "startMinute": 1080,
+   "endMinute": 1290,
+   "dates": "Dec 1–24",
+   "time": "6–9:30 PM",
+   "place": "Port of Edmonds Marina",
+   "placeLines": "Port of Edmonds Marina\n358 Admiral Way, Edmonds, WA, 98020",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Visit boats decked out in holiday decorations and twinkling lights, on display in the Port of Edmonds Marina for all to enjoy nightly, December 1st- January…",
+   "description": "Visit boats decked out in holiday decorations and twinkling lights, on display in the Port of Edmonds Marina for all to enjoy nightly, December 1st- January 3rd.",
+   "url": "https://www.parentmap.com/calendar/holiday-docks/2026-12-01/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775079862448-holiday-on-the-docks-a1b793741da0.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Port of Edmonds Marina, 358 Admiral Way, Edmonds, WA, 98020",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-01",
+    "end": "2026-12-25",
+    "notes": "Hours: 6–9:30 PM\n\nVisit boats decked out in holiday decorations and twinkling lights, on display in the Port of Edmonds Marina for all to enjoy nightly, December 1st- January…\n\nhttps://www.parentmap.com/calendar/holiday-docks/2026-12-01/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "3d5a2ad250",
@@ -6646,6 +6766,36 @@
     "notes": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations.\n\nhttps://www.parentmap.com/calendar/christmas-ship-viewing-mount-baker-beach/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "9d27769dba",
+   "series": "f0b3c5952e",
+   "title": "Hanukkah Light Lab",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "dates": "Dec 4–6",
+   "place": "Stroum Jewish Community Center, Mercer Island",
+   "placeLines": "Stroum Jewish Community Center, Mercer Island\n3801 E Mercer Way, Mercer Island, WA, 98040-3805",
+   "region": "EASTSIDE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Please join us after Tot Shabbat for a Multi-Sensory Immersive Space for Discovery The Schwartz ECS Light Lab opens its exhibit doors this month and will…",
+   "description": "Please join us after Tot Shabbat for a Multi-Sensory Immersive Space for Discovery\n\nThe Schwartz ECS Light Lab opens its exhibit doors this month and will provide a space where young students will engage in a rich, multi-sensory environment for discovery, experimentation and collaboration. Within this immersive space, children will explore scientific concepts such as reflection, refraction, transparency, shadows and cause-and-effect relationships as they observe how light interacts with different materials, surfaces and even their own bodies.\n\nThrough creative and artistic expression, children will experiment with color mixing, projected light and shadow play to create both abstract and representational artwork, using light as a tool for storytelling and visual communication. These explorations naturally connect to Hanukkah, as children investigate the properties and symbolism of light through both scientific inquiry and cultural meaning.\n\nThe Light Lab also supports foundational literacy and mathematical development as children build vocabulary related to light. Such as glow, prism, spectrum and shadow, all while engaging with literacy-rich materials through a light-based lens. Mathematical thinking emerges through exploration of numeracy concepts such as matching, quantification, one to one correspondence and spatial reasoning using materials like mirror blocks and glowing manipulatives. Social-emotional learning is fostered as children collaborate, negotiate and engage in…",
+   "url": "https://www.parentmap.com/calendar/hanukkah-light-lab/2026-12-04/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2025/11/261204-hanukkah-secs-light-lab-EVENT-1200.webp",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Stroum Jewish Community Center, 3801 E Mercer Way, Mercer Island, WA, 98040-3805",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-04",
+    "end": "2026-12-07",
+    "notes": "Please join us after Tot Shabbat for a Multi-Sensory Immersive Space for Discovery The Schwartz ECS Light Lab opens its exhibit doors this month and will…\n\nhttps://www.parentmap.com/calendar/hanukkah-light-lab/2026-12-04/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "f4d099dd5f",
@@ -6969,6 +7119,39 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "3ac9f06ff6",
+   "series": "324d258ec4",
+   "title": "Black Artists Market at Midtown Square",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Fri, Dec 4",
+   "time": "6–9 PM",
+   "place": "Midtown Square Plaza, Seattle",
+   "placeLines": "Midtown Square Plaza, Seattle\n2301 E Union St, Seattle, WA, 98122",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join us for our holiday craft market featuring an array of unique treasures from Black artists, artisans, and Black-owned small businesses.",
+   "description": "Join us for our holiday craft market featuring an array of unique treasures from Black artists, artisans, and Black-owned small businesses. Thoughtfully curated in partnership with ARTE NOIR, discover handmade gifts, one-of-a-kind decorations, and delectable treats, all while supporting local artistry and celebrating community.\n\nThis year, we will be hosting the Black Artists Market on two dates, Friday, December 4 in the Central District and Saturday, December 5 at the Opera Center.",
+   "url": "https://www.parentmap.com/calendar/black-artists-market-at-midtown-square/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2023/11/Screenshot-2026-10-28-120027.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Midtown Square Plaza, 2301 E Union St, Seattle, WA, 98122",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T02:00:00Z",
+    "end": "2026-12-05T05:00:00Z",
+    "notes": "Join us for our holiday craft market featuring an array of unique treasures from Black artists, artisans, and Black-owned small businesses.\n\nhttps://www.parentmap.com/calendar/black-artists-market-at-midtown-square/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "91a45cad9e",
    "series": "c8efb8b842",
    "title": "Winterfest Movie Night",
@@ -7064,6 +7247,34 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "1ed95a7e30",
+   "series": "1482399993",
+   "title": "Edmonds Holiday Market",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 540,
+   "endMinute": 840,
+   "dates": "Sat, Dec 5",
+   "time": "9 AM–2 PM",
+   "region": "NORTH",
+   "category": "NIGHT_MARKET",
+   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
+   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
+   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market/2026-12-05/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T17:00:00Z",
+    "end": "2026-12-05T22:00:00Z",
+    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market/2026-12-05/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "861146b1fe",
    "series": "f5a9532468",
    "title": "Holiday Makers Market",
@@ -7088,6 +7299,72 @@
     "notes": "This event is in partnership with the Mercer Island Chamber of Commerce.\n\nhttps://www.mercerisland.gov/parksrec/page/holiday-makers-market-0"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "5c0abbb87c",
+   "series": "1fe52cdc7b",
+   "title": "PhinneyWood Winter Festival",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Dec 5–6",
+   "time": "10 AM–5 PM",
+   "place": "Phinney Neighborhood Center, Seattle",
+   "placeLines": "Phinney Neighborhood Center, Seattle\n6532 Phinney Ave N, Seattle, WA, 98103-5234",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "$5 – $12",
+   "free": false,
+   "summary": "Celebrate the magic of the season at the 46th Annual PNA Winter Festival!",
+   "description": "Celebrate the magic of the season at the 46th Annual PNA Winter Festival! For one special weekend, the Phinney Center transforms into a bustling marketplace filled with creativity, community spirit, and holiday cheer.\n\nThink of the Winter Festival as part holiday market, part community celebration. You’ll find over 140 vendors offering handmade jewelry, ceramics, textiles, woodcraft, prints, photography, and more—perfect for holiday gift shopping. The juried art show showcases fine art in a curated gallery setting, while live musicians and performers bring festive energy to the space. Kids and families will enjoy hands-on art activities, and everyone can join the Festival Passport game for a chance to win prize-filled goodie bags. Food trucks, seasonal bites, and the Bake Sale provide plenty of treats to fuel your shopping.",
+   "url": "https://www.parentmap.com/calendar/phinneywood-winter-festival/2026-12-05/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185671855-phinney-social-square-1fbe3f8f1c56-e1793214527834.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Phinney Neighborhood Center, 6532 Phinney Ave N, Seattle, WA, 98103-5234",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-07",
+    "notes": "Hours: 10 AM–5 PM\n\nCelebrate the magic of the season at the 46th Annual PNA Winter Festival!\n\nhttps://www.parentmap.com/calendar/phinneywood-winter-festival/2026-12-05/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
+   "id": "b02a45bc66",
+   "series": "209bc4e147",
+   "title": "Urban Craft Uprising Winter Market",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Dec 5–6",
+   "time": "10 AM–5 PM",
+   "place": "Seattle Center Exhibition Hall",
+   "placeLines": "Seattle Center Exhibition Hall\n301 Mercer St, Seattle, WA, 98109-4600",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "This winter marks Urban Craft Uprising’s 22nd Annual Winter Show!",
+   "description": "This winter marks Urban Craft Uprising’s 22nd Annual Winter Show!\n\nUrban Craft Uprising is Seattle’s favorite craft show, established in 2005. At UCU, fans can choose from a wide variety of hand-crafted goods, including clothing of all types, jewelry, gifts, bags, wallets, buttons, accessories, aprons, children’s goods, toys, housewares, furniture, paper goods, candles, kits, geekery, art, food, and much, much more.\n\nEach show is carefully curated and juried to ensure the best mix of crafts and arts, along with quality and originality. This bi-annual show features over 150 vendors excelling in the world of craft, art and design. Over the course of its 2+ decades, UCU has garnered such a following attention that nearly 15,000 fans swarm to the show over the course of the weekend.\n\nHundreds of fans are lined up before our doors open to receive our famous swag bags full of goodies from our vendors and lovely sponsors. This show is free and fun for the whole family! We look forward to seeing you!",
+   "url": "https://www.parentmap.com/calendar/urban-craft-uprising-winter-market/2026-12-05/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187721982-lb1_8340-663e2e65e3fe-768x512.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Seattle Center Exhibition Hall, 301 Mercer St, Seattle, WA, 98109-4600",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-07",
+    "notes": "Hours: 10 AM–5 PM\n\nThis winter marks Urban Craft Uprising’s 22nd Annual Winter Show!\n\nhttps://www.parentmap.com/calendar/urban-craft-uprising-winter-market/2026-12-05/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "371bb7fe59",
@@ -7121,6 +7398,39 @@
     "notes": "Celebrate the holiday season with ornament making, the harvesting of the Yule Log, parlor games, and a visit with Father Christmas.\n\nhttps://www.parentmap.com/calendar/48139/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "7eb5a2300b",
+   "series": "0249ba00ad",
+   "title": "Free Holiday Trolley in Downtown Edmonds",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 660,
+   "endMinute": 1080,
+   "dates": "Sat, Dec 5",
+   "time": "11 AM–6 PM",
+   "place": "Downtown Edmonds",
+   "placeLines": "Downtown Edmonds\nMain Street, Edmonds, WA, 98020",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor…",
+   "description": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor Jr—spreading cheer and sharing fun facts about our historic seaside town!\n\nIt’s a relaxing way to explore Edmonds—hop on and off to eat and shop all around downtown. Don’t worry, it comes by every 30 minutes. See the map below.\n\nBring your holiday spirit, but please no food or drinks.\n\nSaturdays, 11am–6pm\nDec 5th, 12th & 19th 2026",
+   "url": "https://www.parentmap.com/calendar/free-holiday-trolley-downtown-edmonds/2026-12-05/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187256930-edmonds-1of15-15198873c89e.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Downtown Edmonds, Main Street, Edmonds, WA, 98020",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T19:00:00Z",
+    "end": "2026-12-06T02:00:00Z",
+    "notes": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor…\n\nhttps://www.parentmap.com/calendar/free-holiday-trolley-downtown-edmonds/2026-12-05/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "ceb8e1ba97",
@@ -7507,14 +7817,47 @@
    "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
+   "id": "5325017791",
+   "series": "99c96bba76",
+   "title": "City of Lakewood Parade of Lights",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 960,
+   "endMinute": 1140,
+   "dates": "Sat, Dec 5",
+   "time": "4–7 PM",
+   "place": "Lakewood City Hall",
+   "placeLines": "Lakewood City Hall\n6000 Main St SW, Lakewood, WA, 98499-5027",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Celebrate the holiday season with a Christmas Parade of Lights at the Lakewood Towne Center.",
+   "description": "Celebrate the holiday season with a Christmas Parade of Lights at the Lakewood Towne Center. Visitors get to view holiday floats constructed by local businesses, clubs, and organizations. This event is completely free.\n\nDate: Saturday, Dec. 5, 2026\n\nTime: 4:00 – 7:00 p.m.\n\nLocation: Lakewood City Hall, 6000 Main St SW, Lakewood, WA 98499",
+   "url": "https://www.parentmap.com/calendar/city-lakewood-parade-lights/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185281383-lakewood-wa-reverse-parade-1bddf5510fc5-768x512.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Lakewood City Hall, 6000 Main St SW, Lakewood, WA, 98499-5027",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-06T00:00:00Z",
+    "end": "2026-12-06T03:00:00Z",
+    "notes": "Celebrate the holiday season with a Christmas Parade of Lights at the Lakewood Towne Center.\n\nhttps://www.parentmap.com/calendar/city-lakewood-parade-lights/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "0d6f4102f7",
    "series": "8242fea67a",
    "title": "Renton’s Clam Lights",
    "start": "2026-12-05",
-   "end": "2026-12-30",
+   "end": "2026-12-24",
    "startMinute": 960,
    "endMinute": 1260,
-   "dates": "Dec 5–30",
+   "dates": "Dec 5–24",
    "time": "4–9 PM",
    "place": "Gene Coulon Memorial Park, Renton",
    "placeLines": "Gene Coulon Memorial Park, Renton\n1201 Lake Washington Blvd N, Renton, WA, 98056-2567",
@@ -7534,12 +7877,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-05",
-    "end": "2026-12-31",
+    "end": "2026-12-25",
     "notes": "Hours: 4–9 PM\n\nCelebrate the start of the holiday season with lights, music, Santa, and a tree lighting at Gene Coulon Beach Park!\n\nhttps://www.parentmap.com/calendar/34328/2026-12-05/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 6,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 7,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "e109aecd37",
@@ -7639,10 +7982,10 @@
    "series": "64471cee9a",
    "title": "Redmond Lights",
    "start": "2026-12-05",
-   "end": "2026-12-30",
+   "end": "2026-12-24",
    "startMinute": 1020,
    "endMinute": 1380,
-   "dates": "Dec 5–30",
+   "dates": "Dec 5–24",
    "time": "5–11 PM",
    "place": "Redmond Downtown Park",
    "placeLines": "Redmond Downtown Park\n16101 Redmond Way, Redmond, WA, 98052",
@@ -7662,12 +8005,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-05",
-    "end": "2026-12-31",
+    "end": "2026-12-25",
     "notes": "Hours: 5–11 PM\n\nA free, month-long celebration of light and art in Downtown Park & Esterra Park.\n\nhttps://www.parentmap.com/calendar/redmond-lights/2026-12-05/"
    },
    "firstSeen": "2026-10-27T16:44:46Z",
-   "revision": 1,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 2,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "fa083ef7c4",
@@ -7991,6 +8334,39 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "c065837ee5",
+   "series": "dac526d2c6",
+   "title": "Holiday Night at the Marina",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "startMinute": 1080,
+   "endMinute": 1200,
+   "dates": "Thu, Dec 10",
+   "time": "6–8 PM",
+   "place": "Port of Edmonds Public Plaza",
+   "placeLines": "Port of Edmonds Public Plaza\n458 Admiral Way, Edmonds, WA, 98020",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Our annual holiday celebration for the community with music, food trucks, free hot beverages and treats, and decorated boats.",
+   "description": "Our annual holiday celebration for the community with music, food trucks, free hot beverages and treats, and decorated boats. We cant wait to celebrate the holiday season with you!",
+   "url": "https://www.parentmap.com/calendar/holiday-night-marina/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1774039320292-hn-5-5ef14b1b96eb.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Port of Edmonds Public Plaza, 458 Admiral Way, Edmonds, WA, 98020",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-11T02:00:00Z",
+    "end": "2026-12-11T04:00:00Z",
+    "notes": "Our annual holiday celebration for the community with music, food trucks, free hot beverages and treats, and decorated boats.\n\nhttps://www.parentmap.com/calendar/holiday-night-marina/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "d8a745f9a4",
    "series": "8b88a7e2bb",
    "title": "Christmas Ship Viewing at Golden Gardens Park",
@@ -8022,6 +8398,36 @@
     "notes": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations.\n\nhttps://www.parentmap.com/calendar/christmas-ship-viewing-golden-gardens-park/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "598e54487b",
+   "series": "f0b3c5952e",
+   "title": "Hanukkah Light Lab",
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "dates": "Fri, Dec 11",
+   "place": "Stroum Jewish Community Center, Mercer Island",
+   "placeLines": "Stroum Jewish Community Center, Mercer Island\n3801 E Mercer Way, Mercer Island, WA, 98040-3805",
+   "region": "EASTSIDE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Please join us after Tot Shabbat for a Multi-Sensory Immersive Space for Discovery The Schwartz ECS Light Lab opens its exhibit doors this month and will…",
+   "description": "Please join us after Tot Shabbat for a Multi-Sensory Immersive Space for Discovery\n\nThe Schwartz ECS Light Lab opens its exhibit doors this month and will provide a space where young students will engage in a rich, multi-sensory environment for discovery, experimentation and collaboration. Within this immersive space, children will explore scientific concepts such as reflection, refraction, transparency, shadows and cause-and-effect relationships as they observe how light interacts with different materials, surfaces and even their own bodies.\n\nThrough creative and artistic expression, children will experiment with color mixing, projected light and shadow play to create both abstract and representational artwork, using light as a tool for storytelling and visual communication. These explorations naturally connect to Hanukkah, as children investigate the properties and symbolism of light through both scientific inquiry and cultural meaning.\n\nThe Light Lab also supports foundational literacy and mathematical development as children build vocabulary related to light. Such as glow, prism, spectrum and shadow, all while engaging with literacy-rich materials through a light-based lens. Mathematical thinking emerges through exploration of numeracy concepts such as matching, quantification, one to one correspondence and spatial reasoning using materials like mirror blocks and glowing manipulatives. Social-emotional learning is fostered as children collaborate, negotiate and engage in…",
+   "url": "https://www.parentmap.com/calendar/hanukkah-light-lab/2026-12-11/1/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2025/11/261204-hanukkah-secs-light-lab-EVENT-1200.webp",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Stroum Jewish Community Center, 3801 E Mercer Way, Mercer Island, WA, 98040-3805",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-11",
+    "end": "2026-12-12",
+    "notes": "Please join us after Tot Shabbat for a Multi-Sensory Immersive Space for Discovery The Schwartz ECS Light Lab opens its exhibit doors this month and will…\n\nhttps://www.parentmap.com/calendar/hanukkah-light-lab/2026-12-11/1/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "b9540da953",
@@ -8219,6 +8625,72 @@
    "firstSeen": "2026-10-27T16:44:46Z"
   },
   {
+   "id": "8466c28b0d",
+   "series": "ef6bd6408d",
+   "title": "Family Hanukkah Celebration",
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "startMinute": 1050,
+   "endMinute": 1140,
+   "dates": "Fri, Dec 11",
+   "time": "5:30–7 PM",
+   "place": "Stroum Jewish Community Center, Mercer Island",
+   "placeLines": "Stroum Jewish Community Center, Mercer Island\n3801 E Mercer Way, Mercer Island, WA, 98040-3805",
+   "region": "EASTSIDE",
+   "category": "SEASONAL",
+   "cost": "$20 – $65",
+   "free": false,
+   "summary": "Celebrate the eighth night of Hanukkah with your J Community at the SJCC Family Hanukkah Celebration!",
+   "description": "Celebrate the eighth night of Hanukkah with your J Community at the SJCC Family Hanukkah Celebration! All families are welcome to celebrate the Festival of Lights.\n\nThe evening includes:\nPizza and salad dinner\nLatkes and sufganiyot (jelly donuts)\nHanukkah and Shabbat blessings and songs led by Rabbi Megan\nComplimentary glass of wine for each adult\n\nAND Hanukkah-themed activities such as:\nCandle-making station\nDreidel-making station\nCommunity menorah lighting\nSpecial access to the Schwartz ECS Light Lab",
+   "url": "https://www.parentmap.com/calendar/family-hanukkah-celebration/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2024/11/Screenshot-2026-10-28-102801.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Stroum Jewish Community Center, 3801 E Mercer Way, Mercer Island, WA, 98040-3805",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T01:30:00Z",
+    "end": "2026-12-12T03:00:00Z",
+    "notes": "Celebrate the eighth night of Hanukkah with your J Community at the SJCC Family Hanukkah Celebration!\n\nhttps://www.parentmap.com/calendar/family-hanukkah-celebration/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
+   "id": "41f1099cd9",
+   "series": "8ebbb8999f",
+   "title": "Reindeer and Reels",
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "startMinute": 1050,
+   "endMinute": 1230,
+   "dates": "Fri, Dec 11",
+   "time": "5:30–8:30 PM",
+   "place": "Peter Kirk Park, Kirkland",
+   "placeLines": "Peter Kirk Park, Kirkland\n202 3rd St., Kirkland, WA, 98033",
+   "region": "EASTSIDE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Venture into the unknown with us as we ring in the season at our brand-new winter celebration!",
+   "description": "Venture into the unknown with us as we ring in the season at our brand-new winter celebration!\n\nPeter Kirk Park will be filled with holiday magic, featuring kids’ crafts, tasty food trucks, and an outdoor screening of Disney’s Frozen on our large LED movie screen.\n\nYou might even catch a surprise visit from some winter princesses and get to meet real life reindeer along the way!",
+   "url": "https://www.parentmap.com/calendar/reindeer-and-reels/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-140508.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Peter Kirk Park, 202 3rd St., Kirkland, WA, 98033",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T01:30:00Z",
+    "end": "2026-12-12T04:30:00Z",
+    "notes": "Venture into the unknown with us as we ring in the season at our brand-new winter celebration!\n\nhttps://www.parentmap.com/calendar/reindeer-and-reels/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "37b0ac4272",
    "series": "c8efb8b842",
    "title": "Winterfest Movie Night",
@@ -8314,6 +8786,34 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "1698743e6c",
+   "series": "1482399993",
+   "title": "Edmonds Holiday Market",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 540,
+   "endMinute": 840,
+   "dates": "Sat, Dec 12",
+   "time": "9 AM–2 PM",
+   "region": "NORTH",
+   "category": "NIGHT_MARKET",
+   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
+   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
+   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market/2026-12-12/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T17:00:00Z",
+    "end": "2026-12-12T22:00:00Z",
+    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market/2026-12-12/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "439d8bb22f",
    "series": "4a72e8e779",
    "title": "Jingle Bell Breakfast & Craft Fair",
@@ -8380,6 +8880,39 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "0cf4221676",
+   "series": "0249ba00ad",
+   "title": "Free Holiday Trolley in Downtown Edmonds",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 660,
+   "endMinute": 1080,
+   "dates": "Sat, Dec 12",
+   "time": "11 AM–6 PM",
+   "place": "Downtown Edmonds",
+   "placeLines": "Downtown Edmonds\nMain Street, Edmonds, WA, 98020",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor…",
+   "description": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor Jr—spreading cheer and sharing fun facts about our historic seaside town!\n\nIt’s a relaxing way to explore Edmonds—hop on and off to eat and shop all around downtown. Don’t worry, it comes by every 30 minutes. See the map below.\n\nBring your holiday spirit, but please no food or drinks.\n\nSaturdays, 11am–6pm\nDec 5th, 12th & 19th 2026",
+   "url": "https://www.parentmap.com/calendar/free-holiday-trolley-downtown-edmonds/2026-12-12/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187256930-edmonds-1of15-15198873c89e.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Downtown Edmonds, Main Street, Edmonds, WA, 98020",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T19:00:00Z",
+    "end": "2026-12-13T02:00:00Z",
+    "notes": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor…\n\nhttps://www.parentmap.com/calendar/free-holiday-trolley-downtown-edmonds/2026-12-12/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "f9f650c444",
    "series": "b75048161d",
    "title": "Occidental Square Holiday Bazaar",
@@ -8390,28 +8923,30 @@
    "dates": "Sat, Dec 12",
    "time": "12–5 PM",
    "place": "Occidental Square, Seattle",
-   "placeLines": "Occidental Square, Seattle\n117 S Washington St., Seattle, WA",
+   "placeLines": "Occidental Square, Seattle\n117 S Washington St, Seattle, WA, 98104",
    "region": "SEATTLE",
    "category": "NIGHT_MARKET",
    "cost": "Free",
    "free": true,
    "summary": "Whether you’re just getting started on your holiday shopping or looking for the perfect finishing touch, stop by the Occidental Square Holiday Trading Post for…",
-   "description": "Whether you’re just getting started on your holiday shopping or looking for the perfect finishing touch, stop by the Occidental Square Holiday Trading Post for all your gifting needs! Featuring over 30 local makers selling crafts, artwork, sustainable gifts and more, the market will be open alongside our free ice skating rink from noon-5 p.m. on Dec. 12. The market is presented in partnership with Northwest Marketplaces.\n\nLooking for more holiday fun? Head to Love Your Seattle for a comprehensive listing of seasonal events in downtown Seattle.",
-   "url": "https://downtownseattle.org/event/occidental-square-holiday-bazaar/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773114609669-events-holidays-ice-skating-occ-2023-2048x1536-8db54dc45ff6-768x576.jpg",
+   "description": "Whether you’re just getting started on your holiday shopping or looking for the perfect finishing touch, stop by the Occidental Square Holiday Trading Post for all your gifting needs! Featuring over 30 local makers selling crafts, artwork, sustainable gifts and more, the market will be open alongside our free ice skating rink from noon-5 p.m. on Dec. 12. The market is presented in partnership with Northwest Marketplaces.",
+   "url": "https://www.parentmap.com/calendar/occidental-square-holiday-trading-post/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188990531-events-holidays-market-2048x1536-1-33ca51a6f870-768x576.jpg",
    "imageCredit": "ParentMap",
    "sources": [
-    "Downtown Seattle Association",
-    "ParentMap"
+    "ParentMap",
+    "Downtown Seattle Association"
    ],
-   "map": "Occidental Square, 117 S Washington St., Seattle, WA",
+   "map": "Occidental Square, 117 S Washington St, Seattle, WA, 98104",
    "calendar": {
     "allDay": false,
     "start": "2026-12-12T20:00:00Z",
     "end": "2026-12-13T01:00:00Z",
-    "notes": "Whether you’re just getting started on your holiday shopping or looking for the perfect finishing touch, stop by the Occidental Square Holiday Trading Post for…\n\nhttps://downtownseattle.org/event/occidental-square-holiday-bazaar/"
+    "notes": "Whether you’re just getting started on your holiday shopping or looking for the perfect finishing touch, stop by the Occidental Square Holiday Trading Post for…\n\nhttps://www.parentmap.com/calendar/occidental-square-holiday-trading-post/"
    },
-   "firstSeen": "2026-10-24T14:40:09Z"
+   "firstSeen": "2026-10-24T14:40:09Z",
+   "revision": 1,
+   "changed": "2026-10-29T17:28:36Z"
   },
   {
    "id": "5b5c45fc5b",
@@ -9290,6 +9825,8 @@
    "placeLines": "Duwamish Longhouse & Cultural Center, Seattle\n4705 West Marginal Way Southwest, Seattle, WA, 98106",
    "region": "SEATTLE",
    "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
    "summary": "Volunteers Needed - Click to sign up.",
    "description": "volunteers needed! use button below to sign up.\n\nVOLUNTEER SIGN UP",
    "url": "https://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny",
@@ -9297,7 +9834,8 @@
    "imageCredit": "Duwamish Tribe",
    "sources": [
     "Duwamish Tribe",
-    "United Indians of All Tribes"
+    "United Indians of All Tribes",
+    "ParentMap"
    ],
    "map": "Duwamish Longhouse & Cultural Center, 4705 West Marginal Way Southwest, Seattle, WA, 98106",
    "calendar": {
@@ -9373,6 +9911,34 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "3c976a8bcf",
+   "series": "1482399993",
+   "title": "Edmonds Holiday Market",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 540,
+   "endMinute": 840,
+   "dates": "Sat, Dec 19",
+   "time": "9 AM–2 PM",
+   "region": "NORTH",
+   "category": "NIGHT_MARKET",
+   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
+   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
+   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market/2026-12-19/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T17:00:00Z",
+    "end": "2026-12-19T22:00:00Z",
+    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market/2026-12-19/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
+  },
+  {
    "id": "835b084afa",
    "series": "8d556b4442",
    "title": "Solstice With Sasquatch",
@@ -9404,6 +9970,39 @@
     "notes": "Celebrate the winter solstice at The Museum of Flight with cozy activities, crafting, and cocoa.\n\nhttps://www.parentmap.com/calendar/solstice-sasquatch/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "a620c0627a",
+   "series": "0249ba00ad",
+   "title": "Free Holiday Trolley in Downtown Edmonds",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 660,
+   "endMinute": 1080,
+   "dates": "Sat, Dec 19",
+   "time": "11 AM–6 PM",
+   "place": "Downtown Edmonds",
+   "placeLines": "Downtown Edmonds\nMain Street, Edmonds, WA, 98020",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor…",
+   "description": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor Jr—spreading cheer and sharing fun facts about our historic seaside town!\n\nIt’s a relaxing way to explore Edmonds—hop on and off to eat and shop all around downtown. Don’t worry, it comes by every 30 minutes. See the map below.\n\nBring your holiday spirit, but please no food or drinks.\n\nSaturdays, 11am–6pm\nDec 5th, 12th & 19th 2026",
+   "url": "https://www.parentmap.com/calendar/free-holiday-trolley-downtown-edmonds/2026-12-19/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187256930-edmonds-1of15-15198873c89e.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Downtown Edmonds, Main Street, Edmonds, WA, 98020",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T19:00:00Z",
+    "end": "2026-12-20T02:00:00Z",
+    "notes": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor…\n\nhttps://www.parentmap.com/calendar/free-holiday-trolley-downtown-edmonds/2026-12-19/"
+   },
+   "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
    "id": "1d483fa242",
@@ -10037,371 +10636,6 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "f45e4f245f",
-   "series": "ddf32f51fa",
-   "title": "Winterfest Armory Stage Entertainment",
-   "start": "2026-12-26",
-   "end": "2026-12-27",
-   "dates": "Dec 26–27",
-   "place": "Seattle Center Armory",
-   "placeLines": "Seattle Center Armory\n305 Harrison St, Seattle, WA, 98109-4623",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…",
-   "description": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal entertainment while they check out our Winterfest Train & Village or grab a bite to eat at an Armory food merchant. View this year’s line-up below.\n\nNov. 27\n\nnoon: Zaniac Comedy Show\n2 p.m.: Holiday Harmony Pop\n3:30 p.m.: DJ Fishure\n\nNov. 28\n\n12:30 p.m.: Twelve Tones of Christmas\n2:30 p.m.: School of Rock\n\nNov. 29\n\n12:30 p.m.: Xmas Maximus\n2 p.m.: Louis Cano\n3:30 p.m.: Bailadores de Bronce\n\nDec. 5\n\n12:30 p.m.: SANCA\n2:30 p.m.: Northwest Boy Choir\n4 p.m.: KlezKids\n\nDec. 6\n\n12:30 p.m.: Garfield Jazz Band\n\nDec. 12\n\n12:30 p.m.: Rain City Tap\n2:30 p.m.: Swedish Singers of Seattle\n6 p.m.: Classical Holiday Sing-along\n\nDec. 13\n\n12:30 p.m.: NW Junior Pipe Band\n3 p.m.: Zje Mongol\n\nDec. 19\n\n12:30 p.m.: Lexi Nguyen\n2:30 p.m.: Michael Cagle and JP Cates\n5 p.m.: Rainbow City Band & Orchestra\n\nDec. 20\n\n12 p.m.: NW Tap Connection\n2 p.m.: WA Trumpet Guild\n5 p.m.: Greater Seattle Tubachristmas\n\nDec. 26\n\n12:30 p.m.: The Dickens Carolers\n3 p.m.: Seattle Civic Band\n\nDec. 27\n\n12:30 p.m.: Zaniac Comedy Show\n3 p.m.: Tlalokan",
-   "url": "https://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-100137.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Center Armory, 305 Harrison St, Seattle, WA, 98109-4623",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-26",
-    "end": "2026-12-28",
-    "notes": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…\n\nhttps://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/"
-   },
-   "firstSeen": "2026-10-17T14:17:16Z",
-   "revision": 2,
-   "changed": "2026-10-20T15:41:43Z"
-  },
-  {
-   "id": "98596a2d16",
-   "series": "fa61e33b79",
-   "title": "Annual Model Train Festival",
-   "start": "2026-12-26",
-   "end": "2026-12-31",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Dec 26–31",
-   "time": "10 AM–5 PM",
-   "place": "Washington State History Museum, Tacoma",
-   "placeLines": "Washington State History Museum, Tacoma\n1911 Pacific Ave, Tacoma, WA, 98402-3109",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "cost": "$5 – $11",
-   "free": false,
-   "summary": "Celebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!",
-   "description": "Celebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum! Join us for a beloved Tacoma holiday tradition that brings history and imagination to life for all ages. Explore intricate model train layouts, enjoy hands-on family activities, watch train films in the auditorium, and capture memories at festive photo stations. Whether you’re a lifelong rail fan or simply looking for holiday fun, the Model Train Festival promises magical moments and memories for all!",
-   "url": "https://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192837811-150-dpi-3-inch-blond-girl-with-model-train-99b1a422f924.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Washington State History Museum, 1911 Pacific Ave, Tacoma, WA, 98402-3109",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-26",
-    "end": "2027-01-01",
-    "notes": "Hours: 10 AM–5 PM\n\nCelebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!\n\nhttps://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-26/"
-   },
-   "firstSeen": "2026-10-17T14:17:16Z",
-   "revision": 4,
-   "changed": "2026-10-28T17:13:34Z"
-  },
-  {
-   "id": "2b7841e43a",
-   "series": "81a5ec9f49",
-   "title": "Issaquah Reindeer Festival",
-   "start": "2026-12-26",
-   "end": "2026-12-30",
-   "startMinute": 630,
-   "endMinute": 930,
-   "dates": "Dec 26–30",
-   "time": "10:30 AM–3:30 PM",
-   "place": "Cougar Mountain Zoo, Issaquah",
-   "placeLines": "Cougar Mountain Zoo, Issaquah\n19525 SE 54th St, Issaquah, WA, 98027-8676",
-   "region": "EASTSIDE",
-   "category": "COMMUNITY",
-   "cost": "$2",
-   "free": false,
-   "summary": "Enjoy the sights and sounds of the holidays with family and friends!",
-   "description": "Enjoy the sights and sounds of the holidays with family and friends! Take part in the most unique annual holiday celebration in the Northwest, offering excitement and fun for everyone!\n\nSanta is here November 27 – December 23, 10:30am-4:00pm*\n\nDecember 26-30 Santa goes back to the North Pole, but the Holiday Fun continues! 10:30am-3:30pm Daily!",
-   "url": "https://www.parentmap.com/calendar/55371-s2/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187532279-activitiesirfsantafeedreindeer-5e69a7afd2c9.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Cougar Mountain Zoo, 19525 SE 54th St, Issaquah, WA, 98027-8676",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-26",
-    "end": "2026-12-31",
-    "notes": "Hours: 10:30 AM–3:30 PM\n\nEnjoy the sights and sounds of the holidays with family and friends!\n\nhttps://www.parentmap.com/calendar/55371-s2/2026-12-26/"
-   },
-   "firstSeen": "2026-10-17T14:17:16Z",
-   "revision": 2,
-   "changed": "2026-10-19T17:35:30Z"
-  },
-  {
-   "id": "1314d4fda3",
-   "series": "a6317db569",
-   "title": "Festival of Trees at White River Valley Museum",
-   "start": "2026-12-26",
-   "end": "2026-12-27",
-   "startMinute": 720,
-   "endMinute": 960,
-   "dates": "Dec 26–27",
-   "time": "12–4 PM",
-   "place": "White River Valley Museum, Auburn",
-   "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.",
-   "description": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nOn display Nov. 18–Jan. 3. Open Wednesday through Sunday, noon–4 p.m.\nClosed: Thanksgiving, Christmas Eve and Christmas Day, and New Year’s Eve and New Year’s Day",
-   "url": "https://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775156966299-img_3452-f5f81919790e-768x432.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "White River Valley Museum, 918 H St SE, Auburn, WA, 98002-6112",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-26",
-    "end": "2026-12-28",
-    "notes": "Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-26/"
-   },
-   "firstSeen": "2026-10-27T16:44:46Z"
-  },
-  {
-   "id": "ac00cc2a2b",
-   "series": "09d4773809",
-   "title": "Winterfest Ice Sculpting",
-   "start": "2026-12-26",
-   "end": "2026-12-26",
-   "startMinute": 720,
-   "endMinute": 840,
-   "dates": "Sat, Dec 26",
-   "time": "12–2 PM",
-   "place": "Seattle Center Mural Amphitheatre",
-   "placeLines": "Seattle Center Mural Amphitheatre\n350 Harrison St, Seattle, WA, 98109",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Our weekly Ice Sculpting series is back!",
-   "description": "Our weekly Ice Sculpting series is back! Watch as acclaimed carvers create original sculptures made of ice each Saturday during Winterfest starting at 12pm at Seattle Center’s Mural Amphitheatre. Artists include Chan Kitburi and James Royal.",
-   "url": "https://www.parentmap.com/calendar/48509/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188716951-winterfest-ice-sculpting-graphic_0-f054ccad0be9.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Center Mural Amphitheatre, 350 Harrison St, Seattle, WA, 98109",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-26T20:00:00Z",
-    "end": "2026-12-26T22:00:00Z",
-    "notes": "Our weekly Ice Sculpting series is back!\n\nhttps://www.parentmap.com/calendar/48509/2026-12-26/"
-   },
-   "firstSeen": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "5578b31ef1",
-   "series": "21c3d0e236",
-   "title": "Waterfront Park Firepit Socials",
-   "start": "2026-12-26",
-   "end": "2026-12-27",
-   "startMinute": 900,
-   "endMinute": 1080,
-   "dates": "Dec 26–27",
-   "time": "3–6 PM",
-   "place": "Pier 62, Seattle",
-   "placeLines": "Pier 62, Seattle\n1951 Alaskan Way, Seattle, WA, 98101",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!",
-   "description": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends! Firepit Socials are an informal gathering of locals and visitors around our large wood-burning firepit where you can stop by and grab a hot beverage from a local vendor, play pier games, and enjoy the water and nature of Waterfront Park.\n\nAs Pacific Northwesterners, we understand that outdoor activities might need to be cancelled due to inclement weather. Please check the schedule above or follow us on our socials for updates concerning postponements.",
-   "url": "https://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773117765073-firepit-socials-at-pier-62-b8783a64cc9d-768x555.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Pier 62, 1951 Alaskan Way, Seattle, WA, 98101",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-26",
-    "end": "2026-12-28",
-    "notes": "Hours: 3–6 PM\n\nCome to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-12-26/"
-   },
-   "firstSeen": "2026-10-20T15:41:43Z"
-  },
-  {
-   "id": "db9a8ba614",
-   "series": "6bfa5e59c9",
-   "title": "Zoolights",
-   "start": "2026-12-26",
-   "end": "2026-12-30",
-   "startMinute": 990,
-   "endMinute": 1320,
-   "dates": "Dec 26–30",
-   "time": "4:30–10 PM",
-   "place": "Point Defiance Zoo & Aquarium, Tacoma",
-   "placeLines": "Point Defiance Zoo & Aquarium, Tacoma\n5400 N Pearl St, Tacoma, WA, 98407-3224",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$2 – $20",
-   "free": false,
-   "summary": "Stroll through a magical world with over 1.5 million sparkling lights.",
-   "description": "Stroll through a magical world with over 1.5 million sparkling lights. A classic holiday tradition, Zoolights has dazzled our community for 39 years. Our aquariums are closed and animals are sleeping during Zoolights. Visit during the day to see your favorite animals. Closed Dec. 24 & 25. Zoolights is presented by BECU.\n\nSee the zoo transform into a colorful winter wonderland with over 1.5 million lights. From the giant Pacific octopus to the Narrows Bridges, the Flame Tree to the Seahawks tree, and a magical tunnel of lights, come find your favorite displays… and don’t forget to hunt for Sasquatch!\n\n**Online timed tickets are required for Zoolights**",
-   "url": "https://www.parentmap.com/calendar/56485-2/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775079644677-kgc_66212-bc4fcc003c7e.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Point Defiance Zoo & Aquarium, 5400 N Pearl St, Tacoma, WA, 98407-3224",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-26",
-    "end": "2026-12-31",
-    "notes": "Hours: 4:30–10 PM\n\nStroll through a magical world with over 1.5 million sparkling lights.\n\nhttps://www.parentmap.com/calendar/56485-2/2026-12-26/"
-   },
-   "firstSeen": "2026-10-27T16:44:46Z",
-   "revision": 1,
-   "changed": "2026-10-28T17:13:34Z"
-  },
-  {
-   "id": "d97c948eb9",
-   "series": "10036c047d",
-   "title": "The Lights of Christmas",
-   "start": "2026-12-26",
-   "end": "2026-12-27",
-   "startMinute": 1020,
-   "endMinute": 1320,
-   "dates": "Dec 26–27",
-   "time": "5–10 PM",
-   "place": "Warm Beach Camp, Stanwood",
-   "placeLines": "Warm Beach Camp, Stanwood\n20800 Marine Dr, Stanwood, WA, 98292-7822",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$16 – $40",
-   "free": false,
-   "summary": "Big changes are coming to The Lights of Christmas in 2026!",
-   "description": "Big changes are coming to The Lights of Christmas in 2026! This season, the classic Holiday event will primarily be experienced as a walking event with fun activities, food and craft vendors, and of course the dazzling lights and displays that bring the magic of Christmas to Stanwood, WA every year! There will also be a handful of Drive-thru only nights for our wonderful patrons who prefer that format! This is a new and exciting endeavor for The Lights of Christmas and details will be announced throughout the year so stay tuned for updates! The 30th year of The Lights of Christmas will be one to remember!\n\nThe Lights of Christmas turns 30 in 2026! Celebrate this milestone with us by experiencing the brand new event format! Keep an eye out for more ways we’re commemorating this special season as the event approaches!\n\nDrive-Thru Tickets available Thurs: Dec 3, Dec 10 & Dec 17",
-   "url": "https://www.parentmap.com/calendar/lights-christmas-drive-through-experience/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2020/10/Screenshot-2026-10-26-133423.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Warm Beach Camp, 20800 Marine Dr, Stanwood, WA, 98292-7822",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-26",
-    "end": "2026-12-28",
-    "notes": "Hours: 5–10 PM\n\nBig changes are coming to The Lights of Christmas in 2026!\n\nhttps://www.parentmap.com/calendar/lights-christmas-drive-through-experience/2026-12-26/"
-   },
-   "firstSeen": "2026-10-27T16:44:46Z"
-  },
-  {
-   "id": "09c06c25b5",
-   "series": "5f77d20c66",
-   "title": "A Magical Cirque Christmas",
-   "start": "2026-12-27",
-   "end": "2026-12-29",
-   "dates": "Dec 27–29",
-   "place": "Washington Center for the Performing Arts, Olympia",
-   "placeLines": "Washington Center for the Performing Arts, Olympia\n512 Washington St SE, Olympia, WA, 98501-1330",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$58 – $125",
-   "free": false,
-   "summary": "For more than five spectacular holiday seasons, A Magical Cirque Christmas has captivated fans and welcomed families, making it part of their seasonal…",
-   "description": "For more than five spectacular holiday seasons, A Magical Cirque Christmas has captivated fans and welcomed families, making it part of their seasonal celebrations.Overflowing with festive charm and dazzling cirque artistry, A Magical Cirque Christmas showcases the extraordinary talents of world-class performers through gravity-defying acrobatics, awe-inspiring displays of strength and agility, laugh-out-loud comedy, and heartwarming magic. Set to a lively soundtrack of modern holiday hits, each act delivers a fresh and unforgettable Christmastime experience.\n\nBeloved by audiences of all ages, A Magical Cirque Christmas is a joyful way to celebrate the season together.",
-   "url": "https://www.parentmap.com/calendar/a-magical-cirque-christmas/2026-12-27/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/08/AMCC25_Horizontal-small.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Washington Center for the Performing Arts, 512 Washington St SE, Olympia, WA, 98501-1330",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-27",
-    "end": "2026-12-30",
-    "notes": "For more than five spectacular holiday seasons, A Magical Cirque Christmas has captivated fans and welcomed families, making it part of their seasonal…\n\nhttps://www.parentmap.com/calendar/a-magical-cirque-christmas/2026-12-27/"
-   },
-   "firstSeen": "2026-10-18T14:41:25Z"
-  },
-  {
-   "id": "4823e89428",
-   "series": "f7891bf5ca",
-   "title": "Seymour Holiday Workshops",
-   "start": "2026-12-27",
-   "end": "2026-12-27",
-   "startMinute": 600,
-   "endMinute": 780,
-   "dates": "Sun, Dec 27",
-   "time": "10 AM–1 PM",
-   "place": "W.W. Seymour Botanical Conservatory, Tacoma",
-   "placeLines": "W.W. Seymour Botanical Conservatory, Tacoma\n316 S G St, Tacoma, WA, 98405-4733",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$5",
-   "free": false,
-   "summary": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory Free!",
-   "description": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory\n\nFree! $5 suggested donation\n\nDrop into the conservatory and create a handmade nature-themed treasure for someone special or yourself.\n\nNo registration required to attend.",
-   "url": "https://www.parentmap.com/calendar/seymour-holiday-workshops/2026-12-27/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192404948-conservatory-kid-crafts_dsc5973-web-1024x681-465da3e06c1e.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "W.W. Seymour Botanical Conservatory, 316 S G St, Tacoma, WA, 98405-4733",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-27T18:00:00Z",
-    "end": "2026-12-27T21:00:00Z",
-    "notes": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory Free!\n\nhttps://www.parentmap.com/calendar/seymour-holiday-workshops/2026-12-27/"
-   },
-   "firstSeen": "2026-10-17T14:17:16Z"
-  },
-  {
-   "id": "f8d0de0643",
-   "series": "a6317db569",
-   "title": "Festival of Trees at White River Valley Museum",
-   "start": "2026-12-30",
-   "end": "2026-12-30",
-   "startMinute": 720,
-   "endMinute": 960,
-   "dates": "Wed, Dec 30",
-   "time": "12–4 PM",
-   "place": "White River Valley Museum, Auburn",
-   "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.",
-   "description": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nOn display Nov. 18–Jan. 3. Open Wednesday through Sunday, noon–4 p.m.\nClosed: Thanksgiving, Christmas Eve and Christmas Day, and New Year’s Eve and New Year’s Day",
-   "url": "https://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-30/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775156966299-img_3452-f5f81919790e-768x432.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "White River Valley Museum, 918 H St SE, Auburn, WA, 98002-6112",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-30T20:00:00Z",
-    "end": "2026-12-31T00:00:00Z",
-    "notes": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-30/"
-   },
-   "firstSeen": "2026-10-27T16:44:46Z"
-  },
-  {
    "id": "906ae06449",
    "series": "f903ceba60",
    "title": "PNA Winter Festival Juried Art Show",
@@ -10496,10 +10730,10 @@
    "series": "f903ceba60",
    "title": "PNA Winter Festival Juried Art Show",
    "start": "2027-01-18",
-   "end": "2027-01-20",
+   "end": "2027-01-21",
    "startMinute": 600,
    "endMinute": 1020,
-   "dates": "Jan 18–20",
+   "dates": "Jan 18–21",
    "time": "10 AM–5 PM",
    "place": "Piano Nobile, PNA — Level 2, Brick Building, Seattle",
    "placeLines": "Piano Nobile, PNA — Level 2, Brick Building, Seattle\n6532 Phinney Avenue North, Seattle, WA, 98103",
@@ -10515,12 +10749,12 @@
    "calendar": {
     "allDay": true,
     "start": "2027-01-18",
-    "end": "2027-01-21",
+    "end": "2027-01-22",
     "notes": "Hours: 10 AM–5 PM\n\nhttps://www.phinneycenter.org/event/pna-winter-festival-juried-art-show/2027-01-18/"
    },
    "firstSeen": "2026-10-26T17:28:11Z",
-   "revision": 2,
-   "changed": "2026-10-28T17:13:34Z"
+   "revision": 3,
+   "changed": "2026-10-29T17:28:36Z"
   }
  ],
  "gemini": {

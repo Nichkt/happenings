@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9d27769dba-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Hanukkah Light Lab
+LOCATION:Stroum Jewish Community Center\, 3801 E Mercer Way\, Mercer Island
+ \, WA\, 98040-3805
+DESCRIPTION:Please join us after Tot Shabbat for a Multi-Sensory Immersive 
+ Space for Discovery The Schwartz ECS Light Lab opens its exhibit doors thi
+ s month and will…\n\nhttps://www.parentmap.com/calendar/hanukkah-light-l
+ ab/2026-12-04/
+URL:https://www.parentmap.com/calendar/hanukkah-light-lab/2026-12-04/
+END:VEVENT
+END:VCALENDAR

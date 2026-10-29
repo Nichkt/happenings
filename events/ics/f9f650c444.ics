@@ -5,16 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:f9f650c444-seattle-happenings@nichkt.github.io
-DTSTAMP:20261024T144009Z
-SEQUENCE:0
+DTSTAMP:20261029T172836Z
+SEQUENCE:1
+LAST-MODIFIED:20261029T172836Z
 DTSTART:20261212T200000Z
 DTEND:20261213T010000Z
 SUMMARY:Occidental Square Holiday Bazaar
-LOCATION:Occidental Square\, 117 S Washington St.\, Seattle\, WA
+LOCATION:Occidental Square\, 117 S Washington St\, Seattle\, WA\, 98104
 DESCRIPTION:Whether you’re just getting started on your holiday shopping 
  or looking for the perfect finishing touch\, stop by the Occidental Square
-  Holiday Trading Post for…\n\nhttps://downtownseattle.org/event/occident
- al-square-holiday-bazaar/
-URL:https://downtownseattle.org/event/occidental-square-holiday-bazaar/
+  Holiday Trading Post for…\n\nhttps://www.parentmap.com/calendar/occiden
+ tal-square-holiday-trading-post/
+URL:https://www.parentmap.com/calendar/occidental-square-holiday-trading-po
+ st/
 END:VEVENT
 END:VCALENDAR

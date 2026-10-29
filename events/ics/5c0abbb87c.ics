@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c0abbb87c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:PhinneyWood Winter Festival
+LOCATION:Phinney Neighborhood Center\, 6532 Phinney Ave N\, Seattle\, WA\, 
+ 98103-5234
+DESCRIPTION:Hours: 10 AM–5 PM\n\nCelebrate the magic of the season at the
+  46th Annual PNA Winter Festival!\n\nhttps://www.parentmap.com/calendar/ph
+ inneywood-winter-festival/2026-12-05/
+URL:https://www.parentmap.com/calendar/phinneywood-winter-festival/2026-12-
+ 05/
+END:VEVENT
+END:VCALENDAR

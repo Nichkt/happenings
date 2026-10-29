@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:4fab7721d7-seattle-happenings@nichkt.github.io
-DTSTAMP:20261024T144009Z
-SEQUENCE:0
+DTSTAMP:20261029T172836Z
+SEQUENCE:1
+LAST-MODIFIED:20261029T172836Z
 DTSTART:20261127T190000Z
 DTEND:20261128T020000Z
 SUMMARY:Tree Lighting Celebration at Westlake Park
-LOCATION:Westlake Park\, 401 Pine St\, Seattle\, WA\, 98101
+LOCATION:Westlake Park\, 401 Pine Street\, Seattle\, WA\, 98101
 DESCRIPTION:Unwrap the holiday season at our annual Tree Lighting Celebrati
- on on Friday\, Nov.\n\nhttps://downtownseattle.org/event/tree-lighting-cel
- ebration-at-westlake-park/
-URL:https://downtownseattle.org/event/tree-lighting-celebration-at-westlake
- -park/
+ on on Friday\, Nov.\n\nhttps://www.parentmap.com/calendar/tree-lighting-ce
+ lebration-westlake-park/
+URL:https://www.parentmap.com/calendar/tree-lighting-celebration-westlake-p
+ ark/
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:b57b7b94d6-seattle-happenings@nichkt.github.io
-DTSTAMP:20261028T171334Z
-SEQUENCE:12
-LAST-MODIFIED:20261028T171334Z
-DTSTART;VALUE=DATE:20261026
+DTSTAMP:20261029T172836Z
+SEQUENCE:13
+LAST-MODIFIED:20261029T172836Z
+DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Carpinito Brothers Fall Festival
@@ -17,8 +17,8 @@ LOCATION:Carpinito Brothers Farm\, S. 277th and West Valley Highway\, Kent\
 DESCRIPTION:Hours: 9 AM–6 PM\n\nOn a clear day\, the picturesque Mount Ra
  inier serves as an impressive backdrop for our beautiful Kent Valley patch
   and corn maze.\n\nhttps://www.parentmap.com/calendar/carpinito-brothers-f
- all-festival-2/2026-10-26/
+ all-festival-2/2026-10-27/
 URL:https://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2
- 026-10-26/
+ 026-10-27/
 END:VEVENT
 END:VCALENDAR

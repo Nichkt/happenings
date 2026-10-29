@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7eb5a2300b-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261205T190000Z
+DTEND:20261206T020000Z
+SUMMARY:Free Holiday Trolley in Downtown Edmonds
+LOCATION:Downtown Edmonds\, Main Street\, Edmonds\, WA\, 98020
+DESCRIPTION:The Edmonds Holiday Trolley returns for its 12th year\, featuri
+ ng Emily the Elf and a special appearance by the Edmonds king of Christmas
+ \, Richard Taylor…\n\nhttps://www.parentmap.com/calendar/free-holiday-tr
+ olley-downtown-edmonds/2026-12-05/
+URL:https://www.parentmap.com/calendar/free-holiday-trolley-downtown-edmond
+ s/2026-12-05/
+END:VEVENT
+END:VCALENDAR

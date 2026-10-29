@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5325017791-seattle-happenings@nichkt.github.io
+DTSTAMP:20261029T172836Z
+SEQUENCE:0
+DTSTART:20261206T000000Z
+DTEND:20261206T030000Z
+SUMMARY:City of Lakewood Parade of Lights
+LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA\, 98499-5027
+DESCRIPTION:Celebrate the holiday season with a Christmas Parade of Lights 
+ at the Lakewood Towne Center.\n\nhttps://www.parentmap.com/calendar/city-l
+ akewood-parade-lights/
+URL:https://www.parentmap.com/calendar/city-lakewood-parade-lights/
+END:VEVENT
+END:VCALENDAR
