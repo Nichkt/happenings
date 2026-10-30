@@ -5,15 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1698743e6c-seattle-happenings@nichkt.github.io
-DTSTAMP:20261029T172836Z
-SEQUENCE:0
+DTSTAMP:20261030T170403Z
+SEQUENCE:1
+LAST-MODIFIED:20261030T170403Z
 DTSTART:20261212T170000Z
 DTEND:20261212T220000Z
 SUMMARY:Edmonds Holiday Market
+LOCATION:Edmonds Historical Museum\, 118 5th Ave N\, Edmonds\, WA\, 98020
 DESCRIPTION:The Edmonds Museum Holiday Market features produce\, preserves\
  , edibles\, baked goods and sweets\, specialty gift items\, holiday greene
- ry and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market/
- 2026-12-12/
-URL:https://www.parentmap.com/calendar/edmonds-holiday-market/2026-12-12/
+ ry and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market-
+ 2/2026-12-12/
+URL:https://www.parentmap.com/calendar/edmonds-holiday-market-2/2026-12-12/
 END:VEVENT
 END:VCALENDAR

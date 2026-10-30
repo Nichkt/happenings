@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cfc6e5e93f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261030T170403Z
+SEQUENCE:0
+DTSTART:20261212T000000Z
+DTEND:20261212T030000Z
+SUMMARY:Sips & S’mores at Bell Street Park
+LOCATION:Bell Street Park\, 3rd Ave and Bell St\, Seattle\, WA\, 98121
+DESCRIPTION:Grab a cozy drink and celebrate the season at Bell Street Park 
+ Sips & S’mores!\n\nhttps://www.parentmap.com/calendar/sips-smores-at-bel
+ l-street-park/
+URL:https://www.parentmap.com/calendar/sips-smores-at-bell-street-park/
+END:VEVENT
+END:VCALENDAR

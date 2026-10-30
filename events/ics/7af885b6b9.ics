@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7af885b6b9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261030T170403Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+SUMMARY:Salmon Steward Interpretation Days
+LOCATION:Carkeek Park Chum Salmon Viewing Area\, WA
+DESCRIPTION:Hours: 11 AM–3 PM\n\nNeighborhoods: Broadview/Bitter Lake\,Cr
+ own Hill\,North Beach/Blue Ridge Event Types: Community\,Education\,Nature
+ /Environment Audience: All Contact: Max Contact…\n\nhttps://parkways.sea
+ ttle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/
+URL:https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek
+ -park/
+END:VEVENT
+END:VCALENDAR

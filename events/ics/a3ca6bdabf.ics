@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3ca6bdabf-seattle-happenings@nichkt.github.io
+DTSTAMP:20261030T170403Z
+SEQUENCE:0
+DTSTART:20261210T180000Z
+DTEND:20261210T193000Z
+SUMMARY:Hanukkah Grandfriend Time
+LOCATION:Stroum Jewish Community Center\, 3801 E Mercer Way\, Mercer Island
+ \, WA\, 98040-3805
+DESCRIPTION:Celebrate Jewish holidays and make special memories together!\n
+ \nhttps://www.parentmap.com/calendar/hanukkah-grandfriend-time/
+URL:https://www.parentmap.com/calendar/hanukkah-grandfriend-time/
+END:VEVENT
+END:VCALENDAR

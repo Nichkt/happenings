@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5e77c0c720-seattle-happenings@nichkt.github.io
+DTSTAMP:20261030T170403Z
+SEQUENCE:0
+DTSTART:20261121T180000Z
+DTEND:20261121T230000Z
+SUMMARY:Queen Anne Farmers Market – November Harvest Market
+LOCATION:Queen Anne Farmers Market\, Crockett Street and Queen Anne Ave. N\
+ , Seattle\, WA\, 98109
+DESCRIPTION:Join us for a special QAFM Saturday Harvest Market on November 
+ 21 from 10am–3pm\, just in time for your Thanksgiving table.\n\nhttps://
+ www.parentmap.com/calendar/queen-anne-farmers-market-november-harvest-mark
+ et/
+URL:https://www.parentmap.com/calendar/queen-anne-farmers-market-november-h
+ arvest-market/
+END:VEVENT
+END:VCALENDAR

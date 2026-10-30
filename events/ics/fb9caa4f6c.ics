@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb9caa4f6c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261030T170403Z
+SEQUENCE:0
+DTSTART:20261121T183000Z
+DTEND:20261121T233000Z
+SUMMARY:Salmon Celebration Day
+LOCATION:Carkeek Park Chum Salmon Viewing Area and Pipers Creek\, WA
+DESCRIPTION:Neighborhoods: Broadview/Bitter Lake\,Crown Hill\,North Beach/B
+ lue Ridge Event Types: Community\,Dance\,Education\,Festivals/Fairs\,Music
+ \,Nature/Environment…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-
+ seeson-begins-at-carkeek-park/
+URL:https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek
+ -park/
+END:VEVENT
+END:VCALENDAR

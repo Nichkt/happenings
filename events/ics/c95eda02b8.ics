@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c95eda02b8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261030T170403Z
+SEQUENCE:0
+DTSTART:20261107T180000Z
+DTEND:20261107T203000Z
+SUMMARY:2026 Seattle Arbor Day
+LOCATION:E.C. Hughes Park\, WA
+DESCRIPTION:Neighborhoods: Roxhill/Westwood/White Center\,West of Seattle S
+ PU Programs: Trees for Neighborhoods Event Types:…\n\nhttps://forms.clou
+ d.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id
+ =RR7meOtrCUCPmTWdi1T0G1FsSd8N11BMhnO_RtIAmJ5UME9DMU1QRjZUTlU4V09FUkdaMFdLS
+ ko2TyQlQCN0PWcu
+URL:https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalP
+ age&subpage=design&id=RR7meOtrCUCPmTWdi1T0G1FsSd8N11BMhnO_RtIAmJ5UME9DMU1Q
+ RjZUTlU4V09FUkdaMFdLSko2TyQlQCN0PWcu
+END:VEVENT
+END:VCALENDAR

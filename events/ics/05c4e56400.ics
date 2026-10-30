@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:05c4e56400-seattle-happenings@nichkt.github.io
+DTSTAMP:20261030T170403Z
+SEQUENCE:0
+DTSTART:20261114T200000Z
+DTEND:20261115T000000Z
+SUMMARY:Second Saturdays: Bulgarian Cultural Celebration
+LOCATION:Postmark Center for the Arts\, 20 Auburn Avenue\, Auburn\, WA\, 98
+ 002
+DESCRIPTION:Visit Postmark Center for the Arts gallery\, open to the public
+  each Second Saturday from 12-4PM! Each month features FREE\, all ages per
+ formances\, crafts\, and…\n\nhttps://www.parentmap.com/calendar/second-s
+ aturdays-bulgarian-cultural-celebration/
+URL:https://www.parentmap.com/calendar/second-saturdays-bulgarian-cultural-
+ celebration/
+END:VEVENT
+END:VCALENDAR
