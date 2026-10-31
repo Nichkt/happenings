@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:98596a2d16-seattle-happenings@nichkt.github.io
+DTSTAMP:20261031T161225Z
+SEQUENCE:0
+DTSTART:20261226T180000Z
+DTEND:20261227T010000Z
+SUMMARY:Annual Model Train Festival
+LOCATION:Washington State History Museum\, 1911 Pacific Ave\, Tacoma\, WA\,
+  98402-3109
+DESCRIPTION:Celebrate with us as Model Train Festival returns for its 30th 
+ year at the Washington State History Museum!\n\nhttps://www.parentmap.com/
+ calendar/29th-annual-model-train-festival/2026-12-26/
+URL:https://www.parentmap.com/calendar/29th-annual-model-train-festival/202
+ 6-12-26/
+END:VEVENT
+END:VCALENDAR

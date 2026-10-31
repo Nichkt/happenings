@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ea78f0f98f-seattle-happenings@nichkt.github.io
-DTSTAMP:20261030T170403Z
-SEQUENCE:12
-LAST-MODIFIED:20261030T170403Z
-DTSTART;VALUE=DATE:20261028
+DTSTAMP:20261031T161225Z
+SEQUENCE:13
+LAST-MODIFIED:20261031T161225Z
+DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Rutledge Fall on the Farm
 LOCATION:Rutledge Corn Maze\, 302 93rd Ave SE\, Olympia\, WA\, 98501
 DESCRIPTION:Join us for Fall on the Farm\, a seasonal celebration of autumn
   fun\, fresh air\, and family memories.\n\nhttps://www.parentmap.com/calen
- dar/rutledge-fall-farm-2/2026-10-28/
-URL:https://www.parentmap.com/calendar/rutledge-fall-farm-2/2026-10-28/
+ dar/rutledge-fall-farm-2/2026-10-29/
+URL:https://www.parentmap.com/calendar/rutledge-fall-farm-2/2026-10-29/
 END:VEVENT
 END:VCALENDAR
