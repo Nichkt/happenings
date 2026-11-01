@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2b7841e43a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261101T171154Z
+SEQUENCE:0
+DTSTART:20261226T183000Z
+DTEND:20261226T233000Z
+SUMMARY:Issaquah Reindeer Festival
+LOCATION:Cougar Mountain Zoo\, 19525 SE 54th St\, Issaquah\, WA\, 98027-867
+ 6
+DESCRIPTION:Enjoy the sights and sounds of the holidays with family and fri
+ ends!\n\nhttps://www.parentmap.com/calendar/55371-s2/2026-12-26/
+URL:https://www.parentmap.com/calendar/55371-s2/2026-12-26/
+END:VEVENT
+END:VCALENDAR

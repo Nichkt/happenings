@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d97c948eb9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261101T171154Z
+SEQUENCE:0
+DTSTART:20261227T010000Z
+DTEND:20261227T060000Z
+SUMMARY:The Lights of Christmas
+LOCATION:Warm Beach Camp\, 20800 Marine Dr\, Stanwood\, WA\, 98292-7822
+DESCRIPTION:Big changes are coming to The Lights of Christmas in 2026!\n\nh
+ ttps://www.parentmap.com/calendar/lights-christmas-drive-through-experienc
+ e/2026-12-26/
+URL:https://www.parentmap.com/calendar/lights-christmas-drive-through-exper
+ ience/2026-12-26/
+END:VEVENT
+END:VCALENDAR
