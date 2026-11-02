@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-01T17:11:54Z",
+ "generatedAt": "2026-11-02T20:49:48Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-01",
- "until": "2027-01-24",
+ "from": "2026-11-02",
+ "until": "2027-01-25",
  "regions": [
   {
    "id": "SEATTLE",
@@ -115,7 +115,7 @@
   },
   {
    "name": "City of Seattle",
-   "events": 14
+   "events": 13
   },
   {
    "name": "City of Snoqualmie",
@@ -134,28 +134,20 @@
    "events": 2
   },
   {
-   "name": "El Centro de la Raza",
-   "events": 1
-  },
-  {
    "name": "Northwest African American Museum",
    "events": 1
   },
   {
    "name": "Northwest Asian Weekly",
-   "events": 6
+   "events": 5
   },
   {
    "name": "ParentMap",
-   "events": 205
+   "events": 194
   },
   {
    "name": "Phinney Center",
    "events": 10
-  },
-  {
-   "name": "Seattle Betsuin Buddhist Temple",
-   "events": 1
   },
   {
    "name": "United Indians of All Tribes",
@@ -171,303 +163,6 @@
   }
  ],
  "events": [
-  {
-   "id": "81eeaeec9d",
-   "series": "e530e1210e",
-   "title": "Fright Fest at Wild Waves",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "dates": "Oct 30–Nov 1",
-   "place": "Wild Waves and Enchanted Village Theme Park, Federal Way",
-   "placeLines": "Wild Waves and Enchanted Village Theme Park, Federal Way\n36201 Enchanted Pkwy S, Federal Way, WA, 98003-7109",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "$41.99 – $69.99",
-   "free": false,
-   "summary": "FRIGHT FEST 2026 Treat yourself to a spine-haunting good time of frights into the night!",
-   "description": "FRIGHT FEST 2026\n\nTreat yourself to a spine-haunting good time of frights into the night!\n\nPrepare yourself for heart-pounding thrills, bone-chilling scares, and a Halloween experience like no other!\n\nBeware! As the clock strikes 6, the park transforms, and the monsters emerge from their haunted lairs creeping around in the darkness searching for souls to prey upon!\n\nFright by Night Operating Hours:\n\nOctober 2 – November 1\n\nFridays: 6pm – 10pm\n\nSaturdays: 2pm – 10pm\n\nSundays: 2pm – 10pm\n\nBOOVILLE\n\nExtra Weekend – Booville Opens One Week Early!\n\nFun for the whole family!\n\nFestive fall fun activities, trick-or-treating, face-painting and entertainment await the little ghouls and goblins. Located in the Kiddie Land area of the park, Booville is a scare-free zone offering plenty of friendly Halloween fun designed for ages 12 and under. Booville activities and attractions are open Saturdays and Sundays only from 2pm -7pm.\n\n… but BEWARE, when the clock strikes 6, the park transforms to Fright by Night as the monsters come out to prey!\n\nBooville Fun By Day Operating Hours:\n\nSeptember 26 – November 2\n\nSaturdays: 2pm – 6pm\n\nSundays: 2pm – 6pm",
-   "url": "https://www.parentmap.com/calendar/33833/2026-10-30/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185492643-wild-waves-fright-fest-haunted-house-story-f054f63c9110.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Wild Waves and Enchanted Village Theme Park, 36201 Enchanted Pkwy S, Federal Way, WA, 98003-7109",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-30",
-    "end": "2026-11-02",
-    "notes": "FRIGHT FEST 2026 Treat yourself to a spine-haunting good time of frights into the night!\n\nhttps://www.parentmap.com/calendar/33833/2026-10-30/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "10e2ea89e0",
-   "series": "928c05f801",
-   "title": "Edmonds Museum Scarecrow Festival Contest",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "startMinute": 480,
-   "endMinute": 1080,
-   "dates": "Oct 30–Nov 1",
-   "time": "8 AM–6 PM",
-   "region": "NORTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!",
-   "description": "The Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!\n\nIt’s a fun event for the community, it fosters ties between businesses, residents, customers, arts and student groups, and you can have fun decorating the city for trick-or-treating.\n\n-Submit your scarecrow entry between September 24th and October 24th by 6 pm.\n-Vote for your favorite entry between October 25th and November 1st.\n-The top three winners in each category will receive a commemorative certificate. The top winners will receive a ghoulish goodie bag.\n-Winners will be announced November 8th.",
-   "url": "https://www.parentmap.com/calendar/47695-2/2026-10-30/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185945756-muerte-florecida-800x683-2c1989b825cb.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-30",
-    "end": "2026-11-02",
-    "notes": "Hours: 8 AM–6 PM\n\nThe Scarecrow festival is a family-friendly event that allows local residents and businesses to show off their scarecrows!\n\nhttps://www.parentmap.com/calendar/47695-2/2026-10-30/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 16,
-   "changed": "2026-11-01T17:11:54Z"
-  },
-  {
-   "id": "8207641a21",
-   "series": "635bcc1f6c",
-   "title": "Craven Farm Fall Festival",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Oct 30–Nov 1",
-   "time": "10 AM–6 PM",
-   "place": "Craven Farm, Snohomish",
-   "placeLines": "Craven Farm, Snohomish\n13817 Shorts School Rd, Snohomish, WA, 98290-6907",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Named Washington State’s  best pumpkin patch  by “Readers Digest” in 2019, and more recently  among the best pumpkin farms in the country (!), this farm is…",
-   "description": "Named Washington State’s best pumpkin patch by “Readers Digest” in 2019, and more recently among the best pumpkin farms in the country(!), this farm is justifiably very popular, especially with younger kids.\n\nAs the Snohomish Valley’s Original Pumpkin Patch, Craven Farm is a decades old tradition for many families. Continue your family tradition or start a new one this fall at Craven Farm!\n\nAt Craven Farm, we’re dedicated to creating an enjoyable and memorable fall experience for everyone who visits us. Our farm offers an extensive range of activities to suit all age groups, including apple cannons and slingers, fair foods, espresso, and donuts. Our unique attractions like cow trains, wagon rides, multiple acres of themed corn mazes, jump pad & animals are sure to keep you entertained for hours on end. Visit us today and make some unforgettable memories with us this fall!\n\nCheck out our huge list of pumpkin extravaganzas happening this year.",
-   "url": "https://www.parentmap.com/calendar/craven-farm-fall-festival-0/2026-10-30/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187588608-craven-farm-pumpkin-patchjpg-ea0a337f1a6e.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Craven Farm, 13817 Shorts School Rd, Snohomish, WA, 98290-6907",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-30",
-    "end": "2026-11-02",
-    "notes": "Hours: 10 AM–6 PM\n\nNamed Washington State’s  best pumpkin patch  by “Readers Digest” in 2019, and more recently  among the best pumpkin farms in the country (!), this farm is…\n\nhttps://www.parentmap.com/calendar/craven-farm-fall-festival-0/2026-10-30/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 2,
-   "changed": "2026-11-01T17:11:54Z"
-  },
-  {
-   "id": "a8cb5c6bbb",
-   "series": "9962fa0a2c",
-   "title": "Día de los Muertos Festival at the Outlet Collection",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "startMinute": 600,
-   "endMinute": 1140,
-   "dates": "Oct 30–Nov 1",
-   "time": "10 AM–7 PM",
-   "place": "The Outlet Collection | Seattle, Auburn",
-   "placeLines": "The Outlet Collection | Seattle, Auburn\n1101 Outlet Collection Way, Auburn, WA, 98001",
-   "region": "SOUTH",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Día de los Muertos: “Remember Me” October 30–November 1 | 10 a.m.–7 p.m.",
-   "description": "Día de los Muertos: “Remember Me”\n\nOctober 30–November 1 | 10 a.m.–7 p.m.\nThe Outlet Collection Seattle\n\nExperience the vibrant traditions of Día de los Muertos during a three-day celebration of culture, community and remembrance presented by Rose Azul Vintage.\n\nEvent activities include:\n\nLive music\nFolklórico dancers\nCatrina fashion show\nLotería game\nRaffles and prizes\nVendor market\nAnd much more!\nFor more information, contact Diana Anica at roseazulvintage@gmail.com.",
-   "url": "https://www.parentmap.com/calendar/dia-de-los-muertos-festival-outlet-collection/2026-10-30/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775186053279-screenshot-2025-10-15-115333-cb81e2473bda.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "The Outlet Collection | Seattle, 1101 Outlet Collection Way, Auburn, WA, 98001",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-30",
-    "end": "2026-11-02",
-    "notes": "Hours: 10 AM–7 PM\n\nDía de los Muertos: “Remember Me” October 30–November 1 | 10 a.m.–7 p.m.\n\nhttps://www.parentmap.com/calendar/dia-de-los-muertos-festival-outlet-collection/2026-10-30/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "d9c90628b3",
-   "series": "3de80e4877",
-   "title": "Fall Festival at Bob’s Corn and Pumpkin Farm",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "startMinute": 600,
-   "endMinute": 1140,
-   "dates": "Oct 30–Nov 1",
-   "time": "10 AM–7 PM",
-   "place": "Bob’s Corn and Pumpkin Farm, Snohomish",
-   "placeLines": "Bob’s Corn and Pumpkin Farm, Snohomish\n10917 Elliott Rd, Snohomish, WA, 98296-8106",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$2 – $28.95",
-   "free": false,
-   "summary": "Welcome to Bob’s Fall Festival!",
-   "description": "Welcome to Bob’s Fall Festival! We have combined some of the best parts of the fall season into what we are now calling our Annual Fall Festival! Pumpkins and Corn are part of what we are known for here and we love it! Plan a visit between September 19th and November 1st to enjoy a fun tractor ride down to our lower fields, pick your own pumpkins from our pumpkin patches, find your way through our corn maze, enjoy some of Sarah’s famous donuts, drink some hot apple cider, and pick up your farm favorite treats in our Country Store! Coming on a Saturday or Sunday? Eat lunch or dinner at our Country Kitchen or try some of our roasted corn! Bob’s Corn is the place to be this fall!",
-   "url": "https://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-30/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775184855087-2016bobscornmaze-6e081d183b0a.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Bob’s Corn and Pumpkin Farm, 10917 Elliott Rd, Snohomish, WA, 98296-8106",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-30",
-    "end": "2026-11-02",
-    "notes": "Hours: 10 AM–7 PM\n\nWelcome to Bob’s Fall Festival!\n\nhttps://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-30/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 16,
-   "changed": "2026-11-01T17:11:54Z"
-  },
-  {
-   "id": "3adc0fffa0",
-   "series": "f21bbde796",
-   "title": "Remlinger Farms Fall Harvest Festival",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Oct 30–Nov 1",
-   "time": "10 AM–6 PM",
-   "place": "Remlinger Farms, Carnation",
-   "placeLines": "Remlinger Farms, Carnation\n32610 NE 32nd St, Carnation, WA, 98014-6104",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "$1 – $33.95",
-   "free": false,
-   "summary": "Opening weekend is Saturday, September 26.",
-   "description": "Opening weekend is Saturday, September 26. From October on we add Fridays — three full days a week of harvest, right through Sunday, November 1. Pumpkin Village and the U-Pick fields are open every day we are.\n\nEvery open day runs 10 a.m. – 6 p.m. — gates close at six, every date on the list.\n\nThirty-plus rides and attractions, all covered by one wristband — ride them once or ride them eleven times. Open the RideFinder for height requirements and this weekend’s operating list.",
-   "url": "https://www.parentmap.com/calendar/remlinger-farms-fall-harvest-festival-0-s2/2026-10-30/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187473799-rides4-74f3aa8a2eb0.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Remlinger Farms, 32610 NE 32nd St, Carnation, WA, 98014-6104",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-30",
-    "end": "2026-11-02",
-    "notes": "Hours: 10 AM–6 PM\n\nOpening weekend is Saturday, September 26.\n\nhttps://www.parentmap.com/calendar/remlinger-farms-fall-harvest-festival-0-s2/2026-10-30/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "0dca114fab",
-   "series": "7c8e4942ad",
-   "title": "Festál Series: Día de Muertos Festival",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "startMinute": 660,
-   "endMinute": 1080,
-   "dates": "Oct 31–Nov 1",
-   "time": "11 AM–6 PM",
-   "place": "Seattle Center Armory",
-   "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Dia De Muertos will take place October 31 – November 1, 2026 in the Armory Food & Event Hall.",
-   "description": "Dia De Muertos will take place October 31 – November 1, 2026 in the Armory Food & Event Hall. The festival is part of the Seattle Center Festál series. It is free and open to the public.\n\nSeattle Center Festál presents Día de Muertos Festival Seattle in partnership with the Día de Muertos Festival Seattle. The festival offers performances, elaborate altars, colorful face-painting, sugar skull workshops, visual art, and more!",
-   "url": "https://www.parentmap.com/calendar/festal-series-dia-de-muertos-festival/2026-10-31/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/02/1770608755144-photo-cred-saddleburn-media-1ba314facc84.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Center Armory, 305 Harrison Street, Seattle, WA, 98109",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-31",
-    "end": "2026-11-02",
-    "notes": "Hours: 11 AM–6 PM\n\nDia De Muertos will take place October 31 – November 1, 2026 in the Armory Food & Event Hall.\n\nhttps://www.parentmap.com/calendar/festal-series-dia-de-muertos-festival/2026-10-31/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "2f984e3356",
-   "series": "c9fba128cd",
-   "title": "Catrinas Day of the Dead Festival",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "startMinute": 780,
-   "endMinute": 1260,
-   "dates": "Oct 31–Nov 1",
-   "time": "1–9 PM",
-   "place": "Town Hall Seattle",
-   "placeLines": "Town Hall Seattle\n1119 8th Ave, Seattle, WA, 98101-2738",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "cost": "$5 – $45",
-   "free": false,
-   "summary": "Seattle Catrinas Festival.",
-   "description": "Seattle Catrinas Festival. Enjoy your Life and Embrace your Death.\n\nFor years, we have gathered in the heart of Seattle to celebrate the only truth we all share: that we are here for a moment, and that moment is magnificent.\n\nThe Seattle Catrinas Festival returns for its 5th Anniversary on October 31 and November 1, 2026.\n\nIn this fifth year, we invite you to leave fear behind and join the feast of existence.\n\nCome and walk among the altars. Bring photos of your deceased, mementos and your desire to enjoy and laugh.\n\nLet’s celebrate that we are here today, that we feel today, and that when the time comes to leave, we will do so with our souls full of color.",
-   "url": "https://www.parentmap.com/calendar/catrinas-day-dead-festival/2026-10-31/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775189268764-screenshot-2023-10-01-153417-691fab99ed01.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Town Hall Seattle, 1119 8th Ave, Seattle, WA, 98101-2738",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-31",
-    "end": "2026-11-02",
-    "notes": "Hours: 1–9 PM\n\nSeattle Catrinas Festival.\n\nhttps://www.parentmap.com/calendar/catrinas-day-dead-festival/2026-10-31/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "9290cea642",
-   "series": "21c3d0e236",
-   "title": "Waterfront Park Firepit Socials",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "startMinute": 900,
-   "endMinute": 1080,
-   "dates": "Oct 31–Nov 1",
-   "time": "3–6 PM",
-   "place": "Pier 62, Seattle",
-   "placeLines": "Pier 62, Seattle\n1951 Alaskan Way, Seattle, WA, 98101",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!",
-   "description": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends! Firepit Socials are an informal gathering of locals and visitors around our large wood-burning firepit where you can stop by and grab a hot beverage from a local vendor, play pier games, and enjoy the water and nature of Waterfront Park.\n\nAs Pacific Northwesterners, we understand that outdoor activities might need to be cancelled due to inclement weather. Please check the schedule above or follow us on our socials for updates concerning postponements.",
-   "url": "https://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-10-31/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773117765073-firepit-socials-at-pier-62-b8783a64cc9d-768x555.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Pier 62, 1951 Alaskan Way, Seattle, WA, 98101",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-31",
-    "end": "2026-11-02",
-    "notes": "Hours: 3–6 PM\n\nCome to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-10-31/"
-   },
-   "firstSeen": "2026-10-20T15:41:43Z"
-  },
   {
    "id": "0f29c7222a",
    "series": "c9e6e38150",
@@ -498,294 +193,6 @@
     "start": "2026-11-01",
     "end": "2026-11-09",
     "notes": "Hours: 10 AM–6 PM\n\nBring your Halloween pumpkin to the farm and smash it for our Highland cows!\n\nhttps://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-01/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "25c1257e9f",
-   "series": "28131620c6",
-   "title": "TAM Día de los Muertos Festival",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Sun, Nov 1",
-   "time": "10 AM–5 PM",
-   "place": "Tacoma Art Museum",
-   "placeLines": "Tacoma Art Museum\n1701 Pacific Ave, Tacoma, WA, 98402-3214",
-   "region": "FARTHER",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us at Tacoma Art Museum for our annual Día de los Muertos Festival, presented in partnership with Mi Centro.",
-   "description": "Join us at Tacoma Art Museum for our annual Día de los Muertos Festival, presented in partnership with Mi Centro.\n\nSunday, November 1, 2026 · 10 AM–5 PM\nFree · Pay what you can · All ages\n\nWhat to expect:\nCommunity ofrendas (altars) created by local artists and community members\nA traditional tapete (sand painting)\nLive music and dance performances\nHands-on art-making for all ages\nFood and local artisan vendors\n\nCelebrate life, memory, and culture at our free, family-friendly Día de los Muertos event! Join us for a day of vibrant traditions, creative activities, and opportunities to come together as a community. This is a joyful and welcoming celebration for all ages.\n\nReserve your time slot.",
-   "url": "https://www.parentmap.com/calendar/tam-dia-de-los-muertos-festival/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775189085245-img_9708_5000px-3312fe1847e9.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Tacoma Art Museum, 1701 Pacific Ave, Tacoma, WA, 98402-3214",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-01T18:00:00Z",
-    "end": "2026-11-02T01:00:00Z",
-    "notes": "Join us at Tacoma Art Museum for our annual Día de los Muertos Festival, presented in partnership with Mi Centro.\n\nhttps://www.parentmap.com/calendar/tam-dia-de-los-muertos-festival/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "e13130fdb8",
-   "series": "3d0efc5964",
-   "title": "Bunka no Hi — Japanese Culture Day Festival",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "startMinute": 660,
-   "endMinute": 1020,
-   "dates": "Sun, Nov 1",
-   "time": "11 AM–5 PM",
-   "place": "Japanese Cultural & Community Center of WA, Seattle",
-   "placeLines": "Japanese Cultural & Community Center of WA, Seattle\n1414 South Weller Street, Seattle, WA, 98144",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "url": "https://nwasianweekly.com/community-calendar/bunka-no-hi-japanese-culture-day-festival/",
-   "sources": [
-    "Northwest Asian Weekly"
-   ],
-   "map": "Japanese Cultural & Community Center of WA, 1414 South Weller Street, Seattle, WA, 98144",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-01T19:00:00Z",
-    "end": "2026-11-02T01:00:00Z",
-    "notes": "https://nwasianweekly.com/community-calendar/bunka-no-hi-japanese-culture-day-festival/"
-   },
-   "firstSeen": "2026-10-22T15:56:13Z"
-  },
-  {
-   "id": "cf61966023",
-   "series": "b456f8da3e",
-   "title": "Day of the Dead at the Junction",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "startMinute": 660,
-   "endMinute": 840,
-   "dates": "Sun, Nov 1",
-   "time": "11 AM–2 PM",
-   "place": "Fauntleroy neighborhood, Seattle",
-   "placeLines": "Fauntleroy neighborhood, Seattle\nexact address disclosed upon registration, Seattle, WA, 98136",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us for a vibrant Día de los Muertos celebration as we transform Fauntleroy Way SW into a colorful block filled with papel picado, marigolds, and community…",
-   "description": "Join us for a vibrant Día de los Muertos celebration as we transform Fauntleroy Way SW into a colorful block filled with papel picado, marigolds, and community spirit. Come honor loved ones, enjoy live music, and explore festive activities from your favorite local merchants.\n\nWhat’s happening:\nLive Mariachi band\nCalaveras face painting (skeleton art)\nCommunity Ofrenda – bring a photo of a loved one to add to the altar, honoring their life and spirit\nCome walk the block, sip, shop, move, and celebrate life and remembrance together in true West Seattle style.",
-   "url": "https://www.parentmap.com/calendar/day-of-the-dead-at-the-junction/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/q3sfgW6-300x178-1.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Fauntleroy neighborhood, exact address disclosed upon registration, Seattle, WA, 98136",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-01T19:00:00Z",
-    "end": "2026-11-01T22:00:00Z",
-    "notes": "Join us for a vibrant Día de los Muertos celebration as we transform Fauntleroy Way SW into a colorful block filled with papel picado, marigolds, and community…\n\nhttps://www.parentmap.com/calendar/day-of-the-dead-at-the-junction/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-23T15:47:36Z"
-  },
-  {
-   "id": "846b980695",
-   "series": "bd59f130bb",
-   "title": "Kenmore Dia de los Muertos Celebration",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "startMinute": 660,
-   "endMinute": 840,
-   "dates": "Sun, Nov 1",
-   "time": "11 AM–2 PM",
-   "place": "Kenmore Hangar",
-   "placeLines": "Kenmore Hangar\n6728 NE 181st St, Kenmore, WA, 98028",
-   "region": "EASTSIDE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "You’re invited to the third annual Kenmore Dia de los Muertos Celebration on Sunday, November 1, 2026 from 11am – 2pm at the Hangar in Kenmore Town Square.",
-   "description": "You’re invited to the third annual Kenmore Dia de los Muertos Celebration on Sunday, November 1, 2026 from 11am – 2pm at the Hangar in Kenmore Town Square. This community event includes an interactive ofrenda, performances, activities, crafts, educational materials, giveaways, and more! This event is free and open to all. We hope to see you there to celebrate this important and significant event.",
-   "url": "https://www.parentmap.com/calendar/kenmore-dia-de-los-muertos-celebration/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/638944005525370000.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Kenmore Hangar, 6728 NE 181st St, Kenmore, WA, 98028",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-01T19:00:00Z",
-    "end": "2026-11-01T22:00:00Z",
-    "notes": "You’re invited to the third annual Kenmore Dia de los Muertos Celebration on Sunday, November 1, 2026 from 11am – 2pm at the Hangar in Kenmore Town Square.\n\nhttps://www.parentmap.com/calendar/kenmore-dia-de-los-muertos-celebration/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "7af885b6b9",
-   "series": "0a00765829",
-   "title": "Salmon Steward Interpretation Days",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "startMinute": 660,
-   "endMinute": 900,
-   "dates": "Sun, Nov 1",
-   "time": "11 AM–3 PM",
-   "place": "Carkeek Park Chum Salmon Viewing Area",
-   "placeLines": "Carkeek Park Chum Salmon Viewing Area",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…",
-   "description": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge\nEvent Types: Community,Education,Nature/Environment\nAudience: All\nContact: Max\nContact Email: SalmonStewards@seattle.gov\nSite Contact Details: Public email for salmon steward and celebration related questions.\nCost: Free\nLink: https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/\n\nJoin us in Carkeek on Saturdays, Sundays, and Wednesdays (2-4PM) to view the salmon run at Carkeek's Pipers Creek and find trained stewardship volunteers in blue vests ready to chat with you about all things salmon. They have details on how to get involved with environmental projects in Seattle and ways to reduce water pollution and improve salmon habitat. Come with questions! There is so much to learn and explore as the salmon make their way upstream.",
-   "url": "https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "Carkeek Park Chum Salmon Viewing Area, WA",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-01T19:00:00Z",
-    "end": "2026-11-01T23:00:00Z",
-    "notes": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/"
-   },
-   "firstSeen": "2026-10-30T17:04:03Z",
-   "revision": 1,
-   "changed": "2026-11-01T17:11:54Z"
-  },
-  {
-   "id": "99a5bfd284",
-   "series": "260b72f83d",
-   "title": "Tacoma Buddhist Temple – Fall Bazaar",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "startMinute": 660,
-   "endMinute": 840,
-   "dates": "Sun, Nov 1",
-   "time": "11 AM–2 PM",
-   "place": "Tacoma Buddhist Temple",
-   "placeLines": "Tacoma Buddhist Temple\n1717 S. Fawcett Avenue, Tacoma, Washington, 98402",
-   "region": "FARTHER",
-   "category": "NIGHT_MARKET",
-   "summary": "@ Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
-   "url": "https://seattlebetsuin.org/event/tacoma-buddhist-temple-fall-bazaar/",
-   "sources": [
-    "Seattle Betsuin Buddhist Temple"
-   ],
-   "map": "Tacoma Buddhist Temple, 1717 S. Fawcett Avenue, Tacoma, Washington, 98402",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-01T19:00:00Z",
-    "end": "2026-11-01T22:00:00Z",
-    "notes": "@ Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live\n\nhttps://seattlebetsuin.org/event/tacoma-buddhist-temple-fall-bazaar/"
-   },
-   "firstSeen": "2026-10-23T15:47:36Z"
-  },
-  {
-   "id": "163766aca9",
-   "series": "cb1e16390e",
-   "title": "Día de los Muertos Celebtration Raíces que Nos Unen | Roots That Unite Us",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "startMinute": 720,
-   "endMinute": 1050,
-   "dates": "Sun, Nov 1",
-   "time": "12–5:30 PM",
-   "place": "El Centro de la Raza, Seattle",
-   "placeLines": "El Centro de la Raza, Seattle\n2524 16th Ave S, Seattle, WA, 98144",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "@ El Día de los Muertos (The Day of the Dead) is a time to remember and honor those who have passed.",
-   "description": "@\n\nEl Día de los Muertos (The Day of the Dead) is a time to remember and honor those who have passed. At El Centro de la Raza, we honor social justice heroes, victims of racially motivated violence, those whose lives were lost too soon, and community members whose lives made a lasting impact. As El Centro de la Raza celebrates 54 years of building the Beloved Community, our exhibit honors more than five decades of work for human rights, social services, and political and environmental justice. Our unique Día de los Muertos exhibit connects remembrance with current and historic social justice issues in our community, nation, and world, honoring those who came before us while inspiring the work still ahead.\n\nDía de los Muertos Opening Celebration\nSunday, November 1, 2026 | 12:00–5:30 P.M.\n\nJoin El Centro de la Raza as we celebrate the 21st Annual Día de los Muertos. This year’s theme, Raíces que Nos Unen (Roots That Unite Us), honors those who came before us and celebrates the invisible roots that connect us through memory, culture, family, and community.\n\nExperience beautiful, community-created ofrendas, art, music, and traditions as we remember our loved ones and honor those whose lives continue to inspire us to build a more just, compassionate, and connected community.\n\nTogether, we honor the past, celebrate the present, and strengthen the future.\n\nAdd to calendar\n\n• Google Calendar\n• iCalendar\n• Outlook 365\n• Outlook Live\n\nDetails\n\n• Date:\n• Time:",
-   "url": "https://www.elcentrodelaraza.org/event/dia-de-los-muertos-celebtration-raices-que-nos-unen-roots-that-unite-us/",
-   "image": "https://www.elcentrodelaraza.org/wp-content/uploads/2026/10/Copy-of-portrait-ddm-2025-2.jpg",
-   "imageCredit": "El Centro de la Raza",
-   "sources": [
-    "El Centro de la Raza"
-   ],
-   "map": "El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-01T20:00:00Z",
-    "end": "2026-11-02T01:30:00Z",
-    "notes": "@ El Día de los Muertos (The Day of the Dead) is a time to remember and honor those who have passed.\n\nhttps://www.elcentrodelaraza.org/event/dia-de-los-muertos-celebtration-raices-que-nos-unen-roots-that-unite-us/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "cf885eaa63",
-   "series": "bbe91de431",
-   "title": "Issaquah Day of the Dead Celebration",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "startMinute": 780,
-   "endMinute": 1020,
-   "dates": "Sun, Nov 1",
-   "time": "1–5 PM",
-   "place": "Issaquah Community Center",
-   "placeLines": "Issaquah Community Center\n301 Rainier Blvd S, Issaquah, WA, 98027-3923",
-   "region": "EASTSIDE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "We are excited to invite you to our spectacular Dia de Los Muertos, Day of the Dead celebration!",
-   "description": "We are excited to invite you to our spectacular Dia de Los Muertos, Day of the Dead celebration!\n\nJoin us for a unique experience filled with tradition, culture, and fun. This year, we will be highlighting the rich culture of the state of Oaxaca in Mexico.\n\nThe event will feature a variety of exciting activities, including the opportunity to decorate a mask made in Mexico, participate in three different art workshops led by local artists, and enjoy face painting. Delicious food will be available, and you can experience traditional dancers and Mariachi music throughout the afternoon.\n\nDon’t miss this opportunity to honor and share memories of our loved ones in an afternoon full of life and color. We look forward to celebrating with you!\n\nPlease note that a ticket is required for each attendee. All tickets are free, and everyone is welcome. While there is a limit of 5 tickets per order, there is no limit on the number of orders per family.",
-   "url": "https://www.parentmap.com/calendar/issaquah-day-of-the-dead-celebration/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-093050.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Issaquah Community Center, 301 Rainier Blvd S, Issaquah, WA, 98027-3923",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-01T21:00:00Z",
-    "end": "2026-11-02T01:00:00Z",
-    "notes": "We are excited to invite you to our spectacular Dia de Los Muertos, Day of the Dead celebration!\n\nhttps://www.parentmap.com/calendar/issaquah-day-of-the-dead-celebration/"
-   },
-   "firstSeen": "2026-10-21T16:00:15Z"
-  },
-  {
-   "id": "262ed2ff22",
-   "series": "fa1c63b92d",
-   "title": "Spooky Walk at Snoqualmie Valley Art Center",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "startMinute": 1020,
-   "endMinute": 1170,
-   "dates": "Sun, Nov 1",
-   "time": "5–7:30 PM",
-   "place": "Snoqualmie Valley Art Center, Duvall",
-   "placeLines": "Snoqualmie Valley Art Center, Duvall\n14301 Railroad Way NE, Duvall, 98019",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Do you ever feel a little bit sad that jack-o-lanterns enjoy such fleeting glory?",
-   "description": "Do you ever feel a little bit sad that jack-o-lanterns enjoy such fleeting glory? All of these gourds, grown with care and carved into beautiful folk art, rotting on porches across the land. Hey, guess what? We invite you to bring them out for one final showing. The March of the Vegetables invites you to bring your pumpkin to the Duvall Foundation for the Arts property for one last spooky walk, after which they will be taken to Hearth Farm for composting.\n\nNovember 1. Drop off, anytime after 1:00 PM. Spooky walk from 5-7:30. Free Cider!",
-   "url": "https://www.parentmap.com/calendar/spooky-walk-at-snoqualmie-valley-art-center/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/gadgemayur-pumpkin-6720424_640.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Snoqualmie Valley Art Center, 14301 Railroad Way NE, Duvall, 98019",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-02T01:00:00Z",
-    "end": "2026-11-02T03:30:00Z",
-    "notes": "Do you ever feel a little bit sad that jack-o-lanterns enjoy such fleeting glory?\n\nhttps://www.parentmap.com/calendar/spooky-walk-at-snoqualmie-valley-art-center/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
   },
@@ -1101,6 +508,41 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "f5ca427112",
+   "series": "2817842343",
+   "title": "Burien Día de los Muertos",
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Fri, Nov 6",
+   "time": "6–9 PM",
+   "place": "Burien Community Center",
+   "placeLines": "Burien Community Center\n14700 6th Ave SW, Burien, WA, 98166",
+   "region": "SOUTH",
+   "category": "CULTURAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Mark Your Calendar for Burien’s Día de los Muertos celebration on Friday, November 6th!",
+   "description": "Mark Your Calendar for Burien’s Día de los Muertos celebration on Friday, November 6th!\n\nThis FREE event is open to the entire community and celebrates the tradition of honoring and remembering our ancestors and families.\n\nAltars & Offerings\nArts & Crafts\nTraditional Music\nDance & Food\nStories & More!",
+   "url": "https://www.parentmap.com/calendar/dia-de-los-muertos-day-dead-celebration-0/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2018/10/Burien-DDLM-2-768x647.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Burien Community Center, 14700 6th Ave SW, Burien, WA, 98166",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T02:00:00Z",
+    "end": "2026-11-07T05:00:00Z",
+    "notes": "Mark Your Calendar for Burien’s Día de los Muertos celebration on Friday, November 6th!\n\nhttps://www.parentmap.com/calendar/dia-de-los-muertos-day-dead-celebration-0/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 1,
+   "changed": "2026-11-02T20:49:48Z"
+  },
+  {
    "id": "4448cb61d8",
    "series": "a530ef6be9",
    "title": "Powering Inclusion: A Night Out with PROVAIL",
@@ -1130,39 +572,6 @@
     "start": "2026-11-07T02:00:00Z",
     "end": "2026-11-07T06:00:00Z",
     "notes": "Powering Inclusion will be an opportunity to mingle with community members, advocates, and leaders to celebrate a shared commitment to what’s possible for…\n\nhttps://www.parentmap.com/calendar/powering-inclusion-a-night-out-with-provail/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "f5ca427112",
-   "series": "2817842343",
-   "title": "Burien Día de los Muertos",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 1110,
-   "endMinute": 1260,
-   "dates": "Fri, Nov 6",
-   "time": "6:30–9 PM",
-   "place": "Burien Community Center",
-   "placeLines": "Burien Community Center\n14700 6th Ave SW, Burien, WA, 98166",
-   "region": "SOUTH",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Mark Your Calendar for Burien’s Día de los Muertos celebration on Friday, November 6th!",
-   "description": "Mark Your Calendar for Burien’s Día de los Muertos celebration on Friday, November 6th!\n\nThough customs vary by country, Día de los Muertos, or Day of the Dead, is a celebration that blends mourning with joy and highlights the enduring connection between families and their ancestors. Burien’s annual Día de los Muertos celebration will bring families and neighbors together at the Burien Community Center with altars and offerings, arts and crafts, face painting, traditional music and dance performances, loteria, as well as a craft market. Both English and Spanish programming will be offered.",
-   "url": "https://www.parentmap.com/calendar/dia-de-los-muertos-day-dead-celebration-0/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2018/10/Burien-DDLM-2-768x647.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Burien Community Center, 14700 6th Ave SW, Burien, WA, 98166",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T02:30:00Z",
-    "end": "2026-11-07T05:00:00Z",
-    "notes": "Mark Your Calendar for Burien’s Día de los Muertos celebration on Friday, November 6th!\n\nhttps://www.parentmap.com/calendar/dia-de-los-muertos-day-dead-celebration-0/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
   },
@@ -1817,6 +1226,39 @@
     "notes": "Calling you back to the snow mindset!\n\nhttps://www.parentmap.com/calendar/winter-stoke-party/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "7291fa9513",
+   "series": "ba4b5fd6f2",
+   "title": "Seattle Little Rangers 2nd Annual Indoor Family Sports Carnival",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Sun, Nov 8",
+   "time": "9 AM–4 PM",
+   "place": "Chinook Middle School, Bellevue",
+   "placeLines": "Chinook Middle School, Bellevue\n2001 98th Ave NE, Bellevue, WA, 98004-2630",
+   "region": "EASTSIDE",
+   "category": "COMMUNITY",
+   "cost": "$15",
+   "free": false,
+   "summary": "Join Seattle Little Rangers for Our 2nd Annual Indoor Family Sports Carnival!",
+   "description": "Join Seattle Little Rangers for Our 2nd Annual Indoor Family Sports Carnival!\n\nAdults & Kids under 3 are free）\n\nLooking for a fun-filled family adventure in Bellevue? Bring your little ones to an exciting indoor sports carnival designed for children ages 3–8!\n\nEnjoy a day packed with interactive games, exciting challenges, creative activities, and family-friendly entertainment!\n\nEvent Highlights:\n\n* Fun sports challenges and interactive games\n* Mini golf, basketball, archery, and boxing games\n* Teamwork activities and exciting obstacle challenges\n* Face painting by RainbowLand Art\n* Dance experiences with BAM Dance\n* Delicious food, drinks, and treats available for purchase\n* Giveaways, prizes, and surprises from community partners\n\nDate: Sunday, November 8, 2026\nTime: 10:00 AM – 4:00 PM\nLocation: Chinook Middle School, Bellevue, WA\nAges: 3–8 years old\n\nParents and children under age 3 enter FREE!\n\nHosted by Seattle Little Rangers, a 501(c)(3) nonprofit organization dedicated to connecting families through nature, play, and community experiences.\n\nCome play, explore, make new friends, and create unforgettable family memories!\n\nAdvance registration is encouraged.",
+   "url": "https://www.parentmap.com/calendar/seattle-little-rangers-2nd-annual-indoor-family-sports-carnival/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/IMG_6926-e1793650662278.jpeg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Chinook Middle School, 2001 98th Ave NE, Bellevue, WA, 98004-2630",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-08T17:00:00Z",
+    "end": "2026-11-09T00:00:00Z",
+    "notes": "Join Seattle Little Rangers for Our 2nd Annual Indoor Family Sports Carnival!\n\nhttps://www.parentmap.com/calendar/seattle-little-rangers-2nd-annual-indoor-family-sports-carnival/"
+   },
+   "firstSeen": "2026-11-02T20:49:48Z"
   },
   {
    "id": "cde528f998",
@@ -3415,10 +2857,10 @@
    "series": "2e9ac2827a",
    "title": "Winterfest Train & Village Display",
    "start": "2026-11-27",
-   "end": "2026-12-27",
+   "end": "2026-12-29",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Nov 27–Dec 27",
+   "dates": "Nov 27–Dec 29",
    "time": "10 AM–6 PM",
    "place": "Seattle Center Armory",
    "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
@@ -3438,12 +2880,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-28",
+    "end": "2026-12-30",
     "notes": "Hours: 10 AM–6 PM\n\nDelight in viewing a late 19th-century model train and village display, installed inside the Seattle Center Armory Food & Event Hall.\n\nhttps://www.parentmap.com/calendar/28004/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 7,
-   "changed": "2026-11-01T17:11:54Z"
+   "revision": 8,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "956b5a5437",
@@ -3651,10 +3093,10 @@
    "series": "bc5d1a9f6c",
    "title": "Winterfest Campus Lighting",
    "start": "2026-11-27",
-   "end": "2026-12-26",
+   "end": "2026-12-28",
    "startMinute": 1020,
    "endMinute": 1260,
-   "dates": "Nov 27–Dec 26",
+   "dates": "Nov 27–Dec 28",
    "time": "5–9 PM",
    "place": "Seattle Center Campus",
    "placeLines": "Seattle Center Campus\n305 Harrison Street, Seattle, WA, 98109",
@@ -3674,12 +3116,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-27",
+    "end": "2026-12-29",
     "notes": "Hours: 5–9 PM\n\nWe are keeping the annual tradition of decking out our campus alive with twinkling lights in the trees and other specialty light features across the grounds.\n\nhttps://www.parentmap.com/calendar/winterfest-campus-lighting/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 9,
-   "changed": "2026-11-01T17:11:54Z"
+   "revision": 10,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "0c21fe0bd9",
@@ -4277,10 +3719,10 @@
    "series": "977a14e8db",
    "title": "Holiday on the Docks",
    "start": "2026-12-01",
-   "end": "2026-12-26",
+   "end": "2026-12-28",
    "startMinute": 1080,
    "endMinute": 1290,
-   "dates": "Dec 1–26",
+   "dates": "Dec 1–28",
    "time": "6–9:30 PM",
    "place": "Port of Edmonds Marina",
    "placeLines": "Port of Edmonds Marina\n358 Admiral Way, Edmonds, WA, 98020",
@@ -4300,12 +3742,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-01",
-    "end": "2026-12-27",
+    "end": "2026-12-29",
     "notes": "Hours: 6–9:30 PM\n\nVisit boats decked out in holiday decorations and twinkling lights, on display in the Port of Edmonds Marina for all to enjoy nightly, December 1st- January…\n\nhttps://www.parentmap.com/calendar/holiday-docks/2026-12-01/"
    },
    "firstSeen": "2026-10-29T17:28:36Z",
-   "revision": 3,
-   "changed": "2026-11-01T17:11:54Z"
+   "revision": 4,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "3d5a2ad250",
@@ -5657,10 +5099,10 @@
    "series": "8242fea67a",
    "title": "Renton’s Clam Lights",
    "start": "2026-12-05",
-   "end": "2026-12-26",
+   "end": "2026-12-28",
    "startMinute": 960,
    "endMinute": 1260,
-   "dates": "Dec 5–26",
+   "dates": "Dec 5–28",
    "time": "4–9 PM",
    "place": "Gene Coulon Memorial Park, Renton",
    "placeLines": "Gene Coulon Memorial Park, Renton\n1201 Lake Washington Blvd N, Renton, WA, 98056-2567",
@@ -5680,12 +5122,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-05",
-    "end": "2026-12-27",
+    "end": "2026-12-29",
     "notes": "Hours: 4–9 PM\n\nCelebrate the start of the holiday season with lights, music, Santa, and a tree lighting at Gene Coulon Beach Park!\n\nhttps://www.parentmap.com/calendar/34328/2026-12-05/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 9,
-   "changed": "2026-11-01T17:11:54Z"
+   "revision": 10,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "e109aecd37",
@@ -5785,10 +5227,10 @@
    "series": "64471cee9a",
    "title": "Redmond Lights",
    "start": "2026-12-05",
-   "end": "2026-12-26",
+   "end": "2026-12-28",
    "startMinute": 1020,
    "endMinute": 1380,
-   "dates": "Dec 5–26",
+   "dates": "Dec 5–28",
    "time": "5–11 PM",
    "place": "Redmond Downtown Park",
    "placeLines": "Redmond Downtown Park\n16101 Redmond Way, Redmond, WA, 98052",
@@ -5808,12 +5250,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-05",
-    "end": "2026-12-27",
+    "end": "2026-12-29",
     "notes": "Hours: 5–11 PM\n\nA free, month-long celebration of light and art in Downtown Park & Esterra Park.\n\nhttps://www.parentmap.com/calendar/redmond-lights/2026-12-05/"
    },
    "firstSeen": "2026-10-27T16:44:46Z",
-   "revision": 5,
-   "changed": "2026-11-01T17:11:54Z"
+   "revision": 6,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "fa083ef7c4",
@@ -8516,14 +7958,46 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "f45e4f245f",
+   "series": "ddf32f51fa",
+   "title": "Winterfest Armory Stage Entertainment",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "dates": "Dec 26–27",
+   "place": "Seattle Center Armory",
+   "placeLines": "Seattle Center Armory\n305 Harrison St, Seattle, WA, 98109-4623",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…",
+   "description": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal entertainment while they check out our Winterfest Train & Village or grab a bite to eat at an Armory food merchant. View this year’s line-up below.\n\nNov. 27\n\nnoon: Zaniac Comedy Show\n2 p.m.: Holiday Harmony Pop\n3:30 p.m.: DJ Fishure\n\nNov. 28\n\n12:30 p.m.: Twelve Tones of Christmas\n2:30 p.m.: School of Rock\n\nNov. 29\n\n12:30 p.m.: Xmas Maximus\n2 p.m.: Louis Cano\n3:30 p.m.: Bailadores de Bronce\n\nDec. 5\n\n12:30 p.m.: SANCA\n2:30 p.m.: Northwest Boy Choir\n4 p.m.: KlezKids\n\nDec. 6\n\n12:30 p.m.: Garfield Jazz Band\n\nDec. 12\n\n12:30 p.m.: Rain City Tap\n2:30 p.m.: Swedish Singers of Seattle\n6 p.m.: Classical Holiday Sing-along\n\nDec. 13\n\n12:30 p.m.: NW Junior Pipe Band\n3 p.m.: Zje Mongol\n\nDec. 19\n\n12:30 p.m.: Lexi Nguyen\n2:30 p.m.: Michael Cagle and JP Cates\n5 p.m.: Rainbow City Band & Orchestra\n\nDec. 20\n\n12 p.m.: NW Tap Connection\n2 p.m.: WA Trumpet Guild\n5 p.m.: Greater Seattle Tubachristmas\n\nDec. 26\n\n12:30 p.m.: The Dickens Carolers\n3 p.m.: Seattle Civic Band\n\nDec. 27\n\n12:30 p.m.: Zaniac Comedy Show\n3 p.m.: Tlalokan",
+   "url": "https://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-100137.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Seattle Center Armory, 305 Harrison St, Seattle, WA, 98109-4623",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-26",
+    "end": "2026-12-28",
+    "notes": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…\n\nhttps://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/"
+   },
+   "firstSeen": "2026-11-01T17:11:54Z",
+   "revision": 1,
+   "changed": "2026-11-02T20:49:48Z"
+  },
+  {
    "id": "98596a2d16",
    "series": "fa61e33b79",
    "title": "Annual Model Train Festival",
    "start": "2026-12-26",
-   "end": "2026-12-26",
+   "end": "2026-12-29",
    "startMinute": 600,
    "endMinute": 1020,
-   "dates": "Sat, Dec 26",
+   "dates": "Dec 26–29",
    "time": "10 AM–5 PM",
    "place": "Washington State History Museum, Tacoma",
    "placeLines": "Washington State History Museum, Tacoma\n1911 Pacific Ave, Tacoma, WA, 98402-3109",
@@ -8541,22 +8015,24 @@
    ],
    "map": "Washington State History Museum, 1911 Pacific Ave, Tacoma, WA, 98402-3109",
    "calendar": {
-    "allDay": false,
-    "start": "2026-12-26T18:00:00Z",
-    "end": "2026-12-27T01:00:00Z",
-    "notes": "Celebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!\n\nhttps://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-26/"
+    "allDay": true,
+    "start": "2026-12-26",
+    "end": "2026-12-30",
+    "notes": "Hours: 10 AM–5 PM\n\nCelebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!\n\nhttps://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-26/"
    },
-   "firstSeen": "2026-10-31T16:12:25Z"
+   "firstSeen": "2026-10-31T16:12:25Z",
+   "revision": 1,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "2b7841e43a",
    "series": "81a5ec9f49",
    "title": "Issaquah Reindeer Festival",
    "start": "2026-12-26",
-   "end": "2026-12-26",
+   "end": "2026-12-29",
    "startMinute": 630,
    "endMinute": 930,
-   "dates": "Sat, Dec 26",
+   "dates": "Dec 26–29",
    "time": "10:30 AM–3:30 PM",
    "place": "Cougar Mountain Zoo, Issaquah",
    "placeLines": "Cougar Mountain Zoo, Issaquah\n19525 SE 54th St, Issaquah, WA, 98027-8676",
@@ -8574,22 +8050,24 @@
    ],
    "map": "Cougar Mountain Zoo, 19525 SE 54th St, Issaquah, WA, 98027-8676",
    "calendar": {
-    "allDay": false,
-    "start": "2026-12-26T18:30:00Z",
-    "end": "2026-12-26T23:30:00Z",
-    "notes": "Enjoy the sights and sounds of the holidays with family and friends!\n\nhttps://www.parentmap.com/calendar/55371-s2/2026-12-26/"
+    "allDay": true,
+    "start": "2026-12-26",
+    "end": "2026-12-30",
+    "notes": "Hours: 10:30 AM–3:30 PM\n\nEnjoy the sights and sounds of the holidays with family and friends!\n\nhttps://www.parentmap.com/calendar/55371-s2/2026-12-26/"
    },
-   "firstSeen": "2026-11-01T17:11:54Z"
+   "firstSeen": "2026-11-01T17:11:54Z",
+   "revision": 1,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "1314d4fda3",
    "series": "a6317db569",
    "title": "Festival of Trees at White River Valley Museum",
    "start": "2026-12-26",
-   "end": "2026-12-26",
+   "end": "2026-12-27",
    "startMinute": 720,
    "endMinute": 960,
-   "dates": "Sat, Dec 26",
+   "dates": "Dec 26–27",
    "time": "12–4 PM",
    "place": "White River Valley Museum, Auburn",
    "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
@@ -8607,45 +8085,14 @@
    ],
    "map": "White River Valley Museum, 918 H St SE, Auburn, WA, 98002-6112",
    "calendar": {
-    "allDay": false,
-    "start": "2026-12-26T20:00:00Z",
-    "end": "2026-12-27T00:00:00Z",
-    "notes": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-26/"
+    "allDay": true,
+    "start": "2026-12-26",
+    "end": "2026-12-28",
+    "notes": "Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-26/"
    },
-   "firstSeen": "2026-11-01T17:11:54Z"
-  },
-  {
-   "id": "f45e4f245f",
-   "series": "ddf32f51fa",
-   "title": "Winterfest Armory Stage Entertainment",
-   "start": "2026-12-26",
-   "end": "2026-12-26",
-   "startMinute": 720,
-   "endMinute": 960,
-   "dates": "Sat, Dec 26",
-   "time": "12–4 PM",
-   "place": "Seattle Center Armory",
-   "placeLines": "Seattle Center Armory\n305 Harrison St, Seattle, WA, 98109-4623",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…",
-   "description": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal entertainment while they check out our Winterfest Train & Village or grab a bite to eat at an Armory food merchant. View this year’s line-up below.\n\nNov. 27\n\nnoon: Zaniac Comedy Show\n2 p.m.: Holiday Harmony Pop\n3:30 p.m.: DJ Fishure\n\nNov. 28\n\n12:30 p.m.: Twelve Tones of Christmas\n2:30 p.m.: School of Rock\n\nNov. 29\n\n12:30 p.m.: Xmas Maximus\n2 p.m.: Louis Cano\n3:30 p.m.: Bailadores de Bronce\n\nDec. 5\n\n12:30 p.m.: SANCA\n2:30 p.m.: Northwest Boy Choir\n4 p.m.: KlezKids\n\nDec. 6\n\n12:30 p.m.: Garfield Jazz Band\n\nDec. 12\n\n12:30 p.m.: Rain City Tap\n2:30 p.m.: Swedish Singers of Seattle\n6 p.m.: Classical Holiday Sing-along\n\nDec. 13\n\n12:30 p.m.: NW Junior Pipe Band\n3 p.m.: Zje Mongol\n\nDec. 19\n\n12:30 p.m.: Lexi Nguyen\n2:30 p.m.: Michael Cagle and JP Cates\n5 p.m.: Rainbow City Band & Orchestra\n\nDec. 20\n\n12 p.m.: NW Tap Connection\n2 p.m.: WA Trumpet Guild\n5 p.m.: Greater Seattle Tubachristmas\n\nDec. 26\n\n12:30 p.m.: The Dickens Carolers\n3 p.m.: Seattle Civic Band\n\nDec. 27\n\n12:30 p.m.: Zaniac Comedy Show\n3 p.m.: Tlalokan",
-   "url": "https://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-100137.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Center Armory, 305 Harrison St, Seattle, WA, 98109-4623",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-26T20:00:00Z",
-    "end": "2026-12-27T00:00:00Z",
-    "notes": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…\n\nhttps://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-26/"
-   },
-   "firstSeen": "2026-11-01T17:11:54Z"
+   "firstSeen": "2026-11-01T17:11:54Z",
+   "revision": 1,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "ac00cc2a2b",
@@ -8685,10 +8132,10 @@
    "series": "21c3d0e236",
    "title": "Waterfront Park Firepit Socials",
    "start": "2026-12-26",
-   "end": "2026-12-26",
+   "end": "2026-12-27",
    "startMinute": 900,
    "endMinute": 1080,
-   "dates": "Sat, Dec 26",
+   "dates": "Dec 26–27",
    "time": "3–6 PM",
    "place": "Pier 62, Seattle",
    "placeLines": "Pier 62, Seattle\n1951 Alaskan Way, Seattle, WA, 98101",
@@ -8706,22 +8153,24 @@
    ],
    "map": "Pier 62, 1951 Alaskan Way, Seattle, WA, 98101",
    "calendar": {
-    "allDay": false,
-    "start": "2026-12-26T23:00:00Z",
-    "end": "2026-12-27T02:00:00Z",
-    "notes": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-12-26/"
+    "allDay": true,
+    "start": "2026-12-26",
+    "end": "2026-12-28",
+    "notes": "Hours: 3–6 PM\n\nCome to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-12-26/"
    },
-   "firstSeen": "2026-11-01T17:11:54Z"
+   "firstSeen": "2026-11-01T17:11:54Z",
+   "revision": 1,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "db9a8ba614",
    "series": "6bfa5e59c9",
    "title": "Zoolights",
    "start": "2026-12-26",
-   "end": "2026-12-26",
+   "end": "2026-12-28",
    "startMinute": 990,
    "endMinute": 1320,
-   "dates": "Sat, Dec 26",
+   "dates": "Dec 26–28",
    "time": "4:30–10 PM",
    "place": "Point Defiance Zoo & Aquarium, Tacoma",
    "placeLines": "Point Defiance Zoo & Aquarium, Tacoma\n5400 N Pearl St, Tacoma, WA, 98407-3224",
@@ -8739,22 +8188,24 @@
    ],
    "map": "Point Defiance Zoo & Aquarium, 5400 N Pearl St, Tacoma, WA, 98407-3224",
    "calendar": {
-    "allDay": false,
-    "start": "2026-12-27T00:30:00Z",
-    "end": "2026-12-27T06:00:00Z",
-    "notes": "Stroll through a magical world with over 1.5 million sparkling lights.\n\nhttps://www.parentmap.com/calendar/56485-2/2026-12-26/"
+    "allDay": true,
+    "start": "2026-12-26",
+    "end": "2026-12-29",
+    "notes": "Hours: 4:30–10 PM\n\nStroll through a magical world with over 1.5 million sparkling lights.\n\nhttps://www.parentmap.com/calendar/56485-2/2026-12-26/"
    },
-   "firstSeen": "2026-11-01T17:11:54Z"
+   "firstSeen": "2026-11-01T17:11:54Z",
+   "revision": 1,
+   "changed": "2026-11-02T20:49:48Z"
   },
   {
    "id": "d97c948eb9",
    "series": "10036c047d",
    "title": "The Lights of Christmas",
    "start": "2026-12-26",
-   "end": "2026-12-26",
+   "end": "2026-12-27",
    "startMinute": 1020,
    "endMinute": 1320,
-   "dates": "Sat, Dec 26",
+   "dates": "Dec 26–27",
    "time": "5–10 PM",
    "place": "Warm Beach Camp, Stanwood",
    "placeLines": "Warm Beach Camp, Stanwood\n20800 Marine Dr, Stanwood, WA, 98292-7822",
@@ -8772,12 +8223,77 @@
    ],
    "map": "Warm Beach Camp, 20800 Marine Dr, Stanwood, WA, 98292-7822",
    "calendar": {
-    "allDay": false,
-    "start": "2026-12-27T01:00:00Z",
-    "end": "2026-12-27T06:00:00Z",
-    "notes": "Big changes are coming to The Lights of Christmas in 2026!\n\nhttps://www.parentmap.com/calendar/lights-christmas-drive-through-experience/2026-12-26/"
+    "allDay": true,
+    "start": "2026-12-26",
+    "end": "2026-12-28",
+    "notes": "Hours: 5–10 PM\n\nBig changes are coming to The Lights of Christmas in 2026!\n\nhttps://www.parentmap.com/calendar/lights-christmas-drive-through-experience/2026-12-26/"
    },
-   "firstSeen": "2026-11-01T17:11:54Z"
+   "firstSeen": "2026-11-01T17:11:54Z",
+   "revision": 1,
+   "changed": "2026-11-02T20:49:48Z"
+  },
+  {
+   "id": "09c06c25b5",
+   "series": "5f77d20c66",
+   "title": "A Magical Cirque Christmas",
+   "start": "2026-12-27",
+   "end": "2026-12-29",
+   "dates": "Dec 27–29",
+   "place": "Washington Center for the Performing Arts, Olympia",
+   "placeLines": "Washington Center for the Performing Arts, Olympia\n512 Washington St SE, Olympia, WA, 98501-1330",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$58 – $125",
+   "free": false,
+   "summary": "For more than five spectacular holiday seasons, A Magical Cirque Christmas has captivated fans and welcomed families, making it part of their seasonal…",
+   "description": "For more than five spectacular holiday seasons, A Magical Cirque Christmas has captivated fans and welcomed families, making it part of their seasonal celebrations.Overflowing with festive charm and dazzling cirque artistry, A Magical Cirque Christmas showcases the extraordinary talents of world-class performers through gravity-defying acrobatics, awe-inspiring displays of strength and agility, laugh-out-loud comedy, and heartwarming magic. Set to a lively soundtrack of modern holiday hits, each act delivers a fresh and unforgettable Christmastime experience.\n\nBeloved by audiences of all ages, A Magical Cirque Christmas is a joyful way to celebrate the season together.",
+   "url": "https://www.parentmap.com/calendar/a-magical-cirque-christmas/2026-12-27/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/08/AMCC25_Horizontal-small.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Washington Center for the Performing Arts, 512 Washington St SE, Olympia, WA, 98501-1330",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-27",
+    "end": "2026-12-30",
+    "notes": "For more than five spectacular holiday seasons, A Magical Cirque Christmas has captivated fans and welcomed families, making it part of their seasonal…\n\nhttps://www.parentmap.com/calendar/a-magical-cirque-christmas/2026-12-27/"
+   },
+   "firstSeen": "2026-11-02T20:49:48Z"
+  },
+  {
+   "id": "4823e89428",
+   "series": "f7891bf5ca",
+   "title": "Seymour Holiday Workshops",
+   "start": "2026-12-27",
+   "end": "2026-12-27",
+   "startMinute": 600,
+   "endMinute": 780,
+   "dates": "Sun, Dec 27",
+   "time": "10 AM–1 PM",
+   "place": "W.W. Seymour Botanical Conservatory, Tacoma",
+   "placeLines": "W.W. Seymour Botanical Conservatory, Tacoma\n316 S G St, Tacoma, WA, 98405-4733",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$5",
+   "free": false,
+   "summary": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory Free!",
+   "description": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory\n\nFree! $5 suggested donation\n\nDrop into the conservatory and create a handmade nature-themed treasure for someone special or yourself.\n\nNo registration required to attend.",
+   "url": "https://www.parentmap.com/calendar/seymour-holiday-workshops/2026-12-27/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192404948-conservatory-kid-crafts_dsc5973-web-1024x681-465da3e06c1e.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "W.W. Seymour Botanical Conservatory, 316 S G St, Tacoma, WA, 98405-4733",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-27T18:00:00Z",
+    "end": "2026-12-27T21:00:00Z",
+    "notes": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory Free!\n\nhttps://www.parentmap.com/calendar/seymour-holiday-workshops/2026-12-27/"
+   },
+   "firstSeen": "2026-11-02T20:49:48Z"
   },
   {
    "id": "906ae06449",
