@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e9482d55b-seattle-happenings@nichkt.github.io
+DTSTAMP:20261103T182950Z
+SEQUENCE:0
+DTSTART:20261107T023000Z
+DTEND:20261107T043000Z
+SUMMARY:All Ages Hoedown
+LOCATION:Si View Community Center\, 400 SE Orchard Dr\, North Bend\, WA\, 9
+ 8045-9470
+DESCRIPTION:Saddle up for an evening of family fun at our Hoedown!\n\nhttps
+ ://www.parentmap.com/calendar/all-ages-hoedown/
+URL:https://www.parentmap.com/calendar/all-ages-hoedown/
+END:VEVENT
+END:VCALENDAR

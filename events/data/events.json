@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-02T20:49:48Z",
+ "generatedAt": "2026-11-03T18:29:50Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-02",
- "until": "2027-01-25",
+ "from": "2026-11-03",
+ "until": "2027-01-26",
  "regions": [
   {
    "id": "SEATTLE",
@@ -111,7 +111,7 @@
   },
   {
    "name": "City of Redmond",
-   "events": 3
+   "events": 2
   },
   {
    "name": "City of Seattle",
@@ -127,7 +127,7 @@
   },
   {
    "name": "Downtown Seattle Association",
-   "events": 6
+   "events": 2
   },
   {
    "name": "Duwamish Tribe",
@@ -143,7 +143,7 @@
   },
   {
    "name": "ParentMap",
-   "events": 194
+   "events": 199
   },
   {
    "name": "Phinney Center",
@@ -225,39 +225,6 @@
     "notes": "Enjoy Diwali decor and displays!\n\nhttps://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-02/"
    },
    "firstSeen": "2026-10-22T15:56:13Z"
-  },
-  {
-   "id": "5bc7afa13e",
-   "series": "2cd7ff64ef",
-   "title": "Day of the Dead | Dia de Los Muertos",
-   "start": "2026-11-02",
-   "end": "2026-11-02",
-   "startMinute": 1020,
-   "endMinute": 1140,
-   "dates": "Mon, Nov 2",
-   "time": "5–7 PM",
-   "place": "Redmond Senior & Community Center",
-   "placeLines": "Redmond Senior & Community Center",
-   "region": "EASTSIDE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "https://www.redmond.gov/calendar.aspx?EID=3561",
-   "url": "https://www.redmond.gov/calendar.aspx?EID=3561",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/6966ac7d-55d4-45fb-8d1b-ac1339d087b7_day_of_the_dead_ofrenda.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "City of Redmond",
-    "ParentMap"
-   ],
-   "map": "Redmond Senior & Community Center, Redmond Senior & Community Center - 8703 160th Ave NE Redmond WA 98052",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-03T01:00:00Z",
-    "end": "2026-11-03T03:00:00Z",
-    "notes": "https://www.redmond.gov/calendar.aspx?EID=3561\n\nhttps://www.redmond.gov/calendar.aspx?EID=3561"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
    "id": "fbd7aaaaea",
@@ -574,6 +541,39 @@
     "notes": "Powering Inclusion will be an opportunity to mingle with community members, advocates, and leaders to celebrate a shared commitment to what’s possible for…\n\nhttps://www.parentmap.com/calendar/powering-inclusion-a-night-out-with-provail/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "1e9482d55b",
+   "series": "cb8886ee04",
+   "title": "All Ages Hoedown",
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "startMinute": 1110,
+   "endMinute": 1230,
+   "dates": "Fri, Nov 6",
+   "time": "6:30–8:30 PM",
+   "place": "Si View Community Center, North Bend",
+   "placeLines": "Si View Community Center, North Bend\n400 SE Orchard Dr, North Bend, WA, 98045-9470",
+   "region": "EASTSIDE",
+   "category": "COMMUNITY",
+   "cost": "$18 – $48",
+   "free": false,
+   "summary": "Saddle up for an evening of family fun at our Hoedown!",
+   "description": "Saddle up for an evening of family fun at our Hoedown! Grab your boots and join us for a lively night filled with music, dancing, games, and western-themed activities for all ages. Led by line dance instructor Amanda Johnson, participants will learn easy-to-follow dances that are perfect for beginners and experienced dancers alike. Whether you’re stepping onto the dance floor for the first time or already know a few moves, everyone is welcome. Western attire is encouraged! Registration required.",
+   "url": "https://www.parentmap.com/calendar/all-ages-hoedown/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Hoedown-video-media-Instagram.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Si View Community Center, 400 SE Orchard Dr, North Bend, WA, 98045-9470",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T02:30:00Z",
+    "end": "2026-11-07T04:30:00Z",
+    "notes": "Saddle up for an evening of family fun at our Hoedown!\n\nhttps://www.parentmap.com/calendar/all-ages-hoedown/"
+   },
+   "firstSeen": "2026-11-03T18:29:50Z"
   },
   {
    "id": "fdcc68b9e8",
@@ -1093,6 +1093,39 @@
     "notes": "Diwali: Lights of India will take place November 7, 2026 in the Armory Food & Event Hall.\n\nhttps://nwasianweekly.com/community-calendar/diwali-lights-of-india-2/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "7dd0b42c25",
+   "series": "90ec2aac72",
+   "title": "Holiday Toy Drive",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 780,
+   "endMinute": 900,
+   "dates": "Sat, Nov 7",
+   "time": "1–3 PM",
+   "place": "The Outlet Collection | Seattle, Auburn",
+   "placeLines": "The Outlet Collection | Seattle, Auburn\n1101 Outlet Collection Way, Auburn, WA, 98001",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Outlet Collection Seattle is kicking off the season of giving with a special Holiday Toy Drive benefiting The Jewell Project on Saturday, November 7, from…",
+   "description": "The Outlet Collection Seattle is kicking off the season of giving with a special Holiday Toy Drive benefiting The Jewell Project on Saturday, November 7, from 1 p.m. to 3 p.m. The festive community event will feature a special appearance by Seattle’s own hip-hop legend, Sir Mix-A-Lot, as shoppers and local residents come together to make the holidays brighter for children and families in need.\n\nHeld at the mall’s Santa Set, located near Ashley Homestore, the Holiday Toy Drive invites the community to donate new, unwrapped toys to support underserved families throughout King and Pierce Counties. From stuffed animals and dolls to games, sports equipment, and other childhood favorites, every donation will help bring holiday joy to children who might otherwise go without.\n\nAdding a little star power to the festivities, Grammy Award-winning artist Sir Mix-A-Lot will make a special appearance to help raise awareness and encourage community participation. The Seattle music icon is joining forces with The Jewell Project and The Outlet Collection Seattle to inspire generosity and celebrate the spirit of giving.\n\n“The holidays are a time for bringing people together, and we’re excited to provide a place where our community can make a meaningful difference,” said Elizabeth Burton, General Manager – The Outlet Collection Seattle. “With the support of The Jewell Project, Sir Mix-A-Lot, and our generous shoppers, we hope to collect plenty of toys and help create a memorable holiday season…",
+   "url": "https://www.parentmap.com/calendar/holiday-toy-drive/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-2.51.44-PM.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "The Outlet Collection | Seattle, 1101 Outlet Collection Way, Auburn, WA, 98001",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T21:00:00Z",
+    "end": "2026-11-07T23:00:00Z",
+    "notes": "The Outlet Collection Seattle is kicking off the season of giving with a special Holiday Toy Drive benefiting The Jewell Project on Saturday, November 7, from…\n\nhttps://www.parentmap.com/calendar/holiday-toy-drive/"
+   },
+   "firstSeen": "2026-11-03T18:29:50Z"
   },
   {
    "id": "ab23e92694",
@@ -2850,17 +2883,18 @@
     "end": "2026-12-19",
     "notes": "Hours: 10 AM–7 PM\n\nPick up a new piece of holiday decor, right in the heart of downtown at Pines on Pike Christmas Tree Lot!\n\nhttps://downtownseattle.org/event/pines-on-pike-christmas-tree-lot/"
    },
-   "firstSeen": "2026-10-24T14:40:09Z"
+   "firstSeen": "2026-10-24T14:40:09Z",
+   "keptSince": "2026-11-03T18:29:50Z"
   },
   {
    "id": "349943090f",
    "series": "2e9ac2827a",
    "title": "Winterfest Train & Village Display",
    "start": "2026-11-27",
-   "end": "2026-12-29",
+   "end": "2026-12-31",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Nov 27–Dec 29",
+   "dates": "Nov 27–Dec 31",
    "time": "10 AM–6 PM",
    "place": "Seattle Center Armory",
    "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
@@ -2880,12 +2914,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-30",
+    "end": "2027-01-01",
     "notes": "Hours: 10 AM–6 PM\n\nDelight in viewing a late 19th-century model train and village display, installed inside the Seattle Center Armory Food & Event Hall.\n\nhttps://www.parentmap.com/calendar/28004/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 8,
-   "changed": "2026-11-02T20:49:48Z"
+   "revision": 9,
+   "changed": "2026-11-03T18:29:50Z"
   },
   {
    "id": "956b5a5437",
@@ -2975,8 +3009,7 @@
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188059964-news-newsletter-dsa-intersections-202410-feature-holidays-treelighting-4x3-v1-6e04006ef34b.jpg",
    "imageCredit": "ParentMap",
    "sources": [
-    "ParentMap",
-    "Downtown Seattle Association"
+    "ParentMap"
    ],
    "map": "Westlake Park, 401 Pine Street, Seattle, WA, 98101",
    "calendar": {
@@ -3093,10 +3126,10 @@
    "series": "bc5d1a9f6c",
    "title": "Winterfest Campus Lighting",
    "start": "2026-11-27",
-   "end": "2026-12-28",
+   "end": "2026-12-31",
    "startMinute": 1020,
    "endMinute": 1260,
-   "dates": "Nov 27–Dec 28",
+   "dates": "Nov 27–Dec 31",
    "time": "5–9 PM",
    "place": "Seattle Center Campus",
    "placeLines": "Seattle Center Campus\n305 Harrison Street, Seattle, WA, 98109",
@@ -3116,12 +3149,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-29",
+    "end": "2027-01-01",
     "notes": "Hours: 5–9 PM\n\nWe are keeping the annual tradition of decking out our campus alive with twinkling lights in the trees and other specialty light features across the grounds.\n\nhttps://www.parentmap.com/calendar/winterfest-campus-lighting/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 10,
-   "changed": "2026-11-02T20:49:48Z"
+   "revision": 11,
+   "changed": "2026-11-03T18:29:50Z"
   },
   {
    "id": "0c21fe0bd9",
@@ -3719,10 +3752,10 @@
    "series": "977a14e8db",
    "title": "Holiday on the Docks",
    "start": "2026-12-01",
-   "end": "2026-12-28",
+   "end": "2027-01-01",
    "startMinute": 1080,
    "endMinute": 1290,
-   "dates": "Dec 1–28",
+   "dates": "Dec 1–Jan 1",
    "time": "6–9:30 PM",
    "place": "Port of Edmonds Marina",
    "placeLines": "Port of Edmonds Marina\n358 Admiral Way, Edmonds, WA, 98020",
@@ -3742,12 +3775,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-01",
-    "end": "2026-12-29",
+    "end": "2027-01-02",
     "notes": "Hours: 6–9:30 PM\n\nVisit boats decked out in holiday decorations and twinkling lights, on display in the Port of Edmonds Marina for all to enjoy nightly, December 1st- January…\n\nhttps://www.parentmap.com/calendar/holiday-docks/2026-12-01/"
    },
    "firstSeen": "2026-10-29T17:28:36Z",
-   "revision": 4,
-   "changed": "2026-11-02T20:49:48Z"
+   "revision": 5,
+   "changed": "2026-11-03T18:29:50Z"
   },
   {
    "id": "3d5a2ad250",
@@ -3904,7 +3937,8 @@
     "end": "2026-12-04T05:00:00Z",
     "notes": "Stop by the Sunset Market during Art Walk to shop unique and vintage treasures!\n\nhttps://downtownseattle.org/event/sunset-art-walk-markets/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "keptSince": "2026-11-03T18:29:50Z"
   },
   {
    "id": "69caf4d19d",
@@ -3929,8 +3963,7 @@
    "imageCredit": "Volunteer Park Trust",
    "sources": [
     "Volunteer Park Trust",
-    "ParentMap",
-    "Downtown Seattle Association"
+    "ParentMap"
    ],
    "map": "Volunteer Park, 1247 15th Ave E, Seattle, WA, 98112",
    "calendar": {
@@ -5099,10 +5132,10 @@
    "series": "8242fea67a",
    "title": "Renton’s Clam Lights",
    "start": "2026-12-05",
-   "end": "2026-12-28",
+   "end": "2027-01-02",
    "startMinute": 960,
    "endMinute": 1260,
-   "dates": "Dec 5–28",
+   "dates": "Dec 5–Jan 2",
    "time": "4–9 PM",
    "place": "Gene Coulon Memorial Park, Renton",
    "placeLines": "Gene Coulon Memorial Park, Renton\n1201 Lake Washington Blvd N, Renton, WA, 98056-2567",
@@ -5122,12 +5155,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-05",
-    "end": "2026-12-29",
+    "end": "2027-01-03",
     "notes": "Hours: 4–9 PM\n\nCelebrate the start of the holiday season with lights, music, Santa, and a tree lighting at Gene Coulon Beach Park!\n\nhttps://www.parentmap.com/calendar/34328/2026-12-05/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 10,
-   "changed": "2026-11-02T20:49:48Z"
+   "revision": 11,
+   "changed": "2026-11-03T18:29:50Z"
   },
   {
    "id": "e109aecd37",
@@ -5227,10 +5260,10 @@
    "series": "64471cee9a",
    "title": "Redmond Lights",
    "start": "2026-12-05",
-   "end": "2026-12-28",
+   "end": "2027-01-01",
    "startMinute": 1020,
    "endMinute": 1380,
-   "dates": "Dec 5–28",
+   "dates": "Dec 5–Jan 1",
    "time": "5–11 PM",
    "place": "Redmond Downtown Park",
    "placeLines": "Redmond Downtown Park\n16101 Redmond Way, Redmond, WA, 98052",
@@ -5250,12 +5283,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-05",
-    "end": "2026-12-29",
+    "end": "2027-01-02",
     "notes": "Hours: 5–11 PM\n\nA free, month-long celebration of light and art in Downtown Park & Esterra Park.\n\nhttps://www.parentmap.com/calendar/redmond-lights/2026-12-05/"
    },
    "firstSeen": "2026-10-27T16:44:46Z",
-   "revision": 6,
-   "changed": "2026-11-02T20:49:48Z"
+   "revision": 7,
+   "changed": "2026-11-03T18:29:50Z"
   },
   {
    "id": "fa083ef7c4",
@@ -5825,8 +5858,7 @@
    "image": "https://www.parentmap.com/wp-content/uploads/2026/10/events-sips-smores-bell.jpg",
    "imageCredit": "ParentMap",
    "sources": [
-    "ParentMap",
-    "Downtown Seattle Association"
+    "ParentMap"
    ],
    "map": "Bell Street Park, 3rd Ave and Bell St, Seattle, WA, 98121",
    "calendar": {
@@ -6251,8 +6283,7 @@
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188990531-events-holidays-market-2048x1536-1-33ca51a6f870-768x576.jpg",
    "imageCredit": "ParentMap",
    "sources": [
-    "ParentMap",
-    "Downtown Seattle Association"
+    "ParentMap"
    ],
    "map": "Occidental Square, 117 S Washington St, Seattle, WA, 98104",
    "calendar": {
@@ -7994,10 +8025,10 @@
    "series": "fa61e33b79",
    "title": "Annual Model Train Festival",
    "start": "2026-12-26",
-   "end": "2026-12-29",
+   "end": "2027-01-01",
    "startMinute": 600,
    "endMinute": 1020,
-   "dates": "Dec 26–29",
+   "dates": "Dec 26–Jan 1",
    "time": "10 AM–5 PM",
    "place": "Washington State History Museum, Tacoma",
    "placeLines": "Washington State History Museum, Tacoma\n1911 Pacific Ave, Tacoma, WA, 98402-3109",
@@ -8017,22 +8048,22 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-26",
-    "end": "2026-12-30",
+    "end": "2027-01-02",
     "notes": "Hours: 10 AM–5 PM\n\nCelebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!\n\nhttps://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-26/"
    },
    "firstSeen": "2026-10-31T16:12:25Z",
-   "revision": 1,
-   "changed": "2026-11-02T20:49:48Z"
+   "revision": 2,
+   "changed": "2026-11-03T18:29:50Z"
   },
   {
    "id": "2b7841e43a",
    "series": "81a5ec9f49",
    "title": "Issaquah Reindeer Festival",
    "start": "2026-12-26",
-   "end": "2026-12-29",
+   "end": "2026-12-30",
    "startMinute": 630,
    "endMinute": 930,
-   "dates": "Dec 26–29",
+   "dates": "Dec 26–30",
    "time": "10:30 AM–3:30 PM",
    "place": "Cougar Mountain Zoo, Issaquah",
    "placeLines": "Cougar Mountain Zoo, Issaquah\n19525 SE 54th St, Issaquah, WA, 98027-8676",
@@ -8052,12 +8083,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-26",
-    "end": "2026-12-30",
+    "end": "2026-12-31",
     "notes": "Hours: 10:30 AM–3:30 PM\n\nEnjoy the sights and sounds of the holidays with family and friends!\n\nhttps://www.parentmap.com/calendar/55371-s2/2026-12-26/"
    },
    "firstSeen": "2026-11-01T17:11:54Z",
-   "revision": 1,
-   "changed": "2026-11-02T20:49:48Z"
+   "revision": 2,
+   "changed": "2026-11-03T18:29:50Z"
   },
   {
    "id": "1314d4fda3",
@@ -8167,10 +8198,10 @@
    "series": "6bfa5e59c9",
    "title": "Zoolights",
    "start": "2026-12-26",
-   "end": "2026-12-28",
+   "end": "2027-01-01",
    "startMinute": 990,
    "endMinute": 1320,
-   "dates": "Dec 26–28",
+   "dates": "Dec 26–Jan 1",
    "time": "4:30–10 PM",
    "place": "Point Defiance Zoo & Aquarium, Tacoma",
    "placeLines": "Point Defiance Zoo & Aquarium, Tacoma\n5400 N Pearl St, Tacoma, WA, 98407-3224",
@@ -8190,12 +8221,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-26",
-    "end": "2026-12-29",
+    "end": "2027-01-02",
     "notes": "Hours: 4:30–10 PM\n\nStroll through a magical world with over 1.5 million sparkling lights.\n\nhttps://www.parentmap.com/calendar/56485-2/2026-12-26/"
    },
    "firstSeen": "2026-11-01T17:11:54Z",
-   "revision": 1,
-   "changed": "2026-11-02T20:49:48Z"
+   "revision": 2,
+   "changed": "2026-11-03T18:29:50Z"
   },
   {
    "id": "d97c948eb9",
@@ -8294,6 +8325,138 @@
     "notes": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory Free!\n\nhttps://www.parentmap.com/calendar/seymour-holiday-workshops/2026-12-27/"
    },
    "firstSeen": "2026-11-02T20:49:48Z"
+  },
+  {
+   "id": "f8d0de0643",
+   "series": "a6317db569",
+   "title": "Festival of Trees at White River Valley Museum",
+   "start": "2026-12-30",
+   "end": "2026-12-30",
+   "startMinute": 720,
+   "endMinute": 960,
+   "dates": "Wed, Dec 30",
+   "time": "12–4 PM",
+   "place": "White River Valley Museum, Auburn",
+   "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.",
+   "description": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nOn display Nov. 18–Jan. 3. Open Wednesday through Sunday, noon–4 p.m.\nClosed: Thanksgiving, Christmas Eve and Christmas Day, and New Year’s Eve and New Year’s Day",
+   "url": "https://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-30/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775156966299-img_3452-f5f81919790e-768x432.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "White River Valley Museum, 918 H St SE, Auburn, WA, 98002-6112",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-30T20:00:00Z",
+    "end": "2026-12-31T00:00:00Z",
+    "notes": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-30/"
+   },
+   "firstSeen": "2026-11-03T18:29:50Z"
+  },
+  {
+   "id": "0177f68112",
+   "series": "92f6c2ed36",
+   "title": "Tacoma Light Trail",
+   "start": "2026-12-31",
+   "end": "2027-01-01",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Dec 31–Jan 1",
+   "time": "6–10 PM",
+   "place": "Tollefson Plaza, Tacoma",
+   "placeLines": "Tollefson Plaza, Tacoma\nCommerce Street, Tacoma, WA, 98402",
+   "region": "FARTHER",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Tacoma Light Trail is a free annual winter festival of light art in downtown Tacoma that feature outdoor performances, dragon parades, lumens concerts, a…",
+   "description": "The Tacoma Light Trail is a free annual winter festival of light art in downtown Tacoma that feature outdoor performances, dragon parades, lumens concerts, a lighted bike ride, illuminated art throughout downtown, and much more. It will start with workshops and events in November and finish with the light trail and events on Dec 31, 2026 – January 17, 2027.",
+   "url": "https://www.parentmap.com/calendar/tacoma-light-trail/2026-12-31/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/1.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Tollefson Plaza, Commerce Street, Tacoma, WA, 98402",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-31",
+    "end": "2027-01-02",
+    "notes": "Hours: 6–10 PM\n\nThe Tacoma Light Trail is a free annual winter festival of light art in downtown Tacoma that feature outdoor performances, dragon parades, lumens concerts, a…\n\nhttps://www.parentmap.com/calendar/tacoma-light-trail/2026-12-31/"
+   },
+   "firstSeen": "2026-11-03T18:29:50Z"
+  },
+  {
+   "id": "243ceeaab9",
+   "series": "a6317db569",
+   "title": "Festival of Trees at White River Valley Museum",
+   "start": "2027-01-02",
+   "end": "2027-01-02",
+   "startMinute": 720,
+   "endMinute": 960,
+   "dates": "Sat, Jan 2",
+   "time": "12–4 PM",
+   "place": "White River Valley Museum, Auburn",
+   "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.",
+   "description": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nOn display Nov. 18–Jan. 3. Open Wednesday through Sunday, noon–4 p.m.\nClosed: Thanksgiving, Christmas Eve and Christmas Day, and New Year’s Eve and New Year’s Day",
+   "url": "https://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2027-01-02/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775156966299-img_3452-f5f81919790e-768x432.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "White River Valley Museum, 918 H St SE, Auburn, WA, 98002-6112",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-02T20:00:00Z",
+    "end": "2027-01-03T00:00:00Z",
+    "notes": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2027-01-02/"
+   },
+   "firstSeen": "2026-11-03T18:29:50Z"
+  },
+  {
+   "id": "f4a9103e22",
+   "series": "21c3d0e236",
+   "title": "Waterfront Park Firepit Socials",
+   "start": "2027-01-02",
+   "end": "2027-01-02",
+   "startMinute": 900,
+   "endMinute": 1080,
+   "dates": "Sat, Jan 2",
+   "time": "3–6 PM",
+   "place": "Pier 62, Seattle",
+   "placeLines": "Pier 62, Seattle\n1951 Alaskan Way, Seattle, WA, 98101",
+   "region": "SEATTLE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!",
+   "description": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends! Firepit Socials are an informal gathering of locals and visitors around our large wood-burning firepit where you can stop by and grab a hot beverage from a local vendor, play pier games, and enjoy the water and nature of Waterfront Park.\n\nAs Pacific Northwesterners, we understand that outdoor activities might need to be cancelled due to inclement weather. Please check the schedule above or follow us on our socials for updates concerning postponements.",
+   "url": "https://www.parentmap.com/calendar/waterfront-park-firepit-socials/2027-01-02/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773117765073-firepit-socials-at-pier-62-b8783a64cc9d-768x555.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Pier 62, 1951 Alaskan Way, Seattle, WA, 98101",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-02T23:00:00Z",
+    "end": "2027-01-03T02:00:00Z",
+    "notes": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterfront-park-firepit-socials/2027-01-02/"
+   },
+   "firstSeen": "2026-11-03T18:29:50Z"
   },
   {
    "id": "906ae06449",
