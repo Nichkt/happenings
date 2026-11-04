@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2a1e41c505-seattle-happenings@nichkt.github.io
+DTSTAMP:20261104T184249Z
+SEQUENCE:0
+DTSTART:20261213T160000Z
+DTEND:20261213T200000Z
+SUMMARY:Jingle Bell Run Seattle
+LOCATION:Gas Works Park\, 2101 N. Northlake Way\, Seattle\, WA\, 98103
+DESCRIPTION:Lace up your sneakers and join Seattle’s Jingle Bell Run\, th
+ e Arthritis Foundation’s festive holiday tradition!\n\nhttps://www.paren
+ tmap.com/calendar/41st-jingle-bell-run-seattle/
+URL:https://www.parentmap.com/calendar/41st-jingle-bell-run-seattle/
+END:VEVENT
+END:VCALENDAR

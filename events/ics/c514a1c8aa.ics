@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c514a1c8aa-seattle-happenings@nichkt.github.io
+DTSTAMP:20261104T184249Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261206T020000Z
+SUMMARY:Holiday on the Bay
+LOCATION:Port of Everett\, Pacific Rim Plaza\, 1028 13th Street\, Everett\,
+  WA\, 98201
+DESCRIPTION:Join the Port for a day of family fun at the waterfront during 
+ the Port of Everett’s 19th annual Holiday on the Bay festival taking pla
+ ce Saturday\, Dec.\n\nhttps://www.parentmap.com/calendar/holiday-bay/
+URL:https://www.parentmap.com/calendar/holiday-bay/
+END:VEVENT
+END:VCALENDAR

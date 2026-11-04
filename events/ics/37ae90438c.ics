@@ -5,8 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:37ae90438c-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
+DTSTAMP:20261104T184249Z
+SEQUENCE:1
+LAST-MODIFIED:20261104T184249Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
@@ -14,7 +15,8 @@ SUMMARY:Seattle International Auto Show
 LOCATION:Lumen Field\, 800 Occidental Ave S\, Seattle\, WA\, 98134-1200
 DESCRIPTION:Seattle’s annual showcase for everything new\, green\, fast a
  nd affordable\, in cars and trucks.\n\nhttps://www.parentmap.com/calendar/
- 55314-2/2026-11-13/
-URL:https://www.parentmap.com/calendar/55314-2/2026-11-13/
+ seattle-international-auto-show-2/2026-11-13/
+URL:https://www.parentmap.com/calendar/seattle-international-auto-show-2/20
+ 26-11-13/
 END:VEVENT
 END:VCALENDAR

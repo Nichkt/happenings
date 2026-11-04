@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b5b5bfb26a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261104T184249Z
+SEQUENCE:0
+DTSTART:20261128T180000Z
+DTEND:20261128T230000Z
+SUMMARY:Meet the Maker Holiday Market at Little Saigon Creative
+LOCATION:Little Saigon Creative: 1227 S Weller St\, Little Saigon Creative:
+  1227 S Weller St\, Suite A Seattle\, WA 98144
+DESCRIPTION:Neighborhoods: Chinatown-International District Event Types: Ar
+ ts Audience: All Sponsoring Organization: Friends of Little Sài Gòn Cont
+ act: Tina Dang Contact…\n\nhttps://www.eventbrite.com/e/meet-the-maker-h
+ oliday-market-at-little-saigon-creative-tickets-2003836641336
+URL:https://www.eventbrite.com/e/meet-the-maker-holiday-market-at-little-sa
+ igon-creative-tickets-2003836641336
+END:VEVENT
+END:VCALENDAR

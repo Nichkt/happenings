@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c45c35271e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261104T184249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Arboretum Winter Market
+LOCATION:Washington Park Arboretum\, Washington Park Arboretum\, 2300 Arbor
+ etum Drive East\, WA
+DESCRIPTION:Hours: 10 AM–4 PM\n\nBuilding/Room #: Graham Visitors Center 
+ Neighborhoods: Beacon Hill\,Capitol Hill\,Cascade/Eastlake/South Lake Unio
+ n\,Columbia City\,Laurelhurst/Sand Point\,Madison…\n\nhttps://arboretumf
+ oundation.org/events/gifts-greens-galore/
+URL:https://arboretumfoundation.org/events/gifts-greens-galore/
+END:VEVENT
+END:VCALENDAR

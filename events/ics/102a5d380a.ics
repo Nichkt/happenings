@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:102a5d380a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261104T184249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Holly Jolly Holiday Market
+LOCATION:Thomas Family Farm\, 9010 Marsh Rd\, SNOHOMISH\, WA\, 98296
+DESCRIPTION:Hours: 10 AM–4 PM\n\nBuzzing Bee Events invites you to the si
+ xth annual Holly Jolly Holiday Market at Thomas Family Farms Featuring mor
+ e than 120 vendors\, food and coffee trucks\,…\n\nhttps://www.parentmap.
+ com/calendar/holly-jolly-holiday-market/2026-11-27/
+URL:https://www.parentmap.com/calendar/holly-jolly-holiday-market/2026-11-2
+ 7/
+END:VEVENT
+END:VCALENDAR

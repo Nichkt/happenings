@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:54c4e500d1-seattle-happenings@nichkt.github.io
+DTSTAMP:20261104T184249Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T023000Z
+SUMMARY:Holiday Barn Lighting
+LOCATION:Kelsey Creek Farm\, 410 130 Pl SE\, Bellevue\, WA\, 98005
+DESCRIPTION:Celebrate the holiday season at Kelsey Creek Farm.\n\nhttps://w
+ ww.parentmap.com/calendar/holiday-barn-lighting-0/
+URL:https://www.parentmap.com/calendar/holiday-barn-lighting-0/
+END:VEVENT
+END:VCALENDAR

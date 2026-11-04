@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3628066f0-seattle-happenings@nichkt.github.io
+DTSTAMP:20261104T184249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Hidden Meadows Hometown Country Christmas
+LOCATION:Hidden Meadows\, 11805 Springhetti Rd\, Snohomish\, WA\, 98296
+DESCRIPTION:Hours: 5–8 PM\n\nLast year\, for the first time ever\, Hidden
+  Meadows transformed into a winter wonderland of fun & games for all ages 
+ to enjoy for the entire holiday season!\n\nhttps://www.parentmap.com/calen
+ dar/hidden-meadows-hometown-country-christmas/2026-11-28/
+URL:https://www.parentmap.com/calendar/hidden-meadows-hometown-country-chri
+ stmas/2026-11-28/
+END:VEVENT
+END:VCALENDAR

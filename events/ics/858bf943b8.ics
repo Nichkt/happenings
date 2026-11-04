@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:858bf943b8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261104T184249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Romanian Film Festival at SIFF Cinema Uptown
+LOCATION:SIFF Cinema Uptown\, 511 Queen Anne Ave N\, Seattle\, WA\, 98109-4
+ 521
+DESCRIPTION:Hours: 11 AM–11:30 PM\n\nThe American Romanian Cultural Socie
+ ty is proud to announce the complete program for the 13th Romanian Film Fe
+ stival Seattle\, themed “Beyond Borders.” The…\n\nhttps://www.parent
+ map.com/calendar/romanian-film-festival-at-siff-cinema-uptown/2026-11-13/
+URL:https://www.parentmap.com/calendar/romanian-film-festival-at-siff-cinem
+ a-uptown/2026-11-13/
+END:VEVENT
+END:VCALENDAR

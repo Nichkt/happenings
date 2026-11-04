@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e41b2e5547-seattle-happenings@nichkt.github.io
+DTSTAMP:20261104T184249Z
+SEQUENCE:0
+DTSTART:20261212T220000Z
+DTEND:20261213T050000Z
+SUMMARY:Building C’s Holiday Open Artist Studios
+LOCATION:Venue:\, Venue:\, Building C Artists Studios\, Address:\, 4818 14t
+ h Avenue NW\, Seattle WA 98107
+DESCRIPTION:Neighborhoods: Ballard\,Fremont Event Types: Arts\,Holiday/Seas
+ onal Events Audience: All Contact: Alison Leung Pre-Register: No Cost: fre
+ e Registration Details:…\n\nhttps://www.buildingcstudios.com/
+URL:https://www.buildingcstudios.com/
+END:VEVENT
+END:VCALENDAR
