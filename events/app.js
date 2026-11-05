@@ -1201,12 +1201,14 @@
     '、': ', ', '。': '. ', '〜': '~', '～': '~', '・': ' / ', '「': '"', '」': '"', '『': '"', '』': '"', '【': '[',
     '】': ']', '〈': '<', '〉': '>', '《': '"', '》': '"', '\u3000': ' ',
   };
+  /** Long vowels without their macrons, as Gemini is asked to write them: one listing's "Kōenji" is another's "Koenji". */
+  const MACRONS = { 'ā': 'a', 'ē': 'e', 'ī': 'i', 'ō': 'o', 'ū': 'u', 'Ā': 'A', 'Ē': 'E', 'Ī': 'I', 'Ō': 'O', 'Ū': 'U' };
 
   /** [text] made plain, or null if Japanese is left in it; untouched where the page needn't be in English. */
   function english(text) {
     if (text == null || !feed.gemini.english) return text;
     const t = [...text.normalize('NFKC').replace(JAPANESE_ASIDE, '')]
-      .map((c) => (c in JAPANESE_PUNCTUATION ? JAPANESE_PUNCTUATION[c] : c)).join('')
+      .map((c) => (c in JAPANESE_PUNCTUATION ? JAPANESE_PUNCTUATION[c] : c in MACRONS ? MACRONS[c] : c)).join('')
       .replace(/[ \t]{2,}/g, ' ').trim();
     return t && !JAPANESE.test(t) ? t : null;
   }
