@@ -1880,7 +1880,7 @@
 
   const slug = (text) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 
-  /** WebFeed.ics, for a find: the site has no file of it, so it's made here. */
+  /** WebFeed.ics, for a find: the site has no file of it, so it's made here, with the same UID host as the site's files. */
   function ics(e) {
     const c = e.calendar;
     const stamp = (iso) => iso.replace(/[-:]/g, '');
@@ -1892,7 +1892,7 @@
       'CALSCALE:GREGORIAN',
       'METHOD:PUBLISH',
       'BEGIN:VEVENT',
-      `UID:${e.id}-${slug(feed.app)}@${location.hostname || 'localhost'}`,
+      `UID:${e.id}-${slug(feed.app)}@${document.body.dataset.uidHost || location.hostname || 'localhost'}`,
       `DTSTAMP:${stamp(instant(Number.isFinite(foundAt) ? foundAt : Date.now()))}`,
     ];
     if (c.allDay) {
