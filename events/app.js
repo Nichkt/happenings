@@ -1092,6 +1092,9 @@
       '(Pride, Juneteenth, MLK Day) are false unless they are a march or a rally.',
   ];
 
+  /** Prompts.englishLine: where everything has to read in English (Tokyo's), the rule that says so. */
+  const englishRule = () => (feed.gemini.english ? [`- ${feed.gemini.english}`] : []);
+
   function extractSystem(t, until) {
     const g = feed.gemini;
     return [
@@ -1110,6 +1113,7 @@
       `- venue and city as stated; city is the town (${g.towns}...).`,
       '- cost: short text such as "Free" or "$10" if stated.',
       `- ${g.summaryRule}`,
+      ...englishRule(),
       ...FLAG_RULES,
       '- doc: the number of the document the happening appears in.',
       'Return an empty list if the pages announce nothing that fits.',
@@ -1128,6 +1132,7 @@
       '- title: the happening\'s name. venue and city as stated. cost if stated.',
       `- category: one of ${feed.categories.map((c) => c.id).join(', ')}.`,
       `- ${feed.gemini.summaryRule}`,
+      ...englishRule(),
       ...FLAG_RULES,
       '- doc: the document number.',
       'Return an empty list if no date is given.',
@@ -1185,6 +1190,26 @@
   }
 
   const bool = (v) => (v === true || v === 'true' ? true : v === false || v === 'false' ? false : null);
+
+  // English.of: where everything has to read in English (Tokyo's), Gemini's words with Japanese still in them.
+
+  const KANA_KANJI = '\u3005\u3006\u3040-\u30FA\u30FC-\u30FF\u31F0-\u31FF\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF\uFF66-\uFF9F';
+  const JAPANESE = new RegExp(`[${KANA_KANJI}]`);
+  /** "Tori-no-ichi (酉の市)": the original name beside the English one. */
+  const JAPANESE_ASIDE = new RegExp(`\\s*[(\\[「『【]\\s*[^)\\]」』】]*[${KANA_KANJI}][^)\\]」』】]*[)\\]」』】]`, 'g');
+  const JAPANESE_PUNCTUATION = {
+    '、': ', ', '。': '. ', '〜': '~', '～': '~', '・': ' / ', '「': '"', '」': '"', '『': '"', '』': '"', '【': '[',
+    '】': ']', '〈': '<', '〉': '>', '《': '"', '》': '"', '\u3000': ' ',
+  };
+
+  /** [text] made plain, or null if Japanese is left in it; untouched where the page needn't be in English. */
+  function english(text) {
+    if (text == null || !feed.gemini.english) return text;
+    const t = [...text.normalize('NFKC').replace(JAPANESE_ASIDE, '')]
+      .map((c) => (c in JAPANESE_PUNCTUATION ? JAPANESE_PUNCTUATION[c] : c)).join('')
+      .replace(/[ \t]{2,}/g, ' ').trim();
+    return t && !JAPANESE.test(t) ? t : null;
+  }
 
   function dayOfIso(s) {
     const d = s ? s.slice(0, 10) : '';
@@ -1926,10 +1951,13 @@
     if (x.e < today || x.s > step.until || x.e - x.s + 1 > MAX_SPAN_DAYS) return null;
     const region = detectRegion(x.city, x.venue, x.title);
     // A festival's own page's dates are the festival's: its name, if Gemini's differs.
-    const title = step.watch && !matchesWatch(step.name, x.title, region, x.venue) ? step.name : x.title;
+    const title = english(step.watch && !matchesWatch(step.name, x.title, region, x.venue) ? step.name : x.title);
+    if (!title) return null;
     const key = seriesKey(title);
     const minute = x.startMinute == null ? -1 : x.startMinute;
-    const hash = await sha256([key, isoDay(x.s), region || '', (x.venue || '').toLowerCase(), minute].join('|'));
+    const venue = english(x.venue);
+    const costText = english(x.cost);
+    const hash = await sha256([key, isoDay(x.s), region || '', (venue || '').toLowerCase(), minute].join('|'));
     return dress({
       id: `g-${hash.slice(0, 10)}`,
       series: (await sha256(key)).slice(0, 10),
@@ -1938,16 +1966,16 @@
       end: isoDay(x.e),
       startMinute: x.startMinute,
       endMinute: x.endMinute,
-      venue: x.venue,
-      city: x.city,
+      venue,
+      city: english(x.city),
       region,
       category: x.category || fallbackCategory(),
-      costText: x.cost,
-      free: x.free != null ? x.free : freeFrom(x.cost),
+      costText,
+      free: x.free != null ? x.free : freeFrom(costText),
       watch: step.watch,
       kids: x.forKids === true,
       political: x.political === true,
-      summary: x.summary,
+      summary: english(x.summary),
       url: webUrl(x.url),
       via: step.via,
       sources: [step.via],

@@ -3,7 +3,7 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-04T18:42:49Z",
+ "generatedAt": "2026-11-05T00:00:07Z",
  "since": "2026-10-16T07:59:06Z",
  "from": "2026-11-04",
  "until": "2027-01-27",
@@ -143,7 +143,7 @@
   },
   {
    "name": "ParentMap",
-   "events": 205
+   "events": 210
   },
   {
    "name": "Phinney Center",
@@ -1804,8 +1804,7 @@
    "placeLines": "Snoqualmie",
    "region": "EASTSIDE",
    "category": "SEASONAL",
-   "summary": "Celebrate the season throughout all of Snoqualmie, the Downtown District, Ridge District, and all the surrounding areas.",
-   "description": "Celebrate the season throughout all of Snoqualmie, the Downtown District, Ridge District, and all the surrounding areas. Merchants and restaurants will offer festive cheer, tastings, specials, and giveaways. https://www.snoqualmiewa.gov/calendar.aspx?EID=3421",
+   "summary": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3421",
    "url": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3421",
    "sources": [
     "City of Snoqualmie"
@@ -1815,9 +1814,11 @@
     "allDay": false,
     "start": "2026-11-14T19:00:00Z",
     "end": "2026-11-15T02:00:00Z",
-    "notes": "Celebrate the season throughout all of Snoqualmie, the Downtown District, Ridge District, and all the surrounding areas.\n\nhttps://www.snoqualmiewa.gov/calendar.aspx?EID=3421"
+    "notes": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3421\n\nhttps://www.snoqualmiewa.gov/calendar.aspx?EID=3421"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "4f7c6eb14a",
@@ -2227,8 +2228,11 @@
    "series": "c429cdeae9",
    "title": "Photos with Santa at the Outlet Collection",
    "start": "2026-11-20",
-   "end": "2026-12-24",
-   "dates": "Nov 20–Dec 24",
+   "end": "2026-11-28",
+   "startMinute": 840,
+   "endMinute": 1050,
+   "dates": "Nov 20–28",
+   "time": "2–5:30 PM",
    "place": "The Outlet Collection | Seattle, Auburn",
    "placeLines": "The Outlet Collection | Seattle, Auburn\n1101 Outlet Collection Way, Auburn, WA, 98001",
    "region": "SOUTH",
@@ -2248,10 +2252,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-20",
-    "end": "2026-12-25",
-    "notes": "Santa Claus is coming to The Outlet Collection Seattle!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-the-outlet-collection/2026-11-20/"
+    "end": "2026-11-29",
+    "notes": "Hours: 2–5:30 PM\n\nSanta Claus is coming to The Outlet Collection Seattle!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-the-outlet-collection/2026-11-20/"
    },
-   "firstSeen": "2026-11-04T18:42:49Z"
+   "firstSeen": "2026-11-04T18:42:49Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "fe58fc2ad6",
@@ -3135,10 +3141,10 @@
    "series": "6bfa5e59c9",
    "title": "Zoolights",
    "start": "2026-11-27",
-   "end": "2026-12-23",
+   "end": "2026-11-28",
    "startMinute": 990,
    "endMinute": 1320,
-   "dates": "Nov 27–Dec 23",
+   "dates": "Nov 27–28",
    "time": "4:30–10 PM",
    "place": "Point Defiance Zoo & Aquarium, Tacoma",
    "placeLines": "Point Defiance Zoo & Aquarium, Tacoma\n5400 N Pearl St, Tacoma, WA, 98407-3224",
@@ -3158,20 +3164,22 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-24",
+    "end": "2026-11-29",
     "notes": "Hours: 4:30–10 PM\n\nStroll through a magical world with over 1.5 million sparkling lights.\n\nhttps://www.parentmap.com/calendar/56485-2/2026-11-27/"
    },
-   "firstSeen": "2026-10-27T16:44:46Z"
+   "firstSeen": "2026-10-27T16:44:46Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "da4271e73b",
    "series": "10036c047d",
    "title": "The Lights of Christmas",
    "start": "2026-11-27",
-   "end": "2026-11-29",
+   "end": "2026-11-28",
    "startMinute": 1020,
    "endMinute": 1320,
-   "dates": "Nov 27–29",
+   "dates": "Nov 27–28",
    "time": "5–10 PM",
    "place": "Warm Beach Camp, Stanwood",
    "placeLines": "Warm Beach Camp, Stanwood\n20800 Marine Dr, Stanwood, WA, 98292-7822",
@@ -3191,10 +3199,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-11-30",
+    "end": "2026-11-29",
     "notes": "Hours: 5–10 PM\n\nBig changes are coming to The Lights of Christmas in 2026!\n\nhttps://www.parentmap.com/calendar/lights-christmas-drive-through-experience/2026-11-27/"
    },
-   "firstSeen": "2026-10-27T16:44:46Z"
+   "firstSeen": "2026-10-27T16:44:46Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "d114e36e4e",
@@ -3563,10 +3573,10 @@
    "series": "21c3d0e236",
    "title": "Waterfront Park Firepit Socials",
    "start": "2026-11-28",
-   "end": "2026-11-29",
+   "end": "2026-11-28",
    "startMinute": 900,
    "endMinute": 1080,
-   "dates": "Nov 28–29",
+   "dates": "Sat, Nov 28",
    "time": "3–6 PM",
    "place": "Pier 62, Seattle",
    "placeLines": "Pier 62, Seattle\n1951 Alaskan Way, Seattle, WA, 98101",
@@ -3584,12 +3594,14 @@
    ],
    "map": "Pier 62, 1951 Alaskan Way, Seattle, WA, 98101",
    "calendar": {
-    "allDay": true,
-    "start": "2026-11-28",
-    "end": "2026-11-30",
-    "notes": "Hours: 3–6 PM\n\nCome to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-11-28/"
+    "allDay": false,
+    "start": "2026-11-28T23:00:00Z",
+    "end": "2026-11-29T02:00:00Z",
+    "notes": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-11-28/"
    },
-   "firstSeen": "2026-10-20T15:41:43Z"
+   "firstSeen": "2026-10-20T15:41:43Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "3e3be17a78",
@@ -3691,10 +3703,10 @@
    "series": "88c3efcf58",
    "title": "Hidden Meadows Hometown Country Christmas",
    "start": "2026-11-28",
-   "end": "2026-11-29",
+   "end": "2026-11-28",
    "startMinute": 1020,
    "endMinute": 1200,
-   "dates": "Nov 28–29",
+   "dates": "Sat, Nov 28",
    "time": "5–8 PM",
    "place": "Hidden Meadows, Snohomish",
    "placeLines": "Hidden Meadows, Snohomish\n11805 Springhetti Rd, Snohomish, WA, 98296",
@@ -3712,12 +3724,14 @@
    ],
    "map": "Hidden Meadows, 11805 Springhetti Rd, Snohomish, WA, 98296",
    "calendar": {
-    "allDay": true,
-    "start": "2026-11-28",
-    "end": "2026-11-30",
-    "notes": "Hours: 5–8 PM\n\nLast year, for the first time ever, Hidden Meadows transformed into a winter wonderland of fun & games for all ages to enjoy for the entire holiday season!\n\nhttps://www.parentmap.com/calendar/hidden-meadows-hometown-country-christmas/2026-11-28/"
+    "allDay": false,
+    "start": "2026-11-29T01:00:00Z",
+    "end": "2026-11-29T04:00:00Z",
+    "notes": "Last year, for the first time ever, Hidden Meadows transformed into a winter wonderland of fun & games for all ages to enjoy for the entire holiday season!\n\nhttps://www.parentmap.com/calendar/hidden-meadows-hometown-country-christmas/2026-11-28/"
    },
-   "firstSeen": "2026-11-04T18:42:49Z"
+   "firstSeen": "2026-11-04T18:42:49Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "34112bcf07",
@@ -3785,6 +3799,73 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "897ae5e2ff",
+   "series": "ed5acaabfd",
+   "title": "Photos with Santa at South Hill Mall – Puyallup, WA",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "startMinute": 660,
+   "endMinute": 1140,
+   "dates": "Sun, Nov 29",
+   "time": "11 AM–7 PM",
+   "place": "South Hill Mall, Puyallup",
+   "placeLines": "South Hill Mall, Puyallup\n3500 S. Meridian, Puyallup, WA, 98373",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Santa is coming to South Hill Mall!",
+   "description": "Santa is coming to South Hill Mall! Bring the whole family for professional photos with Santa, captured by Souvenir Photograph. Reserve a time online to skip the wait, or walk up. Prints and digital packages are available on-site. Address: 3500 S Meridian, Puyallup, WA 98373.\n\nAvailable options:\n\nTraditional Santa\nSanta Paws\nSilent Santa\n\nDaily schedules vary, please view the website for available dates and times.",
+   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-29/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/south-hill-mall-santa-1920x1080-1-e1793821051118.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "South Hill Mall, 3500 S. Meridian, Puyallup, WA, 98373",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T19:00:00Z",
+    "end": "2026-11-30T03:00:00Z",
+    "notes": "Santa is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-29/"
+   },
+   "firstSeen": "2026-11-05T00:00:07Z"
+  },
+  {
+   "id": "36c33ac605",
+   "series": "cb42c24b02",
+   "title": "Diving Santa at the Seattle Aquarium",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "startMinute": 690,
+   "endMinute": 750,
+   "dates": "Sun, Nov 29",
+   "time": "11:30 AM–12:30 PM",
+   "place": "Seattle Aquarium",
+   "placeLines": "Seattle Aquarium\n1483 Alaskan Way Pier 59, Seattle, WA, 98101-2015",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "$3",
+   "free": false,
+   "summary": "Meet Diving Santa at the Seattle Aquarium!",
+   "description": "Meet Diving Santa at the Seattle Aquarium! Hear from the holly jolly diver about how you can help the ocean this holiday season.\n\nFind Santa swimming in a winter wonderland at our Window on Washington Waters habitat in Pier 59 on weekends between Thanksgiving and Christmas.\n\nNothing says “sea-son’s greetings” like a selfie with Santa! Take a picture together while Santa is underwater and you stay warm and dry. Snap yourself a merry little selfie or have one of our volunteers help take a photo using your device.\n\nWe’ll ring in the season with special kick-off dives on Friday, November 27!\n\nFor our merry members, we’ll be opening early at 9am on November 29 and December 15 with a special dive just for you.\n\nFor guests who benefit from a quieter environment, we’ll open early on December 6 with a special Santa dive. Online tickets and member reservations will be available soon.\n\nDon’t forget to treat yourself to an extra cozy cup of holiday cheer in our café. Special drink menu coming soon!\n\nDates and times\n\nNovember 2026 dates:\nDives at 11:30am and 2:30pm\nNovember 27–29\n\nDecember 2026 dates:\nDives at 11:30am and 2:30pm\nDecember 5–6\nDecember 12–13\nDecember 19–20\n\nQuiet early opening\nDives at 9am\nDecember 6\n\nPhotos with Dry Side Santa\nMissed Santa in the water? Don’t pout or cry! Get a photo with Santa on the dry side thanks to our photo partner, Photogenic. When not diving, Santa will be at the viewing window near the left side of Window on Washington Waters every Friday–Sunday…",
+   "url": "https://www.parentmap.com/calendar/28177/2026-11-29/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185142935-28177-7a644587d765.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Seattle Aquarium, 1483 Alaskan Way Pier 59, Seattle, WA, 98101-2015",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T19:30:00Z",
+    "end": "2026-11-29T20:30:00Z",
+    "notes": "Meet Diving Santa at the Seattle Aquarium!\n\nhttps://www.parentmap.com/calendar/28177/2026-11-29/"
+   },
+   "firstSeen": "2026-11-05T00:00:07Z"
+  },
+  {
    "id": "ba35d3d348",
    "series": "acec2b0b5f",
    "title": "Cookies With Santa",
@@ -3819,6 +3900,37 @@
    "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
+   "id": "9d4aea9652",
+   "series": "c429cdeae9",
+   "title": "Photos with Santa at the Outlet Collection",
+   "start": "2026-12-01",
+   "end": "2026-12-24",
+   "dates": "Dec 1–24",
+   "place": "The Outlet Collection | Seattle, Auburn",
+   "placeLines": "The Outlet Collection | Seattle, Auburn\n1101 Outlet Collection Way, Auburn, WA, 98001",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Santa Claus is coming to The Outlet Collection Seattle!",
+   "description": "Santa Claus is coming to The Outlet Collection Seattle! Visit Santa daily from Friday, November 20 through Christmas Eve and capture a magical holiday memory. Reservations are encouraged—click the reservation link to view Santa’s daily hours and reserve your visit. Walk-ups are welcome while availability lasts.\n\nSpecial Santa Events\n\nSanta Cares: A Sensory-Friendly Event\nSunday, December 6\n\nPet Photos with Santa\nTuesdays, December 8 and 15\n\nMake Your Reservation Online and Receive These Perks\n\nTreats from Shutterfly: Save 50% on your order and receive 10 free holiday cards.\nA Gift from Portable North Pole: Receive a personalized digital video message from Santa before your visit.\nBeat the Rush: Lock in your preferred date and time now.\nFree Rescheduling: Reschedule up to 48 hours before your visit.\nHassle-Free Checkout: Enjoy a quick and easy process when you arrive.",
+   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-the-outlet-collection/2026-12-01/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/TOC217-_-Santa-Photos-SM_WEB1Social-POST-e1793732570483.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "The Outlet Collection | Seattle, 1101 Outlet Collection Way, Auburn, WA, 98001",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-01",
+    "end": "2026-12-25",
+    "notes": "Santa Claus is coming to The Outlet Collection Seattle!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-the-outlet-collection/2026-12-01/"
+   },
+   "firstSeen": "2026-11-05T00:00:07Z"
+  },
+  {
    "id": "279c98dc72",
    "series": "20c4fb6742",
    "title": "Garden d’Lights Senior Social",
@@ -3850,6 +3962,39 @@
     "notes": "Join us for a special daytime viewing of Garden d’Lights with live music, festive treats, and a special shopping opportunity in The Trillium Store.\n\nhttps://bellevuebotanical.org/event/garden-dlights-senior-social-2/"
    },
    "firstSeen": "2026-10-28T17:13:34Z"
+  },
+  {
+   "id": "f781401195",
+   "series": "6bfa5e59c9",
+   "title": "Zoolights",
+   "start": "2026-12-01",
+   "end": "2026-12-23",
+   "startMinute": 990,
+   "endMinute": 1320,
+   "dates": "Dec 1–23",
+   "time": "4:30–10 PM",
+   "place": "Point Defiance Zoo & Aquarium, Tacoma",
+   "placeLines": "Point Defiance Zoo & Aquarium, Tacoma\n5400 N Pearl St, Tacoma, WA, 98407-3224",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$2 – $20",
+   "free": false,
+   "summary": "Stroll through a magical world with over 1.5 million sparkling lights.",
+   "description": "Stroll through a magical world with over 1.5 million sparkling lights. A classic holiday tradition, Zoolights has dazzled our community for 39 years. Our aquariums are closed and animals are sleeping during Zoolights. Visit during the day to see your favorite animals. Closed Dec. 24 & 25. Zoolights is presented by BECU.\n\nSee the zoo transform into a colorful winter wonderland with over 1.5 million lights. From the giant Pacific octopus to the Narrows Bridges, the Flame Tree to the Seahawks tree, and a magical tunnel of lights, come find your favorite displays… and don’t forget to hunt for Sasquatch!\n\n**Online timed tickets are required for Zoolights**",
+   "url": "https://www.parentmap.com/calendar/56485-2/2026-12-01/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775079644677-kgc_66212-bc4fcc003c7e.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Point Defiance Zoo & Aquarium, 5400 N Pearl St, Tacoma, WA, 98407-3224",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-01",
+    "end": "2026-12-24",
+    "notes": "Hours: 4:30–10 PM\n\nStroll through a magical world with over 1.5 million sparkling lights.\n\nhttps://www.parentmap.com/calendar/56485-2/2026-12-01/"
+   },
+   "firstSeen": "2026-11-05T00:00:07Z"
   },
   {
    "id": "5cefcf5ecd",
@@ -4327,7 +4472,8 @@
    "image": "https://bellevuebotanical.org/wp-content/uploads/2024/10/073_D-Lites_LH0A3659_M_Burton_2018-REDUCED.jpg",
    "imageCredit": "Bellevue Botanical Garden",
    "sources": [
-    "Bellevue Botanical Garden"
+    "Bellevue Botanical Garden",
+    "ParentMap"
    ],
    "map": "Garden Grounds, 12001 Main Street, Bellevue, 98005",
    "calendar": {
@@ -5020,8 +5166,7 @@
    "placeLines": "HIstoric Downtown Snoqualmie Snoqualmie",
    "region": "EASTSIDE",
    "category": "NIGHT_MARKET",
-   "summary": "Outdoor holiday market, shop for artisan gifts, festive goodies, and holiday cheer.",
-   "description": "Outdoor holiday market, shop for artisan gifts, festive goodies, and holiday cheer. Shop early and stay for Santa's arrival and the tree lighting at 5:30pm. https://www.snoqualmiewa.gov/calendar.aspx?EID=3427",
+   "summary": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3427",
    "url": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3427",
    "sources": [
     "City of Snoqualmie"
@@ -5031,9 +5176,11 @@
     "allDay": false,
     "start": "2026-12-05T20:00:00Z",
     "end": "2026-12-06T02:00:00Z",
-    "notes": "Outdoor holiday market, shop for artisan gifts, festive goodies, and holiday cheer.\n\nhttps://www.snoqualmiewa.gov/calendar.aspx?EID=3427"
+    "notes": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3427\n\nhttps://www.snoqualmiewa.gov/calendar.aspx?EID=3427"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "aa175c55c2",
@@ -7152,10 +7299,10 @@
    "series": "a6317db569",
    "title": "Festival of Trees at White River Valley Museum",
    "start": "2026-12-16",
-   "end": "2026-12-20",
+   "end": "2026-12-19",
    "startMinute": 720,
    "endMinute": 960,
-   "dates": "Dec 16–20",
+   "dates": "Dec 16–19",
    "time": "12–4 PM",
    "place": "White River Valley Museum, Auburn",
    "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
@@ -7175,10 +7322,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-16",
-    "end": "2026-12-21",
+    "end": "2026-12-20",
     "notes": "Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-16/"
    },
-   "firstSeen": "2026-10-27T16:44:46Z"
+   "firstSeen": "2026-10-27T16:44:46Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "7d35a6ada2",
@@ -7564,102 +7713,6 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "86077d910f",
-   "series": "92a48ccdaa",
-   "title": "December Art Market",
-   "start": "2026-12-19",
-   "end": "2026-12-20",
-   "dates": "Dec 19–20",
-   "place": "Duwamish Longhouse & Cultural Center, Seattle",
-   "placeLines": "Duwamish Longhouse & Cultural Center, Seattle\n4705 West Marginal Way Southwest, Seattle, WA, 98106",
-   "region": "SEATTLE",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Volunteers Needed - Click to sign up.",
-   "description": "volunteers needed! use button below to sign up.\n\nVOLUNTEER SIGN UP",
-   "url": "https://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny",
-   "image": "https://images.squarespace-cdn.com/content/v1/5ad0f1b9c258b4273c53d08f/1774567021752-MSR3RWDIN6AL95YFBJL1/unsplash-image-7VOyZ0-iO0o.jpg?format=1000w",
-   "imageCredit": "Duwamish Tribe",
-   "sources": [
-    "Duwamish Tribe",
-    "United Indians of All Tribes",
-    "ParentMap"
-   ],
-   "map": "Duwamish Longhouse & Cultural Center, 4705 West Marginal Way Southwest, Seattle, WA, 98106",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-19",
-    "end": "2026-12-21",
-    "notes": "Volunteers Needed - Click to sign up.\n\nhttps://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-25T14:59:34Z"
-  },
-  {
-   "id": "83cca4d46b",
-   "series": "ddf32f51fa",
-   "title": "Winterfest Armory Stage Entertainment",
-   "start": "2026-12-19",
-   "end": "2026-12-20",
-   "dates": "Dec 19–20",
-   "place": "Seattle Center Armory",
-   "placeLines": "Seattle Center Armory\n305 Harrison St, Seattle, WA, 98109-4623",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…",
-   "description": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal entertainment while they check out our Winterfest Train & Village or grab a bite to eat at an Armory food merchant. View this year’s line-up below.\n\nNov. 27\n\nnoon: Zaniac Comedy Show\n2 p.m.: Holiday Harmony Pop\n3:30 p.m.: DJ Fishure\n\nNov. 28\n\n12:30 p.m.: Twelve Tones of Christmas\n2:30 p.m.: School of Rock\n\nNov. 29\n\n12:30 p.m.: Xmas Maximus\n2 p.m.: Louis Cano\n3:30 p.m.: Bailadores de Bronce\n\nDec. 5\n\n12:30 p.m.: SANCA\n2:30 p.m.: Northwest Boy Choir\n4 p.m.: KlezKids\n\nDec. 6\n\n12:30 p.m.: Garfield Jazz Band\n\nDec. 12\n\n12:30 p.m.: Rain City Tap\n2:30 p.m.: Swedish Singers of Seattle\n6 p.m.: Classical Holiday Sing-along\n\nDec. 13\n\n12:30 p.m.: NW Junior Pipe Band\n3 p.m.: Zje Mongol\n\nDec. 19\n\n12:30 p.m.: Lexi Nguyen\n2:30 p.m.: Michael Cagle and JP Cates\n5 p.m.: Rainbow City Band & Orchestra\n\nDec. 20\n\n12 p.m.: NW Tap Connection\n2 p.m.: WA Trumpet Guild\n5 p.m.: Greater Seattle Tubachristmas\n\nDec. 26\n\n12:30 p.m.: The Dickens Carolers\n3 p.m.: Seattle Civic Band\n\nDec. 27\n\n12:30 p.m.: Zaniac Comedy Show\n3 p.m.: Tlalokan",
-   "url": "https://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-100137.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Center Armory, 305 Harrison St, Seattle, WA, 98109-4623",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-19",
-    "end": "2026-12-21",
-    "notes": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…\n\nhttps://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-19/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-20T15:41:43Z"
-  },
-  {
-   "id": "ec40a9b8c9",
-   "series": "0b3a420ec2",
-   "title": "‘Aladdin’, a Holiday Panto",
-   "start": "2026-12-19",
-   "end": "2026-12-20",
-   "dates": "Dec 19–20",
-   "place": "Centerstage Theatre, Federal Way",
-   "placeLines": "Centerstage Theatre, Federal Way\n3200 SW Dash Point Rd, Federal Way, WA, 98023-2340",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "$21 – $44",
-   "free": false,
-   "summary": "Join us for another magical holiday adventure in Aladdin: A Holiday Panto!",
-   "description": "Join us for another magical holiday adventure in Aladdin: A Holiday Panto! Filled with laugh-out-loud comedy, pop music favorites, and all your favorite characters, this retelling of the classic fairytale follows Aladdin as he gets caught up in an evil sorcerer’s scheme and must find a way out, for him and for the Princess who’s stolen his heart. Centerstage’s Holiday Panto is the perfect family outing, date night, or solo break from the Holiday rush…if it isn’t already a part of your annual traditions, it soon will be!\n\nRated G",
-   "url": "https://www.parentmap.com/calendar/aladdin-a-holiday-panto/2026-12-19/1/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/ClientFile627242.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Centerstage Theatre, 3200 SW Dash Point Rd, Federal Way, WA, 98023-2340",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-19",
-    "end": "2026-12-21",
-    "notes": "Join us for another magical holiday adventure in Aladdin: A Holiday Panto!\n\nhttps://www.parentmap.com/calendar/aladdin-a-holiday-panto/2026-12-19/1/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
    "id": "3c976a8bcf",
    "series": "1482399993",
    "title": "Edmonds Holiday Market",
@@ -7691,6 +7744,43 @@
    "firstSeen": "2026-10-29T17:28:36Z",
    "revision": 1,
    "changed": "2026-10-30T17:04:03Z"
+  },
+  {
+   "id": "86077d910f",
+   "series": "92a48ccdaa",
+   "title": "December Art Market",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Dec 19–20",
+   "time": "10 AM–4 PM",
+   "place": "Duwamish Longhouse & Cultural Center, Seattle",
+   "placeLines": "Duwamish Longhouse & Cultural Center, Seattle\n4705 West Marginal Way Southwest, Seattle, WA, 98106",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Volunteers Needed - Click to sign up.",
+   "description": "volunteers needed! use button below to sign up.\n\nVOLUNTEER SIGN UP",
+   "url": "https://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny",
+   "image": "https://images.squarespace-cdn.com/content/v1/5ad0f1b9c258b4273c53d08f/1774567021752-MSR3RWDIN6AL95YFBJL1/unsplash-image-7VOyZ0-iO0o.jpg?format=1000w",
+   "imageCredit": "Duwamish Tribe",
+   "sources": [
+    "Duwamish Tribe",
+    "United Indians of All Tribes",
+    "ParentMap"
+   ],
+   "map": "Duwamish Longhouse & Cultural Center, 4705 West Marginal Way Southwest, Seattle, WA, 98106",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-19",
+    "end": "2026-12-21",
+    "notes": "Hours: 10 AM–4 PM\n\nVolunteers Needed - Click to sign up.\n\nhttps://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "835b084afa",
@@ -7759,6 +7849,73 @@
    "firstSeen": "2026-10-29T17:28:36Z"
   },
   {
+   "id": "650621bde5",
+   "series": "ed5acaabfd",
+   "title": "Photos with Santa at South Hill Mall – Puyallup, WA",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 660,
+   "endMinute": 1140,
+   "dates": "Sat, Dec 19",
+   "time": "11 AM–7 PM",
+   "place": "South Hill Mall, Puyallup",
+   "placeLines": "South Hill Mall, Puyallup\n3500 S. Meridian, Puyallup, WA, 98373",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Santa is coming to South Hill Mall!",
+   "description": "Santa is coming to South Hill Mall! Bring the whole family for professional photos with Santa, captured by Souvenir Photograph. Reserve a time online to skip the wait, or walk up. Prints and digital packages are available on-site. Address: 3500 S Meridian, Puyallup, WA 98373.\n\nAvailable options:\n\nTraditional Santa\nSanta Paws\nSilent Santa\n\nDaily schedules vary, please view the website for available dates and times.",
+   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-12-19/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/south-hill-mall-santa-1920x1080-1-e1793821051118.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "South Hill Mall, 3500 S. Meridian, Puyallup, WA, 98373",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T19:00:00Z",
+    "end": "2026-12-20T03:00:00Z",
+    "notes": "Santa is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-12-19/"
+   },
+   "firstSeen": "2026-11-05T00:00:07Z"
+  },
+  {
+   "id": "c55be84d0d",
+   "series": "cb42c24b02",
+   "title": "Diving Santa at the Seattle Aquarium",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 690,
+   "endMinute": 750,
+   "dates": "Sat, Dec 19",
+   "time": "11:30 AM–12:30 PM",
+   "place": "Seattle Aquarium",
+   "placeLines": "Seattle Aquarium\n1483 Alaskan Way Pier 59, Seattle, WA, 98101-2015",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "$3",
+   "free": false,
+   "summary": "Meet Diving Santa at the Seattle Aquarium!",
+   "description": "Meet Diving Santa at the Seattle Aquarium! Hear from the holly jolly diver about how you can help the ocean this holiday season.\n\nFind Santa swimming in a winter wonderland at our Window on Washington Waters habitat in Pier 59 on weekends between Thanksgiving and Christmas.\n\nNothing says “sea-son’s greetings” like a selfie with Santa! Take a picture together while Santa is underwater and you stay warm and dry. Snap yourself a merry little selfie or have one of our volunteers help take a photo using your device.\n\nWe’ll ring in the season with special kick-off dives on Friday, November 27!\n\nFor our merry members, we’ll be opening early at 9am on November 29 and December 15 with a special dive just for you.\n\nFor guests who benefit from a quieter environment, we’ll open early on December 6 with a special Santa dive. Online tickets and member reservations will be available soon.\n\nDon’t forget to treat yourself to an extra cozy cup of holiday cheer in our café. Special drink menu coming soon!\n\nDates and times\n\nNovember 2026 dates:\nDives at 11:30am and 2:30pm\nNovember 27–29\n\nDecember 2026 dates:\nDives at 11:30am and 2:30pm\nDecember 5–6\nDecember 12–13\nDecember 19–20\n\nQuiet early opening\nDives at 9am\nDecember 6\n\nPhotos with Dry Side Santa\nMissed Santa in the water? Don’t pout or cry! Get a photo with Santa on the dry side thanks to our photo partner, Photogenic. When not diving, Santa will be at the viewing window near the left side of Window on Washington Waters every Friday–Sunday…",
+   "url": "https://www.parentmap.com/calendar/28177/2026-12-19/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185142935-28177-7a644587d765.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Seattle Aquarium, 1483 Alaskan Way Pier 59, Seattle, WA, 98101-2015",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T19:30:00Z",
+    "end": "2026-12-19T20:30:00Z",
+    "notes": "Meet Diving Santa at the Seattle Aquarium!\n\nhttps://www.parentmap.com/calendar/28177/2026-12-19/"
+   },
+   "firstSeen": "2026-11-05T00:00:07Z"
+  },
+  {
    "id": "1d483fa242",
    "series": "09d4773809",
    "title": "Winterfest Ice Sculpting",
@@ -7790,6 +7947,41 @@
     "notes": "Our weekly Ice Sculpting series is back!\n\nhttps://www.parentmap.com/calendar/48509/2026-12-19/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "83cca4d46b",
+   "series": "ddf32f51fa",
+   "title": "Winterfest Armory Stage Entertainment",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 750,
+   "endMinute": 1080,
+   "dates": "Sat, Dec 19",
+   "time": "12:30–6 PM",
+   "place": "Seattle Center Armory",
+   "placeLines": "Seattle Center Armory\n305 Harrison St, Seattle, WA, 98109-4623",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…",
+   "description": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal entertainment while they check out our Winterfest Train & Village or grab a bite to eat at an Armory food merchant. View this year’s line-up below.\n\nNov. 27\n\nnoon: Zaniac Comedy Show\n2 p.m.: Holiday Harmony Pop\n3:30 p.m.: DJ Fishure\n\nNov. 28\n\n12:30 p.m.: Twelve Tones of Christmas\n2:30 p.m.: School of Rock\n\nNov. 29\n\n12:30 p.m.: Xmas Maximus\n2 p.m.: Louis Cano\n3:30 p.m.: Bailadores de Bronce\n\nDec. 5\n\n12:30 p.m.: SANCA\n2:30 p.m.: Northwest Boy Choir\n4 p.m.: KlezKids\n\nDec. 6\n\n12:30 p.m.: Garfield Jazz Band\n\nDec. 12\n\n12:30 p.m.: Rain City Tap\n2:30 p.m.: Swedish Singers of Seattle\n6 p.m.: Classical Holiday Sing-along\n\nDec. 13\n\n12:30 p.m.: NW Junior Pipe Band\n3 p.m.: Zje Mongol\n\nDec. 19\n\n12:30 p.m.: Lexi Nguyen\n2:30 p.m.: Michael Cagle and JP Cates\n5 p.m.: Rainbow City Band & Orchestra\n\nDec. 20\n\n12 p.m.: NW Tap Connection\n2 p.m.: WA Trumpet Guild\n5 p.m.: Greater Seattle Tubachristmas\n\nDec. 26\n\n12:30 p.m.: The Dickens Carolers\n3 p.m.: Seattle Civic Band\n\nDec. 27\n\n12:30 p.m.: Zaniac Comedy Show\n3 p.m.: Tlalokan",
+   "url": "https://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-19/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-100137.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Seattle Center Armory, 305 Harrison St, Seattle, WA, 98109-4623",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T20:30:00Z",
+    "end": "2026-12-20T02:00:00Z",
+    "notes": "Each weekend from November 27 – December 27, we’ll feature live performances on the Seattle Center Armory Stage, providing visitors with fun, seasonal…\n\nhttps://www.parentmap.com/calendar/winterfest-armory-stage-entertainment/2026-12-19/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "f4fd03b2bf",
@@ -7858,14 +8050,49 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "ec40a9b8c9",
+   "series": "0b3a420ec2",
+   "title": "‘Aladdin’, a Holiday Panto",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 840,
+   "endMinute": 960,
+   "dates": "Sat, Dec 19",
+   "time": "2–4 PM",
+   "place": "Centerstage Theatre, Federal Way",
+   "placeLines": "Centerstage Theatre, Federal Way\n3200 SW Dash Point Rd, Federal Way, WA, 98023-2340",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "$21 – $44",
+   "free": false,
+   "summary": "Join us for another magical holiday adventure in Aladdin: A Holiday Panto!",
+   "description": "Join us for another magical holiday adventure in Aladdin: A Holiday Panto! Filled with laugh-out-loud comedy, pop music favorites, and all your favorite characters, this retelling of the classic fairytale follows Aladdin as he gets caught up in an evil sorcerer’s scheme and must find a way out, for him and for the Princess who’s stolen his heart. Centerstage’s Holiday Panto is the perfect family outing, date night, or solo break from the Holiday rush…if it isn’t already a part of your annual traditions, it soon will be!\n\nRated G",
+   "url": "https://www.parentmap.com/calendar/aladdin-a-holiday-panto/2026-12-19/1/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/ClientFile627242.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Centerstage Theatre, 3200 SW Dash Point Rd, Federal Way, WA, 98023-2340",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T22:00:00Z",
+    "end": "2026-12-20T00:00:00Z",
+    "notes": "Join us for another magical holiday adventure in Aladdin: A Holiday Panto!\n\nhttps://www.parentmap.com/calendar/aladdin-a-holiday-panto/2026-12-19/1/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
+  },
+  {
    "id": "0f63085286",
    "series": "21c3d0e236",
    "title": "Waterfront Park Firepit Socials",
    "start": "2026-12-19",
-   "end": "2026-12-20",
+   "end": "2026-12-19",
    "startMinute": 900,
    "endMinute": 1080,
-   "dates": "Dec 19–20",
+   "dates": "Sat, Dec 19",
    "time": "3–6 PM",
    "place": "Pier 62, Seattle",
    "placeLines": "Pier 62, Seattle\n1951 Alaskan Way, Seattle, WA, 98101",
@@ -7883,78 +8110,14 @@
    ],
    "map": "Pier 62, 1951 Alaskan Way, Seattle, WA, 98101",
    "calendar": {
-    "allDay": true,
-    "start": "2026-12-19",
-    "end": "2026-12-21",
-    "notes": "Hours: 3–6 PM\n\nCome to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-12-19/"
-   },
-   "firstSeen": "2026-10-20T15:41:43Z"
-  },
-  {
-   "id": "741a41714e",
-   "series": "fc50ce7a57",
-   "title": "Christmas Ship Viewing at Magnuson Park",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "startMinute": 1020,
-   "endMinute": 1110,
-   "dates": "Sat, Dec 19",
-   "time": "5–6:30 PM",
-   "place": "Magnuson Park, Seattle",
-   "placeLines": "Magnuson Park, Seattle\n7400 Sand Point Way NE, Seattle, WA, 98115-8166",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations.",
-   "description": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations. Other lighted boats join in to make a boat parade. At departure, return and/or planned stops en route, the public is invited to gather on shore, view the ships and listen to the ship’s choir sing (broadcast via a speaker system). Some locations feature a bonfire as well.\n\nDEPARTS: Kirkland City Dock, 5:00-6:30 pm\nCHOIR: Emerald City Voices\n5:35-5:55, Warren G. Magnuson Park*",
-   "url": "https://www.parentmap.com/calendar/christmas-ship-viewing-magnuson-park/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775161667001-christmas-ship_kid-cruise_3-5328f6215e6f.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Magnuson Park, 7400 Sand Point Way NE, Seattle, WA, 98115-8166",
-   "calendar": {
     "allDay": false,
-    "start": "2026-12-20T01:00:00Z",
-    "end": "2026-12-20T02:30:00Z",
-    "notes": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations.\n\nhttps://www.parentmap.com/calendar/christmas-ship-viewing-magnuson-park/"
+    "start": "2026-12-19T23:00:00Z",
+    "end": "2026-12-20T02:00:00Z",
+    "notes": "Come to the waterfront and enjoy the wood-burning fire on Pier 62 with hot beverages, beautiful views, sunsets, and meeting new and old friends!\n\nhttps://www.parentmap.com/calendar/waterfront-park-firepit-socials/2026-12-19/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "1830795228",
-   "series": "f7891bf5ca",
-   "title": "Seymour Holiday Workshops",
-   "start": "2026-12-20",
-   "end": "2026-12-20",
-   "startMinute": 600,
-   "endMinute": 780,
-   "dates": "Sun, Dec 20",
-   "time": "10 AM–1 PM",
-   "place": "W.W. Seymour Botanical Conservatory, Tacoma",
-   "placeLines": "W.W. Seymour Botanical Conservatory, Tacoma\n316 S G St, Tacoma, WA, 98405-4733",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$5",
-   "free": false,
-   "summary": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory Free!",
-   "description": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory\n\nFree! $5 suggested donation\n\nDrop into the conservatory and create a handmade nature-themed treasure for someone special or yourself.\n\nNo registration required to attend.",
-   "url": "https://www.parentmap.com/calendar/seymour-holiday-workshops/2026-12-20/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192404948-conservatory-kid-crafts_dsc5973-web-1024x681-465da3e06c1e.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "W.W. Seymour Botanical Conservatory, 316 S G St, Tacoma, WA, 98405-4733",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-20T18:00:00Z",
-    "end": "2026-12-20T21:00:00Z",
-    "notes": "Sunday, December 6, 13 and 20 and 27 | 10 am-1 pm at the W.W. Seymour Botanical Conservatory Free!\n\nhttps://www.parentmap.com/calendar/seymour-holiday-workshops/2026-12-20/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-20T15:41:43Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:00:07Z"
   },
   {
    "id": "d7f075774e",

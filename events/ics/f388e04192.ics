@@ -5,17 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:f388e04192-seattle-happenings@nichkt.github.io
-DTSTAMP:20261104T184249Z
-SEQUENCE:0
+DTSTAMP:20261105T000007Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T000007Z
 DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:Photos with Santa at the Outlet Collection
 LOCATION:The Outlet Collection | Seattle\, 1101 Outlet Collection Way\, Aub
  urn\, WA\, 98001
-DESCRIPTION:Santa Claus is coming to The Outlet Collection Seattle!\n\nhttp
- s://www.parentmap.com/calendar/photos-with-santa-at-the-outlet-collection/
- 2026-11-20/
+DESCRIPTION:Hours: 2–5:30 PM\n\nSanta Claus is coming to The Outlet Colle
+ ction Seattle!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-
+ the-outlet-collection/2026-11-20/
 URL:https://www.parentmap.com/calendar/photos-with-santa-at-the-outlet-coll
  ection/2026-11-20/
 END:VEVENT
