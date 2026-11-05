@@ -16,13 +16,15 @@ Then open `http://127.0.0.1:4173/`.
 
 ## Events page
 
-`events/` is the list of upcoming events, at <https://nichkt.github.io/happenings/events/>. Don't edit it here: the app's private repository rebuilds it every morning with the app's own search and replaces the whole folder, in a commit titled "Events for" and the date. The page itself lives in that repository's `web/` folder.
+`events/` is the list of upcoming events, at <https://seattlehappenings.org/events/>. Don't edit it here: the app's private repository rebuilds it every morning with the app's own search and replaces the whole folder, in a commit titled "Events for" and the date. The page itself lives in that repository's `web/` folder.
 
 ## Deployment
 
-GitHub Pages publishes the `main` branch from the repository root:
+GitHub Pages publishes the `main` branch from the repository root, at the custom domain in `CNAME` (keep that file: without it Pages drops the domain):
 
-<https://nichkt.github.io/happenings/>
+<https://seattlehappenings.org/>
+
+The domain is registered at Cloudflare, and its DNS there points it at GitHub Pages: four `A` and four `AAAA` records for `seattlehappenings.org`, and a `CNAME` from `www` to `nichkt.github.io`, all "DNS only" so that GitHub's own HTTPS certificate covers it. `www` and the old address, <https://nichkt.github.io/happenings/>, redirect to it. Links within the site are relative, except in `404.html`, which is shown at any depth and so starts them at the root.
 
 The app's canonical privacy policy remains at:
 

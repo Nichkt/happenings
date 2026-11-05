@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nichkt.github.io/happenings/sitemap.xml
+Sitemap: https://seattlehappenings.org/sitemap.xml
