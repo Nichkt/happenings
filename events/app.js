@@ -1778,9 +1778,10 @@
     return withMeridiem ? `${base} ${h24 < 12 ? 'AM' : 'PM'}` : base;
   }
 
-  /** "1–9 PM", "10 AM–6 PM", "7:30 PM". */
+  /** "1–9 PM", "10 AM–6 PM", "7:30 PM", "All day" from midnight to midnight. */
   function timeRange(start, end) {
     if (start == null) return null;
+    if (start === 0 && end != null && end >= 1439) return 'All day';
     if (end == null || end === start) return clock(start);
     const sameHalf = (start < 720) === (end < 720);
     return `${clock(start, !sameHalf)}–${clock(end)}`;
@@ -1830,11 +1831,12 @@
 
   const instant = (ms) => new Date(ms).toISOString().replace(/\.\d{3}Z$/, 'Z');
 
-  /** CalendarTimes: a day with a start time goes in with its hours; anything longer, all day, with the hours in the notes. */
+  /** CalendarTimes: a day with a start time goes in with its hours; anything longer, all day, with the hours in the notes; midnight to midnight, all day, with none. */
   function calendarOf(g, s, e) {
-    const hours = e > s && g.startMinute != null ? `Hours: ${timeRange(g.startMinute, g.endMinute)}` : null;
+    const allDay = g.startMinute === 0 && g.endMinute != null && g.endMinute >= 1439;
+    const hours = e > s && g.startMinute != null && !allDay ? `Hours: ${timeRange(g.startMinute, g.endMinute)}` : null;
     const notes = [hours, g.summary, g.url].filter(Boolean).join('\n\n') || null;
-    if (g.startMinute == null || e > s) return { allDay: true, start: isoDay(s), end: isoDay(e + 1), notes };
+    if (g.startMinute == null || e > s || allDay) return { allDay: true, start: isoDay(s), end: isoDay(e + 1), notes };
     const begin = wallClock(s, g.startMinute, feed.zone);
     let end = begin + HOUR_MS;
     if (g.endMinute != null && g.endMinute > g.startMinute) end = wallClock(s, g.endMinute, feed.zone);
