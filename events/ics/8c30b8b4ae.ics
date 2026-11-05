@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c30b8b4ae-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261205T170000Z
+DTEND:20261206T000000Z
+SUMMARY:Pierce County Crafter’s Holiday Market
+LOCATION:Meridian Habitat Park\, 14422 Meridian E\, Puyallup\, WA\, 98375-6
+ 631
+DESCRIPTION:Kick off your holiday shopping experience at our Holiday Market
+ !\n\nhttps://www.parentmap.com/calendar/pierce-county-crafters-holiday-mar
+ ket/
+URL:https://www.parentmap.com/calendar/pierce-county-crafters-holiday-marke
+ t/
+END:VEVENT
+END:VCALENDAR

@@ -5,15 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:36c33ac605-seattle-happenings@nichkt.github.io
-DTSTAMP:20261105T000007Z
-SEQUENCE:0
-DTSTART:20261129T193000Z
-DTEND:20261129T203000Z
+DTSTAMP:20261105T185128Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T185128Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
 SUMMARY:Diving Santa at the Seattle Aquarium
 LOCATION:Seattle Aquarium\, 1483 Alaskan Way Pier 59\, Seattle\, WA\, 98101
  -2015
 DESCRIPTION:Meet Diving Santa at the Seattle Aquarium!\n\nhttps://www.p
- arentmap.com/calendar/28177/2026-11-29/
-URL:https://www.parentmap.com/calendar/28177/2026-11-29/
+ arentmap.com/calendar/28177-s2/
+URL:https://www.parentmap.com/calendar/28177-s2/
 END:VEVENT
 END:VCALENDAR

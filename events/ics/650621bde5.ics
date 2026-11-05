@@ -5,15 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:650621bde5-seattle-happenings@nichkt.github.io
-DTSTAMP:20261105T000007Z
-SEQUENCE:0
-DTSTART:20261219T190000Z
-DTEND:20261220T030000Z
+DTSTAMP:20261105T185128Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T185128Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261224
+TRANSP:TRANSPARENT
 SUMMARY:Photos with Santa at South Hill Mall – Puyallup\, WA
 LOCATION:South Hill Mall\, 3500 S. Meridian\, Puyallup\, WA\, 98373
-DESCRIPTION:Santa is coming to South Hill Mall!\n\nhttps://www.parentmap.co
- m/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-12-19/
+DESCRIPTION:Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nh
+ ttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puy
+ allup-wa/2026-11-14/
 URL:https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall
- -puyallup-wa/2026-12-19/
+ -puyallup-wa/2026-11-14/
 END:VEVENT
 END:VCALENDAR

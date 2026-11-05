@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:be59eaeea8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261201T010000Z
+DTEND:20261201T033000Z
+SUMMARY:Lacey Holiday Lights
+LOCATION:Huntamer Park in Woodland Square\, 618 Woodland Square Loop SE\, L
+ acey\, WA\, 98503
+DESCRIPTION:Celebrate the start of the holiday season at Lacey Holiday Ligh
+ ts!\n\nhttps://www.parentmap.com/calendar/lacey-holiday-lights/
+URL:https://www.parentmap.com/calendar/lacey-holiday-lights/
+END:VEVENT
+END:VCALENDAR

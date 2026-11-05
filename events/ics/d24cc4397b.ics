@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d24cc4397b-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261128T220000Z
+DTEND:20261129T010000Z
+SUMMARY:Lake City Winterfest
+LOCATION:Akin Building\, 12360 Lake City Way NE\, Seattle\, WA\, 98125
+DESCRIPTION:Join us for holiday fun at our FREE\, family-friendly Winterfes
+ t celebration.\n\nhttps://www.parentmap.com/calendar/lake-city-winterfest/
+URL:https://www.parentmap.com/calendar/lake-city-winterfest/
+END:VEVENT
+END:VCALENDAR

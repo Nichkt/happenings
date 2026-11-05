@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:93e9041d13-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261205T180000Z
+DTEND:20261205T200000Z
+SUMMARY:Family Bird & Holiday Crafting Morning
+LOCATION:Evergreen Arboretum & Gardens\, 145 Alverson Blvd\, Everett\, WA\,
+  98201
+DESCRIPTION:A little copper\, a few pine cones\, and a whole lot of imagina
+ tion!\n\nhttps://www.parentmap.com/calendar/family-bird-holiday-crafting-m
+ orning/
+URL:https://www.parentmap.com/calendar/family-bird-holiday-crafting-morning
+ /
+END:VEVENT
+END:VCALENDAR

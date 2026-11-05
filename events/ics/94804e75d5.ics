@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:94804e75d5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261219T020000Z
+DTEND:20261219T040000Z
+SUMMARY:Ballard Gingerbread Jubilee
+LOCATION:Ballard Community Center\, 6020 28th Ave NW\, Seattle\, 98107
+DESCRIPTION:Join us this year for an evening of holiday fun.\n\nhttps://www
+ .visitballard.com/event/ballard-gingerbread-jubilee/
+URL:https://www.visitballard.com/event/ballard-gingerbread-jubilee/
+END:VEVENT
+END:VCALENDAR

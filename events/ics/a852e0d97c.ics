@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a852e0d97c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261212T180000Z
+DTEND:20261212T230000Z
+SUMMARY:Holiday Celebrations Family Day
+LOCATION:White River Valley Museum\, 918 H St SE\, Auburn\, WA\, 98002-6112
+DESCRIPTION:Free Event!\n\nhttps://www.parentmap.com/calendar/holiday-celeb
+ rations-family-day/
+URL:https://www.parentmap.com/calendar/holiday-celebrations-family-day/
+END:VEVENT
+END:VCALENDAR

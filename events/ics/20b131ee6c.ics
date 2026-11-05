@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20b131ee6c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261213T000000Z
+DTEND:20261213T060000Z
+SUMMARY:Holidaze at Tacoma Armory
+LOCATION:Tacoma Armory\, 715 S 11th St\, Tacoma\, WA\, 98405-4619
+DESCRIPTION:The Holidays are approaching and the Black Night Market is the 
+ place to be for your holiday gift shopping and festivities!\n\nhttps://www
+ .parentmap.com/calendar/holidaze-tacoma-armory/2026-12-12/
+URL:https://www.parentmap.com/calendar/holidaze-tacoma-armory/2026-12-12/
+END:VEVENT
+END:VCALENDAR

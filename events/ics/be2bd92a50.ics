@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:be2bd92a50-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261212T200000Z
+DTEND:20261212T230000Z
+SUMMARY:Asian American Santa
+LOCATION:The Wing Luke Asian Museum\, 719 S King St\, Seattle\, WA\, 98104-
+ 3035
+DESCRIPTION:Family Photos with Santa in Chinatown-International District Sa
+ turday\, December 12\, 2026 | 12 PM – 3 PM Tateuchi Story Theatre (Timed
+  Ticketing) Meet Santa in…\n\nhttps://www.parentmap.com/calendar/55786/
+URL:https://www.parentmap.com/calendar/55786/
+END:VEVENT
+END:VCALENDAR

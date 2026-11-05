@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7b4d4bb46e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261224
+TRANSP:TRANSPARENT
+SUMMARY:Westlake Park Holiday Carousel
+LOCATION:Westlake Park\, 401 Pine Street\, Seattle\, WA\, 98101
+DESCRIPTION:Hours: 11 AM–8 PM\n\nAfter a six-year hiatus\, this beloved f
+ amily tradition is back!\n\nhttps://www.parentmap.com/calendar/westlake-pa
+ rk-holiday-carousel/2026-11-27/
+URL:https://www.parentmap.com/calendar/westlake-park-holiday-carousel/2026-
+ 11-27/
+END:VEVENT
+END:VCALENDAR

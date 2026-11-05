@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7f9d731618-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Gig Harbor Tree Lighting
+LOCATION:Skansie Brothers Park\, 3211 Harborview Dr\, Gig Harbor\, WA\, 983
+ 35
+DESCRIPTION:The annual city tree lighting will be a fun and festive holiday
+  event again this year!\n\nhttps://www.parentmap.com/calendar/gig-harbor-t
+ ree-lighting/
+URL:https://www.parentmap.com/calendar/gig-harbor-tree-lighting/
+END:VEVENT
+END:VCALENDAR

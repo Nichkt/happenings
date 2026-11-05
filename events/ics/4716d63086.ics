@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4716d63086-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261205T180000Z
+DTEND:20261206T010000Z
+SUMMARY:Birds Connect Seattle’s Holiday Open House
+LOCATION:Birds Connect Seattle\, 616 Olive Wy\, Seattle\, WA\, 98101
+DESCRIPTION:Join the fun at Birds Connect Seattle’s Holiday Open House!\n
+ \nhttps://www.parentmap.com/calendar/birds-connect-seattles-holiday-open-h
+ ouse/
+URL:https://www.parentmap.com/calendar/birds-connect-seattles-holiday-open-
+ house/
+END:VEVENT
+END:VCALENDAR

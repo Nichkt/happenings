@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b9bd3fcf5e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:Schack Art Center’s Holiday Market
+LOCATION:Schack Art Center\, 2921 Hoyt Ave\, Everett\, WA\, 98201-4086
+DESCRIPTION:Shop local this holiday season at Schack Art Center’s Holiday
+  Makers Market!\n\nhttps://www.parentmap.com/calendar/schack-art-centers-h
+ oliday-market/2026-12-04/
+URL:https://www.parentmap.com/calendar/schack-art-centers-holiday-market/20
+ 26-12-04/
+END:VEVENT
+END:VCALENDAR

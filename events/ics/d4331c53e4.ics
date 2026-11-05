@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d4331c53e4-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261127T220000Z
+DTEND:20261128T040000Z
+SUMMARY:Wintertide Holiday Celebration
+LOCATION:Downtown Everett\, 2900 Wetmore Ave\, Everett\, WA\, 98201
+DESCRIPTION:Join us for a festive afternoon and evening in downtown Everett
+ \, featuring the official Everett tree lighting\, magical snowfall\, free 
+ entertainment\, food…\n\nhttps://www.parentmap.com/calendar/wintertide-h
+ oliday-celebration/
+URL:https://www.parentmap.com/calendar/wintertide-holiday-celebration/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:11e6fc3ab3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261206T000000Z
+DTEND:20261206T040000Z
+SUMMARY:West Seattle Hometown Holidays
+LOCATION:Junction Plaza Park\, California Ave SW and Alaska Ave SW\, Seattl
+ e\, WA\, 98116
+DESCRIPTION:HOMETOWN HOLIDAYS 2026 SCHEDULE OF EVENTS Schedule for Night Ma
+ rket\, Tree Lighting\, Live Music and More December 5th\, 2026 (Schedule s
+ ubject to change as we…\n\nhttps://www.parentmap.com/calendar/west-seatt
+ le-hometown-holidays/
+URL:https://www.parentmap.com/calendar/west-seattle-hometown-holidays/
+END:VEVENT
+END:VCALENDAR

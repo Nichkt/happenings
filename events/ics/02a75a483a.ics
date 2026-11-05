@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:02a75a483a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261105T185128Z
+SEQUENCE:0
+DTSTART:20261121T180000Z
+DTEND:20261122T020000Z
+SUMMARY:Cards & Cocktails – Presented by Kitsap Collectors’ Market
+LOCATION:Kitsap Golf & Country Club\, 3885 NW Golf Club Hill Rd\, Bremerton
+ \, WA\, 98312
+DESCRIPTION:Join us Saturday\, November 21 at Kitsap Golf & Country Club in
+  Bremerton for Cards & Cocktails\, a collectibles show with a drink in han
+ d.\n\nhttps://www.parentmap.com/calendar/cards-cocktails-presented-by-kits
+ ap-collectors-market/
+URL:https://www.parentmap.com/calendar/cards-cocktails-presented-by-kitsap-
+ collectors-market/
+END:VEVENT
+END:VCALENDAR
