@@ -1,6 +1,6 @@
 # Seattle Happenings website
 
-Public landing page for [Seattle Happenings on Google Play](https://play.google.com/store/apps/details?id=com.nicholaston.happenings).
+The website of [Seattle Happenings on Google Play](https://play.google.com/store/apps/details?id=com.nicholaston.happenings): the list of upcoming events is the home page, and the page about the app is at `about/`.
 
 The site is deliberately static: plain HTML, CSS, and a small amount of JavaScript, with no analytics, trackers, external fonts, or build step.
 
@@ -16,7 +16,13 @@ Then open `http://127.0.0.1:4173/`.
 
 ## Events page
 
-`events/` is the list of upcoming events, at <https://seattlehappenings.org/events/>. Don't edit it here: the app's private repository rebuilds it every morning with the app's own search and replaces the whole folder, in a commit titled "Events for" and the date. The page itself lives in that repository's `web/` folder.
+The home page, <https://seattlehappenings.org/>, is the list of upcoming events: `index.html`, `app.js`, `app.css`, `theme.css`, `data/` and `ics/`. Don't edit those here: the app's private repository rebuilds them every morning with the app's own search and replaces them, in a commit titled "Events for" and the date. The page itself lives in that repository's `web/` folder. Everything else here (`about/`, `assets/`, `events/`, `404.html` and the rest) it leaves alone.
+
+The list was at `events/` until November 6, 2026. `events/index.html` now only sends old links on to the home page, keeping the event in them (`#e=...`).
+
+## About the app
+
+`about/` is the page about the app (`about/index.html`, with its `styles.css` and `script.js`), at <https://seattlehappenings.org/about/>. It was the home page until the events list took its place.
 
 ## Deployment
 

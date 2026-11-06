@@ -1,2 +1,2 @@
 # Calendar files keep the CRLF line ends RFC 5545 asks for.
-events/ics/*.ics -text
+ics/*.ics -text
