@@ -3,7 +3,7 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-05T19:52:45Z",
+ "generatedAt": "2026-11-06T07:19:19Z",
  "since": "2026-10-16T07:59:06Z",
  "from": "2026-11-05",
  "until": "2027-01-28",
@@ -99,7 +99,7 @@
   },
   {
    "name": "City of Mukilteo",
-   "events": 2
+   "events": 1
   },
   {
    "name": "City of Newcastle",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of North Bend",
-   "events": 3
+   "events": 5
   },
   {
    "name": "City of Redmond",
@@ -123,11 +123,11 @@
   },
   {
    "name": "Discover Burien",
-   "events": 8
+   "events": 7
   },
   {
    "name": "Downtown Seattle Association",
-   "events": 6
+   "events": 7
   },
   {
    "name": "Duwamish Tribe",
@@ -231,37 +231,6 @@
    "changed": "2026-11-05T18:51:28Z"
   },
   {
-   "id": "5326db1287",
-   "series": "7172f1d6d4",
-   "title": "Burien Winter Market",
-   "start": "2026-11-05",
-   "end": "2026-11-05",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Thu, Nov 5",
-   "time": "10 AM–4 PM",
-   "place": "Burien Town Square",
-   "placeLines": "Burien Town Square\n480 SW 152nd Street, Burien, WA, 98166",
-   "region": "SOUTH",
-   "category": "NIGHT_MARKET",
-   "summary": "Burien Farmer’s Market Farmers markets are an essential part of our economy and community.",
-   "description": "Burien Farmer’s Market\n\nFarmers markets are an essential part of our economy and community. Shopping at farmers markets helps to support agricultural producers, ensured food access for all and builds connections between producers and consumers.\n\n(Inclement weather rule in-effect: if there is snow present and/or temperature is below 20 degrees, the farmer’s market will be closed. We will post signs at Town Square and on Social Media)\n\nDETAILS:\n\n• The market is open every Thursday.\n\n• Winter Market is open 10am - 4pm (Nov-Apr)\n\n• Summer Market is open 10am - 6pm (May-Oct)\n\n• Most vendors accept and prefer cash but can also process credit and debit cards. You can purchase market tokens with your card at the information booth to use for purchase at all booths. We can also process your Community Gift e-Card - Buy Here\n\n• EBT is accepted! Inquire at the main tent to see how you can receive up to $10 with the SNAP Market Match program\n\n• Enjoy Live Music and Food Tents during the Summer (May to October)\n\n• Vendors rotate often and seasonally, no week is every the same as that last: fruits, vegetables and seasonal produce, jams, honey, preserves, kombucha, baked goods, fresh flowers, cheese, bath and body products, house plants and potted plants, gems & stones, gifts, wine, meat, snacks and art (jewelry, glass works, yard art, cloth and textile crafts, face)\n\n• Pets are allowed on leash\n\nInterested in becoming a VENDOR at the Burien Farmers Market?\n\nCLICK HERE TO GET MORE INFORMATION…",
-   "url": "https://www.discoverburien.org/calendar/2025/11/6/burien-winter-market",
-   "image": "https://images.squarespace-cdn.com/content/v1/5ac80d6fcef3723a4076ca3f/9e015b7a-9203-4bd9-b627-d4c71c7fc815/Winter+Market+2023.png?format=1000w",
-   "imageCredit": "Discover Burien",
-   "sources": [
-    "Discover Burien"
-   ],
-   "map": "Burien Town Square, 480 SW 152nd Street, Burien, WA, 98166",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-05T18:00:00Z",
-    "end": "2026-11-06T00:00:00Z",
-    "notes": "Burien Farmer’s Market Farmers markets are an essential part of our economy and community.\n\nhttps://www.discoverburien.org/calendar/2025/11/6/burien-winter-market"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
    "id": "911ef8b79e",
    "series": "e538786f1f",
    "title": "SAM Día de los Muertos Community Celebration",
@@ -291,34 +260,6 @@
     "start": "2026-11-05T18:00:00Z",
     "end": "2026-11-06T05:00:00Z",
     "notes": "Join us as we celebrate Día de los Muertos at Seattle Art Museum on Free First Thursday!\n\nhttps://www.parentmap.com/calendar/47922/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "f681a58540",
-   "series": "d6e8bd21c9",
-   "title": "Diwali Festival of Lights",
-   "start": "2026-11-05",
-   "end": "2026-11-05",
-   "startMinute": 1080,
-   "endMinute": 1200,
-   "dates": "Thu, Nov 5",
-   "time": "6–8 PM",
-   "place": "Rosehill Community Center - Mukilteo",
-   "placeLines": "Rosehill Community Center - Mukilteo",
-   "region": "NORTH",
-   "category": "CULTURAL",
-   "summary": "https://www.mukilteowa.gov/calendar.aspx?EID=1063",
-   "url": "https://www.mukilteowa.gov/calendar.aspx?EID=1063",
-   "sources": [
-    "City of Mukilteo"
-   ],
-   "map": "Rosehill Community Center - Mukilteo",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-06T02:00:00Z",
-    "end": "2026-11-06T04:00:00Z",
-    "notes": "https://www.mukilteowa.gov/calendar.aspx?EID=1063\n\nhttps://www.mukilteowa.gov/calendar.aspx?EID=1063"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
   },
@@ -2587,6 +2528,35 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "b837648887",
+   "series": "1812bbaae1",
+   "title": "Friends of the North Bend Library Holiday Bazaar",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 660,
+   "endMinute": 1050,
+   "dates": "Sat, Nov 21",
+   "time": "11 AM–5:30 PM",
+   "place": "North Bend Library",
+   "placeLines": "North Bend Library",
+   "region": "EASTSIDE",
+   "category": "NIGHT_MARKET",
+   "summary": "Holiday themed books, gifts, and decor.",
+   "description": "Holiday themed books, gifts, and decor. An eclectic array of new or like-new selections for that perfect gift. All proceeds will benefit programs at the North Bend Library for all ages. Sponsored by the Friends of the North Bend Library.\nhttps://www.northbendwa.gov/m/calendar/event/detail/4776",
+   "url": "https://www.northbendwa.gov/m/calendar/event/detail/4776",
+   "sources": [
+    "City of North Bend"
+   ],
+   "map": "North Bend Library, North Bend Library - 115 E 4th St North Bend WA 98045",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T19:00:00Z",
+    "end": "2026-11-22T01:30:00Z",
+    "notes": "Holiday themed books, gifts, and decor.\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4776"
+   },
+   "firstSeen": "2026-11-06T07:19:19Z"
+  },
+  {
    "id": "f16cd3f6a0",
    "series": "0a00765829",
    "title": "Salmon Steward Interpretation Days",
@@ -2941,6 +2911,34 @@
    "firstSeen": "2026-11-05T00:00:07Z",
    "revision": 1,
    "changed": "2026-11-05T18:51:28Z"
+  },
+  {
+   "id": "2bf21dbade",
+   "series": "f2e9922617",
+   "title": "Holiday Train Window Display",
+   "start": "2026-11-27",
+   "end": "2027-01-03",
+   "dates": "Nov 27–Jan 3",
+   "place": "Pacific Place, Seattle",
+   "placeLines": "Pacific Place, Seattle\n600 Pine St, Seattle, WA",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Relive nostalgic holiday memories at an all-new interactive train window display in downtown Seattle.",
+   "description": "Relive nostalgic holiday memories at an all-new interactive train window display in downtown Seattle. In partnership with Sound Transit, DSA will present a newly designed window display featuring a model train and some Seattle-themed surprises at Pacific Place. Stop by the corner of 6th and Pine to check it out this season! The train window will be viewable 24 hours a day beginning Nov. 27.\n\nPictured here is the downtown window display from the past – we’re still tinkering with this year’s design, so stay tuned for new photos!",
+   "url": "https://downtownseattle.org/event/holiday-train-window-display/",
+   "sources": [
+    "Downtown Seattle Association"
+   ],
+   "map": "Pacific Place, 600 Pine St, Seattle, WA",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-27",
+    "end": "2027-01-04",
+    "notes": "Relive nostalgic holiday memories at an all-new interactive train window display in downtown Seattle.\n\nhttps://downtownseattle.org/event/holiday-train-window-display/"
+   },
+   "firstSeen": "2026-11-06T07:19:19Z"
   },
   {
    "id": "2eac083b84",
@@ -7368,6 +7366,35 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "337a09bd0e",
+   "series": "bf8cf18c49",
+   "title": "DIY Origami Lantern Light Strings",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 840,
+   "endMinute": 1050,
+   "dates": "Sat, Dec 12",
+   "time": "2–5:30 PM",
+   "place": "North Bend Library",
+   "placeLines": "North Bend Library",
+   "region": "EASTSIDE",
+   "category": "CULTURAL",
+   "summary": "In this beginner-friendly workshop, you will learn the art of folding origami lanterns before crafting your very own custom string of mini lights.",
+   "description": "In this beginner-friendly workshop, you will learn the art of folding origami lanterns before crafting your very own custom string of mini lights. Perfect as a handmade gift or a cozy addition to your own home, you'll take home a totally unique creation. All materials are provided.\n\nFor Teens & Adults https://www.northbendwa.gov/m/calendar/event/detail/4777",
+   "url": "https://www.northbendwa.gov/m/calendar/event/detail/4777",
+   "sources": [
+    "City of North Bend"
+   ],
+   "map": "North Bend Library, North Bend Library - 115 E 4th St North Bend WA 98045",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T22:00:00Z",
+    "end": "2026-12-13T01:30:00Z",
+    "notes": "In this beginner-friendly workshop, you will learn the art of folding origami lanterns before crafting your very own custom string of mini lights.\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4777"
+   },
+   "firstSeen": "2026-11-06T07:19:19Z"
+  },
+  {
    "id": "77277bc206",
    "series": "21c3d0e236",
    "title": "Waterfront Park Firepit Socials",
@@ -8871,7 +8898,7 @@
    "cost": "Free",
    "free": true,
    "summary": "Event Types: Arts,Community,Dance,Film,Holiday/Seasonal Events,Music,Special Events,Youth Neighborhoods: Citywide,Pioneer Square Contact: Rana San Contact…",
-   "description": "Event Types: Arts,Community,Dance,Film,Holiday/Seasonal Events,Music,Special Events,Youth\nNeighborhoods: Citywide,Pioneer Square\nContact: Rana San\nContact Phone: (206) 256-6279\nContact Email: rana.san@seattle.gov\nAudience: All\nPre-Register: Yes\nCost: Free\n\nEnter a waking dream as King Street Station is transformed in celebration of the longest night of 2026. Full of guided movement, wellness activities, participatory rituals, ambient soundscapes, and countless inventions culled from subconscious states, LONGEST NIGHT is a communally-minded, season-inspired Solstice party that brings light to the liminal space of the year’s darkest day.\n\nCurated by Vee Hua 華婷婷 and presented by ARTS at King Street Station. FREE.\nFull line up to be announced!",
+   "description": "Event Types: Arts,Community,Dance,Film,Holiday/Seasonal Events,Music,Special Events,Youth\nNeighborhoods: Citywide,Pioneer Square\nContact: Rana San\nContact Phone: (206) 256-6279\nContact Email: rana.san@seattle.gov\nAudience: All\nPre-Register: Yes\nCost: Free\n\nEnter a waking dream as King Street Station is transformed in celebration of the longest night of 2026. Full of guided movement, wellness activities, participatory rituals, ambient soundscapes, and countless inventions culled from subconscious states, LONGEST NIGHT is a communally-minded, season-inspired Solstice party that brings light to the liminal space of the year’s darkest day.\n\nCurated by Vee Hua 華婷婷 and presented by ARTS at King Street Station. FREE.\n\nScheduled activities:\n5:30–6 PM — ARTS at King Street Station doors open\n6:15–6:30 PM — Opening Ceremony + Orientation\n6:30–7:15 PM — Curator tours of Visions of Worldbuilding and Decad\n7:15–8:15 PM — Live music\n8:30–10 PM — QiFlow + Sound Bath: a fusion of qigong, yoga, and intuitive flow with guided visualization, vocal toning, and a restorative sound bath with Alisa Galper",
    "url": "https://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D206638345",
    "image": "https://www.trumba.com/i/DgD9NsLQT5ECK53wJxHt%2AEGE.jpg",
    "imageCredit": "City of Seattle",

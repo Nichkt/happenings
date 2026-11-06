@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:337a09bd0e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T071919Z
+SEQUENCE:0
+DTSTART:20261212T220000Z
+DTEND:20261213T013000Z
+SUMMARY:DIY Origami Lantern Light Strings
+LOCATION:North Bend Library\, North Bend Library - 115 E 4th St North Bend 
+ WA 98045
+DESCRIPTION:In this beginner-friendly workshop\, you will learn the art of 
+ folding origami lanterns before crafting your very own custom string of mi
+ ni lights.\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4777
+URL:https://www.northbendwa.gov/m/calendar/event/detail/4777
+END:VEVENT
+END:VCALENDAR

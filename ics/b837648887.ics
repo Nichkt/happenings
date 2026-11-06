@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b837648887-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T071919Z
+SEQUENCE:0
+DTSTART:20261121T190000Z
+DTEND:20261122T013000Z
+SUMMARY:Friends of the North Bend Library Holiday Bazaar
+LOCATION:North Bend Library\, North Bend Library - 115 E 4th St North Bend 
+ WA 98045
+DESCRIPTION:Holiday themed books\, gifts\, and decor.\n\nhttps://www.northb
+ endwa.gov/m/calendar/event/detail/4776
+URL:https://www.northbendwa.gov/m/calendar/event/detail/4776
+END:VEVENT
+END:VCALENDAR
