@@ -1,0 +1,48 @@
+/* Guide pages (this weekend, Eastside, Bellevue...). Built by tools/build_guides.py. */
+:root {
+  --bg: #f6f8f9; --card: #ffffff; --ink: #14232b; --muted: #55666e;
+  --brand: #123946; --accent: #1d6f86; --line: #dde4e7; --free: #e3f4ea; --free-ink: #1c6b3c;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1a1f; --card: #172429; --ink: #e6eef1; --muted: #9db0b8;
+    --brand: #8fd0e3; --accent: #8fd0e3; --line: #26383f; --free: #1d3a2a; --free-ink: #9fe0b8;
+  }
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+a { color: var(--accent); }
+.top { background: #123946; color: #fff; padding: 12px 16px; }
+.brand { color: #fff; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 8px; }
+.brand img { border-radius: 6px; }
+.guides { display: flex; gap: 8px; overflow-x: auto; margin-top: 10px; padding-bottom: 4px; }
+.guides a { color: #d9eef4; text-decoration: none; white-space: nowrap; font-size: 14px; padding: 4px 10px; border: 1px solid rgba(255,255,255,.25); border-radius: 999px; }
+.guides a[aria-current] { background: #fff; color: #123946; border-color: #fff; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 20px 16px 40px; }
+h1 { font-size: 28px; line-height: 1.2; margin: 8px 0 8px; color: var(--brand); }
+h2 { font-size: 20px; margin: 28px 0 8px; }
+.intro { color: var(--muted); margin: 0 0 6px; }
+.count { font-size: 14px; color: var(--muted); margin: 0 0 16px; }
+.list, .hub { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+.hub a { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; text-decoration: none; font-weight: 600; }
+.ev { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+.ev h3 { margin: 2px 0 4px; font-size: 18px; line-height: 1.3; }
+.ev h3 a { color: var(--ink); text-decoration: none; }
+.ev h3 a:hover { text-decoration: underline; }
+.ev p { margin: 4px 0; }
+.when { font-size: 14px; font-weight: 600; color: var(--accent); }
+.place { color: var(--muted); font-size: 15px; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { font-size: 12px; padding: 2px 8px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); color: var(--muted); }
+.tag.free { background: var(--free); color: var(--free-ink); border-color: transparent; }
+.acts { display: flex; flex-wrap: wrap; gap: 14px; font-size: 14px; }
+.signup { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; margin: 20px 0; }
+.signup label { display: block; margin-bottom: 8px; }
+.signup .row { display: flex; gap: 8px; flex-wrap: wrap; }
+.signup input { flex: 1 1 200px; min-width: 0; font: inherit; padding: 9px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); }
+.signup button { font: inherit; font-weight: 600; padding: 9px 18px; border: 0; border-radius: 8px; background: #123946; color: #fff; cursor: pointer; }
+.empty { background: var(--card); border: 1px dashed var(--line); border-radius: 12px; padding: 16px; }
+.foot { max-width: 760px; margin: 0 auto; padding: 0 16px 32px; color: var(--muted); font-size: 14px; }
+.foot a { margin-right: 14px; }
+.fine { font-size: 12px; }

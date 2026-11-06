@@ -1,0 +1,41 @@
+# Rebuilds the guide pages (this-weekend/, eastside/, bellevue/...) and
+# sitemap.xml from data/events.json, after each morning's "Events for" commit.
+name: Guides
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/events.json', 'tools/build_guides.py']
+  schedule:
+    - cron: '41 13 * * *'   # fallback, about 5:41 am Pacific
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guides
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build guide pages
+        run: python3 tools/build_guides.py
+      - name: Commit
+        run: |
+          git add -A this-weekend free-this-weekend eastside-this-weekend seattle-this-weekend eastside bellevue holiday-events guides sitemap.xml
+          if git diff --cached --quiet; then echo "Nothing changed."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Guides for $(date -u +%Y-%m-%d)"
+          for attempt in 1 2 3; do
+            git pull -q --rebase && git push -q && exit 0
+            sleep 10
+          done
+          exit 1
