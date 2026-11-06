@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf2431efa-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART:20261128T190000Z
+DTEND:20261129T020000Z
+SUMMARY:Bridge Lighting Ceremony
+LOCATION:The Old Cannery\, 13608A Valley Ave E\, Sumner\, WA\, 98390-1535
+DESCRIPTION:The Bridge Lighting Ceremony is back!\n\nhttps://www.parentmap.
+ com/calendar/bridge-lighting-ceremony/
+URL:https://www.parentmap.com/calendar/bridge-lighting-ceremony/
+END:VEVENT
+END:VCALENDAR

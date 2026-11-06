@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ab1d3c1d2-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART:20261212T163000Z
+DTEND:20261212T203000Z
+SUMMARY:Breakfast With Santa
+LOCATION:Auburn Community and Events Center\, 910 SE 9th St.\, Auburn\, WA\
+ , 98001
+DESCRIPTION:Ever wondered what sausage tastes like at the North Pole?\n\nht
+ tps://www.parentmap.com/calendar/breakfast-santa-2/
+URL:https://www.parentmap.com/calendar/breakfast-santa-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1bccdcb326-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Gig Harbor Lighted Boat Parade
+LOCATION:Skansie Brothers Park\, 3211 Harborview Dr\, Gig Harbor\, WA\, 983
+ 35
+DESCRIPTION:On December 12th 2026\, head down to the waterfront and enjoy t
+ his Gig Harbor tradition put on by the Gig Harbor Yacht Club.\n\nhttps://w
+ ww.parentmap.com/calendar/gig-harbor-lighted-boat-parade/
+URL:https://www.parentmap.com/calendar/gig-harbor-lighted-boat-parade/
+END:VEVENT
+END:VCALENDAR

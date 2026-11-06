@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f97ceb97c5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261222
+TRANSP:TRANSPARENT
+SUMMARY:Photos with Santa at The Village at Totem Lake
+LOCATION:The Village at Totem Lake\, 11901 NE Village Plaza\, Kirkland\, WA
+ \, 98034
+DESCRIPTION:Hours: 11 AM–7 PM\n\nSanta is coming to The Village at Totem 
+ Lake!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-the-villa
+ ge-at-totem-lake-2/2026-11-21/
+URL:https://www.parentmap.com/calendar/photos-with-santa-at-the-village-at-
+ totem-lake-2/2026-11-21/
+END:VEVENT
+END:VCALENDAR

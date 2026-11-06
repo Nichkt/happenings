@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a860c67c4a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART:20261205T010000Z
+DTEND:20261205T040000Z
+SUMMARY:SeaTac Winterfest
+LOCATION:SeaTac Community Center\, 13735 24th Ave. S.\, SeaTac\, WA\, 98168
+DESCRIPTION:SeaTac Winterfest Next date: Friday\, December 04\, 2026 | 05:0
+ 0 PM to 08:00 PM Come in your best festive outfit for a night of live ente
+ rtainment and bouncy…\n\nhttps://www.parentmap.com/calendar/seatac-winte
+ rfest/
+URL:https://www.parentmap.com/calendar/seatac-winterfest/
+END:VEVENT
+END:VCALENDAR

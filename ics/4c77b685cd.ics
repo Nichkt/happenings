@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4c77b685cd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART:20261120T020000Z
+DTEND:20261120T040000Z
+SUMMARY:Mini Make and Mingle
+LOCATION:Paint Kirkland\, 425 Urban Plz Ste\, Kirkland\, 98033
+DESCRIPTION:Thursday\, November 19 | 6–8 PM FREE | One mini magnet includ
+ ed Come solo\, bring a friend\, or make a new one!\n\nhttps://www.parentma
+ p.com/calendar/mini-make-and-mingle/
+URL:https://www.parentmap.com/calendar/mini-make-and-mingle/
+END:VEVENT
+END:VCALENDAR

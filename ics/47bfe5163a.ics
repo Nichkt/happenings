@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:47bfe5163a-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART:20261221T155000Z
+DTEND:20261221T170000Z
+SUMMARY:Sunrise Solstice Walk
+LOCATION:Evergreen Arboretum & Gardens\, 145 Alverson Blvd\, Everett\, WA\,
+  98201
+DESCRIPTION:Celebrate the shortest day and the promise of brighter mornings
+  ahead!\n\nhttps://www.parentmap.com/calendar/sunrise-solstice-walk/
+URL:https://www.parentmap.com/calendar/sunrise-solstice-walk/
+END:VEVENT
+END:VCALENDAR

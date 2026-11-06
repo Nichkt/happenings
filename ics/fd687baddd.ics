@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd687baddd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART:20261115T230000Z
+DTEND:20261116T033000Z
+SUMMARY:All-Ages Live Music & Dancing at the Fruitland Grange
+LOCATION:Fruitland Grange\, 11102 86th Ave E\, Puyallup\, WA\, 98373
+DESCRIPTION:A Little Country\, A Little Rock & Roll\, and A Whole Lot of Fu
+ n!\n\nhttps://www.parentmap.com/calendar/all-ages-live-music-dancing-at-th
+ e-fruitland-grange/
+URL:https://www.parentmap.com/calendar/all-ages-live-music-dancing-at-the-f
+ ruitland-grange/
+END:VEVENT
+END:VCALENDAR

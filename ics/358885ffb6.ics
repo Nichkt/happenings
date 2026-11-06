@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:358885ffb6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Everett Station Holiday Celebration
+LOCATION:Everett Station Great Hall\, 3201 Smith Avenue\, Everett\, 98201
+DESCRIPTION:Free digital photos with Santa and hot chocolate.\n\nhttps://ww
+ w.parentmap.com/calendar/everett-station-holiday-celebration/
+URL:https://www.parentmap.com/calendar/everett-station-holiday-celebration/
+END:VEVENT
+END:VCALENDAR

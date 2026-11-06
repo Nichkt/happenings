@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ef3724120d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261106T180755Z
+SEQUENCE:0
+DTSTART:20261212T170000Z
+DTEND:20261212T183000Z
+SUMMARY:Breakfast with Santa
+LOCATION:Lacey Community Center\, 6729 Pacific Ave SE\, Lacey\, WA\, 98503-
+ 1350
+DESCRIPTION:Enjoy a kid-friendly breakfast\, crafts\, games\, and fun Chris
+ tmas surprises!\n\nhttps://www.parentmap.com/calendar/breakfast-santa-11/
+URL:https://www.parentmap.com/calendar/breakfast-santa-11/
+END:VEVENT
+END:VCALENDAR
