@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-06T18:07:55Z",
+ "generatedAt": "2026-11-07T16:55:41Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-06",
- "until": "2027-01-29",
+ "from": "2026-11-07",
+ "until": "2027-01-30",
  "regions": [
   {
    "id": "SEATTLE",
@@ -115,7 +115,7 @@
   },
   {
    "name": "City of Seattle",
-   "events": 16
+   "events": 18
   },
   {
    "name": "City of Snoqualmie",
@@ -143,7 +143,7 @@
   },
   {
    "name": "ParentMap",
-   "events": 223
+   "events": 219
   },
   {
    "name": "Phinney Center",
@@ -167,9 +167,9 @@
    "id": "f68d67c288",
    "series": "5ca6ab0353",
    "title": "Celebrate Diwali at The Bellevue Collection",
-   "start": "2026-11-04",
+   "start": "2026-11-05",
    "end": "2026-11-08",
-   "dates": "Nov 4–8",
+   "dates": "Nov 5–8",
    "place": "Bellevue Square",
    "placeLines": "Bellevue Square",
    "region": "EASTSIDE",
@@ -178,7 +178,7 @@
    "free": true,
    "summary": "Enjoy Diwali decor and displays!",
    "description": "Enjoy Diwali decor and displays! Enjoy a Diwali celebration on Nov. 7 featuring live performances, henna design and more.\n\nDiwali is a time to welcome a new year, happiness and prosperity. It is a festival of lights that follows the lunar calendar and is similar to a new year celebration. Diwali is one of India’s most celebrated holidays.\n\nDisplays November 2 – 8\n\nRangoli Display\nSee beautiful rangoli made from sand on display in Bellevue Square from artists of the Seattle Maharashtra Mandal community.\n\nSari (Saree) Display\nSee a display of saris (sarees) on the first level of Bellevue Square presented by the Seattle Maharashtra Mandal community.\n\nDiwali Pop Spot\nStop by Bellevue Square’s Center Court and snap a picture in the Diwali Pop Spot.\n\nLantern Craft\nPick up a Lantern Craft at Bellevue Square’s Guest Services to make at home, while supplies last.\n\nLive Performances:\n\nWatch cultural Indian performances including dance, visual arts, and music to celebrate the Festival of Lights on Saturday, November 7 from noon to 5 pm.\n\nHenna:\n\nHave a SARAHENNA Organic Body Art artist apply complimentary henna designs on Saturday, November 7 from 11 am to 6 pm for you to enjoy for weeks after our Diwali celebration is over!",
-   "url": "https://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-04/",
+   "url": "https://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-05/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773115263149-diwali-1-copy-a9e57b76e59e.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -187,23 +187,23 @@
    "map": "Bellevue Square, 575 Bellevue Square, Bellevue, WA, 98004",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-04",
+    "start": "2026-11-05",
     "end": "2026-11-09",
-    "notes": "Enjoy Diwali decor and displays!\n\nhttps://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-04/"
+    "notes": "Enjoy Diwali decor and displays!\n\nhttps://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-05/"
    },
    "firstSeen": "2026-10-22T15:56:13Z",
-   "revision": 2,
-   "changed": "2026-11-06T18:07:55Z"
+   "revision": 3,
+   "changed": "2026-11-07T16:55:41Z"
   },
   {
    "id": "0f29c7222a",
    "series": "c9e6e38150",
    "title": "Luckie Farms Pumpkin Smash with Highland Cows",
-   "start": "2026-11-04",
+   "start": "2026-11-05",
    "end": "2026-11-08",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Nov 4–8",
+   "dates": "Nov 5–8",
    "time": "10 AM–6 PM",
    "place": "Luckie Farms, Lake Stevens",
    "placeLines": "Luckie Farms, Lake Stevens\n930 Sunnyside Blvd, Lake Stevens, WA, 98258",
@@ -213,7 +213,7 @@
    "free": false,
    "summary": "Bring your Halloween pumpkin to the farm and smash it for our Highland cows!",
    "description": "Bring your Halloween pumpkin to the farm and smash it for our Highland cows! Don’t have a pumpkin? No problem—we’ll have one waiting for you.\n\nWatch the Highland cows come running for their favorite fall treat and get up close and personal as they crunch, munch, and enjoy your pumpkin. It’s messy, silly, and a whole lot of fun!\n\nAround 1 hour of fun: sign up for timed sessions throughout the day.\n\nYour experience includes a covered hay wagon ride through our 75-acre farm, with stops to meet our herd up close and enjoy the sights of the farm.",
-   "url": "https://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-04/",
+   "url": "https://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-05/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/10/a5b4c9c4-20d7-4fe9-815b-237b551f5037.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -222,13 +222,13 @@
    "map": "Luckie Farms, 930 Sunnyside Blvd, Lake Stevens, WA, 98258",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-04",
+    "start": "2026-11-05",
     "end": "2026-11-09",
-    "notes": "Hours: 10 AM–6 PM\n\nBring your Halloween pumpkin to the farm and smash it for our Highland cows!\n\nhttps://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-04/"
+    "notes": "Hours: 10 AM–6 PM\n\nBring your Halloween pumpkin to the farm and smash it for our Highland cows!\n\nhttps://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-05/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 3,
-   "changed": "2026-11-06T18:07:55Z"
+   "revision": 4,
+   "changed": "2026-11-07T16:55:41Z"
   },
   {
    "id": "5704f816c9",
@@ -262,204 +262,6 @@
     "notes": "Hours: 10 AM–3 PM\n\nJoin us for a festive celebration at The Fremont Social on November 6-8, 2026!\n\nhttps://www.parentmap.com/calendar/christmas-minis-at-the-fremont-social/2026-11-06/"
    },
    "firstSeen": "2026-10-22T15:56:13Z"
-  },
-  {
-   "id": "669cff14f1",
-   "series": "55b1f77ea3",
-   "title": "Friday Family Movie Night at South Park Community Center - Ratatouille",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 990,
-   "endMinute": 1170,
-   "dates": "Fri, Nov 6",
-   "time": "4:30–7:30 PM",
-   "place": "South Park Community Center",
-   "placeLines": "South Park Community Center",
-   "region": "SEATTLE",
-   "category": "OUTDOOR",
-   "cost": "Free",
-   "free": true,
-   "summary": "Parks Event Category: Community Center Special Events Neighborhoods: South Park Community Center: South Park Community Center Contact: South Park Community…",
-   "description": "Parks Event Category: Community Center Special Events\nNeighborhoods: South Park\nCommunity Center: South Park Community Center\nContact: South Park Community Center\nContact Phone: 206-684-7451\nAudience: Adults,All,Children,Family,Senior,Special Needs,Teen\nPre-Register: No\nCost: Free\n\nJoin us every first Friday this fall at 4:30 PM for a FREE movie night, great for the whole family!\n\nNovember 6 - Ratatouille\nDecember 4 - Home Alone",
-   "url": "https://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D210700763",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "South Park Community Center, WA",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T00:30:00Z",
-    "end": "2026-11-07T03:30:00Z",
-    "notes": "Parks Event Category: Community Center Special Events Neighborhoods: South Park Community Center: South Park Community Center Contact: South Park Community…\n\nhttps://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D210700763"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "1e99f423a3",
-   "series": "36ab915b5a",
-   "title": "Olympia Watson’s Holiday Open House",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 1020,
-   "endMinute": 1200,
-   "dates": "Fri, Nov 6",
-   "time": "5–8 PM",
-   "place": "Watson’s Greenhouse – Olympia",
-   "placeLines": "Watson’s Greenhouse – Olympia\n4004 Harrison Ave NW, Olympia, WA, 98502",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Step into the magic of the season at the Watson’s Holiday Open House!",
-   "description": "Step into the magic of the season at the Watson’s Holiday Open House! Our stores are transformed into a winter wonderland where beautifully decorated Christmas trees shimmer around every corner, ready to inspire and delight. Get a head start on your holiday shopping with unique decor and gifts ready for everyone on your list. Bring the whole family!\n\nWe’ll have plenty of festive photo spots perfect for capturing holiday memories, join us and celebrate the official start of the most wonderful time of the year!",
-   "url": "https://www.parentmap.com/calendar/olympia-watsons-holiday-open-house/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Facebook-Event-Cover-Holiday-Events-1920-1005-scaled-e1792080841759-768x579.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Watson’s Greenhouse – Olympia, 4004 Harrison Ave NW, Olympia, WA, 98502",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T01:00:00Z",
-    "end": "2026-11-07T04:00:00Z",
-    "notes": "Step into the magic of the season at the Watson’s Holiday Open House!\n\nhttps://www.parentmap.com/calendar/olympia-watsons-holiday-open-house/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "f5ca427112",
-   "series": "2817842343",
-   "title": "Burien Día de los Muertos",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 1080,
-   "endMinute": 1260,
-   "dates": "Fri, Nov 6",
-   "time": "6–9 PM",
-   "place": "Burien Community Center",
-   "placeLines": "Burien Community Center\n14700 6th Ave SW, Burien, WA, 98166",
-   "region": "SOUTH",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Mark Your Calendar for Burien’s Día de los Muertos celebration on Friday, November 6th!",
-   "description": "Mark Your Calendar for Burien’s Día de los Muertos celebration on Friday, November 6th!\n\nThis FREE event is open to the entire community and celebrates the tradition of honoring and remembering our ancestors and families.\n\nAltars & Offerings\nArts & Crafts\nTraditional Music\nDance & Food\nStories & More!",
-   "url": "https://www.parentmap.com/calendar/dia-de-los-muertos-day-dead-celebration-0/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2018/10/Burien-DDLM-2-768x647.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Burien Community Center, 14700 6th Ave SW, Burien, WA, 98166",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T02:00:00Z",
-    "end": "2026-11-07T05:00:00Z",
-    "notes": "Mark Your Calendar for Burien’s Día de los Muertos celebration on Friday, November 6th!\n\nhttps://www.parentmap.com/calendar/dia-de-los-muertos-day-dead-celebration-0/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-11-02T20:49:48Z"
-  },
-  {
-   "id": "4448cb61d8",
-   "series": "a530ef6be9",
-   "title": "Powering Inclusion: A Night Out with PROVAIL",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Fri, Nov 6",
-   "time": "6–10 PM",
-   "place": "Victory Hall at the Boxyard, Seattle",
-   "placeLines": "Victory Hall at the Boxyard, Seattle\n1201 1st Ave S, Seattle, WA, 98134",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "$200",
-   "free": false,
-   "summary": "Powering Inclusion will be an opportunity to mingle with community members, advocates, and leaders to celebrate a shared commitment to what’s possible for…",
-   "description": "Powering Inclusion will be an opportunity to mingle with community members, advocates, and leaders to celebrate a shared commitment to what’s possible for people with disabilities during a festive cocktail reception featuring interactive experiences, a raffle, and an engaging dinner program. The funds raised will benefit over 1,000 individuals and their families across Western Washington through programs that empower people with disabilities to fulfill their life choices. Whether you’re the winning bid on an exclusive auction package, playing the raffle, or raising your paddle, your support with help PROVAIL to reach new milestones.",
-   "url": "https://www.parentmap.com/calendar/powering-inclusion-a-night-out-with-provail/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/PowerinInclusion.AmalandIsaac-1.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Victory Hall at the Boxyard, 1201 1st Ave S, Seattle, WA, 98134",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T02:00:00Z",
-    "end": "2026-11-07T06:00:00Z",
-    "notes": "Powering Inclusion will be an opportunity to mingle with community members, advocates, and leaders to celebrate a shared commitment to what’s possible for…\n\nhttps://www.parentmap.com/calendar/powering-inclusion-a-night-out-with-provail/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "1e9482d55b",
-   "series": "cb8886ee04",
-   "title": "All Ages Hoedown",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 1110,
-   "endMinute": 1230,
-   "dates": "Fri, Nov 6",
-   "time": "6:30–8:30 PM",
-   "place": "Si View Community Center, North Bend",
-   "placeLines": "Si View Community Center, North Bend\n400 SE Orchard Dr, North Bend, WA, 98045-9470",
-   "region": "EASTSIDE",
-   "category": "COMMUNITY",
-   "cost": "$18 – $48",
-   "free": false,
-   "summary": "Saddle up for an evening of family fun at our Hoedown!",
-   "description": "Saddle up for an evening of family fun at our Hoedown! Grab your boots and join us for a lively night filled with music, dancing, games, and western-themed activities for all ages. Led by line dance instructor Amanda Johnson, participants will learn easy-to-follow dances that are perfect for beginners and experienced dancers alike. Whether you’re stepping onto the dance floor for the first time or already know a few moves, everyone is welcome. Western attire is encouraged! Registration required.",
-   "url": "https://www.parentmap.com/calendar/all-ages-hoedown/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Hoedown-video-media-Instagram.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Si View Community Center, 400 SE Orchard Dr, North Bend, WA, 98045-9470",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T02:30:00Z",
-    "end": "2026-11-07T04:30:00Z",
-    "notes": "Saddle up for an evening of family fun at our Hoedown!\n\nhttps://www.parentmap.com/calendar/all-ages-hoedown/"
-   },
-   "firstSeen": "2026-11-03T18:29:50Z"
-  },
-  {
-   "id": "fdcc68b9e8",
-   "series": "e94cc63d18",
-   "title": "Get the Funk Out",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 1140,
-   "endMinute": 1260,
-   "dates": "Fri, Nov 6",
-   "time": "7–9 PM",
-   "place": "Lynnwood Event Center",
-   "placeLines": "Lynnwood Event Center\n3711 196th St, Lynnwood, WA, 98036",
-   "region": "NORTH",
-   "category": "COMMUNITY",
-   "cost": "$11.20",
-   "free": false,
-   "summary": "On November 6, come hang out, let loose and have some fun with us at Get the Funk Out!",
-   "description": "On November 6, come hang out, let loose and have some fun with us at Get the Funk Out!\n\nTwo bands. One stage. A whole lot of funk. Souled Out Funk and Sugar Bones are bringing big horns, soulful vocals, infectious grooves and high-energy live music for a night made for funk and soul fans.",
-   "url": "https://www.parentmap.com/calendar/get-the-funk-out/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/FINAL_GetTheFunkOut_FreeEventListing-Graphic-e1792693787317.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Lynnwood Event Center, 3711 196th St, Lynnwood, WA, 98036",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T03:00:00Z",
-    "end": "2026-11-07T05:00:00Z",
-    "notes": "On November 6, come hang out, let loose and have some fun with us at Get the Funk Out!\n\nhttps://www.parentmap.com/calendar/get-the-funk-out/"
-   },
-   "firstSeen": "2026-10-23T15:47:36Z"
   },
   {
    "id": "96248f11f3",
@@ -1114,6 +916,39 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "b313b8115a",
+   "series": "f45d11ebf5",
+   "title": "Puyallup Watson’s Holiday Open House",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Sat, Nov 7",
+   "time": "5–8 PM",
+   "place": "Watson’s Greenhouse, Puyallup",
+   "placeLines": "Watson’s Greenhouse, Puyallup\n6211 Pioneer Way E, Puyallup, WA, 98371-4954",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Step into the magic of the season at the Watson’s Holiday Open House!",
+   "description": "Step into the magic of the season at the Watson’s Holiday Open House! Our stores are transformed into a winter wonderland where beautifully decorated Christmas trees shimmer around every corner, ready to inspire and delight. Get a head start on your holiday shopping with unique decor and gifts ready for everyone on your list. Bring the whole family!\n\nWe’ll have plenty of festive photo spots perfect for capturing holiday memories, and the Terrace Cafe will be open late for dining, drinks, and festive treats. Join us and celebrate the official start of the most wonderful time of the year!",
+   "url": "https://www.parentmap.com/calendar/puyallup-watsons-holiday-open-house/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/holiday-open-house-1-scaled-e1792511934992-768x582.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Watson’s Greenhouse, 6211 Pioneer Way E, Puyallup, WA, 98371-4954",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-08T01:00:00Z",
+    "end": "2026-11-08T04:00:00Z",
+    "notes": "Step into the magic of the season at the Watson’s Holiday Open House!\n\nhttps://www.parentmap.com/calendar/puyallup-watsons-holiday-open-house/"
+   },
+   "firstSeen": "2026-11-07T16:55:41Z"
+  },
+  {
    "id": "7291fa9513",
    "series": "ba4b5fd6f2",
    "title": "Seattle Little Rangers 2nd Annual Indoor Family Sports Carnival",
@@ -1630,6 +1465,37 @@
     "notes": "Gobble Up Seattle 2026 Saturday, November 14th | 10 AM – 5 PM Magnuson Park Hangar 30 | 6310 NE 74th St Come shop, sample, and savor!\n\nhttps://www.parentmap.com/calendar/gobble-seattle-urban-craft-uprising/"
    },
    "firstSeen": "2026-10-21T16:00:15Z"
+  },
+  {
+   "id": "5e1859fbbd",
+   "series": "3edbf034fe",
+   "title": "Latvian Center Holiday Market",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Nov 14–15",
+   "time": "10 AM–4 PM",
+   "place": "Seattle",
+   "placeLines": "11710 3rd AVE NE, Seattle, WA",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Neighborhoods: Northgate/Maple Leaf Event Types: Dance,Ethnic/Cultural,Festivals/Fairs Audience: All Sponsoring Organization: Latvian Association of WA…",
+   "description": "Neighborhoods: Northgate/Maple Leaf\nEvent Types: Dance,Ethnic/Cultural,Festivals/Fairs\nAudience: All\nSponsoring Organization: Latvian Association of WA\nContact: Seattle Latvian Center\nPre-Register: No\nCost: FREE\nLink: https://www.Facebook.com/SeattleLatvianChristmasBazaar\n\nLATVIAN CENTER HOLIDAY MARKET from November 14, 2026 10 AM to 4 PM; November 15, 2026 12\nNoon to 4 PM. Fun for the whole family! Featuring Christmas specialty foods, ethnic Latvian foods, candles,\nwellness items, glass art, decorative pillows, dolls, hand-dyed yarns, knitted goods, jewelry, ceramics, and\nmuch more from local vendors. A typical Latvian hot lunch will be available all day Saturday with a soup lunch\navailable on Sunday. Baked goods will be available both days. The Latvian folk dance group will perform\nSaturday at 12:30. Located at: 11710 3rd AVE NE Seattle.\nwww.facebook.com…",
+   "url": "https://www.Facebook.com/SeattleLatvianChristmasBazaar",
+   "sources": [
+    "City of Seattle"
+   ],
+   "map": "11710 3rd AVE NE, Seattle, WA",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-14",
+    "end": "2026-11-16",
+    "notes": "Hours: 10 AM–4 PM\n\nNeighborhoods: Northgate/Maple Leaf Event Types: Dance,Ethnic/Cultural,Festivals/Fairs Audience: All Sponsoring Organization: Latvian Association of WA…\n\nhttps://www.Facebook.com/SeattleLatvianChristmasBazaar"
+   },
+   "firstSeen": "2026-11-07T16:55:41Z"
   },
   {
    "id": "c185fa1531",
@@ -3241,10 +3107,10 @@
    "series": "2e9ac2827a",
    "title": "Winterfest Train & Village Display",
    "start": "2026-11-27",
-   "end": "2026-12-21",
+   "end": "2026-12-22",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Nov 27–Dec 21",
+   "dates": "Nov 27–Dec 22",
    "time": "10 AM–6 PM",
    "place": "Seattle Center Armory",
    "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
@@ -3264,12 +3130,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-22",
+    "end": "2026-12-23",
     "notes": "Hours: 10 AM–6 PM\n\nDelight in viewing a late 19th-century model train and village display, installed inside the Seattle Center Armory Food & Event Hall.\n\nhttps://www.parentmap.com/calendar/28004/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 12,
-   "changed": "2026-11-06T18:07:55Z"
+   "revision": 13,
+   "changed": "2026-11-07T16:55:41Z"
   },
   {
    "id": "956b5a5437",
@@ -3799,7 +3665,8 @@
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187222126-magic-in-the-market-photo_0-53d5afaed2d9.jpg",
    "imageCredit": "ParentMap",
    "sources": [
-    "ParentMap"
+    "ParentMap",
+    "City of Seattle"
    ],
    "map": "Pike Place Market, 85 Pike Street, Seattle, WA, 98101",
    "calendar": {
@@ -6400,6 +6267,37 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "93b9616a37",
+   "series": "ca3ecb7fe3",
+   "title": "Holiday Market Sip ‘n’ Shop at the Kimpton Hotel Monaco Seattle",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "startMinute": 660,
+   "endMinute": 960,
+   "dates": "Sun, Dec 6",
+   "time": "11 AM–4 PM",
+   "place": "Kimpton Hotel Monaco Seattle",
+   "placeLines": "Kimpton Hotel Monaco Seattle",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Neighborhoods: Downtown Commercial Core Event Types: Community Audience: All Contact: Jasleen R Pre-Register: Yes Cost: free Link:…",
+   "description": "Neighborhoods: Downtown Commercial Core\nEvent Types: Community\nAudience: All\nContact: Jasleen R\nPre-Register: Yes\nCost: free\nLink: https://www.eventbrite.ca/e/holiday-market-sip-n-shop-at-kimpton-hotel-monaco-seattle-tickets-2004136035833?aff=oddtdtcreator&keep_tld=true\n\nCelebrate the holidays at Kimpton Hotel Monaco Seattle’s inaugural Holiday Market Sip ‘n’ Shop on Sunday, December 6, from 11 AM-4 PM! Guests can shop a curated mix of Seattle’s chicest local brands, from statement jewelry and stylish home goods to beauty finds and more. It’s a great chance to check a few names off the holiday shopping list while supporting local makers. All people and pets are welcome! Guests can make a morning out of it with festive brunch at Marin, Kimpton's on-site restaurant, from 8 AM-2PM!",
+   "url": "https://www.eventbrite.ca/e/holiday-market-sip-n-shop-at-kimpton-hotel-monaco-seattle-tickets-2004136035833?aff=oddtdtcreator&keep_tld=true",
+   "sources": [
+    "City of Seattle"
+   ],
+   "map": "Kimpton Hotel Monaco Seattle, Kimpton Hotel Monaco Seattle, 1101 4th Ave, Seattle, WA 98101",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-06T19:00:00Z",
+    "end": "2026-12-07T00:00:00Z",
+    "notes": "Neighborhoods: Downtown Commercial Core Event Types: Community Audience: All Contact: Jasleen R Pre-Register: Yes Cost: free Link:…\n\nhttps://www.eventbrite.ca/e/holiday-market-sip-n-shop-at-kimpton-hotel-monaco-seattle-tickets-2004136035833?aff=oddtdtcreator&keep_tld=true"
+   },
+   "firstSeen": "2026-11-07T16:55:41Z"
+  },
+  {
    "id": "c1c7f96d8c",
    "series": "e5f7046862",
    "title": "Hanukkah Family Show: Mark Nizer 4D Juggling + Laser Show",
@@ -8381,10 +8279,10 @@
    "series": "fa61e33b79",
    "title": "Annual Model Train Festival",
    "start": "2026-12-18",
-   "end": "2026-12-21",
+   "end": "2026-12-22",
    "startMinute": 600,
    "endMinute": 1020,
-   "dates": "Dec 18–21",
+   "dates": "Dec 18–22",
    "time": "10 AM–5 PM",
    "place": "Washington State History Museum, Tacoma",
    "placeLines": "Washington State History Museum, Tacoma\n1911 Pacific Ave, Tacoma, WA, 98402-3109",
@@ -8404,12 +8302,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-18",
-    "end": "2026-12-22",
+    "end": "2026-12-23",
     "notes": "Hours: 10 AM–5 PM\n\nCelebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!\n\nhttps://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-18/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-11-06T18:07:55Z"
+   "revision": 2,
+   "changed": "2026-11-07T16:55:41Z"
   },
   {
    "id": "df99285c97",
@@ -9284,7 +9182,7 @@
    "cost": "Free",
    "free": true,
    "summary": "Event Types: Arts,Community,Dance,Film,Holiday/Seasonal Events,Music,Special Events,Youth Neighborhoods: Citywide,Pioneer Square Contact: Rana San Contact…",
-   "description": "Event Types: Arts,Community,Dance,Film,Holiday/Seasonal Events,Music,Special Events,Youth\nNeighborhoods: Citywide,Pioneer Square\nContact: Rana San\nContact Phone: (206) 256-6279\nContact Email: rana.san@seattle.gov\nAudience: All\nPre-Register: Yes\nCost: Free\n\nEnter a waking dream as King Street Station is transformed in celebration of the longest night of 2026. Full of guided movement, wellness activities, participatory rituals, ambient soundscapes, and countless inventions culled from subconscious states, LONGEST NIGHT is a communally-minded, season-inspired Solstice party that brings light to the liminal space of the year’s darkest day.\n\nCurated by Vee Hua 華婷婷 and presented by ARTS at King Street Station. FREE.\n\nScheduled activities:\n5:30–6 PM — ARTS at King Street Station doors open\n6:15–6:30 PM — Opening Ceremony + Orientation\n6:30–7:15 PM — Curator tours of Visions of Worldbuilding and Decad\n7:15–8:15 PM — Live music\n8:30–10 PM — QiFlow + Sound Bath: a fusion of qigong, yoga, and intuitive flow with guided visualization, vocal toning, and a restorative sound bath with Alisa Galper",
+   "description": "Event Types: Arts,Community,Dance,Film,Holiday/Seasonal Events,Music,Special Events,Youth\nNeighborhoods: Citywide,Pioneer Square\nContact: Rana San\nContact Phone: (206) 256-6279\nContact Email: rana.san@seattle.gov\nAudience: All\nPre-Register: Yes\nCost: Free\n\nEnter a waking dream as King Street Station is transformed in celebration of the longest night of 2026. Full of guided movement, wellness activities, participatory rituals, ambient soundscapes, and countless inventions culled from subconscious states, LONGEST NIGHT is a communally-minded, season-inspired Solstice party that brings light to the liminal space of the year’s darkest day.\n\nCurated by Vee Hua 華婷婷 and presented by ARTS at King Street Station. FREE.\n\nScheduled activities:\n5:30–6 PM — ARTS at King Street Station doors open\n6–6:15 PM — Opening Ceremony + Orientation\n6:15–7:15 PM — Under a black star activation circle: a divination and storytelling ritual with Afrodelixx*\n6:30–7:15 PM — Curator tours of exhibitions Visions of Worldbuilding and Decad\n7:15–8:15 PM — Live ambient music performance\n8:30–10 PM — QiFlow + Sound Bath: a fusion of qigong, yoga, and intuitive flow for all bodies with a restorative sound bath to reset the nervous system with Alisa Galper\n\nOngoing drop-in activities:\n6–8:30 PM\n• Call Back Later: zinemaking for restoration and intentional stillness with mei eyre and ambient tunes by enereph\n• Heart2Heart: mini tarot and life coaching sessions with Goddexx*\n• Henna Stamping: non-traditional…",
    "url": "https://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D206638345",
    "image": "https://www.trumba.com/i/DgD9NsLQT5ECK53wJxHt%2AEGE.jpg",
    "imageCredit": "City of Seattle",

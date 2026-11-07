@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5e1859fbbd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261107T165541Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Latvian Center Holiday Market
+LOCATION:11710 3rd AVE NE\, Seattle\, WA
+DESCRIPTION:Hours: 10 AM–4 PM\n\nNeighborhoods: Northgate/Maple Leaf Even
+ t Types: Dance\,Ethnic/Cultural\,Festivals/Fairs Audience: All Sponsoring 
+ Organization: Latvian Association of WA…\n\nhttps://www.Facebook.com/Sea
+ ttleLatvianChristmasBazaar
+URL:https://www.Facebook.com/SeattleLatvianChristmasBazaar
+END:VEVENT
+END:VCALENDAR

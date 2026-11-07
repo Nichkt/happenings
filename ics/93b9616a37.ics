@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:93b9616a37-seattle-happenings@nichkt.github.io
+DTSTAMP:20261107T165541Z
+SEQUENCE:0
+DTSTART:20261206T190000Z
+DTEND:20261207T000000Z
+SUMMARY:Holiday Market Sip ‘n’ Shop at the Kimpton Hotel Monaco Seattle
+LOCATION:Kimpton Hotel Monaco Seattle\, Kimpton Hotel Monaco Seattle\, 1101
+  4th Ave\, Seattle\, WA 98101
+DESCRIPTION:Neighborhoods: Downtown Commercial Core Event Types: Community 
+ Audience: All Contact: Jasleen R Pre-Register: Yes Cost: free Link:…\n\n
+ https://www.eventbrite.ca/e/holiday-market-sip-n-shop-at-kimpton-hotel-mon
+ aco-seattle-tickets-2004136035833?aff=oddtdtcreator&keep_tld=true
+URL:https://www.eventbrite.ca/e/holiday-market-sip-n-shop-at-kimpton-hotel-
+ monaco-seattle-tickets-2004136035833?aff=oddtdtcreator&keep_tld=true
+END:VEVENT
+END:VCALENDAR
