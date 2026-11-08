@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-07T16:55:41Z",
+ "generatedAt": "2026-11-08T17:08:13Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-07",
- "until": "2027-01-30",
+ "from": "2026-11-08",
+ "until": "2027-01-31",
  "regions": [
   {
    "id": "SEATTLE",
@@ -102,10 +102,6 @@
    "events": 1
   },
   {
-   "name": "City of Newcastle",
-   "events": 1
-  },
-  {
    "name": "City of North Bend",
    "events": 5
   },
@@ -115,7 +111,7 @@
   },
   {
    "name": "City of Seattle",
-   "events": 18
+   "events": 17
   },
   {
    "name": "City of Snoqualmie",
@@ -139,19 +135,19 @@
   },
   {
    "name": "Northwest Asian Weekly",
-   "events": 4
+   "events": 2
   },
   {
    "name": "ParentMap",
-   "events": 219
+   "events": 207
   },
   {
    "name": "Phinney Center",
-   "events": 10
+   "events": 9
   },
   {
    "name": "United Indians of All Tribes",
-   "events": 4
+   "events": 3
   },
   {
    "name": "Visit Ballard",
@@ -167,9 +163,9 @@
    "id": "f68d67c288",
    "series": "5ca6ab0353",
    "title": "Celebrate Diwali at The Bellevue Collection",
-   "start": "2026-11-05",
+   "start": "2026-11-06",
    "end": "2026-11-08",
-   "dates": "Nov 5–8",
+   "dates": "Nov 6–8",
    "place": "Bellevue Square",
    "placeLines": "Bellevue Square",
    "region": "EASTSIDE",
@@ -178,7 +174,7 @@
    "free": true,
    "summary": "Enjoy Diwali decor and displays!",
    "description": "Enjoy Diwali decor and displays! Enjoy a Diwali celebration on Nov. 7 featuring live performances, henna design and more.\n\nDiwali is a time to welcome a new year, happiness and prosperity. It is a festival of lights that follows the lunar calendar and is similar to a new year celebration. Diwali is one of India’s most celebrated holidays.\n\nDisplays November 2 – 8\n\nRangoli Display\nSee beautiful rangoli made from sand on display in Bellevue Square from artists of the Seattle Maharashtra Mandal community.\n\nSari (Saree) Display\nSee a display of saris (sarees) on the first level of Bellevue Square presented by the Seattle Maharashtra Mandal community.\n\nDiwali Pop Spot\nStop by Bellevue Square’s Center Court and snap a picture in the Diwali Pop Spot.\n\nLantern Craft\nPick up a Lantern Craft at Bellevue Square’s Guest Services to make at home, while supplies last.\n\nLive Performances:\n\nWatch cultural Indian performances including dance, visual arts, and music to celebrate the Festival of Lights on Saturday, November 7 from noon to 5 pm.\n\nHenna:\n\nHave a SARAHENNA Organic Body Art artist apply complimentary henna designs on Saturday, November 7 from 11 am to 6 pm for you to enjoy for weeks after our Diwali celebration is over!",
-   "url": "https://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-05/",
+   "url": "https://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-06/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773115263149-diwali-1-copy-a9e57b76e59e.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -187,48 +183,13 @@
    "map": "Bellevue Square, 575 Bellevue Square, Bellevue, WA, 98004",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-05",
+    "start": "2026-11-06",
     "end": "2026-11-09",
-    "notes": "Enjoy Diwali decor and displays!\n\nhttps://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-05/"
+    "notes": "Enjoy Diwali decor and displays!\n\nhttps://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-06/"
    },
    "firstSeen": "2026-10-22T15:56:13Z",
-   "revision": 3,
-   "changed": "2026-11-07T16:55:41Z"
-  },
-  {
-   "id": "0f29c7222a",
-   "series": "c9e6e38150",
-   "title": "Luckie Farms Pumpkin Smash with Highland Cows",
-   "start": "2026-11-05",
-   "end": "2026-11-08",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Nov 5–8",
-   "time": "10 AM–6 PM",
-   "place": "Luckie Farms, Lake Stevens",
-   "placeLines": "Luckie Farms, Lake Stevens\n930 Sunnyside Blvd, Lake Stevens, WA, 98258",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$35",
-   "free": false,
-   "summary": "Bring your Halloween pumpkin to the farm and smash it for our Highland cows!",
-   "description": "Bring your Halloween pumpkin to the farm and smash it for our Highland cows! Don’t have a pumpkin? No problem—we’ll have one waiting for you.\n\nWatch the Highland cows come running for their favorite fall treat and get up close and personal as they crunch, munch, and enjoy your pumpkin. It’s messy, silly, and a whole lot of fun!\n\nAround 1 hour of fun: sign up for timed sessions throughout the day.\n\nYour experience includes a covered hay wagon ride through our 75-acre farm, with stops to meet our herd up close and enjoy the sights of the farm.",
-   "url": "https://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-05/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/a5b4c9c4-20d7-4fe9-815b-237b551f5037.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Luckie Farms, 930 Sunnyside Blvd, Lake Stevens, WA, 98258",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-05",
-    "end": "2026-11-09",
-    "notes": "Hours: 10 AM–6 PM\n\nBring your Halloween pumpkin to the farm and smash it for our Highland cows!\n\nhttps://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-05/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
    "revision": 4,
-   "changed": "2026-11-07T16:55:41Z"
+   "changed": "2026-11-08T17:08:13Z"
   },
   {
    "id": "5704f816c9",
@@ -264,64 +225,39 @@
    "firstSeen": "2026-10-22T15:56:13Z"
   },
   {
-   "id": "96248f11f3",
-   "series": "726df2deab",
-   "title": "Arbor Day",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "dates": "Sat, Nov 7",
-   "place": "Lake Boren Park, Newcastle",
-   "placeLines": "Lake Boren Park, Newcastle\n13058 SE 84th Way, Newcastle, Washington",
-   "region": "EASTSIDE",
-   "category": "COMMUNITY",
-   "summary": "Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live @",
-   "url": "https://newcastlewa.gov/event/arbor-day/2026-11-07/",
-   "image": "https://newcastlewa.gov/wp-content/uploads/2026/05/arbor-day-768x512.jpg",
-   "imageCredit": "City of Newcastle",
-   "sources": [
-    "City of Newcastle"
-   ],
-   "map": "Lake Boren Park, 13058 SE 84th Way, Newcastle, Washington",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-07",
-    "end": "2026-11-08",
-    "notes": "Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live @\n\nhttps://newcastlewa.gov/event/arbor-day/2026-11-07/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "8617aaebbe",
-   "series": "1482399993",
-   "title": "Edmonds Holiday Market",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 540,
-   "endMinute": 840,
-   "dates": "Sat, Nov 7",
-   "time": "9 AM–2 PM",
-   "place": "Edmonds Historical Museum",
-   "placeLines": "Edmonds Historical Museum\n118 5th Ave N, Edmonds, WA, 98020",
-   "region": "NORTH",
-   "category": "NIGHT_MARKET",
-   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
-   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
-   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market-2/2026-11-07/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
+   "id": "0f29c7222a",
+   "series": "c9e6e38150",
+   "title": "Luckie Farms Pumpkin Smash with Highland Cows",
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "startMinute": 600,
+   "endMinute": 1080,
+   "dates": "Nov 6–8",
+   "time": "10 AM–6 PM",
+   "place": "Luckie Farms, Lake Stevens",
+   "placeLines": "Luckie Farms, Lake Stevens\n930 Sunnyside Blvd, Lake Stevens, WA, 98258",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$35",
+   "free": false,
+   "summary": "Bring your Halloween pumpkin to the farm and smash it for our Highland cows!",
+   "description": "Bring your Halloween pumpkin to the farm and smash it for our Highland cows! Don’t have a pumpkin? No problem—we’ll have one waiting for you.\n\nWatch the Highland cows come running for their favorite fall treat and get up close and personal as they crunch, munch, and enjoy your pumpkin. It’s messy, silly, and a whole lot of fun!\n\nAround 1 hour of fun: sign up for timed sessions throughout the day.\n\nYour experience includes a covered hay wagon ride through our 75-acre farm, with stops to meet our herd up close and enjoy the sights of the farm.",
+   "url": "https://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-06/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/a5b4c9c4-20d7-4fe9-815b-237b551f5037.jpg",
    "imageCredit": "ParentMap",
    "sources": [
     "ParentMap"
    ],
-   "map": "Edmonds Historical Museum, 118 5th Ave N, Edmonds, WA, 98020",
+   "map": "Luckie Farms, 930 Sunnyside Blvd, Lake Stevens, WA, 98258",
    "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T17:00:00Z",
-    "end": "2026-11-07T22:00:00Z",
-    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market-2/2026-11-07/"
+    "allDay": true,
+    "start": "2026-11-06",
+    "end": "2026-11-09",
+    "notes": "Hours: 10 AM–6 PM\n\nBring your Halloween pumpkin to the farm and smash it for our Highland cows!\n\nhttps://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-06/"
    },
-   "firstSeen": "2026-10-29T17:28:36Z",
-   "revision": 1,
-   "changed": "2026-10-30T17:04:03Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 5,
+   "changed": "2026-11-08T17:08:13Z"
   },
   {
    "id": "896d821d74",
@@ -357,71 +293,6 @@
    "firstSeen": "2026-10-28T17:13:34Z",
    "revision": 2,
    "changed": "2026-11-06T18:07:55Z"
-  },
-  {
-   "id": "2b0f4776d4",
-   "series": "e9e42e922f",
-   "title": "Día de los Muertos Mariposa (Butterfly) Wings Procession",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 570,
-   "endMinute": 900,
-   "dates": "Sat, Nov 7",
-   "time": "9:30 AM–3 PM",
-   "place": "Bainbridge Island Museum of Art",
-   "placeLines": "Bainbridge Island Museum of Art\n100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
-   "region": "FARTHER",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "kids": true,
-   "summary": "Bring the kids and grandkids to create and decorate wearable butterfly wings and join in the mariposa (butterfly) processions before each daytime Día de los…",
-   "description": "Bring the kids and grandkids to create and decorate wearable butterfly wings and join in the mariposa (butterfly) processions before each daytime Día de los Muertos Community Celebrations! All supplies will be provided and kids of all ages are welcome!\n\nJoin us as early at 9 AM to make your butterfly wings to then be part of the processions at 11 AM and 2 PM!\n\nPlease note: If you would like to attend the the Community Remembrance Ceremonies (11 AM and 2 PM) after the procession, you will still need to register, here. Between the ceremonies, you can also visit the ofrenda and Día de los Muertos exhibition.",
-   "url": "https://www.parentmap.com/calendar/dia-de-los-muertos-kidimu/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2022/10/Screenshot-2026-10-08-123015.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Bainbridge Island Museum of Art, 100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T17:30:00Z",
-    "end": "2026-11-07T23:00:00Z",
-    "notes": "Bring the kids and grandkids to create and decorate wearable butterfly wings and join in the mariposa (butterfly) processions before each daytime Día de los…\n\nhttps://www.parentmap.com/calendar/dia-de-los-muertos-kidimu/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "c95eda02b8",
-   "series": "6721b22ea3",
-   "title": "2026 Seattle Arbor Day",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 750,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–12:30 PM",
-   "place": "E.C. Hughes Park",
-   "placeLines": "E.C. Hughes Park",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Neighborhoods: Roxhill/Westwood/White Center,West of Seattle SPU Programs: Trees for Neighborhoods Event Types:…",
-   "description": "Neighborhoods: Roxhill/Westwood/White Center,West of Seattle\nSPU Programs: Trees for Neighborhoods\nEvent Types: Cleanup,Nature/Environment,Volunteer,Volunteer/Work Party\nAudience: All\nSponsoring Organization: Trees for Seattle\nContact: Trees for Neighborhoods\nCost: Free\nLink: https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=RR7meOtrCUCPmTWdi1T0G1FsSd8N11BMhnO_RtIAmJ5UME9DMU1QRjZUTlU4V09FUkdaMFdLSko2TyQlQCN0PWcu\n\nJoin us as we celebrate Seattle Forest Week, fall planting season, trees, and our community at Arbor Day!\n\nWe will be planting about 10 street trees along Southwest Holden Street as part of Arbor Day and the Safe Routes to School Program. Please bring your group, your family, or yourself and lend a hand to add canopy to our beautiful city.\n\nPlease wear close-toed shoes, weather-appropriate clothes that can get dirty, and bring a water bottle. Tools, gloves, a light lunch, and drinks will be provided.",
-   "url": "https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=RR7meOtrCUCPmTWdi1T0G1FsSd8N11BMhnO_RtIAmJ5UME9DMU1QRjZUTlU4V09FUkdaMFdLSko2TyQlQCN0PWcu",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "E.C. Hughes Park, WA",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T18:00:00Z",
-    "end": "2026-11-07T20:30:00Z",
-    "notes": "Neighborhoods: Roxhill/Westwood/White Center,West of Seattle SPU Programs: Trees for Neighborhoods Event Types:…\n\nhttps://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=RR7meOtrCUCPmTWdi1T0G1FsSd8N11BMhnO_RtIAmJ5UME9DMU1QRjZUTlU4V09FUkdaMFdLSko2TyQlQCN0PWcu"
-   },
-   "firstSeen": "2026-10-30T17:04:03Z"
   },
   {
    "id": "1493678f33",
@@ -490,333 +361,6 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "65f8c63d1c",
-   "series": "03a23d1bb4",
-   "title": "Grit City Comic Show",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–5 PM",
-   "place": "Greater Tacoma Convention & Trade Center",
-   "placeLines": "Greater Tacoma Convention & Trade Center\n1516 Commerce St, Tacoma, WA, 98402-3307",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "cost": "$10 – $15",
-   "free": false,
-   "summary": "Grit City Comic Show returns to Tacoma on Saturday, November 7, 2026!",
-   "description": "Grit City Comic Show returns to Tacoma on Saturday, November 7, 2026! A family-friendly comic book convention focused on comic books and their creators.\n\nMeet guest creators including Scott Kolins, Matthew Clark, Bob Smith, and Ron Randall. Not to mention, from the world of animation, Michel Gagné, Dave Warren, and the voice of “Lucy” from Peanuts, Melanie Kohn. Browse a packed floor of comic dealers, toy vendors, independent publishers, artists, and more. Dig through back issues, pick up original art and collectibles, get books signed, and discover your next favorite series. Cosplayers, collectors, and families are all welcome.\n\nWhether you’ve been reading comics for fifty years or just picked up your first issue, there’s something for you at Grit City.",
-   "url": "https://www.parentmap.com/calendar/grit-city-comic-show/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2017/08/GritCityComicShow-Photo-2048x1536-1-768x576.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Greater Tacoma Convention & Trade Center, 1516 Commerce St, Tacoma, WA, 98402-3307",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T18:00:00Z",
-    "end": "2026-11-08T01:00:00Z",
-    "notes": "Grit City Comic Show returns to Tacoma on Saturday, November 7, 2026!\n\nhttps://www.parentmap.com/calendar/grit-city-comic-show/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "8df53a86fa",
-   "series": "51fe538bfb",
-   "title": "Harvest Carnival at Shoreline Cooperative Preschool",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–2 PM",
-   "place": "Shoreline Cooperative Preschool",
-   "placeLines": "Shoreline Cooperative Preschool\n18560 1st Ave NE, Shoreline, WA, 98155-2148",
-   "region": "NORTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "kids": true,
-   "summary": "Shoreline Cooperative Preschool’s 39th Annual Carnival Get your calendars out and be ready to celebrate our preschool’s biggest community event of the year!",
-   "description": "Shoreline Cooperative Preschool’s 39th Annual Carnival\n\nGet your calendars out and be ready to celebrate our preschool’s biggest community event of the year! Our carnival will take place on November 7, 2026 from 10:00am-2:00pm! We will celebrate at the preschool at 510 NE 175th St, Shoreline, WA 98155. It will feature a variety of activities, food, entertainment, and community partners in both indoor and outdoor spaces.\n\nActivities:\nOver a dozen activities including carnival games, face painting, and a robotics demonstration will be available for purchase with Carnival tickets. Activities are aimed at kids aged 2-10, but everyone is welcome to participate. Game play will earn tokens which can be exchanged for prizes at the Prize Swap. Prize Swap prizes are gently used donations of toys, games, books, and more from our school community.\n\nTicket are $0.50 each and can be purchased with cash or credit card. Most games and activities cost 1 ticket.\n\nThe SCP playground will be open for the duration of Carnival for anyone who needs some active play. Supervision will not be provided.\n\nFood:\n• Hot dogs, veggie dogs, and juice boxes will be provided by our building hosts, the Shoreline Free Methodist Church.\n• The Mammatus Creamery truck will have goodies for purchase. 10% of sales at Carnival will be donated to SCP.\n• Popcorn will be available for purchase with carnival tickets.\n• Coffee will be available from The Gathering Place coffee stand by donation.\n\nRidgecrest Books will have…",
-   "url": "https://www.parentmap.com/calendar/harvest-carnival-at-shoreline-cooperative-preschool/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/SCPCarnival26-768x432.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Shoreline Cooperative Preschool, 18560 1st Ave NE, Shoreline, WA, 98155-2148",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T18:00:00Z",
-    "end": "2026-11-07T22:00:00Z",
-    "notes": "Shoreline Cooperative Preschool’s 39th Annual Carnival Get your calendars out and be ready to celebrate our preschool’s biggest community event of the year!\n\nhttps://www.parentmap.com/calendar/harvest-carnival-at-shoreline-cooperative-preschool/"
-   },
-   "firstSeen": "2026-10-22T15:56:13Z"
-  },
-  {
-   "id": "20431ef01f",
-   "series": "ce7ea0df3e",
-   "title": "Pumpkin Drop",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–2 PM",
-   "place": "Farrel McWhirter Park, Redmond",
-   "placeLines": "Farrel McWhirter Park, Redmond\n19545 NE Redmond Road, Redmond, WA, 98053",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "(All Ages) Halloween may be over, but the fun is just beginning with pumpkins!",
-   "description": "(All Ages) Halloween may be over, but the fun is just beginning with pumpkins! Drop off your unpainted or uncarved pumpkins at Farrel – McWhirter Park. We’ll smash a pumpkin at 12:30 p.m. on each drop day for the animals. Their joyous squeels, quacks, moos, and bleats will fill the Park!\n\nReminders:\n– Drop off your pumpkins in the main south parking lot between the start and end time. A wheelbarrow will be waiting for you.\n\n– Join us in the barnyard daily at 12:30 to see the farmers smash some pumpkins for the animals.\n\n– Pumpkins must be uncarved, unpainted, and not moldy or mushy to donate. No exceptions.",
-   "url": "https://www.parentmap.com/calendar/pumpkin-drop/2026-11-07/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/29ffb69e-c373-4335-87a1-76a35aa214ad_20211204_143323.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Farrel McWhirter Park, 19545 NE Redmond Road, Redmond, WA, 98053",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T18:00:00Z",
-    "end": "2026-11-07T22:00:00Z",
-    "notes": "(All Ages) Halloween may be over, but the fun is just beginning with pumpkins!\n\nhttps://www.parentmap.com/calendar/pumpkin-drop/2026-11-07/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-21T16:00:15Z"
-  },
-  {
-   "id": "2499100598",
-   "series": "f76ee31c06",
-   "title": "61st Annual Veterans Day Parade & Observance",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 660,
-   "endMinute": 840,
-   "dates": "Sat, Nov 7",
-   "time": "11 AM–2 PM",
-   "place": "Downtown Auburn, Washington",
-   "placeLines": "Downtown Auburn, Washington\n25 Main St, Auburn, WA, 98001",
-   "region": "SOUTH",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Auburn, Washington has been designated by the Veterans Day National Committee and the U.S. Department of Veterans Affairs as a Regional Site for the 2026…",
-   "description": "Auburn, Washington has been designated by the Veterans Day National Committee and the U.S. Department of Veterans Affairs as a Regional Site for the 2026 celebration of Veterans Day.\n\nThe City of Auburn is proud to be a Vietnam War Commemorative Partner and considers it an honor and privilege to host this annual event. Auburn has hosted the Veterans Parade since 1965. The 2026 parade marks our 61st year! Over time, the parade has grown into one of the largest parades of its kind in the United States of America.\n\nThe purpose of Auburn’s Veterans Parade & Observance is to positively focus on honoring our country’s veterans and active military personnel. Recognition is focused on congressionally recognized Veteran Service Organizations and their auxiliaries, the military and military reserve, National Guard, and ROTC. The goal of Auburn’s Veterans Parade & Observance is to honor to our country’s veterans and to their military missions of defending freedom around the world.\n\nThe 61st annual Veterans Parade will be held in Auburn on Saturday, November 7, 2026 starting at 11:00 AM. The parade typically boasts over 120 units and nearly 4,000 parade participants, including more than 10 marching bands, numerous military vehicles, veterans’ units, honor guards and more.\n\nThe parade route travels west along Main Street from E Street to A Street NW/SW. The day-long activities run from 7:00 AM to 9:00 PM.",
-   "url": "https://www.parentmap.com/calendar/60th-annual-veterans-day-parade-observance/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773933955522-veterans-day-parade-b20227fcd75c.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Downtown Auburn, Washington, 25 Main St, Auburn, WA, 98001",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T19:00:00Z",
-    "end": "2026-11-07T22:00:00Z",
-    "notes": "Auburn, Washington has been designated by the Veterans Day National Committee and the U.S. Department of Veterans Affairs as a Regional Site for the 2026…\n\nhttps://www.parentmap.com/calendar/60th-annual-veterans-day-parade-observance/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "c3442d8bd9",
-   "series": "0a00765829",
-   "title": "Salmon Steward Interpretation Days",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "startMinute": 660,
-   "endMinute": 900,
-   "dates": "Nov 7–8",
-   "time": "11 AM–3 PM",
-   "place": "Carkeek Park Chum Salmon Viewing Area",
-   "placeLines": "Carkeek Park Chum Salmon Viewing Area",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…",
-   "description": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge\nEvent Types: Community,Education,Nature/Environment\nAudience: All\nContact: Max\nContact Email: SalmonStewards@seattle.gov\nSite Contact Details: Public email for salmon steward and celebration related questions.\nCost: Free\nLink: https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/\n\nJoin us in Carkeek on Saturdays, Sundays, and Wednesdays (2-4PM) to view the salmon run at Carkeek's Pipers Creek and find trained stewardship volunteers in blue vests ready to chat with you about all things salmon. They have details on how to get involved with environmental projects in Seattle and ways to reduce water pollution and improve salmon habitat. Come with questions! There is so much to learn and explore as the salmon make their way upstream.",
-   "url": "https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "Carkeek Park Chum Salmon Viewing Area, WA",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-07",
-    "end": "2026-11-09",
-    "notes": "Hours: 11 AM–3 PM\n\nNeighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/"
-   },
-   "firstSeen": "2026-10-30T17:04:03Z"
-  },
-  {
-   "id": "9de3ba5d95",
-   "series": "c911143050",
-   "title": "Taste of Asia Pacific 2026",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 660,
-   "dates": "Sat, Nov 7",
-   "time": "11 AM",
-   "place": "APCC, Tacoma",
-   "placeLines": "APCC, Tacoma\n4851 S Tacoma Way, Tacoma, WA, 98409",
-   "region": "FARTHER",
-   "category": "FOOD",
-   "summary": "Tokelau",
-   "url": "https://nwasianweekly.com/community-calendar/taste-of-asia-pacific-2026-10/",
-   "sources": [
-    "Northwest Asian Weekly"
-   ],
-   "map": "APCC, 4851 S Tacoma Way, Tacoma, WA, 98409",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T19:00:00Z",
-    "end": "2026-11-07T20:00:00Z",
-    "notes": "Tokelau\n\nhttps://nwasianweekly.com/community-calendar/taste-of-asia-pacific-2026-10/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-27T16:44:46Z"
-  },
-  {
-   "id": "44fe9fb985",
-   "series": "68b3b99f3e",
-   "title": "Veterans Gourd Dance and Powwow",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 660,
-   "endMinute": 1200,
-   "dates": "Sat, Nov 7",
-   "time": "11 AM–8 PM",
-   "place": "Daybreak Star Indian Cultural Center, Seattle",
-   "placeLines": "Daybreak Star Indian Cultural Center, Seattle\n5011 Bernie Whitebear Way, Seattle, WA, 98199",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "summary": "Join us on Saturday, November 7, 2026, at Daybreak Star Indian Cultural Center for a day of honoring Native veterans, celebrating culture, and strengthening…",
-   "description": "Join us on Saturday, November 7, 2026, at Daybreak Star Indian Cultural Center for a day of honoring Native veterans, celebrating culture, and strengthening community through song, dance, and tradition! The day will feature a Veterans Gourd Dance, Grand Entry, Intertribal Dancing, Dinner and an evening Powwow. Community members, families, and veterans are all welcome to attend this special gathering! November 7, 2026 Daybreak Star Indian Cultural Center 5011 Bernie Whitebear Way, Seattle, WA 98199 Hosted by the Daybreak Star Native Veterans Program and co-sponsored by United Indians of All Tribes Foundation and Unkitawa! Questions? Contact: Veterans@unitedindians.org & maggie@unkitawa.org Let us come together to honor the service, sacrifice, and enduring strength of Native veterans while celebrating the traditions that connect us. Schedule:\n\n11:00 AM to 1:00 PM Gourd Dance\n\n1:00 PM to 4:00 PM Grand Entry and Intertribals\n\n4:00 PM to 5:00 PM Supper Break\n\n5:00 PM to 7:00 PM Con’t Intertribal Powwow",
-   "url": "https://unitedindians.org/event/veterans-gourd-dance-and-powwow/",
-   "image": "https://unitedindians.org/wp-content/uploads/2026/10/Veterans-Gourd-Dance-and-Powwow-Flyer-768x994.png",
-   "imageCredit": "United Indians of All Tribes",
-   "sources": [
-    "United Indians of All Tribes"
-   ],
-   "map": "Daybreak Star Indian Cultural Center, 5011 Bernie Whitebear Way, Seattle, WA, 98199",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T19:00:00Z",
-    "end": "2026-11-08T04:00:00Z",
-    "notes": "Join us on Saturday, November 7, 2026, at Daybreak Star Indian Cultural Center for a day of honoring Native veterans, celebrating culture, and strengthening…\n\nhttps://unitedindians.org/event/veterans-gourd-dance-and-powwow/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "68f71622aa",
-   "series": "e91f67fe83",
-   "title": "Diwali: Lights of India",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 720,
-   "endMinute": 1080,
-   "dates": "Sat, Nov 7",
-   "time": "12–6 PM",
-   "place": "Armory Food & Event Hall, Seattle",
-   "placeLines": "Armory Food & Event Hall, Seattle\n305 Harrison St, Seattle, WA, 98109",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Diwali: Lights of India will take place November 7, 2026 in the Armory Food & Event Hall.",
-   "description": "Diwali: Lights of India will take place November 7, 2026 in the Armory Food & Event Hall. The festival is part of the Seattle Center Festál series. It is free and open to the public.\n\nSeattle Center Festál presents Diwali: Lights of India in partnership with Northwest Share. This year’s festival features music, dance, visual art, martial arts, a cooking demonstration and more.\n\nHISTORY\n\nDiwali (Festival of Lights) is a major cultural celebration observed throughout India every fall. It symbolizes the victory of light over darkness, good over evil, and knowledge over ignorance. Light is a metaphor for knowledge and consciousness. During Diwali in India, houses and business locations are brightly illuminated with lamps, diyas (oil lamps), and candles. Lakshmi, the Goddess of Wealth, is worshiped for prosperity. Diwali is celebrated with families and friends, wearing new clothes, partaking in family feasts, enjoying delicious sweets, sharing gifts and most importantly, setting off firecrackers!",
-   "url": "https://nwasianweekly.com/community-calendar/diwali-lights-of-india-2/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775186557848-screenshot-2022-10-05-144608-045dc6d17def.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "Northwest Asian Weekly",
-    "ParentMap"
-   ],
-   "map": "Armory Food & Event Hall, 305 Harrison St, Seattle, WA, 98109",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T20:00:00Z",
-    "end": "2026-11-08T02:00:00Z",
-    "notes": "Diwali: Lights of India will take place November 7, 2026 in the Armory Food & Event Hall.\n\nhttps://nwasianweekly.com/community-calendar/diwali-lights-of-india-2/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "7dd0b42c25",
-   "series": "90ec2aac72",
-   "title": "Holiday Toy Drive",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 780,
-   "endMinute": 900,
-   "dates": "Sat, Nov 7",
-   "time": "1–3 PM",
-   "place": "The Outlet Collection | Seattle, Auburn",
-   "placeLines": "The Outlet Collection | Seattle, Auburn\n1101 Outlet Collection Way, Auburn, WA, 98001",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Outlet Collection Seattle is kicking off the season of giving with a special Holiday Toy Drive benefiting The Jewell Project on Saturday, November 7, from…",
-   "description": "The Outlet Collection Seattle is kicking off the season of giving with a special Holiday Toy Drive benefiting The Jewell Project on Saturday, November 7, from 1 p.m. to 3 p.m. The festive community event will feature a special appearance by Seattle’s own hip-hop legend, Sir Mix-A-Lot, as shoppers and local residents come together to make the holidays brighter for children and families in need.\n\nHeld at the mall’s Santa Set, located near Ashley Homestore, the Holiday Toy Drive invites the community to donate new, unwrapped toys to support underserved families throughout King and Pierce Counties. From stuffed animals and dolls to games, sports equipment, and other childhood favorites, every donation will help bring holiday joy to children who might otherwise go without.\n\nAdding a little star power to the festivities, Grammy Award-winning artist Sir Mix-A-Lot will make a special appearance to help raise awareness and encourage community participation. The Seattle music icon is joining forces with The Jewell Project and The Outlet Collection Seattle to inspire generosity and celebrate the spirit of giving.\n\n“The holidays are a time for bringing people together, and we’re excited to provide a place where our community can make a meaningful difference,” said Elizabeth Burton, General Manager – The Outlet Collection Seattle. “With the support of The Jewell Project, Sir Mix-A-Lot, and our generous shoppers, we hope to collect plenty of toys and help create a memorable holiday season…",
-   "url": "https://www.parentmap.com/calendar/holiday-toy-drive/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-2.51.44-PM.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "The Outlet Collection | Seattle, 1101 Outlet Collection Way, Auburn, WA, 98001",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T21:00:00Z",
-    "end": "2026-11-07T23:00:00Z",
-    "notes": "The Outlet Collection Seattle is kicking off the season of giving with a special Holiday Toy Drive benefiting The Jewell Project on Saturday, November 7, from…\n\nhttps://www.parentmap.com/calendar/holiday-toy-drive/"
-   },
-   "firstSeen": "2026-11-03T18:29:50Z"
-  },
-  {
-   "id": "ab23e92694",
-   "series": "f0e852f3db",
-   "title": "Dia De Los Muertos",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 840,
-   "endMinute": 1020,
-   "dates": "Sat, Nov 7",
-   "time": "2–5 PM",
-   "place": "Phinney Center Campus, Seattle",
-   "placeLines": "Phinney Center Campus, Seattle\n6532 Phinney Ave. N., Seattle, WA, 98103",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "This Mexican holiday honors the deceased with a cultural extravaganza filled with food, drink, and festivities.",
-   "description": "This Mexican holiday honors the deceased with a cultural extravaganza filled with food, drink, and festivities.\n\nEsta festividad mexicana honra a los difuntos con un gran despliegue cultural lleno de comida, bebida y celebraciones.",
-   "url": "https://www.phinneycenter.org/event/dia-de-los-muertos/",
-   "image": "https://media.phinneycenter.org/wp-content/uploads/2023/11/05092437/RPP09873-768x512.jpeg",
-   "imageCredit": "Phinney Center",
-   "sources": [
-    "Phinney Center",
-    "ParentMap"
-   ],
-   "map": "Phinney Center Campus, 6532 Phinney Ave. N., Seattle, WA, 98103",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T22:00:00Z",
-    "end": "2026-11-08T01:00:00Z",
-    "notes": "This Mexican holiday honors the deceased with a cultural extravaganza filled with food, drink, and festivities.\n\nhttps://www.phinneycenter.org/event/dia-de-los-muertos/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
    "id": "ec10c13617",
    "series": "21c3d0e236",
    "title": "Waterfront Park Firepit Socials",
@@ -850,105 +394,6 @@
    "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
-   "id": "fc3ed11140",
-   "series": "623cc29276",
-   "title": "Federal Way Watson’s Holiday Open House",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 960,
-   "endMinute": 1140,
-   "dates": "Sat, Nov 7",
-   "time": "4–7 PM",
-   "place": "Watson’s Greenhouse – Federal Way, Auburn",
-   "placeLines": "Watson’s Greenhouse – Federal Way, Auburn\n3909 S. 320th St., Auburn, 98001",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Step into the magic of the season at the Watson’s Holiday Open House!",
-   "description": "Step into the magic of the season at the Watson’s Holiday Open House! Our stores are transformed into a winter wonderland where beautifully decorated Christmas trees shimmer around every corner, ready to inspire and delight. Get a head start on your holiday shopping with unique decor and gifts ready for everyone on your list. Bring the whole family!\n\nWe’ll have plenty of festive photo spots perfect for capturing holiday memories, join us and celebrate the official start of the most wonderful time of the year!",
-   "url": "https://www.parentmap.com/calendar/federal-way-watsons-holiday-open-house/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/holiday-open-house-scaled-e1792432174343-768x579.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Watson’s Greenhouse – Federal Way, 3909 S. 320th St., Auburn, 98001",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-08T00:00:00Z",
-    "end": "2026-11-08T03:00:00Z",
-    "notes": "Step into the magic of the season at the Watson’s Holiday Open House!\n\nhttps://www.parentmap.com/calendar/federal-way-watsons-holiday-open-house/"
-   },
-   "firstSeen": "2026-10-20T15:41:43Z"
-  },
-  {
-   "id": "2ba9eef5b9",
-   "series": "4f4401f79e",
-   "title": "Winter Stoke Party",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 960,
-   "endMinute": 1200,
-   "dates": "Sat, Nov 7",
-   "time": "4–8 PM",
-   "place": "Downtown Enumclaw",
-   "placeLines": "Downtown Enumclaw\nCole Street, Enumclaw, WA, 98022",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Calling you back to the snow mindset!",
-   "description": "Calling you back to the snow mindset! As those fall leaves give way to winter, reignite your snow passion at our FREE annual pre-season block party. Enjoy live music, a beer garden, vendors, giveaways, marshmallow or Twinkie-roasting contests, and the chance to win loads of killer gear in a raffle for our friends from Mission Outdoors!\n\nAll ages welcome.",
-   "url": "https://www.parentmap.com/calendar/winter-stoke-party/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2024/10/Screenshot-2026-10-13-111525.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Downtown Enumclaw, Cole Street, Enumclaw, WA, 98022",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-08T00:00:00Z",
-    "end": "2026-11-08T04:00:00Z",
-    "notes": "Calling you back to the snow mindset!\n\nhttps://www.parentmap.com/calendar/winter-stoke-party/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "b313b8115a",
-   "series": "f45d11ebf5",
-   "title": "Puyallup Watson’s Holiday Open House",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 1020,
-   "endMinute": 1200,
-   "dates": "Sat, Nov 7",
-   "time": "5–8 PM",
-   "place": "Watson’s Greenhouse, Puyallup",
-   "placeLines": "Watson’s Greenhouse, Puyallup\n6211 Pioneer Way E, Puyallup, WA, 98371-4954",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Step into the magic of the season at the Watson’s Holiday Open House!",
-   "description": "Step into the magic of the season at the Watson’s Holiday Open House! Our stores are transformed into a winter wonderland where beautifully decorated Christmas trees shimmer around every corner, ready to inspire and delight. Get a head start on your holiday shopping with unique decor and gifts ready for everyone on your list. Bring the whole family!\n\nWe’ll have plenty of festive photo spots perfect for capturing holiday memories, and the Terrace Cafe will be open late for dining, drinks, and festive treats. Join us and celebrate the official start of the most wonderful time of the year!",
-   "url": "https://www.parentmap.com/calendar/puyallup-watsons-holiday-open-house/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/holiday-open-house-1-scaled-e1792511934992-768x582.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Watson’s Greenhouse, 6211 Pioneer Way E, Puyallup, WA, 98371-4954",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-08T01:00:00Z",
-    "end": "2026-11-08T04:00:00Z",
-    "notes": "Step into the magic of the season at the Watson’s Holiday Open House!\n\nhttps://www.parentmap.com/calendar/puyallup-watsons-holiday-open-house/"
-   },
-   "firstSeen": "2026-11-07T16:55:41Z"
-  },
-  {
    "id": "7291fa9513",
    "series": "ba4b5fd6f2",
    "title": "Seattle Little Rangers 2nd Annual Indoor Family Sports Carnival",
@@ -980,6 +425,39 @@
     "notes": "Join Seattle Little Rangers for Our 2nd Annual Indoor Family Sports Carnival!\n\nhttps://www.parentmap.com/calendar/seattle-little-rangers-2nd-annual-indoor-family-sports-carnival/"
    },
    "firstSeen": "2026-11-02T20:49:48Z"
+  },
+  {
+   "id": "c3442d8bd9",
+   "series": "0a00765829",
+   "title": "Salmon Steward Interpretation Days",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "startMinute": 660,
+   "endMinute": 900,
+   "dates": "Sun, Nov 8",
+   "time": "11 AM–3 PM",
+   "place": "Carkeek Park Chum Salmon Viewing Area",
+   "placeLines": "Carkeek Park Chum Salmon Viewing Area",
+   "region": "SEATTLE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…",
+   "description": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge\nEvent Types: Community,Education,Nature/Environment\nAudience: All\nContact: Max\nContact Email: SalmonStewards@seattle.gov\nSite Contact Details: Public email for salmon steward and celebration related questions.\nCost: Free\nLink: https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/\n\nJoin us in Carkeek on Saturdays, Sundays, and Wednesdays (2-4PM) to view the salmon run at Carkeek's Pipers Creek and find trained stewardship volunteers in blue vests ready to chat with you about all things salmon. They have details on how to get involved with environmental projects in Seattle and ways to reduce water pollution and improve salmon habitat. Come with questions! There is so much to learn and explore as the salmon make their way upstream.",
+   "url": "https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/",
+   "sources": [
+    "City of Seattle"
+   ],
+   "map": "Carkeek Park Chum Salmon Viewing Area, WA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-08T19:00:00Z",
+    "end": "2026-11-08T23:00:00Z",
+    "notes": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/"
+   },
+   "firstSeen": "2026-10-30T17:04:03Z",
+   "revision": 1,
+   "changed": "2026-11-08T17:08:13Z"
   },
   {
    "id": "cde528f998",
@@ -6722,10 +6200,10 @@
    "series": "2284959ec6",
    "title": "Snow Globe at Pacific Place",
    "start": "2026-12-11",
-   "end": "2026-12-21",
+   "end": "2026-12-22",
    "startMinute": 600,
    "endMinute": 1320,
-   "dates": "Dec 11–21",
+   "dates": "Dec 11–22",
    "time": "10 AM–10 PM",
    "place": "Pacific Place, Seattle",
    "placeLines": "Pacific Place, Seattle\n600 Pine St., Seattle, WA, 98101",
@@ -6745,12 +6223,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-11",
-    "end": "2026-12-22",
+    "end": "2026-12-23",
     "notes": "Hours: 10 AM–10 PM\n\nCelebrate the season with a new downtown Seattle holiday tradition!\n\nhttps://www.parentmap.com/calendar/snow-globe-at-pacific-place-2/2026-12-11/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-11-06T18:07:55Z"
+   "revision": 2,
+   "changed": "2026-11-08T17:08:13Z"
   },
   {
    "id": "cac386b3aa",
@@ -8088,10 +7566,10 @@
    "series": "7fe85e8cbb",
    "title": "Luckie Farms Christmas Experience",
    "start": "2026-12-16",
-   "end": "2026-12-21",
+   "end": "2026-12-22",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Dec 16–21",
+   "dates": "Dec 16–22",
    "time": "10 AM–6 PM",
    "place": "Luckie Farms, Lake Stevens",
    "placeLines": "Luckie Farms, Lake Stevens\n930 Sunnyside Blvd, Lake Stevens, WA, 98258",
@@ -8111,12 +7589,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-16",
-    "end": "2026-12-22",
+    "end": "2026-12-23",
     "notes": "Hours: 10 AM–6 PM\n\nThe perfect holiday tradition: Christmas at the farm!\n\nhttps://www.parentmap.com/calendar/santas-farm-adventure/2026-12-16/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-11-06T18:07:55Z"
+   "revision": 2,
+   "changed": "2026-11-08T17:08:13Z"
   },
   {
    "id": "0545623d39",
