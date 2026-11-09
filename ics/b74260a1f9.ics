@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b74260a1f9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261206T180000Z
+DTEND:20261206T230000Z
+SUMMARY:Little Bit Therapeutic Riding Center Community Holiday Drive-Throug
+ h
+LOCATION:Little Bit Therapeutic Riding Center\, 18675 NE 106th St\, Redmond
+ \, WA\, 98052-2930
+DESCRIPTION:Little Bit Therapeutic Riding Center is hosting its annual comm
+ unity holiday drive-through.\n\nhttps://www.parentmap.com/calendar/little-
+ bit-therapeutic-riding-center-community-holiday-drive-through-2/
+URL:https://www.parentmap.com/calendar/little-bit-therapeutic-riding-center
+ -community-holiday-drive-through-2/
+END:VEVENT
+END:VCALENDAR

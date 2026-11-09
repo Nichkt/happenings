@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:423795563c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261128T190000Z
+DTEND:20261129T000000Z
+SUMMARY:C-ID Food Walk and Small Business Saturday
+LOCATION:Hing Hay Park\, 423 Maynard Ave. S.\, Seattle\, WA\, 98104
+DESCRIPTION:Join CIDBIA’s $6 + $8 Food Walk on 11/28 from 11am-4pm!\n\nht
+ tps://www.parentmap.com/calendar/c-id-food-walk-and-small-business-saturda
+ y/
+URL:https://www.parentmap.com/calendar/c-id-food-walk-and-small-business-sa
+ turday/
+END:VEVENT
+END:VCALENDAR

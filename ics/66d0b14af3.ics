@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66d0b14af3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261212T200000Z
+DTEND:20261213T000000Z
+SUMMARY:Turn of the Tides: An Eco Fair Celebration and Arts Bazaar
+LOCATION:Olympia Center\, 222 Columbia St NW\, Olympia\, WA\, 98501-8208
+DESCRIPTION:Join the Estuarium for our annual Turn of the Tides winter fest
+ ival at the Olympia Center!\n\nhttps://www.parentmap.com/calendar/turn-tid
+ es-eco-fair-celebration-and-arts-bazaar/
+URL:https://www.parentmap.com/calendar/turn-tides-eco-fair-celebration-and-
+ arts-bazaar/
+END:VEVENT
+END:VCALENDAR

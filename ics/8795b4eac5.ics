@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8795b4eac5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261126T220000Z
+DTEND:20261127T030000Z
+SUMMARY:Lakesgiving Buffet at Hyatt Regency Lake Washington
+LOCATION:Hyatt Regency Lake Washington\, 1053 Lake Washington Blvd N\, Rent
+ on\, WA\, 98056
+DESCRIPTION:Join us for the 2026 “Lakesgiving” celebration at Hyatt Reg
+ ency Lake Washington!\n\nhttps://www.parentmap.com/calendar/lakesgiving-bu
+ ffet-at-hyatt-regency-lake-washington/
+URL:https://www.parentmap.com/calendar/lakesgiving-buffet-at-hyatt-regency-
+ lake-washington/
+END:VEVENT
+END:VCALENDAR

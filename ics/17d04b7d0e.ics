@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:17d04b7d0e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Hooves
+LOCATION:Port of Everett\, Pacific Rim Plaza\, 1028 13th Street\, Everett\,
+  WA\, 98201
+DESCRIPTION:Hours: 12–3 PM\n\nHoliday Hooves is back for a third season f
+ rom December 13-24!\n\nhttps://www.parentmap.com/calendar/holiday-hooves/2
+ 026-12-19/
+URL:https://www.parentmap.com/calendar/holiday-hooves/2026-12-19/
+END:VEVENT
+END:VCALENDAR

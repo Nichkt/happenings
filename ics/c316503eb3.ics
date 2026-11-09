@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c316503eb3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261206T170000Z
+DTEND:20261206T213000Z
+SUMMARY:Breakfast With Santa at McMenamins
+LOCATION:McMenamins Anderson School\, 18607 Bothell Way NE\, Bothell\, WA\,
+  98011-1928
+DESCRIPTION:Why stand in a long line at the mall or department store waitin
+ g to talk to Santa when you can relax at a table with your family\, enjoyi
+ ng a hot breakfast\,…\n\nhttps://www.parentmap.com/calendar/breakfast-wi
+ th-santa-at-mcmenamins/
+URL:https://www.parentmap.com/calendar/breakfast-with-santa-at-mcmenamins/
+END:VEVENT
+END:VCALENDAR

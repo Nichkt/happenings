@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7e45f8e83b-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+SUMMARY:Holiday Creation Station
+LOCATION:W.W. Seymour Botanical Conservatory\, 316 S G St\, Tacoma\, WA\, 9
+ 8405-4733
+DESCRIPTION:Sunday\, December 6\, 13 and 20 and 27 | 10 am-1 pm at the W.W.
+  Seymour Botanical Conservatory Free\, $5 suggested donation Drop into the
+  conservatory and create…\n\nhttps://www.parentmap.com/calendar/holiday-
+ creation-station/2026-12-13/
+URL:https://www.parentmap.com/calendar/holiday-creation-station/2026-12-13/
+END:VEVENT
+END:VCALENDAR

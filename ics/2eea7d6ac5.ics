@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2eea7d6ac5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T040000Z
+SUMMARY:Santa’s Sock-Hop Tree Lighting
+LOCATION:Imagine Children’s Museum\, 1502 Wall St\, Everett\, WA\, 98201-
+ 4008
+DESCRIPTION:Welcome Santa to Imagine and celebrate the start of the Christm
+ as season at Santa’s Sock Hop & Tree Lighting!\n\nhttps://www.parentmap.
+ com/calendar/santas-sock-hop-tree-lighting-2/
+URL:https://www.parentmap.com/calendar/santas-sock-hop-tree-lighting-2/
+END:VEVENT
+END:VCALENDAR

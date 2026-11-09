@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:970c1b6e6f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261203T020000Z
+DTEND:20261203T040000Z
+SUMMARY:Cocoa\, Cookies & Christmas Crafts at Fruitland Grange
+LOCATION:Fruitland Grange\, 11102 86th Ave E\, Puyallup\, WA\, 98373
+DESCRIPTION:A Free Holiday Craft Night at Fruitland Grange!\n\nhttps://www.
+ parentmap.com/calendar/cocoa-cookies-christmas-crafts-at-fruitland-grange/
+URL:https://www.parentmap.com/calendar/cocoa-cookies-christmas-crafts-at-fr
+ uitland-grange/
+END:VEVENT
+END:VCALENDAR

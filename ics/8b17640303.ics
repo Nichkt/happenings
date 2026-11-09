@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b17640303-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261205T163000Z
+DTEND:20261205T190000Z
+SUMMARY:Santa Breakfast at Mt. Si Senior Center
+LOCATION:Mt. Si Senior Center\, Mt. Si Senior Center - 411 Main Ave S North
+  Bend WA 98045
+DESCRIPTION:Community is invited to join family and friends for Mt.\n\nhttp
+ s://www.northbendwa.gov/m/calendar/event/detail/4780
+URL:https://www.northbendwa.gov/m/calendar/event/detail/4780
+END:VEVENT
+END:VCALENDAR

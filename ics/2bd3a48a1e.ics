@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2bd3a48a1e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261114T180000Z
+DTEND:20261115T000000Z
+SUMMARY:Samena Annual Holiday Market
+LOCATION:Samena Swim and Recreation Club\, 15231 Lake Hills Blvd\, Bellevue
+ \, WA\, 98007-5925
+DESCRIPTION:Celebrate the season at Samena’s Annual Holiday Market!\n\nht
+ tps://www.parentmap.com/calendar/samena-annual-holiday-market/
+URL:https://www.parentmap.com/calendar/samena-annual-holiday-market/
+END:VEVENT
+END:VCALENDAR

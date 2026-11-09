@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7f34aa74b5-seattle-happenings@nichkt.github.io
+DTSTAMP:20261109T212959Z
+SEQUENCE:0
+DTSTART:20261206T220000Z
+DTEND:20261207T010000Z
+SUMMARY:Snack Attack
+LOCATION:Vasa Park Resort\, 3560 W Lake Sammamish Pkwy SE\, Bellevue\, WA\,
+  98008-5839
+DESCRIPTION:One ticket.\n\nhttps://www.parentmap.com/calendar/snack-attack/
+URL:https://www.parentmap.com/calendar/snack-attack/
+END:VEVENT
+END:VCALENDAR
