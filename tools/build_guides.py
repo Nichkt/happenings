@@ -15,7 +15,7 @@ import re
 from zoneinfo import ZoneInfo
 
 SITE = "https://seattlehappenings.org"
-NEWSLETTER = "seattlehappenings"  # Buttondown username
+NEWSLETTER = "happening"  # Buttondown username (account happeninginseattle@gmail.com)
 TZ = ZoneInfo("America/Los_Angeles")
 NEAR = {"SEATTLE", "EASTSIDE", "NORTH", "SOUTH"}
 
