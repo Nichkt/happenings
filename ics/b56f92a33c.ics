@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b56f92a33c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261110T184347Z
+SEQUENCE:0
+DTSTART:20261128T180000Z
+DTEND:20261128T230000Z
+SUMMARY:6th Annual Holiday Market to Benefit SE Seattle Schools
+LOCATION:Mercer International Middle School\, 1600 S Columbian Way\, Seattl
+ e\, WA\, 98108
+DESCRIPTION:Join us for the 6th annual Families Crafting Change Holiday Mar
+ ket\, benefiting SE Seattle schools.\n\nhttps://www.parentmap.com/calendar
+ /6th-annual-holiday-market-to-benefit-se-seattle-schools/
+URL:https://www.parentmap.com/calendar/6th-annual-holiday-market-to-benefit
+ -se-seattle-schools/
+END:VEVENT
+END:VCALENDAR

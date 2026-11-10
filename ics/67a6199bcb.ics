@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67a6199bcb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261110T184347Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Victorian Christmas Festival
+LOCATION:Washington State Fair Events Center (MattressFIRM Showplex)\, 110 
+ 9th Ave SW\, Puyallup\, WA\, 98371-6811
+DESCRIPTION:Step back in time at the Victorian Christmas Festival\, a belov
+ ed tradition that welcomes the holiday season with nostalgic charm.\n\nhtt
+ ps://www.parentmap.com/calendar/27691/2026-12-03/
+URL:https://www.parentmap.com/calendar/27691/2026-12-03/
+END:VEVENT
+END:VCALENDAR

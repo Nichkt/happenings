@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc07b7f849-seattle-happenings@nichkt.github.io
+DTSTAMP:20261110T184347Z
+SEQUENCE:0
+DTSTART:20261209T023000Z
+DTEND:20261209T031500Z
+SUMMARY:Holiday Sing Along at the Maple Valley Library
+DESCRIPTION:‘Tis the Season for gathering together as a community and SIN
+ GING! Get into the holiday spirit with us for this all ages holiday sing a
+ long led by Jen from…\n\nhttps://www.parentmap.com/calendar/holiday-sing
+ -along-at-the-maple-valley-library/
+URL:https://www.parentmap.com/calendar/holiday-sing-along-at-the-maple-vall
+ ey-library/
+END:VEVENT
+END:VCALENDAR

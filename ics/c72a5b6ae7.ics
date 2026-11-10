@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c72a5b6ae7-seattle-happenings@nichkt.github.io
+DTSTAMP:20261110T184347Z
+SEQUENCE:0
+DTSTART:20261205T220000Z
+DTEND:20261206T010000Z
+SUMMARY:Holiday Blast with Santa
+LOCATION:Center at Norpoint\, 4818 Nassau Ave NE\, Tacoma\, WA\, 98422-2189
+DESCRIPTION:Bring the entire family to enjoy this magical holiday event!\n\
+ nhttps://www.parentmap.com/calendar/holiday-blast-santa/
+URL:https://www.parentmap.com/calendar/holiday-blast-santa/
+END:VEVENT
+END:VCALENDAR

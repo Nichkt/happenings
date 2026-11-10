@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0600000211-seattle-happenings@nichkt.github.io
+DTSTAMP:20261110T184347Z
+SEQUENCE:0
+DTSTART:20261219T190000Z
+DTEND:20261219T220000Z
+SUMMARY:Holiday Blast at Eastside Community Center
+LOCATION:Eastside Community Center\, 1721 E 56th St\, Tacoma\, WA\, 98404
+DESCRIPTION:Bring the family for free holiday fun!\n\nhttps://www.parentmap
+ .com/calendar/holiday-blast-eastside-community-center/
+URL:https://www.parentmap.com/calendar/holiday-blast-eastside-community-cen
+ ter/
+END:VEVENT
+END:VCALENDAR

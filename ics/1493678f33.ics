@@ -5,9 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1493678f33-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261107
+DTSTAMP:20261110T184347Z
+SEQUENCE:1
+LAST-MODIFIED:20261110T184347Z
+DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
 SUMMARY:BIMA Día de los Muertos Ofrenda
@@ -16,8 +17,8 @@ LOCATION:Bainbridge Island Museum of Art\, 100 Ravine Lane N.E.\, Bainbridg
 DESCRIPTION:Hours: 10 AM–5 PM\n\nThe Día de los Muertos festival centerp
  iece is a traditional ofrenda\, a colorful\, multi-paneled shrine where vi
  sitors can add their own photos honoring friends…\n\nhttps://www.parentm
- ap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-07/
+ ap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-08/
 URL:https://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026
- -11-07/
+ -11-08/
 END:VEVENT
 END:VCALENDAR

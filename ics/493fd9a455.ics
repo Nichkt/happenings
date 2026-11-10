@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:493fd9a455-seattle-happenings@nichkt.github.io
+DTSTAMP:20261110T184347Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261217
+TRANSP:TRANSPARENT
+SUMMARY:The Midwinter Revels Celebrate the Winter Solstice
+LOCATION:Rialto Theatre\, 310 9th Street\, Tacoma\, WA\, 98402
+DESCRIPTION:Celebrate the Winter Solstice with joyful Midwinter Revels insp
+ ired by the traditions and folklore of Old Bavaria.\n\nhttps://www.parentm
+ ap.com/calendar/midwinter-revels-celebrate-winter-solstice/2026-12-12/1/
+URL:https://www.parentmap.com/calendar/midwinter-revels-celebrate-winter-so
+ lstice/2026-12-12/1/
+END:VEVENT
+END:VCALENDAR

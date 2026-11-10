@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e255e216eb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261110T184347Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261205T230000Z
+SUMMARY:Selfies with Santa at the Conservatory
+LOCATION:W.W. Seymour Botanical Conservatory\, 316 S G St\, Tacoma\, WA\, 9
+ 8405-4733
+DESCRIPTION:Come visit with Santa at the Conservatory!\n\nhttps://www.paren
+ tmap.com/calendar/selfies-with-santa-at-the-conservatory/
+URL:https://www.parentmap.com/calendar/selfies-with-santa-at-the-conservato
+ ry/
+END:VEVENT
+END:VCALENDAR

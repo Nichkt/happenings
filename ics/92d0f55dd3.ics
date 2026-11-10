@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:92d0f55dd3-seattle-happenings@nichkt.github.io
+DTSTAMP:20261110T184347Z
+SEQUENCE:0
+DTSTART:20261219T190000Z
+DTEND:20261219T200000Z
+SUMMARY:‘Prance & Be Merry’: Seattle Men’s Chorus Kids’ Holiday Sho
+ w
+LOCATION:Benaroya Hall\, 200 University St\, Seattle\, WA\, 98101-3428
+DESCRIPTION:This year’s lineup includes an abbreviated show specifically 
+ for children to join in the delight of Prance & Be Merry.\n\nhttps://www.p
+ arentmap.com/calendar/holly-jolly-jingle-seattle-mens-chorus-kids-holiday-
+ show/
+URL:https://www.parentmap.com/calendar/holly-jolly-jingle-seattle-mens-chor
+ us-kids-holiday-show/
+END:VEVENT
+END:VCALENDAR

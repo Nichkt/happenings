@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:7da5ad72fc-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
+DTSTAMP:20261110T184347Z
+SEQUENCE:1
+LAST-MODIFIED:20261110T184347Z
 DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261222
 TRANSP:TRANSPARENT
 SUMMARY:Luckie Farms Christmas Experience
 LOCATION:Luckie Farms\, 930 Sunnyside Blvd\, Lake Stevens\, WA\, 98258
-DESCRIPTION:Hours: 10 AM–6 PM\n\nThe perfect holiday tradition: Christmas
-  at the farm!\n\nhttps://www.parentmap.com/calendar/santas-farm-adventure/
- 2026-12-11/
+DESCRIPTION:The perfect holiday tradition: Christmas at the farm!\n\nhttps:
+ //www.parentmap.com/calendar/santas-farm-adventure/2026-12-11/
 URL:https://www.parentmap.com/calendar/santas-farm-adventure/2026-12-11/
 END:VEVENT
 END:VCALENDAR
