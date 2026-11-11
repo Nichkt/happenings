@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9c4e39c1d7-seattle-happenings@nichkt.github.io
+DTSTAMP:20261111T174911Z
+SEQUENCE:0
+DTSTART:20261210T023000Z
+DTEND:20261210T060000Z
+SUMMARY:Hanukkah: A Celebration at the Royal Room
+LOCATION:The Royal Room\, 5000 Rainier Ave S\, Seattle\, WA\, 98118-1927
+DESCRIPTION:South Hudson Music Project presents its annual celebration of H
+ anukkah with two bands that reimagine Jewish music old and new\, The Klein
+  Party and Klang.\n\nhttps://www.parentmap.com/calendar/hanukkah-royal-roo
+ m-0/
+URL:https://www.parentmap.com/calendar/hanukkah-royal-room-0/
+END:VEVENT
+END:VCALENDAR

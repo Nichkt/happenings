@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:937e83744c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261111T174911Z
+SEQUENCE:0
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Twinkle Twinkle
+LOCATION:Freeway Park\, 700 Seneca St.\, Seattle\, WA\, 98101
+DESCRIPTION:Come stay cozy by the fire\, roast a s’more and hold your lov
+ ed ones close as we welcome the spirit of winter with open arms.\n\nhttps:
+ //www.parentmap.com/calendar/twinkle-twinkle/
+URL:https://www.parentmap.com/calendar/twinkle-twinkle/
+END:VEVENT
+END:VCALENDAR

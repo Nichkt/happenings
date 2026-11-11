@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:02b00aade6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261111T174911Z
+SEQUENCE:0
+DTSTART:20261121T190000Z
+DTEND:20261122T040000Z
+SUMMARY:Holiday Mingle at Fair Trade Winds
+LOCATION:Fair Trade Winds\, 5323 BALLARD AVE NW\, SEATTLE\, WA\, 98107-4061
+DESCRIPTION:🎄You’re invited to our first-ever Holiday Mingle on Saturd
+ ay\, Nov.\n\nhttps://www.visitballard.com/event/holiday-mingle-at-fair-tra
+ de-winds/
+URL:https://www.visitballard.com/event/holiday-mingle-at-fair-trade-winds/
+END:VEVENT
+END:VCALENDAR

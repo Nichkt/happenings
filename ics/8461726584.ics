@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8461726584-seattle-happenings@nichkt.github.io
+DTSTAMP:20261111T174911Z
+SEQUENCE:0
+DTSTART:20261212T010000Z
+DTEND:20261212T040000Z
+SUMMARY:Frosty Fest
+LOCATION:120 Building\, 120 228th Ave NE\, Sammamish\, WA\, 98074
+DESCRIPTION:This highly-anticipated\, family-friendly event is a Sammamish 
+ tradition bringing the community together to share a festive evening.\n\nh
+ ttps://www.parentmap.com/calendar/frosty-fest/
+URL:https://www.parentmap.com/calendar/frosty-fest/
+END:VEVENT
+END:VCALENDAR

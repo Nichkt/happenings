@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b80cf1193-seattle-happenings@nichkt.github.io
+DTSTAMP:20261111T174911Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:Hanukkah Treats from Trophy Cupcakes
+DESCRIPTION:Hours: 10 AM–8 PM\n\nMake All Eight Nights a Little Sweeter.\
+ n\nhttps://www.parentmap.com/calendar/hanukkah-cupcakes-trophy-cupcakes/20
+ 26-11-23/
+URL:https://www.parentmap.com/calendar/hanukkah-cupcakes-trophy-cupcakes/20
+ 26-11-23/
+END:VEVENT
+END:VCALENDAR

@@ -2438,7 +2438,10 @@
       keyError('Paste your Gemini key first.');
       return;
     }
-    if (!/^[\w-]{20,}$/.test(key)) {
+    // Only catches pasted addresses and scraps: keys from AI Studio have been
+    // "AQ.…" since May 2026 ("AIza…" before), and Google's answer is the real
+    // check. Any bearer-token character is allowed (RFC 6750), all safe in a header.
+    if (!/^[\w.~+\/=-]{20,}$/.test(key)) {
       keyError('That doesn\'t look like a Gemini key. Copy the whole key from Google AI Studio and paste it here.');
       return;
     }

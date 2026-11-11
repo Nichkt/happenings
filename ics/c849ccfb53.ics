@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c849ccfb53-seattle-happenings@nichkt.github.io
+DTSTAMP:20261111T174911Z
+SEQUENCE:0
+DTSTART:20261206T030000Z
+DTEND:20261206T043000Z
+SUMMARY:Shoreline Menorah Lighting
+LOCATION:Shoreline City Hall\, 17500 Midvale Ave. N.\, Shoreline\, WA\, 981
+ 33
+DESCRIPTION:Chanukah is here!\n\nhttps://www.parentmap.com/calendar/shoreli
+ ne-menorah-lighting/
+URL:https://www.parentmap.com/calendar/shoreline-menorah-lighting/
+END:VEVENT
+END:VCALENDAR

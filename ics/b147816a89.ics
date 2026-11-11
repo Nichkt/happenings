@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b147816a89-seattle-happenings@nichkt.github.io
+DTSTAMP:20261111T174911Z
+SEQUENCE:0
+DTSTART:20261206T230000Z
+DTEND:20261207T020000Z
+SUMMARY:Hanukkah at Gig Harbor
+LOCATION:Skansie Brothers Park\, 3211 Harborview Dr\, Gig Harbor\, WA\, 983
+ 35
+DESCRIPTION:Chanukah Village and Menorah Lighting Downtown Gig Harbor Sunda
+ y\, December 6 in Downtown Gig Harbor.\n\nhttps://www.parentmap.com/calend
+ ar/hanukkah-gig-harbor/
+URL:https://www.parentmap.com/calendar/hanukkah-gig-harbor/
+END:VEVENT
+END:VCALENDAR

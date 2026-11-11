@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18a0d90665-seattle-happenings@nichkt.github.io
+DTSTAMP:20261111T174911Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T020000Z
+SUMMARY:Lighted Santa Parade in Puyallup
+LOCATION:Downtown Puyallup\, 107 North Meridian\, Puyallup\, WA\, 98371
+DESCRIPTION:HoHoHo!\n\nhttps://www.parentmap.com/calendar/lighted-santa-par
+ ade-puyallup/
+URL:https://www.parentmap.com/calendar/lighted-santa-parade-puyallup/
+END:VEVENT
+END:VCALENDAR

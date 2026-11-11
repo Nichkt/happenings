@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d3621a5b11-seattle-happenings@nichkt.github.io
+DTSTAMP:20261111T174911Z
+SEQUENCE:0
+DTSTART:20261212T200000Z
+DTEND:20261212T233000Z
+SUMMARY:Edmonds Free Holiday Movies
+LOCATION:The Edmonds Theater\, 415 Main St\, Edmonds\, WA\, 98020-3137
+DESCRIPTION:Join in this fun Edmonds tradition!\n\nhttps://www.parentmap.co
+ m/calendar/edmonds-free-holiday-movies/2026-12-12/
+URL:https://www.parentmap.com/calendar/edmonds-free-holiday-movies/2026-12-
+ 12/
+END:VEVENT
+END:VCALENDAR
