@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8dd3aab21e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261112T185958Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T050000Z
+SUMMARY:Tree Lighting and Night Market at Filipino Community Center
+LOCATION:Filipino Community Center\, 5740 Martin Luther King Junior Way Sou
+ th\, Seattle\, WA\, 98118
+DESCRIPTION:The Filipino Community of Seattle (FCS) invites you to our “6
+ th Annual Tree Lighting & Night Market” on Saturday\, November 28\, 2026
+ \, 5pm-9pm.\n\nhttps://www.parentmap.com/calendar/tree-lighting-and-night-
+ market-filipino-community-center/
+URL:https://www.parentmap.com/calendar/tree-lighting-and-night-market-filip
+ ino-community-center/
+END:VEVENT
+END:VCALENDAR

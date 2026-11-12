@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:577ec598cd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261112T185958Z
+SEQUENCE:0
+DTSTART:20261211T010000Z
+DTEND:20261211T050000Z
+SUMMARY:Holiday Night Market
+LOCATION:Pike Place Market\, Pike Place Market\, 85 Pike St\, Seattle\, WA 
+ 98101
+DESCRIPTION:Neighborhoods: Downtown Commercial Core Event Types: Arts\,Comm
+ unity\,Festivals/Fairs\,Holiday/Seasonal Events\,Music\,Special Events Aud
+ ience: All Sponsoring…\n\nhttps://www.pikeplacemarket.org/events-calenda
+ r/holiday-night-market-with-santa/
+URL:https://www.pikeplacemarket.org/events-calendar/holiday-night-market-wi
+ th-santa/
+END:VEVENT
+END:VCALENDAR

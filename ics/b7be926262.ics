@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b7be926262-seattle-happenings@nichkt.github.io
+DTSTAMP:20261112T185958Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261220
+TRANSP:TRANSPARENT
+SUMMARY:Photos with Santa at Marketplace at Factoria
+LOCATION:THE MARKETPLACE AT FACTORIA\, Factoria Blvd SE\,\, Bellevue\, WA\,
+  98006
+DESCRIPTION:Hours: 11 AM–7 PM\n\nSanta is coming to Marketplace at Factor
+ ia!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-marketplace
+ -at-factoria-2/2026-11-27/
+URL:https://www.parentmap.com/calendar/photos-with-santa-at-marketplace-at-
+ factoria-2/2026-11-27/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0126dcb7e6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261112T185958Z
+SEQUENCE:0
+DTSTART:20261120T010000Z
+DTEND:20261120T023000Z
+SUMMARY:Issaquah Holiday Tree Lighting
+LOCATION:Village Green Park\, 2550 NE Park Drive\, Issaquah\, WA\, 98029
+DESCRIPTION:Celebrate the start of the holiday season with friends and neig
+ hbors at our third annual Holiday Tree Lighting\, sponsored by Highlands F
+ iber Network\, Puget…\n\nhttps://www.parentmap.com/calendar/holiday-tree
+ -lighting/
+URL:https://www.parentmap.com/calendar/holiday-tree-lighting/
+END:VEVENT
+END:VCALENDAR

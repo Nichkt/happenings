@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d3cdf3f27d-seattle-happenings@nichkt.github.io
+DTSTAMP:20261112T185958Z
+SEQUENCE:0
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:Holiday Bookfest
+LOCATION:Phinney Center Campus: Blue (upper) Building\, 6532 Phinney Ave. N
+ .\, Seattle\, WA\, 98103
+DESCRIPTION:Meet over two dozen local authors with their new books\, which 
+ they will personalize for you.\n\nhttps://www.phinneycenter.org/event/holi
+ day-bookfest/
+URL:https://www.phinneycenter.org/event/holiday-bookfest/
+END:VEVENT
+END:VCALENDAR

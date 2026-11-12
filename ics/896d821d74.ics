@@ -5,18 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:896d821d74-seattle-happenings@nichkt.github.io
-DTSTAMP:20261111T174911Z
-SEQUENCE:5
-LAST-MODIFIED:20261111T174911Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261222
+DTSTAMP:20261112T185958Z
+SEQUENCE:6
+LAST-MODIFIED:20261112T185958Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
 SUMMARY:Swansons Nursery Model Train and Holiday Décor
 LOCATION:Swansons Nursery\, 9701 15th Ave NW\, Seattle\, WA\, 98117-2315
 DESCRIPTION:Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holi
  day season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-t
- rain-and-holiday-decor/2026-11-09/
+ rain-and-holiday-decor/2026-11-10/
 URL:https://www.parentmap.com/calendar/swansons-nursery-model-train-and-hol
- iday-decor/2026-11-09/
+ iday-decor/2026-11-10/
 END:VEVENT
 END:VCALENDAR

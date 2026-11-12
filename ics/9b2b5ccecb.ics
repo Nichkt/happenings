@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b2b5ccecb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261112T185958Z
+SEQUENCE:0
+DTSTART:20261201T000000Z
+DTEND:20261201T030000Z
+SUMMARY:Providence O’Christmas Trees Free Family Preview
+LOCATION:The Westin Seattle\, 1900 5th Ave\, Seattle\, WA\, 98101-1204
+DESCRIPTION:Spend the evening wrapped in the holiday spirit at the free Fam
+ ily Preview at the 42nd annual Providence O’Christmas Trees event!\n\nht
+ tps://www.parentmap.com/calendar/providence-ochristmas-trees-free-family-p
+ review/
+URL:https://www.parentmap.com/calendar/providence-ochristmas-trees-free-fam
+ ily-preview/
+END:VEVENT
+END:VCALENDAR
