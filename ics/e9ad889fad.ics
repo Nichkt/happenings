@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e9ad889fad-seattle-happenings@nichkt.github.io
+DTSTAMP:20261113T183627Z
+SEQUENCE:0
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:Harvest Harmony – A Thanksgiving and Cultural Celebration
+LOCATION:Factoria Mall\, Factoria Mall\, 4053 Factoria Mall SE\, WA
+DESCRIPTION:Join the Performing for Seniors Program at Little Masters Club 
+ for a free\, family-friendly Thanksgiving celebration featuring festive in
+ ternational music and…\n\nhttps://bellevuewa.gov/events/harvest-harmony-
+ thanksgiving-cultural-celebration
+URL:https://bellevuewa.gov/events/harvest-harmony-thanksgiving-cultural-cel
+ ebration
+END:VEVENT
+END:VCALENDAR

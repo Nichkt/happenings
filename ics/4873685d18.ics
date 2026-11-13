@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4873685d18-seattle-happenings@nichkt.github.io
+DTSTAMP:20261113T183627Z
+SEQUENCE:0
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Light It Up with Chabad of North Seattle
+LOCATION:Chabad Jewish Center of North Seattle\, 2722 NE 115th St\, Seattle
+ \, 98125
+DESCRIPTION:Join us as we illuminate the night at the Annual North Seattle 
+ Menorah Lighting – a celebration of light\, unity\, and Jewish pride!\n\
+ nhttps://www.parentmap.com/calendar/light-it-up-with-chabad-of-north-seatt
+ le/
+URL:https://www.parentmap.com/calendar/light-it-up-with-chabad-of-north-sea
+ ttle/
+END:VEVENT
+END:VCALENDAR

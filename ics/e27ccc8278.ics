@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e27ccc8278-seattle-happenings@nichkt.github.io
+DTSTAMP:20261113T183627Z
+SEQUENCE:0
+DTSTART:20261210T010000Z
+DTEND:20261210T020000Z
+SUMMARY:Hanukkah at Mercerdale Park
+LOCATION:Mercerdale Park\, 7701 SE 32nd St\, Mercer  Island\, WA\, 98040
+DESCRIPTION:You’re invited to light up Mercer Island on the sixth night o
+ f Chanukah.\n\nhttps://www.parentmap.com/calendar/hanukkah-mercerdale-park
+ /
+URL:https://www.parentmap.com/calendar/hanukkah-mercerdale-park/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc45200e99-seattle-happenings@nichkt.github.io
+DTSTAMP:20261113T183627Z
+SEQUENCE:0
+DTSTART:20261122T060000Z
+DTEND:20261122T070000Z
+SUMMARY:Bellevue Farmers Market Makers District Winter Gathering
+LOCATION:Bellevue Presbyterian Church\, Bellevue Presbyterian Church\, 1717
+  Bellevue Way NE\, WA
+DESCRIPTION:Join Bellevue Farmers Market for a holiday Makers District gath
+ ering featuring a youth maker market with locally handcrafted goods and a 
+ free\, guided…\n\nhttps://bellevuewa.gov/events/bellevue-farmers-market-
+ makers-district-winter-gathering
+URL:https://bellevuewa.gov/events/bellevue-farmers-market-makers-district-w
+ inter-gathering
+END:VEVENT
+END:VCALENDAR

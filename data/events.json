@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-12T18:59:58Z",
+ "generatedAt": "2026-11-13T18:36:27Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-12",
- "until": "2027-02-04",
+ "from": "2026-11-13",
+ "until": "2027-02-05",
  "regions": [
   {
    "id": "SEATTLE",
@@ -87,11 +87,11 @@
  "sources": [
   {
    "name": "Bellevue Botanical Garden",
-   "events": 4
+   "events": 5
   },
   {
    "name": "City of Bellevue",
-   "events": 2
+   "events": 9
   },
   {
    "name": "City of Mercer Island",
@@ -119,7 +119,7 @@
   },
   {
    "name": "Discover Burien",
-   "events": 7
+   "events": 6
   },
   {
    "name": "Downtown Seattle Association",
@@ -131,7 +131,7 @@
   },
   {
    "name": "Northwest African American Museum",
-   "events": 1
+   "events": 2
   },
   {
    "name": "Northwest Asian Weekly",
@@ -139,7 +139,7 @@
   },
   {
    "name": "ParentMap",
-   "events": 230
+   "events": 232
   },
   {
    "name": "Phinney Center",
@@ -159,76 +159,6 @@
   }
  ],
  "events": [
-  {
-   "id": "896d821d74",
-   "series": "e69d0f36a5",
-   "title": "Swansons Nursery Model Train and Holiday Décor",
-   "start": "2026-11-10",
-   "end": "2026-12-20",
-   "startMinute": 540,
-   "endMinute": 1080,
-   "dates": "Nov 10–Dec 20",
-   "time": "9 AM–6 PM",
-   "place": "Swansons Nursery, Seattle",
-   "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Add a little magic to your life this holiday season.",
-   "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
-   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-10/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-10",
-    "end": "2026-12-21",
-    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-10/"
-   },
-   "firstSeen": "2026-10-28T17:13:34Z",
-   "revision": 6,
-   "changed": "2026-11-12T18:59:58Z"
-  },
-  {
-   "id": "1493678f33",
-   "series": "c9c690140b",
-   "title": "BIMA Día de los Muertos Ofrenda",
-   "start": "2026-11-10",
-   "end": "2026-11-15",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Nov 10–15",
-   "time": "10 AM–5 PM",
-   "place": "Bainbridge Island Museum of Art",
-   "placeLines": "Bainbridge Island Museum of Art\n100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
-   "region": "FARTHER",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…",
-   "description": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends and loved ones who’ve passed away. This year’s ofrenda is created by artist Araceli Cruz.\n\nThe ofrenda is accessible to the public each day during museum hours (10 AM – 5 PM) from November 7-15.\n\nAll are welcome to participate!",
-   "url": "https://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-10/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-123945.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Bainbridge Island Museum of Art, 100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-10",
-    "end": "2026-11-16",
-    "notes": "Hours: 10 AM–5 PM\n\nThe Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…\n\nhttps://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-10/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 3,
-   "changed": "2026-11-12T18:59:58Z"
-  },
   {
    "id": "cde528f998",
    "series": "a3343e6bf8",
@@ -262,35 +192,74 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "ae914b959d",
-   "series": "7172f1d6d4",
-   "title": "Burien Winter Market",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Thu, Nov 12",
-   "time": "10 AM–4 PM",
-   "place": "Burien Town Square",
-   "placeLines": "Burien Town Square\n480 SW 152nd Street, Burien, WA, 98166",
-   "region": "SOUTH",
-   "category": "NIGHT_MARKET",
-   "summary": "Burien Farmer’s Market Farmers markets are an essential part of our economy and community.",
-   "description": "Burien Farmer’s Market\n\nFarmers markets are an essential part of our economy and community. Shopping at farmers markets helps to support agricultural producers, ensured food access for all and builds connections between producers and consumers.\n\n(Inclement weather rule in-effect: if there is snow present and/or temperature is below 20 degrees, the farmer’s market will be closed. We will post signs at Town Square and on Social Media)\n\nDETAILS:\n\n• The market is open every Thursday.\n\n• Winter Market is open 10am - 4pm (Nov-Apr)\n\n• Summer Market is open 10am - 6pm (May-Oct)\n\n• Most vendors accept and prefer cash but can also process credit and debit cards. You can purchase market tokens with your card at the information booth to use for purchase at all booths. We can also process your Community Gift e-Card - Buy Here\n\n• EBT is accepted! Inquire at the main tent to see how you can receive up to $10 with the SNAP Market Match program\n\n• Enjoy Live Music and Food Tents during the Summer (May to October)\n\n• Vendors rotate often and seasonally, no week is every the same as that last: fruits, vegetables and seasonal produce, jams, honey, preserves, kombucha, baked goods, fresh flowers, cheese, bath and body products, house plants and potted plants, gems & stones, gifts, wine, meat, snacks and art (jewelry, glass works, yard art, cloth and textile crafts, face)\n\n• Pets are allowed on leash\n\nInterested in becoming a VENDOR at the Burien Farmers Market?\n\nCLICK HERE TO GET MORE INFORMATION…",
-   "url": "https://www.discoverburien.org/calendar/2025/11/13/burien-winter-market",
-   "image": "https://images.squarespace-cdn.com/content/v1/5ac80d6fcef3723a4076ca3f/9e015b7a-9203-4bd9-b627-d4c71c7fc815/Winter+Market+2023.png?format=1000w",
-   "imageCredit": "Discover Burien",
+   "id": "896d821d74",
+   "series": "e69d0f36a5",
+   "title": "Swansons Nursery Model Train and Holiday Décor",
+   "start": "2026-11-11",
+   "end": "2026-12-20",
+   "startMinute": 540,
+   "endMinute": 1080,
+   "dates": "Nov 11–Dec 20",
+   "time": "9 AM–6 PM",
+   "place": "Swansons Nursery, Seattle",
+   "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Add a little magic to your life this holiday season.",
+   "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
+   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-11/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
+   "imageCredit": "ParentMap",
    "sources": [
-    "Discover Burien"
+    "ParentMap"
    ],
-   "map": "Burien Town Square, 480 SW 152nd Street, Burien, WA, 98166",
+   "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
    "calendar": {
-    "allDay": false,
-    "start": "2026-11-12T18:00:00Z",
-    "end": "2026-11-13T00:00:00Z",
-    "notes": "Burien Farmer’s Market Farmers markets are an essential part of our economy and community.\n\nhttps://www.discoverburien.org/calendar/2025/11/13/burien-winter-market"
+    "allDay": true,
+    "start": "2026-11-11",
+    "end": "2026-12-21",
+    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-11/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-28T17:13:34Z",
+   "revision": 7,
+   "changed": "2026-11-13T18:36:27Z"
+  },
+  {
+   "id": "1493678f33",
+   "series": "c9c690140b",
+   "title": "BIMA Día de los Muertos Ofrenda",
+   "start": "2026-11-11",
+   "end": "2026-11-15",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Nov 11–15",
+   "time": "10 AM–5 PM",
+   "place": "Bainbridge Island Museum of Art",
+   "placeLines": "Bainbridge Island Museum of Art\n100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
+   "region": "FARTHER",
+   "category": "CULTURAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…",
+   "description": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends and loved ones who’ve passed away. This year’s ofrenda is created by artist Araceli Cruz.\n\nThe ofrenda is accessible to the public each day during museum hours (10 AM – 5 PM) from November 7-15.\n\nAll are welcome to participate!",
+   "url": "https://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-11/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-123945.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Bainbridge Island Museum of Art, 100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-11",
+    "end": "2026-11-16",
+    "notes": "Hours: 10 AM–5 PM\n\nThe Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…\n\nhttps://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-11/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 4,
+   "changed": "2026-11-13T18:36:27Z"
   },
   {
    "id": "dc26200d0c",
@@ -1968,6 +1937,34 @@
    "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
+   "id": "bc45200e99",
+   "series": "720f158184",
+   "title": "Bellevue Farmers Market Makers District Winter Gathering",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 1320,
+   "dates": "Sat, Nov 21",
+   "time": "10 PM",
+   "place": "Bellevue Presbyterian Church",
+   "placeLines": "Bellevue Presbyterian Church",
+   "region": "EASTSIDE",
+   "category": "FARMERS",
+   "summary": "Join Bellevue Farmers Market for a holiday Makers District gathering featuring a youth maker market with locally handcrafted goods and a free, guided…",
+   "description": "Join Bellevue Farmers Market for a holiday Makers District gathering featuring a youth maker market with locally handcrafted goods and a free, guided winter-themed craft activity for adults.\n\nLearn more on the Bellevue Farmers Market website.\n\nThis event is part of the city's community-led, city-supported Community Programming Fund and is not hosted by the City of Bellevue.",
+   "url": "https://bellevuewa.gov/events/bellevue-farmers-market-makers-district-winter-gathering",
+   "sources": [
+    "City of Bellevue"
+   ],
+   "map": "Bellevue Presbyterian Church, Bellevue Presbyterian Church, 1717 Bellevue Way NE, WA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-22T06:00:00Z",
+    "end": "2026-11-22T07:00:00Z",
+    "notes": "Join Bellevue Farmers Market for a holiday Makers District gathering featuring a youth maker market with locally handcrafted goods and a free, guided…\n\nhttps://bellevuewa.gov/events/bellevue-farmers-market-makers-district-winter-gathering"
+   },
+   "firstSeen": "2026-11-13T18:36:27Z"
+  },
+  {
    "id": "13d15cede0",
    "series": "86ae126ba7",
    "title": "Jimi Hendrix Celebration",
@@ -2750,6 +2747,69 @@
    "firstSeen": "2026-11-05T18:51:28Z"
   },
   {
+   "id": "e9ad889fad",
+   "series": "7c0f7c5a74",
+   "title": "Harvest Harmony – A Thanksgiving and Cultural Celebration",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "startMinute": 900,
+   "endMinute": 1020,
+   "dates": "Fri, Nov 27",
+   "time": "3–5 PM",
+   "place": "Factoria Mall",
+   "placeLines": "Factoria Mall",
+   "region": "EASTSIDE",
+   "category": "CULTURAL",
+   "summary": "Join the Performing for Seniors Program at Little Masters Club for a free, family-friendly Thanksgiving celebration featuring festive international music and…",
+   "description": "Join the Performing for Seniors Program at Little Masters Club for a free, family-friendly Thanksgiving celebration featuring festive international music and dance performed by more than 50 young artists, along with gratitude activities and holiday card-making for local seniors and families.\n\nLearn more on the Little Masters Club website.\n\nThis event is part of the city's community-led, city-supported Community Programming Fund and is not hosted by the City of Bellevue.",
+   "url": "https://bellevuewa.gov/events/harvest-harmony-thanksgiving-cultural-celebration",
+   "sources": [
+    "City of Bellevue"
+   ],
+   "map": "Factoria Mall, Factoria Mall, 4053 Factoria Mall SE, WA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-27T23:00:00Z",
+    "end": "2026-11-28T01:00:00Z",
+    "notes": "Join the Performing for Seniors Program at Little Masters Club for a free, family-friendly Thanksgiving celebration featuring festive international music and…\n\nhttps://bellevuewa.gov/events/harvest-harmony-thanksgiving-cultural-celebration"
+   },
+   "firstSeen": "2026-11-13T18:36:27Z"
+  },
+  {
+   "id": "a1ae395224",
+   "series": "ade5946a43",
+   "title": "A HO-HO-HOCM Holiday Adventure",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "startMinute": 990,
+   "endMinute": 1200,
+   "dates": "Fri, Nov 27",
+   "time": "4:30–8 PM",
+   "place": "Hands On Children’s Museum, Olympia",
+   "placeLines": "Hands On Children’s Museum, Olympia\n414 Jefferson St NE, Olympia, WA, 98501-1124",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$25 – $35",
+   "free": false,
+   "kids": true,
+   "summary": "The most wonderful time of the year just got merrier!",
+   "description": "The most wonderful time of the year just got merrier! Join us for our first Santa’s Merry Museum Night, packed with holiday magic, festive fun, and memories your family will treasure.\n\nStep into a winter wonderland where little elves can get creative and holiday cheer fills the air! Meet Santa and Mrs. Claus, say hello to friends from Whoville, craft keepsakes to hang on your tree, and cozy up with cookies and cocoa. It’s a holly jolly night of Hands On fun for the whole family!\n\nOh, What Fun It Is to Play!\n\n• Take a photo with Santa & Mrs. Claus\n• Pose with The Grinch & Cindy Lou Who\n• Make a Handcrafted Ornament\n• Enjoy Cookies & Cocoa\n• Design a festive wreath\n• Silkscreen a holiday card\n• Go sock skating\n• and more!",
+   "url": "https://www.parentmap.com/calendar/a-ho-ho-hocm-holiday-adventure/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/3-photos-banner-8-1024x453@2x-768x340.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Hands On Children’s Museum, 414 Jefferson St NE, Olympia, WA, 98501-1124",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-28T00:30:00Z",
+    "end": "2026-11-28T04:00:00Z",
+    "notes": "The most wonderful time of the year just got merrier!\n\nhttps://www.parentmap.com/calendar/a-ho-ho-hocm-holiday-adventure/"
+   },
+   "firstSeen": "2026-11-13T18:36:27Z"
+  },
+  {
    "id": "0d34bfa2a3",
    "series": "6bfa5e59c9",
    "title": "Zoolights",
@@ -2920,38 +2980,6 @@
    },
    "firstSeen": "2026-10-16T07:59:06Z",
    "revision": 6,
-   "changed": "2026-11-12T18:59:58Z"
-  },
-  {
-   "id": "c5a04323a9",
-   "series": "3829ecb91a",
-   "title": "Garden d’Lights",
-   "start": "2026-11-28",
-   "end": "2026-12-19",
-   "dates": "Nov 28–Dec 19",
-   "place": "Bellevue Botanical Garden",
-   "placeLines": "Bellevue Botanical Garden\n12001 Main St, Bellevue, WA, 98005-3529",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "$5 – $10",
-   "free": false,
-   "summary": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland of over half a million sparkling lights…",
-   "description": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland of over half a million sparkling lights in whimsical shapes of plants, flowers, birds, animals, and cascading waterfalls, all set amid the Garden’s natural beauty. Now celebrating its 32nd year, this beloved family event continues to enchant visitors with festive charm and imaginative displays.\n\nDATES & LOCATION\nSaturday, November 28, 2026 – Sunday, January 3, 2027 (including Christmas Eve, New Year’s Eve, and New Year’s Day. The event is closed on Christmas Day).\nBellevue Botanical Garden, 12001 Main Street, Bellevue, WA\n\nTIMES & COST\nGENERAL ADMISSION NIGHTS\nNov 28, 29, Dec 4-6, Dec 11-Jan 3 (closed on Dec 25)\nFirst entry at 4:30 pm every night\nLast entry at 9:00 pm\nLights go out at 9:30 pm\n\n11 Years and Older: $10.00 per person\nKids 10 and under are always free\n\nSPECIAL $5.00 NIGHTS\nFirst two weeks, Monday through Thursday, Nov 30-Dec 3 and Dec 7-10\nFirst entry at 4:30 pm and last entry at 8:00 pm\nLights go out at 8:30 pm\n11 Years and Older: $5 per person\nKids 10 and under are always free",
-   "url": "https://www.parentmap.com/calendar/garden-dlights-2/2026-11-28/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775152545438-gdl-2017-rr-024-andi-saiorse-caoilinn-e-smaller-fc51bc150614.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Bellevue Botanical Garden, 12001 Main St, Bellevue, WA, 98005-3529",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-28",
-    "end": "2026-12-20",
-    "notes": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland of over half a million sparkling lights…\n\nhttps://www.parentmap.com/calendar/garden-dlights-2/2026-11-28/"
-   },
-   "firstSeen": "2026-10-20T15:41:43Z",
-   "revision": 1,
    "changed": "2026-11-12T18:59:58Z"
   },
   {
@@ -3247,6 +3275,35 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "8c9f147417",
+   "series": "429edb84f6",
+   "title": "Chinese Winter Cultural Market",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "startMinute": 780,
+   "endMinute": 1200,
+   "dates": "Nov 28–29",
+   "time": "1–8 PM",
+   "place": "Meydenbauer Center",
+   "placeLines": "Meydenbauer Center",
+   "region": "EASTSIDE",
+   "category": "NIGHT_MARKET",
+   "summary": "Join the Seattle Asian American Dance Association for a free community market celebrating Chinese arts and culture, featuring local vendors, traditional…",
+   "description": "Join the Seattle Asian American Dance Association for a free community market celebrating Chinese arts and culture, featuring local vendors, traditional crafts, landscape painting, tea culture, costume displays, musical instrument demonstrations, and hands-on activities.\n\nLearn more on the Seattle Asian American Dance Association website.\n\nThis event is part of the city's community-led, city-supported Community Programming Fund and is not hosted by the City of Bellevue.",
+   "url": "https://bellevuewa.gov/events/chinese-winter-cultural-market",
+   "sources": [
+    "City of Bellevue"
+   ],
+   "map": "Meydenbauer Center, Meydenbauer Center, 11100 NE 6th St, WA",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-28",
+    "end": "2026-11-30",
+    "notes": "Hours: 1–8 PM\n\nJoin the Seattle Asian American Dance Association for a free community market celebrating Chinese arts and culture, featuring local vendors, traditional…\n\nhttps://bellevuewa.gov/events/chinese-winter-cultural-market"
+   },
+   "firstSeen": "2026-11-13T18:36:27Z"
+  },
+  {
    "id": "e19f6300c5",
    "series": "9a7c2c6c75",
    "title": "Christmas Ship Viewing at O.O. Denny Park",
@@ -3445,6 +3502,40 @@
     "notes": "The Holidays are approaching and the Black Night Market is the place to be for your holiday gift shopping and festivities!\n\nhttps://www.parentmap.com/calendar/holidaze-tacoma-armory/2026-11-28/"
    },
    "firstSeen": "2026-11-05T18:51:28Z"
+  },
+  {
+   "id": "a60bf30b40",
+   "series": "3829ecb91a",
+   "title": "Garden d’Lights",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "startMinute": 990,
+   "endMinute": 1260,
+   "dates": "Nov 28–29",
+   "time": "4:30–9 PM",
+   "place": "Garden Grounds, Bellevue",
+   "placeLines": "Garden Grounds, Bellevue\n12001 Main Street, Bellevue, 98005",
+   "region": "EASTSIDE",
+   "category": "SEASONAL",
+   "cost": "$10",
+   "free": false,
+   "summary": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…",
+   "description": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million sparkling lights in whimsical shapes of plants, flowers, birds, animals, and cascading waterfalls.\n\nSet amid the Garden’s natural beauty, this beloved, family-friendly event has enchanted visitors for decades and is a cherished part of the community’s holiday season. Now celebrating its 32nd year, Garden d’Lights runs annually from the Saturday after Thanksgiving through New Year’s Eve, delighting guests of all ages with its festive charm and imaginative displays.\n\n$10 per person. Children 10 and under are free.",
+   "url": "https://bellevuebotanical.org/event/garden-dlights-5/2026-11-28/",
+   "image": "https://bellevuebotanical.org/wp-content/uploads/2024/10/073_D-Lites_LH0A3659_M_Burton_2018-REDUCED.jpg",
+   "imageCredit": "Bellevue Botanical Garden",
+   "sources": [
+    "Bellevue Botanical Garden",
+    "ParentMap"
+   ],
+   "map": "Garden Grounds, 12001 Main Street, Bellevue, 98005",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-28",
+    "end": "2026-11-30",
+    "notes": "Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…\n\nhttps://bellevuebotanical.org/event/garden-dlights-5/2026-11-28/"
+   },
+   "firstSeen": "2026-11-13T18:36:27Z"
   },
   {
    "id": "b872090dd7",
@@ -3772,8 +3863,7 @@
     "end": "2026-12-01T21:00:00Z",
     "notes": "Join us for a special daytime viewing of Garden d’Lights with live music, festive treats, and a special shopping opportunity in The Trillium Store.\n\nhttps://bellevuebotanical.org/event/garden-dlights-senior-social-2/"
    },
-   "firstSeen": "2026-10-28T17:13:34Z",
-   "keptSince": "2026-11-12T18:59:58Z"
+   "firstSeen": "2026-10-28T17:13:34Z"
   },
   {
    "id": "5cefcf5ecd",
@@ -4115,9 +4205,9 @@
    "cost": "Free",
    "free": true,
    "summary": "Mark your calendar for our annual Holiday in the Park!",
-   "description": "Mark your calendar for our annual Holiday in the Park! This free annual event features live music, kids activities, and good cheer. It’s a great opportunity to connect with the community and get outside as we head into winter.",
+   "description": "Mark your calendar for our annual Holiday in the Park! This free annual event features live music, kids activities, and good cheer. It’s a great opportunity to connect with the community and get outside as we head into winter. Featuring free cookies and cocoa courtesy of Horizon House, plus free admission to the Conservatory to see their holiday display — and get a photo with Santa!",
    "url": "https://www.volunteerparktrust.org/events/vpt-holiday-in-the-park",
-   "image": "https://static1.squarespace.com/static/67d33ad8595edb6d0616d728/67d33ad9595edb6d0616d7bf/6a9761eb2bef14291d47604b/1793133140451/",
+   "image": "https://images.squarespace-cdn.com/content/v1/67d33ad8595edb6d0616d728/1794524655187-L8N4VBKWBCVOJ599HM3G/Holiday-2021-500x500-1.webp?format=1000w",
    "imageCredit": "Volunteer Park Trust",
    "sources": [
     "Volunteer Park Trust",
@@ -4386,8 +4476,7 @@
     "end": "2026-12-07",
     "notes": "Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…\n\nhttps://bellevuebotanical.org/event/garden-dlights-4/2026-12-04/"
    },
-   "firstSeen": "2026-10-20T15:41:43Z",
-   "keptSince": "2026-11-12T18:59:58Z"
+   "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
    "id": "08ed7a4a41",
@@ -4934,9 +5023,9 @@
    "firstSeen": "2026-11-05T18:51:28Z"
   },
   {
-   "id": "d4d12097af",
-   "series": "6cf5eaf826",
-   "title": "Black Santa Photo Op at NAAM",
+   "id": "eefbab05fb",
+   "series": "31a3b76f5b",
+   "title": "Black Santa Celebration",
    "start": "2026-12-05",
    "end": "2026-12-06",
    "startMinute": 600,
@@ -4944,27 +5033,28 @@
    "dates": "Dec 5–6",
    "time": "10 AM–5 PM",
    "place": "Northwest African American Museum, Seattle",
-   "placeLines": "Northwest African American Museum, Seattle\n2300 S Massachusetts St, Seattle, WA, 98144-3821",
+   "placeLines": "Northwest African American Museum, Seattle\n2300 South Massachusetts Street, Seattle, WA, 98144",
    "region": "SEATTLE",
    "category": "SEASONAL",
    "cost": "$40",
    "free": false,
-   "summary": "Join us at the Northwest African American Museum on December 5th & 6th for our annual Black Santa celebration, a festive holiday gathering bringing families…",
-   "description": "Join us at the Northwest African American Museum on December 5th & 6th for our annual Black Santa celebration, a festive holiday gathering bringing families and communities together for two days of joy, creativity, and connection.\n\nCreate lasting holiday memories with a special photo opportunity featuring Black Santa! Families can enjoy hot cocoa, free gifts, participate in festive holiday arts and crafts, gather for storytime, and more!\n\nExperience the warmth and excitement of the holiday season. We look forward to welcoming you and your loved ones to NAAM for this special holiday celebration!",
-   "url": "https://www.parentmap.com/calendar/black-santa-photo-op-naam/2026-12-05/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2024/11/Screenshot-2026-11-10-113122.png",
-   "imageCredit": "ParentMap",
+   "summary": "Join the Northwest African American Museum for our annual Black Santa Celebration on December 5th and 6th, 2026!",
+   "description": "Join the Northwest African American Museum for our annual Black Santa Celebration on December 5th and 6th, 2026!\n\nBring the whole family for two festive days filled with holiday cheer, community, and unforgettable memories. Enjoy photos with Black Santa, delicious hot cocoa, arts and crafts, free gifts, interactive holiday storytime, and more as NAAM transforms into a magical Winter Wonderland!\n\nSpecial Membership Offer!\n\nCelebrate the season with a special 50% discount on NAAM's Family Membership! For just $35 (regularly $70), families can enjoy admission to our Winter Wonderland celebration, one photo with Black Santa per family, and free museum admission throughout the year.\n\nUse promo code BlackSanta26 at checkout to redeem this limited-time offer, valid through December 6, 2026.\n\nEvent Details\n\nDates: Saturday, December 5th & Sunday, December 6th, 2026\n\nTime: 10:00 AM – 5:00 PM\n\nLocation: Northwest African American Museum\n\n2300 S Massachusetts St, Seattle, WA 98144\n\nWe look forward to celebrating the magic of the holiday season with you and your loved ones!\n\nRSVP today to join the festivities!",
+   "url": "https://www.naamnw.org/events/black-santa-celebration",
+   "image": "https://static1.squarespace.com/static/5e38aefc1baca77386a5fe81/5e38c4fabbfd62031197054b/6af65724af849963cff99010/1794529622967/",
+   "imageCredit": "Northwest African American Museum",
    "sources": [
+    "Northwest African American Museum",
     "ParentMap"
    ],
-   "map": "Northwest African American Museum, 2300 S Massachusetts St, Seattle, WA, 98144-3821",
+   "map": "Northwest African American Museum, 2300 South Massachusetts Street, Seattle, WA, 98144",
    "calendar": {
     "allDay": true,
     "start": "2026-12-05",
     "end": "2026-12-07",
-    "notes": "Hours: 10 AM–5 PM\n\nJoin us at the Northwest African American Museum on December 5th & 6th for our annual Black Santa celebration, a festive holiday gathering bringing families…\n\nhttps://www.parentmap.com/calendar/black-santa-photo-op-naam/2026-12-05/"
+    "notes": "Hours: 10 AM–5 PM\n\nJoin the Northwest African American Museum for our annual Black Santa Celebration on December 5th and 6th, 2026!\n\nhttps://www.naamnw.org/events/black-santa-celebration"
    },
-   "firstSeen": "2026-11-11T17:49:11Z"
+   "firstSeen": "2026-11-13T18:36:27Z"
   },
   {
    "id": "93e9041d13",
@@ -5489,27 +5579,30 @@
    "dates": "Sat, Dec 5",
    "time": "1–3 PM",
    "place": "Old Bellevue",
-   "placeLines": "Old Bellevue\nMain Street, Bellevue, WA, 98004",
+   "placeLines": "Old Bellevue",
    "region": "EASTSIDE",
    "category": "SEASONAL",
    "cost": "Free",
    "free": true,
-   "summary": "A Little Holiday Magic on Main Street!",
-   "description": "A Little Holiday Magic on Main Street!\n\nCelebrate the magic of the holiday season in the heart of Old Bellevue with Santa Saturdays, a free, family-friendly holiday tradition.\n\nJoin us on December 5, 12 and 19, from 1:00–3:00 p.m., for a festive afternoon filled with holiday cheer. Bring the little ones to meet Santa, capture a special holiday photo, and enjoy seasonal activities including cookie decorating, letters to Santa, hot chocolate and candy canes.\n\nWhile you’re here, take a leisurely stroll along charming Main Street, discover Old Bellevue’s independent shops and restaurants, and soak up the festive atmosphere of this welcoming neighborhood.\n\nWhether you’re creating new family memories or continuing a favorite holiday tradition, Santa Saturdays is a wonderful way to celebrate the season and experience the magic of Old Bellevue.\n\nDates: Saturdays, December 5, 12 & 19, 2026\nTime: 1:00–3:00 p.m.\nLocation: Old Bellevue, Main Street, Bellevue, WA\nAdmission: FREE — family-friendly and open to all\n\nPresented by the Old Bellevue Merchants Association, with support from the City of Bellevue’s Community Programming Fund, Amazon & our generous, local merchants.",
-   "url": "https://www.parentmap.com/calendar/santa-saturdays-in-old-bellevue/2026-12-05/",
+   "summary": "Join the Old Bellevue Merchants Association for a free, family-friendly holiday experience featuring seasonal lighting and décor, a self-guided holiday stroll,…",
+   "description": "Join the Old Bellevue Merchants Association for a free, family-friendly holiday experience featuring seasonal lighting and décor, a self-guided holiday stroll, photos with Santa, letters to Santa, crafts, and hot cocoa on Dec. 5, 12 and 19.\n\nLearn more on the Old Bellevue Merchants Association website.\n\nThis event is part of the city's community-led, city-supported Community Programming Fund and is not hosted by the City of Bellevue.",
+   "url": "https://bellevuewa.gov/events/santa-saturdays-old-bellevue",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-164730.png",
    "imageCredit": "ParentMap",
    "sources": [
+    "City of Bellevue",
     "ParentMap"
    ],
-   "map": "Old Bellevue, Main Street, Bellevue, WA, 98004",
+   "map": "Old Bellevue, Old Bellevue, 10146 Main St",
    "calendar": {
     "allDay": false,
     "start": "2026-12-05T21:00:00Z",
     "end": "2026-12-05T23:00:00Z",
-    "notes": "A Little Holiday Magic on Main Street!\n\nhttps://www.parentmap.com/calendar/santa-saturdays-in-old-bellevue/2026-12-05/"
+    "notes": "Join the Old Bellevue Merchants Association for a free, family-friendly holiday experience featuring seasonal lighting and décor, a self-guided holiday stroll,…\n\nhttps://bellevuewa.gov/events/santa-saturdays-old-bellevue"
    },
-   "firstSeen": "2026-10-27T16:44:46Z"
+   "firstSeen": "2026-10-27T16:44:46Z",
+   "revision": 1,
+   "changed": "2026-11-13T18:36:27Z"
   },
   {
    "id": "123e06df70",
@@ -6230,39 +6323,6 @@
    "firstSeen": "2026-11-09T21:29:59Z"
   },
   {
-   "id": "c1c7f96d8c",
-   "series": "e5f7046862",
-   "title": "Hanukkah Family Show: Mark Nizer 4D Juggling + Laser Show",
-   "start": "2026-12-06",
-   "end": "2026-12-06",
-   "startMinute": 810,
-   "endMinute": 990,
-   "dates": "Sun, Dec 6",
-   "time": "1:30–4:30 PM",
-   "place": "Stroum Jewish Community Center, Mercer Island",
-   "placeLines": "Stroum Jewish Community Center, Mercer Island\n3801 E Mercer Way, Mercer Island, WA, 98040-3805",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "$18 – $25",
-   "free": false,
-   "summary": "On Hanukkah, the Festival of Lights, we light menorah candles with a helper candle (called the shamash) and commemorate the brave Maccabees and how a single…",
-   "description": "On Hanukkah, the Festival of Lights, we light menorah candles with a helper candle (called the shamash) and commemorate the brave Maccabees and how a single flask of oil miraculously kept the Temple lamp burning for eight days.\n\nLaser light also does a lot with a little. Each laser beam starts with a small dot that expands into a massive light display (featuring Hanukkah themes!). Now, imagine adding juggling to the mix, while wearing 3D glasses!\n\nThat’s Mark Nizer 4D—a “new dimension” of exciting, family-friendly entertainment for kids and adults of all ages coming to the J for Hanukkah Nizer’s unpredictable mix of comedy, mesmerizing music, interactive juggling and laser-beam technology has been called “nothing less than brilliant” by Performance Magazine.\n\nShine Bright Hanukkah is a family-friendly “science-splosion,” best for ages 5+.\nWearing 3D glasses is optional. Warning: flashing lights.\n\nJoin us before the show for Hands on Hanukkah craft tables, visit the Hanukkah Light Lab and enjoy latkes (included with admission).",
-   "url": "https://www.parentmap.com/calendar/hanukkah-family-show-mark-nizer-4d-juggling-laser-show/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-121635.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Stroum Jewish Community Center, 3801 E Mercer Way, Mercer Island, WA, 98040-3805",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-06T21:30:00Z",
-    "end": "2026-12-07T00:30:00Z",
-    "notes": "On Hanukkah, the Festival of Lights, we light menorah candles with a helper candle (called the shamash) and commemorate the brave Maccabees and how a single…\n\nhttps://www.parentmap.com/calendar/hanukkah-family-show-mark-nizer-4d-juggling-laser-show/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
    "id": "7f34aa74b5",
    "series": "7b2c9d92ef",
    "title": "Snack Attack",
@@ -6394,6 +6454,39 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "4873685d18",
+   "series": "496c68ae28",
+   "title": "Light It Up with Chabad of North Seattle",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "startMinute": 960,
+   "endMinute": 1080,
+   "dates": "Sun, Dec 6",
+   "time": "4–6 PM",
+   "place": "Chabad Jewish Center of North Seattle",
+   "placeLines": "Chabad Jewish Center of North Seattle\n2722 NE 115th St, Seattle, 98125",
+   "region": "SEATTLE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join us as we illuminate the night at the Annual North Seattle Menorah Lighting – a celebration of light, unity, and Jewish pride!",
+   "description": "Join us as we illuminate the night at the Annual North Seattle Menorah Lighting – a celebration of light, unity, and Jewish pride!\n\nThis year, experience an electrifying live BMX stunt show featuring incredible high-flying tricks, enjoy the festive sounds of live Klezmer music, and gather together as we kindle the giant menorah. Warm up with delicious latkes, sufganiyot, and hot drinks as we share the joy of Chanukah with friends and neighbors.\n\nWhether you come every year or it’s your first time, this celebration promises excitement for all ages and the timeless reminder that even a small light can brighten the darkest night.\nBring your family, bring your friends, and let’s light up North Seattle together!\nSecurity will be present",
+   "url": "https://www.parentmap.com/calendar/light-it-up-with-chabad-of-north-seattle/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/904030650_1444242207921823_9182807394888742876_n.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Chabad Jewish Center of North Seattle, 2722 NE 115th St, Seattle, 98125",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-07T00:00:00Z",
+    "end": "2026-12-07T02:00:00Z",
+    "notes": "Join us as we illuminate the night at the Annual North Seattle Menorah Lighting – a celebration of light, unity, and Jewish pride!\n\nhttps://www.parentmap.com/calendar/light-it-up-with-chabad-of-north-seattle/"
+   },
+   "firstSeen": "2026-11-13T18:36:27Z"
+  },
+  {
    "id": "e558a5663d",
    "series": "83f72c1ede",
    "title": "Garden d’Lights $5 Night & Sensory Friendly Night",
@@ -6424,8 +6517,7 @@
     "end": "2026-12-09T04:00:00Z",
     "notes": "Sensory Friendly Night Enjoy Garden d’Lights in a quieter setting.\n\nhttps://bellevuebotanical.org/event/garden-dlights-5-night-5-2/"
    },
-   "firstSeen": "2026-10-20T15:41:43Z",
-   "keptSince": "2026-11-12T18:59:58Z"
+   "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
    "id": "cc07b7f849",
@@ -6522,6 +6614,39 @@
     "notes": "Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-09/"
    },
    "firstSeen": "2026-10-27T16:44:46Z"
+  },
+  {
+   "id": "e27ccc8278",
+   "series": "ba2e55e8bd",
+   "title": "Hanukkah at Mercerdale Park",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "startMinute": 1020,
+   "endMinute": 1080,
+   "dates": "Wed, Dec 9",
+   "time": "5–6 PM",
+   "place": "Mercerdale Park, Mercer  Island",
+   "placeLines": "Mercerdale Park, Mercer  Island\n7701 SE 32nd St, Mercer  Island, WA, 98040",
+   "region": "EASTSIDE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "You’re invited to light up Mercer Island on the sixth night of Chanukah.",
+   "description": "You’re invited to light up Mercer Island on the sixth night of Chanukah.\n\nCome stand together with your neighbors as the giant LEGO menorah is lit. Feel the warmth of a community celebrating light, Jewish pride, and the joy of being together. Bring your family. Bring a friend. Enjoy holiday treats under the lights.\n\nEveryone is welcome.\n\nBring a toy if you can. It’s the start of this year’s Holiday Toy Drive.\n\nPlease RSVP.",
+   "url": "https://www.parentmap.com/calendar/hanukkah-mercerdale-park/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2025/12/Screenshot-2026-11-12-123931.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Mercerdale Park, 7701 SE 32nd St, Mercer  Island, WA, 98040",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-10T01:00:00Z",
+    "end": "2026-12-10T02:00:00Z",
+    "notes": "You’re invited to light up Mercer Island on the sixth night of Chanukah.\n\nhttps://www.parentmap.com/calendar/hanukkah-mercerdale-park/"
+   },
+   "firstSeen": "2026-11-13T18:36:27Z"
   },
   {
    "id": "9c4e39c1d7",
@@ -6974,8 +7099,7 @@
     "end": "2027-01-04",
     "notes": "Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…\n\nhttps://bellevuebotanical.org/event/garden-dlights-6/2026-12-11/"
    },
-   "firstSeen": "2026-10-20T15:41:43Z",
-   "keptSince": "2026-11-12T18:59:58Z"
+   "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
    "id": "9a7a6d7a80",
@@ -7807,27 +7931,30 @@
    "dates": "Sat, Dec 12",
    "time": "1–3 PM",
    "place": "Old Bellevue",
-   "placeLines": "Old Bellevue\nMain Street, Bellevue, WA, 98004",
+   "placeLines": "Old Bellevue",
    "region": "EASTSIDE",
    "category": "SEASONAL",
    "cost": "Free",
    "free": true,
-   "summary": "A Little Holiday Magic on Main Street!",
-   "description": "A Little Holiday Magic on Main Street!\n\nCelebrate the magic of the holiday season in the heart of Old Bellevue with Santa Saturdays, a free, family-friendly holiday tradition.\n\nJoin us on December 5, 12 and 19, from 1:00–3:00 p.m., for a festive afternoon filled with holiday cheer. Bring the little ones to meet Santa, capture a special holiday photo, and enjoy seasonal activities including cookie decorating, letters to Santa, hot chocolate and candy canes.\n\nWhile you’re here, take a leisurely stroll along charming Main Street, discover Old Bellevue’s independent shops and restaurants, and soak up the festive atmosphere of this welcoming neighborhood.\n\nWhether you’re creating new family memories or continuing a favorite holiday tradition, Santa Saturdays is a wonderful way to celebrate the season and experience the magic of Old Bellevue.\n\nDates: Saturdays, December 5, 12 & 19, 2026\nTime: 1:00–3:00 p.m.\nLocation: Old Bellevue, Main Street, Bellevue, WA\nAdmission: FREE — family-friendly and open to all\n\nPresented by the Old Bellevue Merchants Association, with support from the City of Bellevue’s Community Programming Fund, Amazon & our generous, local merchants.",
-   "url": "https://www.parentmap.com/calendar/santa-saturdays-in-old-bellevue/2026-12-12/",
+   "summary": "Join the Old Bellevue Merchants Association for a free, family-friendly holiday experience featuring seasonal lighting and décor, a self-guided holiday stroll,…",
+   "description": "Join the Old Bellevue Merchants Association for a free, family-friendly holiday experience featuring seasonal lighting and décor, a self-guided holiday stroll, photos with Santa, letters to Santa, crafts, and hot cocoa on Dec. 5, 12 and 19.\n\nLearn more on the Old Bellevue Merchants Association website.\n\nThis event is part of the city's community-led, city-supported Community Programming Fund and is not hosted by the City of Bellevue.",
+   "url": "https://bellevuewa.gov/events/santa-saturdays-old-bellevue-0",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-164730.png",
    "imageCredit": "ParentMap",
    "sources": [
+    "City of Bellevue",
     "ParentMap"
    ],
-   "map": "Old Bellevue, Main Street, Bellevue, WA, 98004",
+   "map": "Old Bellevue, Old Bellevue, 10146 Main St",
    "calendar": {
     "allDay": false,
     "start": "2026-12-12T21:00:00Z",
     "end": "2026-12-12T23:00:00Z",
-    "notes": "A Little Holiday Magic on Main Street!\n\nhttps://www.parentmap.com/calendar/santa-saturdays-in-old-bellevue/2026-12-12/"
+    "notes": "Join the Old Bellevue Merchants Association for a free, family-friendly holiday experience featuring seasonal lighting and décor, a self-guided holiday stroll,…\n\nhttps://bellevuewa.gov/events/santa-saturdays-old-bellevue-0"
    },
-   "firstSeen": "2026-10-27T16:44:46Z"
+   "firstSeen": "2026-10-27T16:44:46Z",
+   "revision": 1,
+   "changed": "2026-11-13T18:36:27Z"
   },
   {
    "id": "e41b2e5547",
@@ -9317,27 +9444,30 @@
    "dates": "Sat, Dec 19",
    "time": "1–3 PM",
    "place": "Old Bellevue",
-   "placeLines": "Old Bellevue\nMain Street, Bellevue, WA, 98004",
+   "placeLines": "Old Bellevue",
    "region": "EASTSIDE",
    "category": "SEASONAL",
    "cost": "Free",
    "free": true,
-   "summary": "A Little Holiday Magic on Main Street!",
-   "description": "A Little Holiday Magic on Main Street!\n\nCelebrate the magic of the holiday season in the heart of Old Bellevue with Santa Saturdays, a free, family-friendly holiday tradition.\n\nJoin us on December 5, 12 and 19, from 1:00–3:00 p.m., for a festive afternoon filled with holiday cheer. Bring the little ones to meet Santa, capture a special holiday photo, and enjoy seasonal activities including cookie decorating, letters to Santa, hot chocolate and candy canes.\n\nWhile you’re here, take a leisurely stroll along charming Main Street, discover Old Bellevue’s independent shops and restaurants, and soak up the festive atmosphere of this welcoming neighborhood.\n\nWhether you’re creating new family memories or continuing a favorite holiday tradition, Santa Saturdays is a wonderful way to celebrate the season and experience the magic of Old Bellevue.\n\nDates: Saturdays, December 5, 12 & 19, 2026\nTime: 1:00–3:00 p.m.\nLocation: Old Bellevue, Main Street, Bellevue, WA\nAdmission: FREE — family-friendly and open to all\n\nPresented by the Old Bellevue Merchants Association, with support from the City of Bellevue’s Community Programming Fund, Amazon & our generous, local merchants.",
-   "url": "https://www.parentmap.com/calendar/santa-saturdays-in-old-bellevue/2026-12-19/",
+   "summary": "Join the Old Bellevue Merchants Association for a free, family-friendly holiday experience featuring seasonal lighting and décor, a self-guided holiday stroll,…",
+   "description": "Join the Old Bellevue Merchants Association for a free, family-friendly holiday experience featuring seasonal lighting and décor, a self-guided holiday stroll, photos with Santa, letters to Santa, crafts, and hot cocoa on Dec. 5, 12 and 19.\n\nLearn more on the Old Bellevue Merchants Association website.\n\nThis event is part of the city's community-led, city-supported Community Programming Fund and is not hosted by the City of Bellevue.",
+   "url": "https://bellevuewa.gov/events/santa-saturdays-old-bellevue-1",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-164730.png",
    "imageCredit": "ParentMap",
    "sources": [
+    "City of Bellevue",
     "ParentMap"
    ],
-   "map": "Old Bellevue, Main Street, Bellevue, WA, 98004",
+   "map": "Old Bellevue, Old Bellevue, 10146 Main St",
    "calendar": {
     "allDay": false,
     "start": "2026-12-19T21:00:00Z",
     "end": "2026-12-19T23:00:00Z",
-    "notes": "A Little Holiday Magic on Main Street!\n\nhttps://www.parentmap.com/calendar/santa-saturdays-in-old-bellevue/2026-12-19/"
+    "notes": "Join the Old Bellevue Merchants Association for a free, family-friendly holiday experience featuring seasonal lighting and décor, a self-guided holiday stroll,…\n\nhttps://bellevuewa.gov/events/santa-saturdays-old-bellevue-1"
    },
-   "firstSeen": "2026-10-27T16:44:46Z"
+   "firstSeen": "2026-10-27T16:44:46Z",
+   "revision": 1,
+   "changed": "2026-11-13T18:36:27Z"
   },
   {
    "id": "3384e9c648",
@@ -9609,6 +9739,35 @@
     "notes": "https://www.mukilteowa.gov/calendar.aspx?EID=637\n\nhttps://www.mukilteowa.gov/calendar.aspx?EID=637"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "04c95b6351",
+   "series": "ebf353209d",
+   "title": "Bellevue New Year’s Eve Night Market",
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "startMinute": 900,
+   "endMinute": 1260,
+   "dates": "Thu, Dec 31",
+   "time": "3–9 PM",
+   "place": "Old Bellevue",
+   "placeLines": "Old Bellevue",
+   "region": "EASTSIDE",
+   "category": "NIGHT_MARKET",
+   "summary": "Join Ascend Hospitality Group for a vibrant New Year’s Eve community marketplace featuring local businesses, artists, makers, food and beverage vendors, and…",
+   "description": "Join Ascend Hospitality Group for a vibrant New Year’s Eve community marketplace featuring local businesses, artists, makers, food and beverage vendors, and family-friendly entertainment in Old Main.\n\nLearn more on Ascend Hospitality Group's website.\n\nThis event is part of the city's community-led, city-supported Community Programming Fund and is not hosted by the City of Bellevue.",
+   "url": "https://bellevuewa.gov/events/bellevue-new-years-eve-night-market",
+   "sources": [
+    "City of Bellevue"
+   ],
+   "map": "Old Bellevue, Old Bellevue, 9 103rd Ave NE, WA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-31T23:00:00Z",
+    "end": "2027-01-01T05:00:00Z",
+    "notes": "Join Ascend Hospitality Group for a vibrant New Year’s Eve community marketplace featuring local businesses, artists, makers, food and beverage vendors, and…\n\nhttps://bellevuewa.gov/events/bellevue-new-years-eve-night-market"
+   },
+   "firstSeen": "2026-11-13T18:36:27Z"
   },
   {
    "id": "906ae06449",

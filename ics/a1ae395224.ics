@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a1ae395224-seattle-happenings@nichkt.github.io
+DTSTAMP:20261113T183627Z
+SEQUENCE:0
+DTSTART:20261128T003000Z
+DTEND:20261128T040000Z
+SUMMARY:A HO-HO-HOCM Holiday Adventure
+LOCATION:Hands On Children’s Museum\, 414 Jefferson St NE\, Olympia\, WA\
+ , 98501-1124
+DESCRIPTION:The most wonderful time of the year just got merrier!\n\nhttps:
+ //www.parentmap.com/calendar/a-ho-ho-hocm-holiday-adventure/
+URL:https://www.parentmap.com/calendar/a-ho-ho-hocm-holiday-adventure/
+END:VEVENT
+END:VCALENDAR

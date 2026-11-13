@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:04c95b6351-seattle-happenings@nichkt.github.io
+DTSTAMP:20261113T183627Z
+SEQUENCE:0
+DTSTART:20261231T230000Z
+DTEND:20270101T050000Z
+SUMMARY:Bellevue New Year’s Eve Night Market
+LOCATION:Old Bellevue\, Old Bellevue\, 9 103rd Ave NE\, WA
+DESCRIPTION:Join Ascend Hospitality Group for a vibrant New Year’s Eve co
+ mmunity marketplace featuring local businesses\, artists\, makers\, food a
+ nd beverage vendors\, and…\n\nhttps://bellevuewa.gov/events/bellevue-new
+ -years-eve-night-market
+URL:https://bellevuewa.gov/events/bellevue-new-years-eve-night-market
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eefbab05fb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261113T183627Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Black Santa Celebration
+LOCATION:Northwest African American Museum\, 2300 South Massachusetts Stree
+ t\, Seattle\, WA\, 98144
+DESCRIPTION:Hours: 10 AM–5 PM\n\nJoin the Northwest African American Muse
+ um for our annual Black Santa Celebration on December 5th and 6th\, 2026!\
+ n\nhttps://www.naamnw.org/events/black-santa-celebration
+URL:https://www.naamnw.org/events/black-santa-celebration
+END:VEVENT
+END:VCALENDAR

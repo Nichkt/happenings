@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c9f147417-seattle-happenings@nichkt.github.io
+DTSTAMP:20261113T183627Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Chinese Winter Cultural Market
+LOCATION:Meydenbauer Center\, Meydenbauer Center\, 11100 NE 6th St\, WA
+DESCRIPTION:Hours: 1–8 PM\n\nJoin the Seattle Asian American Dance Associ
+ ation for a free community market celebrating Chinese arts and culture\, f
+ eaturing local vendors\, traditional…\n\nhttps://bellevuewa.gov/events/c
+ hinese-winter-cultural-market
+URL:https://bellevuewa.gov/events/chinese-winter-cultural-market
+END:VEVENT
+END:VCALENDAR
