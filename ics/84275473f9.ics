@@ -5,15 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:84275473f9-seattle-happenings@nichkt.github.io
-DTSTAMP:20261112T185958Z
-SEQUENCE:0
-DTSTART:20261219T190000Z
-DTEND:20261220T013000Z
+DTSTAMP:20261114T171310Z
+SEQUENCE:1
+LAST-MODIFIED:20261114T171310Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
 SUMMARY:Nordstrom Santa Parade
 LOCATION:Nordstrom – Downtown Seattle\, 500 Pine Street\, Seattle\, WA\, 
  98101
-DESCRIPTION:The holidays are here!\n\nhttps://www.parentmap.com/calendar/sa
- nta-parade-and-storytime-mrs-claus/2026-12-19/
+DESCRIPTION:Hours: 11 AM–5:30 PM\n\nThe holidays are here!\n\nhttps://www
+ .parentmap.com/calendar/santa-parade-and-storytime-mrs-claus/2026-12-19/
 URL:https://www.parentmap.com/calendar/santa-parade-and-storytime-mrs-claus
  /2026-12-19/
 END:VEVENT

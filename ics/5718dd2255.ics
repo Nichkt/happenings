@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5718dd2255-seattle-happenings@nichkt.github.io
+DTSTAMP:20261114T171310Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Seattle Forest Week
+DESCRIPTION:Hours: 10 AM–5 PM\n\nWhat is Seattle Forest Week?\n\nhttps://
+ www.parentmap.com/calendar/seattle-forest-week/2026-11-12/
+URL:https://www.parentmap.com/calendar/seattle-forest-week/2026-11-12/
+END:VEVENT
+END:VCALENDAR

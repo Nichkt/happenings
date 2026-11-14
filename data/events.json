@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-13T18:36:27Z",
+ "generatedAt": "2026-11-14T17:13:10Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-13",
- "until": "2027-02-05",
+ "from": "2026-11-14",
+ "until": "2027-02-06",
  "regions": [
   {
    "id": "SEATTLE",
@@ -103,7 +103,7 @@
   },
   {
    "name": "City of North Bend",
-   "events": 6
+   "events": 5
   },
   {
    "name": "City of Redmond",
@@ -139,7 +139,7 @@
   },
   {
    "name": "ParentMap",
-   "events": 232
+   "events": 231
   },
   {
    "name": "Phinney Center",
@@ -147,7 +147,7 @@
   },
   {
    "name": "United Indians of All Tribes",
-   "events": 3
+   "events": 2
   },
   {
    "name": "Visit Ballard",
@@ -163,11 +163,11 @@
    "id": "cde528f998",
    "series": "a3343e6bf8",
    "title": "PDZA Veterans Appreciation Days",
-   "start": "2026-11-11",
+   "start": "2026-11-12",
    "end": "2026-11-15",
    "startMinute": 540,
    "endMinute": 930,
-   "dates": "Nov 11–15",
+   "dates": "Nov 12–15",
    "time": "9 AM–3:30 PM",
    "place": "Point Defiance Zoo & Aquarium, Tacoma",
    "placeLines": "Point Defiance Zoo & Aquarium, Tacoma\n5400 N Pearl St, Tacoma, WA, 98407-3224",
@@ -176,7 +176,7 @@
    "free": false,
    "summary": "U.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.",
    "description": "U.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.\nImmediate family members receive half-off general admission. Offer valid at Zoo admission window. Offer is not valid on online purchases.",
-   "url": "https://www.parentmap.com/calendar/pdza-veterans-appreciation-days/2026-11-11/",
+   "url": "https://www.parentmap.com/calendar/pdza-veterans-appreciation-days/2026-11-12/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1774038874226-veterans-day-zoo-3b9d657d704a.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -185,21 +185,23 @@
    "map": "Point Defiance Zoo & Aquarium, 5400 N Pearl St, Tacoma, WA, 98407-3224",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-11",
+    "start": "2026-11-12",
     "end": "2026-11-16",
-    "notes": "Hours: 9 AM–3:30 PM\n\nU.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.\n\nhttps://www.parentmap.com/calendar/pdza-veterans-appreciation-days/2026-11-11/"
+    "notes": "Hours: 9 AM–3:30 PM\n\nU.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.\n\nhttps://www.parentmap.com/calendar/pdza-veterans-appreciation-days/2026-11-12/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 1,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "896d821d74",
    "series": "e69d0f36a5",
    "title": "Swansons Nursery Model Train and Holiday Décor",
-   "start": "2026-11-11",
+   "start": "2026-11-12",
    "end": "2026-12-20",
    "startMinute": 540,
    "endMinute": 1080,
-   "dates": "Nov 11–Dec 20",
+   "dates": "Nov 12–Dec 20",
    "time": "9 AM–6 PM",
    "place": "Swansons Nursery, Seattle",
    "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
@@ -209,7 +211,7 @@
    "free": true,
    "summary": "Add a little magic to your life this holiday season.",
    "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
-   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-11/",
+   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-12/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -218,23 +220,23 @@
    "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-11",
+    "start": "2026-11-12",
     "end": "2026-12-21",
-    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-11/"
+    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-12/"
    },
    "firstSeen": "2026-10-28T17:13:34Z",
-   "revision": 7,
-   "changed": "2026-11-13T18:36:27Z"
+   "revision": 8,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "1493678f33",
    "series": "c9c690140b",
    "title": "BIMA Día de los Muertos Ofrenda",
-   "start": "2026-11-11",
+   "start": "2026-11-12",
    "end": "2026-11-15",
    "startMinute": 600,
    "endMinute": 1020,
-   "dates": "Nov 11–15",
+   "dates": "Nov 12–15",
    "time": "10 AM–5 PM",
    "place": "Bainbridge Island Museum of Art",
    "placeLines": "Bainbridge Island Museum of Art\n100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
@@ -244,7 +246,7 @@
    "free": true,
    "summary": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…",
    "description": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends and loved ones who’ve passed away. This year’s ofrenda is created by artist Araceli Cruz.\n\nThe ofrenda is accessible to the public each day during museum hours (10 AM – 5 PM) from November 7-15.\n\nAll are welcome to participate!",
-   "url": "https://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-11/",
+   "url": "https://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-12/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-123945.png",
    "imageCredit": "ParentMap",
    "sources": [
@@ -253,47 +255,43 @@
    "map": "Bainbridge Island Museum of Art, 100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-11",
+    "start": "2026-11-12",
     "end": "2026-11-16",
-    "notes": "Hours: 10 AM–5 PM\n\nThe Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…\n\nhttps://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-11/"
+    "notes": "Hours: 10 AM–5 PM\n\nThe Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…\n\nhttps://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-12/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 4,
-   "changed": "2026-11-13T18:36:27Z"
+   "revision": 5,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
-   "id": "dc26200d0c",
-   "series": "3f715fca16",
-   "title": "Seattle Forest Week – Land & Community Days!",
+   "id": "5718dd2255",
+   "series": "7569d5dad4",
+   "title": "Seattle Forest Week",
    "start": "2026-11-12",
-   "end": "2026-11-13",
-   "startMinute": 660,
-   "endMinute": 900,
-   "dates": "Nov 12–13",
-   "time": "11 AM–3 PM",
-   "place": "Daybreak Star Indian Cultural Center, Seattle",
-   "placeLines": "Daybreak Star Indian Cultural Center, Seattle\n5011 Bernie Whitebear Way, Seattle, WA, 98199",
+   "end": "2026-11-15",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Nov 12–15",
+   "time": "10 AM–5 PM",
    "region": "SEATTLE",
    "category": "COMMUNITY",
    "cost": "Free",
    "free": true,
-   "summary": "Join us as we gather with neighbors, families, and community members to welcome planting season and care for the land together.",
-   "description": "Join us as we gather with neighbors, families, and community members to welcome planting season and care for the land together.\n\nEvery year @greenseattlepartnership host Seattle Forest Week! Guided by Indigenous leadership at United Indians of All Tribes Foundation, these gatherings are an opportunity to reconnect with the land, strengthen community, and practice food sovereignty through collective care and stewardship.\n\nThis season, we’ll be tending the Daybreak Star Forest Garden, a living space that supports Elders, youth, and Indigenous-centered community programs while nurturing a future rooted in reciprocity, responsibility, and respect.\n\nPlanting\nWeeding\nHarvesting\nCommunity connection & learning\n\nNo gardening experience is needed. All ages are welcome, and families are encouraged to attend.\n\nCome as you are. Whether you stay for an hour or the whole day, there is a place for you here!\n\nNovember 12-13th\n11am – 3pm\nDaybreak Cultural Center – 5011 Bernie Whitebear Way, Seattle, WA 98199",
-   "url": "https://unitedindians.org/event/seattle-forest-week-land-community-days/",
-   "image": "https://unitedindians.org/wp-content/uploads/2026/10/DBS-LAND-DAYZ-Social-Media.png",
-   "imageCredit": "United Indians of All Tribes",
+   "summary": "What is Seattle Forest Week?",
+   "description": "What is Seattle Forest Week?\nSeattle Forest Week is a celebration of the Urban Forest: This week’s events are great opportunities to join in on planting, forest bathing, bird & plant walks, and helping shape what future participation can look like! This year the theme is Nurturing Forests and Futures: Youth Engagement in Seattle’s Urban Forest.\n\nHelp us create a healthier, happier, and greener Seattle by coming out to kick off planting season during Seattle Forest Week! From creating wildlife habitat to combating climate change and providing a place for residents to recreate, having a hand in Seattle Forest Week is one of the best ways to give back to your neighbors, parks, and your local forest.\n\nJoin the fun and be one of hundreds of volunteers across the city planting native trees, shrubs, and groundcovers that will become the future forest of Seattle. All community members are welcome, and no experience is necessary! The events are family friendly and open to all ages.",
+   "url": "https://www.parentmap.com/calendar/seattle-forest-week/2026-11-12/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192629357-tree-trunk-569275_1280_1-83f04b77ba8d.jpg",
+   "imageCredit": "ParentMap",
    "sources": [
-    "United Indians of All Tribes",
     "ParentMap"
    ],
-   "map": "Daybreak Star Indian Cultural Center, 5011 Bernie Whitebear Way, Seattle, WA, 98199",
    "calendar": {
     "allDay": true,
     "start": "2026-11-12",
-    "end": "2026-11-14",
-    "notes": "Hours: 11 AM–3 PM\n\nJoin us as we gather with neighbors, families, and community members to welcome planting season and care for the land together.\n\nhttps://unitedindians.org/event/seattle-forest-week-land-community-days/"
+    "end": "2026-11-16",
+    "notes": "Hours: 10 AM–5 PM\n\nWhat is Seattle Forest Week?\n\nhttps://www.parentmap.com/calendar/seattle-forest-week/2026-11-12/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-11-14T17:13:10Z"
   },
   {
    "id": "37ae90438c",
@@ -390,68 +388,6 @@
     "start": "2026-11-13",
     "end": "2026-11-16",
     "notes": "Hours: 11 AM–11:30 PM\n\nThe American Romanian Cultural Society is proud to announce the complete program for the 13th Romanian Film Festival Seattle, themed “Beyond Borders.” The…\n\nhttps://www.parentmap.com/calendar/romanian-film-festival-at-siff-cinema-uptown/2026-11-13/"
-   },
-   "firstSeen": "2026-11-04T18:42:49Z"
-  },
-  {
-   "id": "836f01036c",
-   "series": "b0a5c8f25b",
-   "title": "Holly Days Window Fest",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "startMinute": 840,
-   "endMinute": 960,
-   "dates": "Fri, Nov 13",
-   "time": "2–4 PM",
-   "place": "Various storefronts throughout Downtown North Bend - North Bend",
-   "placeLines": "Various storefronts throughout Downtown North Bend - North Bend",
-   "region": "EASTSIDE",
-   "category": "COMMUNITY",
-   "summary": "To spread the magic of the season, the North Bend Downtown Foundation invites you to the 3rd Annual Holly Days Window Fest!",
-   "description": "To spread the magic of the season, the North Bend Downtown Foundation invites you to the 3rd Annual Holly Days Window Fest! Join them in Downtown North Bend and help deck the windows with snowflake clings to create a magical Winter Wonderland.\n\nBring your festive spirit - NBDF will provide all the supplies! No mess this year-all clings. Gather your friends and family and help us bring that cozy holiday charm to downtown! https://www.northbendwa.gov/m/calendar/event/detail/4766",
-   "url": "https://www.northbendwa.gov/m/calendar/event/detail/4766",
-   "sources": [
-    "City of North Bend"
-   ],
-   "map": "Various storefronts throughout Downtown North Bend - North Bend",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-13T22:00:00Z",
-    "end": "2026-11-14T00:00:00Z",
-    "notes": "To spread the magic of the season, the North Bend Downtown Foundation invites you to the 3rd Annual Holly Days Window Fest!\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4766"
-   },
-   "firstSeen": "2026-10-20T15:41:43Z"
-  },
-  {
-   "id": "ec5f43e795",
-   "series": "04c88ddc26",
-   "title": "Puzzle Palooza!",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "startMinute": 1110,
-   "endMinute": 1230,
-   "dates": "Fri, Nov 13",
-   "time": "6:30–8:30 PM",
-   "place": "Si View Community Center, North Bend",
-   "placeLines": "Si View Community Center, North Bend\n400 SE Orchard Dr, North Bend, WA, 98045-9470",
-   "region": "EASTSIDE",
-   "category": "COMMUNITY",
-   "cost": "$30 – $36",
-   "free": false,
-   "summary": "Have you ever looked at a puzzle and thought… this would be better if it was competitive?",
-   "description": "Have you ever looked at a puzzle and thought… this would be better if it was competitive? Well, your wait is over! Join us for Si View’s first ever PUZZLE PALOOZA where teams of two to four people will compete to finish a puzzle in the shortest amount of time to win a prize! 500 Piece Puzzles will be provided, snacks available for additional purchase. Pre-registration required. Registration closes Monday November 9th.",
-   "url": "https://www.parentmap.com/calendar/puzzle-palooza-2/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Puzzle-Palooza.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Si View Community Center, 400 SE Orchard Dr, North Bend, WA, 98045-9470",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T02:30:00Z",
-    "end": "2026-11-14T04:30:00Z",
-    "notes": "Have you ever looked at a puzzle and thought… this would be better if it was competitive?\n\nhttps://www.parentmap.com/calendar/puzzle-palooza-2/"
    },
    "firstSeen": "2026-11-04T18:42:49Z"
   },
@@ -1294,8 +1230,8 @@
    "series": "c74df0c741",
    "title": "2026 Seattle Christmas Market",
    "start": "2026-11-20",
-   "end": "2026-12-19",
-   "dates": "Nov 20–Dec 19",
+   "end": "2026-12-20",
+   "dates": "Nov 20–Dec 20",
    "place": "Seattle Center Fisher Pavilion",
    "placeLines": "Seattle Center Fisher Pavilion\n305 Harrison St, Seattle, WA, 98109-4623",
    "region": "SEATTLE",
@@ -1314,12 +1250,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-20",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "With European and local vendors, holiday karaoke, Santa meetings, festive drinks and more, there’s a little something for everyone.\n\nhttps://www.parentmap.com/calendar/2026-seattle-christmas-market/2026-11-20/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 9,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 10,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "f388e04192",
@@ -1625,8 +1561,8 @@
    "endMinute": 930,
    "dates": "Sat, Nov 21",
    "time": "10:30 AM–3:30 PM",
-   "place": "Carkeek Park Chum Salmon Viewing Area and Pipers Creek",
-   "placeLines": "Carkeek Park Chum Salmon Viewing Area and Pipers Creek",
+   "place": "Carkeek Park Chum Salmon Viewing Area and Pipers Creek, Seattle",
+   "placeLines": "Carkeek Park Chum Salmon Viewing Area and Pipers Creek, Seattle\n950 NW Carkeek Park Road, Seattle",
    "region": "SEATTLE",
    "category": "COMMUNITY",
    "cost": "Free",
@@ -1637,14 +1573,16 @@
    "sources": [
     "City of Seattle"
    ],
-   "map": "Carkeek Park Chum Salmon Viewing Area and Pipers Creek, WA",
+   "map": "Carkeek Park Chum Salmon Viewing Area and Pipers Creek, 950 NW Carkeek Park Road, Seattle",
    "calendar": {
     "allDay": false,
     "start": "2026-11-21T18:30:00Z",
     "end": "2026-11-21T23:30:00Z",
     "notes": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Dance,Education,Festivals/Fairs,Music,Nature/Environment…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/"
    },
-   "firstSeen": "2026-10-30T17:04:03Z"
+   "firstSeen": "2026-10-30T17:04:03Z",
+   "revision": 1,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "250e25daa7",
@@ -2444,10 +2382,10 @@
    "series": "2e9ac2827a",
    "title": "Winterfest Train & Village Display",
    "start": "2026-11-27",
-   "end": "2026-12-19",
+   "end": "2026-12-20",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Nov 27–Dec 19",
+   "dates": "Nov 27–Dec 20",
    "time": "10 AM–6 PM",
    "place": "Seattle Center Armory",
    "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
@@ -2467,22 +2405,22 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "Hours: 10 AM–6 PM\n\nDelight in viewing a late 19th-century model train and village display, installed inside the Seattle Center Armory Food & Event Hall.\n\nhttps://www.parentmap.com/calendar/28004/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 16,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 17,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "956b5a5437",
    "series": "81a5ec9f49",
    "title": "Issaquah Reindeer Festival",
    "start": "2026-11-27",
-   "end": "2026-12-19",
+   "end": "2026-12-20",
    "startMinute": 630,
    "endMinute": 960,
-   "dates": "Nov 27–Dec 19",
+   "dates": "Nov 27–Dec 20",
    "time": "10:30 AM–4 PM",
    "place": "Cougar Mountain Zoo, Issaquah",
    "placeLines": "Cougar Mountain Zoo, Issaquah\n19525 SE 54th St, Issaquah, WA, 98027-8676",
@@ -2502,12 +2440,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "Hours: 10:30 AM–4 PM\n\nEnjoy the sights and sounds of the holidays with family and friends!\n\nhttps://www.parentmap.com/calendar/55371/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 3,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 4,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "b8492fe2af",
@@ -6939,8 +6877,8 @@
    "series": "7fe85e8cbb",
    "title": "Luckie Farms Christmas Experience",
    "start": "2026-12-11",
-   "end": "2026-12-19",
-   "dates": "Dec 11–19",
+   "end": "2026-12-20",
+   "dates": "Dec 11–20",
    "place": "Luckie Farms, Lake Stevens",
    "placeLines": "Luckie Farms, Lake Stevens\n930 Sunnyside Blvd, Lake Stevens, WA, 98258",
    "region": "FARTHER",
@@ -6959,22 +6897,22 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-11",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "The perfect holiday tradition: Christmas at the farm!\n\nhttps://www.parentmap.com/calendar/santas-farm-adventure/2026-12-11/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 3,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 4,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "b9540da953",
    "series": "2284959ec6",
    "title": "Snow Globe at Pacific Place",
    "start": "2026-12-11",
-   "end": "2026-12-19",
+   "end": "2026-12-20",
    "startMinute": 600,
    "endMinute": 1320,
-   "dates": "Dec 11–19",
+   "dates": "Dec 11–20",
    "time": "10 AM–10 PM",
    "place": "Pacific Place, Seattle",
    "placeLines": "Pacific Place, Seattle\n600 Pine St., Seattle, WA, 98101",
@@ -6994,12 +6932,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-11",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "Hours: 10 AM–10 PM\n\nCelebrate the season with a new downtown Seattle holiday tradition!\n\nhttps://www.parentmap.com/calendar/snow-globe-at-pacific-place-2/2026-12-11/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 5,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 6,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "cac386b3aa",
@@ -8730,10 +8668,10 @@
    "series": "fa61e33b79",
    "title": "Annual Model Train Festival",
    "start": "2026-12-18",
-   "end": "2026-12-19",
+   "end": "2026-12-20",
    "startMinute": 600,
    "endMinute": 1020,
-   "dates": "Dec 18–19",
+   "dates": "Dec 18–20",
    "time": "10 AM–5 PM",
    "place": "Washington State History Museum, Tacoma",
    "placeLines": "Washington State History Museum, Tacoma\n1911 Pacific Ave, Tacoma, WA, 98402-3109",
@@ -8753,12 +8691,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-18",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "Hours: 10 AM–5 PM\n\nCelebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!\n\nhttps://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-18/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 5,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 6,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "df99285c97",
@@ -9031,6 +8969,40 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "86077d910f",
+   "series": "92a48ccdaa",
+   "title": "December Art Market",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "dates": "Dec 19–20",
+   "place": "Duwamish Longhouse & Cultural Center, Seattle",
+   "placeLines": "Duwamish Longhouse & Cultural Center, Seattle\n4705 West Marginal Way Southwest, Seattle, WA, 98106",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Volunteers Needed - Click to sign up.",
+   "description": "volunteers needed! use button below to sign up.\n\nVOLUNTEER SIGN UP",
+   "url": "https://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny",
+   "image": "https://images.squarespace-cdn.com/content/v1/5ad0f1b9c258b4273c53d08f/1774567021752-MSR3RWDIN6AL95YFBJL1/unsplash-image-7VOyZ0-iO0o.jpg?format=1000w",
+   "imageCredit": "Duwamish Tribe",
+   "sources": [
+    "Duwamish Tribe",
+    "United Indians of All Tribes",
+    "ParentMap"
+   ],
+   "map": "Duwamish Longhouse & Cultural Center, 4705 West Marginal Way Southwest, Seattle, WA, 98106",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-19",
+    "end": "2026-12-21",
+    "notes": "Volunteers Needed - Click to sign up.\n\nhttps://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 5,
+   "changed": "2026-11-14T17:13:10Z"
+  },
+  {
    "id": "c55be84d0d",
    "series": "cb42c24b02",
    "title": "Diving Santa at the Seattle Aquarium",
@@ -9126,43 +9098,6 @@
    "firstSeen": "2026-10-29T17:28:36Z",
    "revision": 1,
    "changed": "2026-10-30T17:04:03Z"
-  },
-  {
-   "id": "86077d910f",
-   "series": "92a48ccdaa",
-   "title": "December Art Market",
-   "start": "2026-12-19",
-   "end": "2026-12-20",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Dec 19–20",
-   "time": "10 AM–4 PM",
-   "place": "Duwamish Longhouse & Cultural Center, Seattle",
-   "placeLines": "Duwamish Longhouse & Cultural Center, Seattle\n4705 West Marginal Way Southwest, Seattle, WA, 98106",
-   "region": "SEATTLE",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Volunteers Needed - Click to sign up.",
-   "description": "volunteers needed! use button below to sign up.\n\nVOLUNTEER SIGN UP",
-   "url": "https://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny",
-   "image": "https://images.squarespace-cdn.com/content/v1/5ad0f1b9c258b4273c53d08f/1774567021752-MSR3RWDIN6AL95YFBJL1/unsplash-image-7VOyZ0-iO0o.jpg?format=1000w",
-   "imageCredit": "Duwamish Tribe",
-   "sources": [
-    "Duwamish Tribe",
-    "United Indians of All Tribes",
-    "ParentMap"
-   ],
-   "map": "Duwamish Longhouse & Cultural Center, 4705 West Marginal Way Southwest, Seattle, WA, 98106",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-19",
-    "end": "2026-12-21",
-    "notes": "Hours: 10 AM–4 PM\n\nVolunteers Needed - Click to sign up.\n\nhttps://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 4,
-   "changed": "2026-11-12T18:59:58Z"
   },
   {
    "id": "835b084afa",
@@ -9270,10 +9205,10 @@
    "series": "db5b05c5ea",
    "title": "Nordstrom Santa Parade",
    "start": "2026-12-19",
-   "end": "2026-12-19",
+   "end": "2026-12-20",
    "startMinute": 660,
    "endMinute": 1050,
-   "dates": "Sat, Dec 19",
+   "dates": "Dec 19–20",
    "time": "11 AM–5:30 PM",
    "place": "Nordstrom – Downtown Seattle",
    "placeLines": "Nordstrom – Downtown Seattle\n500 Pine Street, Seattle, WA, 98101",
@@ -9291,12 +9226,14 @@
    ],
    "map": "Nordstrom – Downtown Seattle, 500 Pine Street, Seattle, WA, 98101",
    "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T19:00:00Z",
-    "end": "2026-12-20T01:30:00Z",
-    "notes": "The holidays are here!\n\nhttps://www.parentmap.com/calendar/santa-parade-and-storytime-mrs-claus/2026-12-19/"
+    "allDay": true,
+    "start": "2026-12-19",
+    "end": "2026-12-21",
+    "notes": "Hours: 11 AM–5:30 PM\n\nThe holidays are here!\n\nhttps://www.parentmap.com/calendar/santa-parade-and-storytime-mrs-claus/2026-12-19/"
    },
-   "firstSeen": "2026-11-12T18:59:58Z"
+   "firstSeen": "2026-11-12T18:59:58Z",
+   "revision": 1,
+   "changed": "2026-11-14T17:13:10Z"
   },
   {
    "id": "92d0f55dd3",
