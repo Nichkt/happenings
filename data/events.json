@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-14T17:13:10Z",
+ "generatedAt": "2026-11-15T17:51:35Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-14",
- "until": "2027-02-06",
+ "from": "2026-11-15",
+ "until": "2027-02-07",
  "regions": [
   {
    "id": "SEATTLE",
@@ -103,7 +103,7 @@
   },
   {
    "name": "City of North Bend",
-   "events": 5
+   "events": 4
   },
   {
    "name": "City of Redmond",
@@ -115,7 +115,7 @@
   },
   {
    "name": "City of Snoqualmie",
-   "events": 4
+   "events": 2
   },
   {
    "name": "Discover Burien",
@@ -135,11 +135,11 @@
   },
   {
    "name": "Northwest Asian Weekly",
-   "events": 2
+   "events": 1
   },
   {
    "name": "ParentMap",
-   "events": 231
+   "events": 223
   },
   {
    "name": "Phinney Center",
@@ -151,7 +151,7 @@
   },
   {
    "name": "Visit Ballard",
-   "events": 8
+   "events": 7
   },
   {
    "name": "Volunteer Park Trust",
@@ -159,140 +159,6 @@
   }
  ],
  "events": [
-  {
-   "id": "cde528f998",
-   "series": "a3343e6bf8",
-   "title": "PDZA Veterans Appreciation Days",
-   "start": "2026-11-12",
-   "end": "2026-11-15",
-   "startMinute": 540,
-   "endMinute": 930,
-   "dates": "Nov 12–15",
-   "time": "9 AM–3:30 PM",
-   "place": "Point Defiance Zoo & Aquarium, Tacoma",
-   "placeLines": "Point Defiance Zoo & Aquarium, Tacoma\n5400 N Pearl St, Tacoma, WA, 98407-3224",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "free": false,
-   "summary": "U.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.",
-   "description": "U.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.\nImmediate family members receive half-off general admission. Offer valid at Zoo admission window. Offer is not valid on online purchases.",
-   "url": "https://www.parentmap.com/calendar/pdza-veterans-appreciation-days/2026-11-12/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1774038874226-veterans-day-zoo-3b9d657d704a.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Point Defiance Zoo & Aquarium, 5400 N Pearl St, Tacoma, WA, 98407-3224",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-12",
-    "end": "2026-11-16",
-    "notes": "Hours: 9 AM–3:30 PM\n\nU.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.\n\nhttps://www.parentmap.com/calendar/pdza-veterans-appreciation-days/2026-11-12/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-11-14T17:13:10Z"
-  },
-  {
-   "id": "896d821d74",
-   "series": "e69d0f36a5",
-   "title": "Swansons Nursery Model Train and Holiday Décor",
-   "start": "2026-11-12",
-   "end": "2026-12-20",
-   "startMinute": 540,
-   "endMinute": 1080,
-   "dates": "Nov 12–Dec 20",
-   "time": "9 AM–6 PM",
-   "place": "Swansons Nursery, Seattle",
-   "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Add a little magic to your life this holiday season.",
-   "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
-   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-12/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-12",
-    "end": "2026-12-21",
-    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-12/"
-   },
-   "firstSeen": "2026-10-28T17:13:34Z",
-   "revision": 8,
-   "changed": "2026-11-14T17:13:10Z"
-  },
-  {
-   "id": "1493678f33",
-   "series": "c9c690140b",
-   "title": "BIMA Día de los Muertos Ofrenda",
-   "start": "2026-11-12",
-   "end": "2026-11-15",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Nov 12–15",
-   "time": "10 AM–5 PM",
-   "place": "Bainbridge Island Museum of Art",
-   "placeLines": "Bainbridge Island Museum of Art\n100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
-   "region": "FARTHER",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…",
-   "description": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends and loved ones who’ve passed away. This year’s ofrenda is created by artist Araceli Cruz.\n\nThe ofrenda is accessible to the public each day during museum hours (10 AM – 5 PM) from November 7-15.\n\nAll are welcome to participate!",
-   "url": "https://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-12/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-123945.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Bainbridge Island Museum of Art, 100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-12",
-    "end": "2026-11-16",
-    "notes": "Hours: 10 AM–5 PM\n\nThe Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…\n\nhttps://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-12/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 5,
-   "changed": "2026-11-14T17:13:10Z"
-  },
-  {
-   "id": "5718dd2255",
-   "series": "7569d5dad4",
-   "title": "Seattle Forest Week",
-   "start": "2026-11-12",
-   "end": "2026-11-15",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Nov 12–15",
-   "time": "10 AM–5 PM",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "What is Seattle Forest Week?",
-   "description": "What is Seattle Forest Week?\nSeattle Forest Week is a celebration of the Urban Forest: This week’s events are great opportunities to join in on planting, forest bathing, bird & plant walks, and helping shape what future participation can look like! This year the theme is Nurturing Forests and Futures: Youth Engagement in Seattle’s Urban Forest.\n\nHelp us create a healthier, happier, and greener Seattle by coming out to kick off planting season during Seattle Forest Week! From creating wildlife habitat to combating climate change and providing a place for residents to recreate, having a hand in Seattle Forest Week is one of the best ways to give back to your neighbors, parks, and your local forest.\n\nJoin the fun and be one of hundreds of volunteers across the city planting native trees, shrubs, and groundcovers that will become the future forest of Seattle. All community members are welcome, and no experience is necessary! The events are family friendly and open to all ages.",
-   "url": "https://www.parentmap.com/calendar/seattle-forest-week/2026-11-12/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192629357-tree-trunk-569275_1280_1-83f04b77ba8d.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-12",
-    "end": "2026-11-16",
-    "notes": "Hours: 10 AM–5 PM\n\nWhat is Seattle Forest Week?\n\nhttps://www.parentmap.com/calendar/seattle-forest-week/2026-11-12/"
-   },
-   "firstSeen": "2026-11-14T17:13:10Z"
-  },
   {
    "id": "37ae90438c",
    "series": "1bc6649cd7",
@@ -326,37 +192,140 @@
    "changed": "2026-11-04T18:42:49Z"
   },
   {
-   "id": "d6361b1069",
-   "series": "ce7ea0df3e",
-   "title": "Pumpkin Drop",
+   "id": "cde528f998",
+   "series": "a3343e6bf8",
+   "title": "PDZA Veterans Appreciation Days",
    "start": "2026-11-13",
-   "end": "2026-11-14",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Nov 13–14",
-   "time": "10 AM–2 PM",
-   "place": "Farrel McWhirter Park, Redmond",
-   "placeLines": "Farrel McWhirter Park, Redmond\n19545 NE Redmond Road, Redmond, WA, 98053",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "(All Ages) Halloween may be over, but the fun is just beginning with pumpkins!",
-   "description": "(All Ages) Halloween may be over, but the fun is just beginning with pumpkins! Drop off your unpainted or uncarved pumpkins at Farrel – McWhirter Park. We’ll smash a pumpkin at 12:30 p.m. on each drop day for the animals. Their joyous squeels, quacks, moos, and bleats will fill the Park!\n\nReminders:\n– Drop off your pumpkins in the main south parking lot between the start and end time. A wheelbarrow will be waiting for you.\n\n– Join us in the barnyard daily at 12:30 to see the farmers smash some pumpkins for the animals.\n\n– Pumpkins must be uncarved, unpainted, and not moldy or mushy to donate. No exceptions.",
-   "url": "https://www.parentmap.com/calendar/pumpkin-drop/2026-11-13/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/29ffb69e-c373-4335-87a1-76a35aa214ad_20211204_143323.png",
+   "end": "2026-11-15",
+   "startMinute": 540,
+   "endMinute": 930,
+   "dates": "Nov 13–15",
+   "time": "9 AM–3:30 PM",
+   "place": "Point Defiance Zoo & Aquarium, Tacoma",
+   "placeLines": "Point Defiance Zoo & Aquarium, Tacoma\n5400 N Pearl St, Tacoma, WA, 98407-3224",
+   "region": "FARTHER",
+   "category": "COMMUNITY",
+   "free": false,
+   "summary": "U.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.",
+   "description": "U.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.\nImmediate family members receive half-off general admission. Offer valid at Zoo admission window. Offer is not valid on online purchases.",
+   "url": "https://www.parentmap.com/calendar/pdza-veterans-appreciation-days/2026-11-13/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1774038874226-veterans-day-zoo-3b9d657d704a.jpg",
    "imageCredit": "ParentMap",
    "sources": [
     "ParentMap"
    ],
-   "map": "Farrel McWhirter Park, 19545 NE Redmond Road, Redmond, WA, 98053",
+   "map": "Point Defiance Zoo & Aquarium, 5400 N Pearl St, Tacoma, WA, 98407-3224",
    "calendar": {
     "allDay": true,
     "start": "2026-11-13",
-    "end": "2026-11-15",
-    "notes": "Hours: 10 AM–2 PM\n\n(All Ages) Halloween may be over, but the fun is just beginning with pumpkins!\n\nhttps://www.parentmap.com/calendar/pumpkin-drop/2026-11-13/"
+    "end": "2026-11-16",
+    "notes": "Hours: 9 AM–3:30 PM\n\nU.S. military veterans and active duty members can enjoy the wonder of the Zoo for FREE during Veterans’ Appreciation Days.\n\nhttps://www.parentmap.com/calendar/pdza-veterans-appreciation-days/2026-11-13/"
    },
-   "firstSeen": "2026-10-21T16:00:15Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 2,
+   "changed": "2026-11-15T17:51:35Z"
+  },
+  {
+   "id": "896d821d74",
+   "series": "e69d0f36a5",
+   "title": "Swansons Nursery Model Train and Holiday Décor",
+   "start": "2026-11-13",
+   "end": "2026-12-20",
+   "startMinute": 540,
+   "endMinute": 1080,
+   "dates": "Nov 13–Dec 20",
+   "time": "9 AM–6 PM",
+   "place": "Swansons Nursery, Seattle",
+   "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Add a little magic to your life this holiday season.",
+   "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
+   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-13/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-13",
+    "end": "2026-12-21",
+    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-13/"
+   },
+   "firstSeen": "2026-10-28T17:13:34Z",
+   "revision": 9,
+   "changed": "2026-11-15T17:51:35Z"
+  },
+  {
+   "id": "1493678f33",
+   "series": "c9c690140b",
+   "title": "BIMA Día de los Muertos Ofrenda",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Nov 13–15",
+   "time": "10 AM–5 PM",
+   "place": "Bainbridge Island Museum of Art",
+   "placeLines": "Bainbridge Island Museum of Art\n100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
+   "region": "FARTHER",
+   "category": "CULTURAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…",
+   "description": "The Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends and loved ones who’ve passed away. This year’s ofrenda is created by artist Araceli Cruz.\n\nThe ofrenda is accessible to the public each day during museum hours (10 AM – 5 PM) from November 7-15.\n\nAll are welcome to participate!",
+   "url": "https://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-13/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-123945.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Bainbridge Island Museum of Art, 100 Ravine Lane N.E., Bainbridge Island, WA, 98110",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-13",
+    "end": "2026-11-16",
+    "notes": "Hours: 10 AM–5 PM\n\nThe Día de los Muertos festival centerpiece is a traditional ofrenda, a colorful, multi-paneled shrine where visitors can add their own photos honoring friends…\n\nhttps://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-13/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 6,
+   "changed": "2026-11-15T17:51:35Z"
+  },
+  {
+   "id": "5718dd2255",
+   "series": "7569d5dad4",
+   "title": "Seattle Forest Week",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Nov 13–15",
+   "time": "10 AM–5 PM",
+   "region": "SEATTLE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "What is Seattle Forest Week?",
+   "description": "What is Seattle Forest Week?\nSeattle Forest Week is a celebration of the Urban Forest: This week’s events are great opportunities to join in on planting, forest bathing, bird & plant walks, and helping shape what future participation can look like! This year the theme is Nurturing Forests and Futures: Youth Engagement in Seattle’s Urban Forest.\n\nHelp us create a healthier, happier, and greener Seattle by coming out to kick off planting season during Seattle Forest Week! From creating wildlife habitat to combating climate change and providing a place for residents to recreate, having a hand in Seattle Forest Week is one of the best ways to give back to your neighbors, parks, and your local forest.\n\nJoin the fun and be one of hundreds of volunteers across the city planting native trees, shrubs, and groundcovers that will become the future forest of Seattle. All community members are welcome, and no experience is necessary! The events are family friendly and open to all ages.",
+   "url": "https://www.parentmap.com/calendar/seattle-forest-week/2026-11-13/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192629357-tree-trunk-569275_1280_1-83f04b77ba8d.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-13",
+    "end": "2026-11-16",
+    "notes": "Hours: 10 AM–5 PM\n\nWhat is Seattle Forest Week?\n\nhttps://www.parentmap.com/calendar/seattle-forest-week/2026-11-13/"
+   },
+   "firstSeen": "2026-11-14T17:13:10Z",
+   "revision": 1,
+   "changed": "2026-11-15T17:51:35Z"
   },
   {
    "id": "858bf943b8",
@@ -392,235 +361,6 @@
    "firstSeen": "2026-11-04T18:42:49Z"
   },
   {
-   "id": "622014cb80",
-   "series": "4e2866d4a8",
-   "title": "Thanksgiving For the Turkeys",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "dates": "Sat, Nov 14",
-   "place": "Pasado’s Safe Haven, Monroe",
-   "placeLines": "Pasado’s Safe Haven, Monroe\nAddress provided upon registration, Monroe, WA, 98272",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "cost": "$3 – $75",
-   "free": false,
-   "summary": "This holiday season, you’re invited to Pasado’s Safe Haven for a heartwarming celebration honoring the turkeys!",
-   "description": "This holiday season, you’re invited to Pasado’s Safe Haven for a heartwarming celebration honoring the turkeys! Celebrate the season and swap tradition for compassion at this festive, fun-filled day with the animals.\n\nYou’ll enjoy a full guided tour of our beautiful sanctuary to see and meet many rescued animals, including Frank the turkey, then enjoy a Thanksgiving feast with your favorites made with all the compassion and none of the cruelty. Come experience a heartwarming holiday tradition that honors the animals and reminds us what gratitude is all about.\n\nOn the menu:\nHoliday Harvest Wellington (gluten-free version available)\nBroccoli Almondine with Herbed Butter\nBaked Macaroni & Cheese with Parmesan Crumb Crust\nSavory Sage & Onion Stuffing\nCitrus Glazed Carrots with Toasted Walnuts\nGarlic Mashed Potatoes with Thyme Gravy\nGluten-free Apple Crisp\nMini Chocolate Chip Cookies",
-   "url": "https://www.parentmap.com/calendar/thanksgiving-turkeys/2026-11-14/1/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1774037759335-turkey-72771_640-ed69a5229601.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Pasado’s Safe Haven, Address provided upon registration, Monroe, WA, 98272",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-14",
-    "end": "2026-11-15",
-    "notes": "This holiday season, you’re invited to Pasado’s Safe Haven for a heartwarming celebration honoring the turkeys!\n\nhttps://www.parentmap.com/calendar/thanksgiving-turkeys/2026-11-14/1/"
-   },
-   "firstSeen": "2026-10-23T15:47:36Z"
-  },
-  {
-   "id": "8c2a1991cf",
-   "series": "1482399993",
-   "title": "Edmonds Holiday Market",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 540,
-   "endMinute": 840,
-   "dates": "Sat, Nov 14",
-   "time": "9 AM–2 PM",
-   "place": "Edmonds Historical Museum",
-   "placeLines": "Edmonds Historical Museum\n118 5th Ave N, Edmonds, WA, 98020",
-   "region": "NORTH",
-   "category": "NIGHT_MARKET",
-   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
-   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
-   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market-2/2026-11-14/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Edmonds Historical Museum, 118 5th Ave N, Edmonds, WA, 98020",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T17:00:00Z",
-    "end": "2026-11-14T22:00:00Z",
-    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market-2/2026-11-14/"
-   },
-   "firstSeen": "2026-10-29T17:28:36Z",
-   "revision": 1,
-   "changed": "2026-10-30T17:04:03Z"
-  },
-  {
-   "id": "bca5c6b958",
-   "series": "8701207749",
-   "title": "BIMA Mercado",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Sat, Nov 14",
-   "time": "10 AM–5 PM",
-   "place": "Bainbridge Island Museum of Art",
-   "placeLines": "Bainbridge Island Museum of Art\n550 Winslow Way E, Bainbridge Island, WA, 98110-2418",
-   "region": "FARTHER",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Back for its second year, the BIMA Mercado continues our Día de los Muertos celebrations!",
-   "description": "Back for its second year, the BIMA Mercado continues our Día de los Muertos celebrations! From 10 AM-5 PM in the BIMA galleries, shop the market filled with art, craft, and goods from Latine makers from across the Puget Sound region. Connect with artists, find a gift for a friend, discover your new favorite piece of art for your home, and support local artists!\n\nThis market is free to attend, all are welcome!",
-   "url": "https://www.parentmap.com/calendar/bima-mercado/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190238709-mercado-calendar-afe6705cdbb9.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Bainbridge Island Museum of Art, 550 Winslow Way E, Bainbridge Island, WA, 98110-2418",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T18:00:00Z",
-    "end": "2026-11-15T01:00:00Z",
-    "notes": "Back for its second year, the BIMA Mercado continues our Día de los Muertos celebrations!\n\nhttps://www.parentmap.com/calendar/bima-mercado/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "1aadda6ab2",
-   "series": "514e0ee439",
-   "title": "Gobble Up Seattle by Urban Craft Uprising",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Sat, Nov 14",
-   "time": "10 AM–5 PM",
-   "place": "Hangar 30 in Magnuson Park, Seattle",
-   "placeLines": "Hangar 30 in Magnuson Park, Seattle\n7400 Sand Point Way NE, Seattle, WA, 98115-8166",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "$3.03",
-   "free": false,
-   "summary": "Gobble Up Seattle 2026 Saturday, November 14th | 10 AM – 5 PM Magnuson Park Hangar 30 | 6310 NE 74th St Come shop, sample, and savor!",
-   "description": "Gobble Up Seattle 2026\nSaturday, November 14th | 10 AM – 5 PM\nMagnuson Park Hangar 30 | 6310 NE 74th St\n\nCome shop, sample, and savor! Gobble Up is the perfect place to knock out your holiday shopping for all those foodies in your life, find your hostess gifts for holiday parties, and add all the goodies to your own home kitchen and pantry. You’ll find 100+ vendors selling everything from small batch food and beverages to handmade kitchenware and decor, food trucks, free raffles, and hourly book signings with local authors — all for just $2!",
-   "url": "https://www.parentmap.com/calendar/gobble-seattle-urban-craft-uprising/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192585206-capture_1049jpg-2840189f837f.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Hangar 30 in Magnuson Park, 7400 Sand Point Way NE, Seattle, WA, 98115-8166",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T18:00:00Z",
-    "end": "2026-11-15T01:00:00Z",
-    "notes": "Gobble Up Seattle 2026 Saturday, November 14th | 10 AM – 5 PM Magnuson Park Hangar 30 | 6310 NE 74th St Come shop, sample, and savor!\n\nhttps://www.parentmap.com/calendar/gobble-seattle-urban-craft-uprising/"
-   },
-   "firstSeen": "2026-10-21T16:00:15Z"
-  },
-  {
-   "id": "5e1859fbbd",
-   "series": "3edbf034fe",
-   "title": "Latvian Center Holiday Market",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Nov 14–15",
-   "time": "10 AM–4 PM",
-   "place": "Seattle",
-   "placeLines": "11710 3rd AVE NE, Seattle, WA",
-   "region": "SEATTLE",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Neighborhoods: Northgate/Maple Leaf Event Types: Dance,Ethnic/Cultural,Festivals/Fairs Audience: All Sponsoring Organization: Latvian Association of WA…",
-   "description": "Neighborhoods: Northgate/Maple Leaf\nEvent Types: Dance,Ethnic/Cultural,Festivals/Fairs\nAudience: All\nSponsoring Organization: Latvian Association of WA\nContact: Seattle Latvian Center\nPre-Register: No\nCost: FREE\nLink: https://www.Facebook.com/SeattleLatvianChristmasBazaar\n\nLATVIAN CENTER HOLIDAY MARKET from November 14, 2026 10 AM to 4 PM; November 15, 2026 12\nNoon to 4 PM. Fun for the whole family! Featuring Christmas specialty foods, ethnic Latvian foods, candles,\nwellness items, glass art, decorative pillows, dolls, hand-dyed yarns, knitted goods, jewelry, ceramics, and\nmuch more from local vendors. A typical Latvian hot lunch will be available all day Saturday with a soup lunch\navailable on Sunday. Baked goods will be available both days. The Latvian folk dance group will perform\nSaturday at 12:30. Located at: 11710 3rd AVE NE Seattle.\nwww.facebook.com…",
-   "url": "https://www.Facebook.com/SeattleLatvianChristmasBazaar",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "11710 3rd AVE NE, Seattle, WA",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-14",
-    "end": "2026-11-16",
-    "notes": "Hours: 10 AM–4 PM\n\nNeighborhoods: Northgate/Maple Leaf Event Types: Dance,Ethnic/Cultural,Festivals/Fairs Audience: All Sponsoring Organization: Latvian Association of WA…\n\nhttps://www.Facebook.com/SeattleLatvianChristmasBazaar"
-   },
-   "firstSeen": "2026-11-07T16:55:41Z"
-  },
-  {
-   "id": "2bd3a48a1e",
-   "series": "a46a119699",
-   "title": "Samena Annual Holiday Market",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Sat, Nov 14",
-   "time": "10 AM–4 PM",
-   "place": "Samena Swim and Recreation Club, Bellevue",
-   "placeLines": "Samena Swim and Recreation Club, Bellevue\n15231 Lake Hills Blvd, Bellevue, WA, 98007-5925",
-   "region": "EASTSIDE",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Celebrate the season at Samena’s Annual Holiday Market!",
-   "description": "Celebrate the season at Samena’s Annual Holiday Market! Shop unique gifts from local vendors, enjoy festive treats, and soak in the holiday spirit with family and friends. Free & open to the public!\n\nThis year don’t miss Photos with Santa! Take home keepsake prints, available for purchase to capture your holiday memories.\n\nVendor Preview: (a sample of our 20+ vendors!)\n\nPuddle Hop Farm: Whimsical and holiday homemade soaps made with milk from goats. Homemade sewn items – especially for chicken lovers.\nLori’s Little Jewels: Thoughtfully handmade sterling silver and 14k gold-filled jewelry using semi-precious gemstones.\nAtelier Dorothy: Handcrafted 100% cotton cushion covers made with imported Japanese fabrics.\nElevated Plate Company: Upcycled vintage serving ware. Wearable art, one-of-a-kind denim clothing for adults & kids.\nSwensen Signature Sweets: Biscotti dipping cookies, hot chocolate, and doggy dipper treats.\nDana’s Knits: Hand-knit children’s sweaters, blankets, towels, rugs, catnip balls.\nJamie Magic Art: Functional and decorative resin art from Christmas ornaments to magnets and bag charms.\nSWCurated: Freshwater pearl jewelry, curated antique jewelry, stainless steel pendant necklaces, & handmade press-on nail sets.",
-   "url": "https://www.parentmap.com/calendar/samena-annual-holiday-market/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/2026-Holiday-Market-Facebook-e1794249136924.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Samena Swim and Recreation Club, 15231 Lake Hills Blvd, Bellevue, WA, 98007-5925",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T18:00:00Z",
-    "end": "2026-11-15T00:00:00Z",
-    "notes": "Celebrate the season at Samena’s Annual Holiday Market!\n\nhttps://www.parentmap.com/calendar/samena-annual-holiday-market/"
-   },
-   "firstSeen": "2026-11-09T21:29:59Z"
-  },
-  {
-   "id": "c185fa1531",
-   "series": "0f43f4c8ac",
-   "title": "Seattle Hmong New Year",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 600,
-   "endMinute": 1320,
-   "dates": "Sat, Nov 14",
-   "time": "10 AM–10 PM",
-   "place": "Armory Food & Event Hall, Seattle",
-   "placeLines": "Armory Food & Event Hall, Seattle\n305 Harrison St, Seattle, WA, 98109",
-   "region": "SEATTLE",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "For generations, Hmong families have marked the end of the harvest season by giving thanks to their ancestors and welcoming the year ahead.",
-   "description": "For generations, Hmong families have marked the end of the harvest season by giving thanks to their ancestors and welcoming the year ahead. This November, that celebration comes to Seattle Center as Seattle Hmong New Year Festival returns for a free celebration of Hmong culture, from embroidered dress and silverwork to music, dance, and food. The festival runs 10:00 a.m. – 10:00 p.m. on Saturday, Nov. 14 in the Seattle Center Armory Food & Event Hall as part of Seattle Center Festál.\n\nThe festival kicks off with an opening ceremony program at 12:00pm on the Armory stage, followed by an afternoon of song and dance starting with returning dance groups, Stella Luna and Nkauj Hmoob Spokane. This year’s program will feature a special performance by an elder and an exciting segment highlighting cultural practitioners. The evening closes with a night concert with live band performances, beats from a local DJ, and four incredible guest artists: Coolaycoo, Treasure, Johnny Lo, and J.A.M.E.S.\n\nFestival: 10:00am – 5:00pm PT\n\nEvening Concert: 6:00pm – 10:00pm PT\n\nSeattle Center Armory\n\nFREE",
-   "url": "https://nwasianweekly.com/community-calendar/seattle-hmong-new-year-2/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185490773-hmong-new-year-festal-2019-9a3dfe1fc286.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "Northwest Asian Weekly",
-    "ParentMap"
-   ],
-   "map": "Armory Food & Event Hall, 305 Harrison St, Seattle, WA, 98109",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T18:00:00Z",
-    "end": "2026-11-15T06:00:00Z",
-    "notes": "For generations, Hmong families have marked the end of the harvest season by giving thanks to their ancestors and welcoming the year ahead.\n\nhttps://nwasianweekly.com/community-calendar/seattle-hmong-new-year-2/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-10-27T16:44:46Z"
-  },
-  {
    "id": "c59f57dd9f",
    "series": "109a238e03",
    "title": "Arts at the Armory",
@@ -654,44 +394,14 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
-   "id": "61d83a43e2",
-   "series": "bfd4c87fb3",
-   "title": "Holiday Open House",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 660,
-   "endMinute": 1080,
-   "dates": "Sat, Nov 14",
-   "time": "11 AM–6 PM",
-   "place": "Snoqualmie",
-   "placeLines": "Snoqualmie",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "summary": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3421",
-   "url": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3421",
-   "sources": [
-    "City of Snoqualmie"
-   ],
-   "map": "Snoqualmie",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T19:00:00Z",
-    "end": "2026-11-15T02:00:00Z",
-    "notes": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3421\n\nhttps://www.snoqualmiewa.gov/calendar.aspx?EID=3421"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T00:00:07Z"
-  },
-  {
    "id": "650621bde5",
    "series": "ed5acaabfd",
    "title": "Photos with Santa at South Hill Mall – Puyallup, WA",
    "start": "2026-11-14",
-   "end": "2026-12-19",
+   "end": "2026-12-20",
    "startMinute": 660,
    "endMinute": 1140,
-   "dates": "Nov 14–Dec 19",
+   "dates": "Nov 14–Dec 20",
    "time": "11 AM–7 PM",
    "place": "South Hill Mall, Puyallup",
    "placeLines": "South Hill Mall, Puyallup\n3500 S. Meridian, Puyallup, WA, 98373",
@@ -712,132 +422,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-14",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-14/"
    },
    "firstSeen": "2026-11-05T00:00:07Z",
-   "revision": 4,
-   "changed": "2026-11-12T18:59:58Z"
-  },
-  {
-   "id": "4f7c6eb14a",
-   "series": "0a00765829",
-   "title": "Salmon Steward Interpretation Days",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "startMinute": 660,
-   "endMinute": 900,
-   "dates": "Nov 14–15",
-   "time": "11 AM–3 PM",
-   "place": "Carkeek Park Chum Salmon Viewing Area",
-   "placeLines": "Carkeek Park Chum Salmon Viewing Area",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…",
-   "description": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge\nEvent Types: Community,Education,Nature/Environment\nAudience: All\nContact: Max\nContact Email: SalmonStewards@seattle.gov\nSite Contact Details: Public email for salmon steward and celebration related questions.\nCost: Free\nLink: https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/\n\nJoin us in Carkeek on Saturdays, Sundays, and Wednesdays (2-4PM) to view the salmon run at Carkeek's Pipers Creek and find trained stewardship volunteers in blue vests ready to chat with you about all things salmon. They have details on how to get involved with environmental projects in Seattle and ways to reduce water pollution and improve salmon habitat. Come with questions! There is so much to learn and explore as the salmon make their way upstream.",
-   "url": "https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "Carkeek Park Chum Salmon Viewing Area, WA",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-14",
-    "end": "2026-11-16",
-    "notes": "Hours: 11 AM–3 PM\n\nNeighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/"
-   },
-   "firstSeen": "2026-10-30T17:04:03Z"
-  },
-  {
-   "id": "e111dc93b0",
-   "series": "d4e76d2c1a",
-   "title": "Valley-Wide Holiday Open House",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 660,
-   "endMinute": 1080,
-   "dates": "Sat, Nov 14",
-   "time": "11 AM–6 PM",
-   "place": "Businesses throughout North Bend, and Fall City - North Bend",
-   "placeLines": "Businesses throughout North Bend, and Fall City - North Bend",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "summary": "https://www.northbendwa.gov/m/calendar/event/detail/4764",
-   "url": "https://www.northbendwa.gov/m/calendar/event/detail/4764",
-   "sources": [
-    "City of North Bend"
-   ],
-   "map": "Businesses throughout North Bend, Businesses throughout North Bend, Snoqualmie, and Fall City - North Bend WA 98045",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T19:00:00Z",
-    "end": "2026-11-15T02:00:00Z",
-    "notes": "https://www.northbendwa.gov/m/calendar/event/detail/4764\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4764"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "30c284dda8",
-   "series": "8d0bf1259b",
-   "title": "Holiday Maker's Market at No Boat",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 720,
-   "endMinute": 1020,
-   "dates": "Sat, Nov 14",
-   "time": "12–5 PM",
-   "place": "Snoqualmie",
-   "placeLines": "35214 SE Center St #2 Snoqualmie WA 98065",
-   "region": "EASTSIDE",
-   "category": "NIGHT_MARKET",
-   "summary": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3428",
-   "url": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3428",
-   "sources": [
-    "City of Snoqualmie"
-   ],
-   "map": "35214 SE Center St #2 Snoqualmie WA 98065",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T20:00:00Z",
-    "end": "2026-11-15T01:00:00Z",
-    "notes": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3428\n\nhttps://www.snoqualmiewa.gov/calendar.aspx?EID=3428"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "05c4e56400",
-   "series": "7035220918",
-   "title": "Second Saturdays: Bulgarian Cultural Celebration",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 720,
-   "endMinute": 960,
-   "dates": "Sat, Nov 14",
-   "time": "12–4 PM",
-   "place": "Postmark Center for the Arts, Auburn",
-   "placeLines": "Postmark Center for the Arts, Auburn\n20 Auburn Avenue, Auburn, WA, 98002",
-   "region": "SOUTH",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Visit Postmark Center for the Arts gallery, open to the public each Second Saturday from 12-4PM! Each month features FREE, all ages performances, crafts, and…",
-   "description": "Visit Postmark Center for the Arts gallery, open to the public each Second Saturday from 12-4PM! Each month features FREE, all ages performances, crafts, and events!\n\nThis November, participate in Auburn’s own Bulgarian Cultural Festival, presented by Hopa Trop Folk Ensemble of Seattle. Hopa Trop Folk Ensemble performs Bulgarian dances and songs from all folklore regions of Bulgaria. Their mission is to preserve the Bulgarian culture and traditions among their community in the Greater Seattle area.\n\nVisit the Postmark from 12PM – 4PM for dancing, crafts, snacks, and to learn more about the vibrant cultural history of Bulgaria!\n\nFREE | ALL AGES",
-   "url": "https://www.parentmap.com/calendar/second-saturdays-bulgarian-cultural-celebration/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Hopa-Trop_Image-for-ParentMap.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Postmark Center for the Arts, 20 Auburn Avenue, Auburn, WA, 98002",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T20:00:00Z",
-    "end": "2026-11-15T00:00:00Z",
-    "notes": "Visit Postmark Center for the Arts gallery, open to the public each Second Saturday from 12-4PM! Each month features FREE, all ages performances, crafts, and…\n\nhttps://www.parentmap.com/calendar/second-saturdays-bulgarian-cultural-celebration/"
-   },
-   "firstSeen": "2026-10-30T17:04:03Z"
+   "revision": 5,
+   "changed": "2026-11-15T17:51:35Z"
   },
   {
    "id": "1648869207",
@@ -873,34 +463,70 @@
    "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
-   "id": "6e53a334fa",
-   "series": "622073cfe9",
-   "title": "Ballard ArtWalk",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 1080,
-   "endMinute": 1260,
-   "dates": "Sat, Nov 14",
-   "time": "6–9 PM",
+   "id": "5e1859fbbd",
+   "series": "3edbf034fe",
+   "title": "Latvian Center Holiday Market",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Sun, Nov 15",
+   "time": "10 AM–4 PM",
+   "place": "Seattle",
+   "placeLines": "11710 3rd AVE NE, Seattle, WA",
    "region": "SEATTLE",
-   "category": "ARTS",
+   "category": "NIGHT_MARKET",
    "cost": "Free",
    "free": true,
-   "summary": "a long-standing tradition celebrating and supporting the local artist community in Ballard since 1997.",
-   "description": "a long-standing tradition celebrating and supporting the local artist community in Ballard since 1997.\n\nThis engaging community event is brought to you by the Ballard Alliance and Ballard businesses, and it takes place every second Saturday of the month from 6-9 pm.\n\nCome out and show your support for local artists and the venues that open their doors to showcase their creativity and be a part of the thriving arts community in Ballard. Your presence makes a difference. Go to visitballard.com/artwalk for all the details about this month’s lineup and a map.",
-   "url": "https://www.visitballard.com/event/ballard-artwalk-2/2026-11-14/",
-   "image": "https://www.visitballard.com/wp-content/uploads/2025/10/ArtWalk-Eventcrp-768x627.png",
-   "imageCredit": "Visit Ballard",
+   "summary": "Neighborhoods: Northgate/Maple Leaf Event Types: Dance,Ethnic/Cultural,Festivals/Fairs Audience: All Sponsoring Organization: Latvian Association of WA…",
+   "description": "Neighborhoods: Northgate/Maple Leaf\nEvent Types: Dance,Ethnic/Cultural,Festivals/Fairs\nAudience: All\nSponsoring Organization: Latvian Association of WA\nContact: Seattle Latvian Center\nPre-Register: No\nCost: FREE\nLink: https://www.Facebook.com/SeattleLatvianChristmasBazaar\n\nLATVIAN CENTER HOLIDAY MARKET from November 14, 2026 10 AM to 4 PM; November 15, 2026 12\nNoon to 4 PM. Fun for the whole family! Featuring Christmas specialty foods, ethnic Latvian foods, candles,\nwellness items, glass art, decorative pillows, dolls, hand-dyed yarns, knitted goods, jewelry, ceramics, and\nmuch more from local vendors. A typical Latvian hot lunch will be available all day Saturday with a soup lunch\navailable on Sunday. Baked goods will be available both days. The Latvian folk dance group will perform\nSaturday at 12:30. Located at: 11710 3rd AVE NE Seattle.\nwww.facebook.com…",
+   "url": "https://www.Facebook.com/SeattleLatvianChristmasBazaar",
    "sources": [
-    "Visit Ballard"
+    "City of Seattle"
    ],
+   "map": "11710 3rd AVE NE, Seattle, WA",
    "calendar": {
     "allDay": false,
-    "start": "2026-11-15T02:00:00Z",
-    "end": "2026-11-15T05:00:00Z",
-    "notes": "a long-standing tradition celebrating and supporting the local artist community in Ballard since 1997.\n\nhttps://www.visitballard.com/event/ballard-artwalk-2/2026-11-14/"
+    "start": "2026-11-15T18:00:00Z",
+    "end": "2026-11-16T00:00:00Z",
+    "notes": "Neighborhoods: Northgate/Maple Leaf Event Types: Dance,Ethnic/Cultural,Festivals/Fairs Audience: All Sponsoring Organization: Latvian Association of WA…\n\nhttps://www.Facebook.com/SeattleLatvianChristmasBazaar"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-11-07T16:55:41Z",
+   "revision": 1,
+   "changed": "2026-11-15T17:51:35Z"
+  },
+  {
+   "id": "4f7c6eb14a",
+   "series": "0a00765829",
+   "title": "Salmon Steward Interpretation Days",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "startMinute": 660,
+   "endMinute": 900,
+   "dates": "Sun, Nov 15",
+   "time": "11 AM–3 PM",
+   "place": "Carkeek Park Chum Salmon Viewing Area",
+   "placeLines": "Carkeek Park Chum Salmon Viewing Area",
+   "region": "SEATTLE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…",
+   "description": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge\nEvent Types: Community,Education,Nature/Environment\nAudience: All\nContact: Max\nContact Email: SalmonStewards@seattle.gov\nSite Contact Details: Public email for salmon steward and celebration related questions.\nCost: Free\nLink: https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/\n\nJoin us in Carkeek on Saturdays, Sundays, and Wednesdays (2-4PM) to view the salmon run at Carkeek's Pipers Creek and find trained stewardship volunteers in blue vests ready to chat with you about all things salmon. They have details on how to get involved with environmental projects in Seattle and ways to reduce water pollution and improve salmon habitat. Come with questions! There is so much to learn and explore as the salmon make their way upstream.",
+   "url": "https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/",
+   "sources": [
+    "City of Seattle"
+   ],
+   "map": "Carkeek Park Chum Salmon Viewing Area, WA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-15T19:00:00Z",
+    "end": "2026-11-15T23:00:00Z",
+    "notes": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/"
+   },
+   "firstSeen": "2026-10-30T17:04:03Z",
+   "revision": 1,
+   "changed": "2026-11-15T17:51:35Z"
   },
   {
    "id": "fd687baddd",
@@ -1128,10 +754,10 @@
    "series": "eced320032",
    "title": "Photos with Santa at Westfield Southcenter",
    "start": "2026-11-19",
-   "end": "2026-12-19",
+   "end": "2026-12-20",
    "startMinute": 660,
    "endMinute": 1080,
-   "dates": "Nov 19–Dec 19",
+   "dates": "Nov 19–Dec 20",
    "time": "11 AM–6 PM",
    "place": "Westfield Southcenter, Tukwila",
    "placeLines": "Westfield Southcenter, Tukwila\n2800 Southcenter Mall, Tukwila, WA, 98188",
@@ -1152,12 +778,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-19",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "Hours: 11 AM–6 PM\n\nStep into a magical winter village and create cherished holiday memories with Santa at Westfield Southcenter’s Winter Village.\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-westfield-southcenter/2026-11-19/"
    },
    "firstSeen": "2026-11-06T18:07:55Z",
-   "revision": 2,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 3,
+   "changed": "2026-11-15T17:51:35Z"
   },
   {
    "id": "0126dcb7e6",
@@ -1682,10 +1308,10 @@
    "series": "13ae7169d1",
    "title": "Photos with Santa at The Village at Totem Lake",
    "start": "2026-11-21",
-   "end": "2026-12-19",
+   "end": "2026-12-20",
    "startMinute": 660,
    "endMinute": 1140,
-   "dates": "Nov 21–Dec 19",
+   "dates": "Nov 21–Dec 20",
    "time": "11 AM–7 PM",
    "place": "The Village at Totem Lake, Kirkland",
    "placeLines": "The Village at Totem Lake, Kirkland\n11901 NE Village Plaza, Kirkland, WA, 98034",
@@ -1706,12 +1332,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-21",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to The Village at Totem Lake!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-the-village-at-totem-lake-2/2026-11-21/"
    },
    "firstSeen": "2026-11-06T18:07:55Z",
-   "revision": 2,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 3,
+   "changed": "2026-11-15T17:51:35Z"
   },
   {
    "id": "f16cd3f6a0",
@@ -2588,10 +2214,10 @@
    "series": "c293ef60ad",
    "title": "Westlake Park Holiday Carousel",
    "start": "2026-11-27",
-   "end": "2026-12-19",
+   "end": "2026-12-20",
    "startMinute": 660,
    "endMinute": 1200,
-   "dates": "Nov 27–Dec 19",
+   "dates": "Nov 27–Dec 20",
    "time": "11 AM–8 PM",
    "place": "Westlake Park, Seattle",
    "placeLines": "Westlake Park, Seattle\n401 Pine Street, Seattle, WA, 98101",
@@ -2611,12 +2237,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-20",
+    "end": "2026-12-21",
     "notes": "Hours: 11 AM–8 PM\n\nAfter a six-year hiatus, this beloved family tradition is back!\n\nhttps://www.parentmap.com/calendar/westlake-park-holiday-carousel/2026-11-27/"
    },
    "firstSeen": "2026-11-05T18:51:28Z",
-   "revision": 3,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 4,
+   "changed": "2026-11-15T17:51:35Z"
   },
   {
    "id": "eda1ccfc93",
