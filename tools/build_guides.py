@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Builds the guide pages (this weekend, free this weekend, Eastside, Bellevue,
-holiday events) from data/events.json, and rewrites sitemap.xml.
+"""Builds the guide pages (this weekend, free this weekend, Eastside, Bellevue
+and the other city pages, kids, holiday events) from data/events.json, and rewrites sitemap.xml.
 
 Plain HTML that search engines can read without running JavaScript. Run from
 the repository root: python3 tools/build_guides.py
@@ -63,6 +63,27 @@ def in_place(e, name):
     return name.lower() in ((e.get("placeLines") or "") + " " + (e.get("place") or "")).lower()
 
 
+def in_city(e, *names):
+    """True when the event's venue or address is in one of the cities. Stricter
+    than in_place: a street called "W Lake Sammamish Pkwy" doesn't count."""
+    place = (e.get("place") or "").lower()
+    lines = (e.get("placeLines") or "").lower()
+    for n in names:
+        n = n.lower()
+        if re.search(rf"\b{re.escape(n)}\b(?! (pkwy|parkway|rd|road|river|way|blvd|ave|st)\b)", place):
+            return True
+        if f", {n}, wa" in lines:
+            return True
+    return False
+
+
+def city_page(slug, name, h1, intro, *names):
+    names = names or (name,)
+    return dict(slug=slug, nav=f"{name} events",
+                title=f"{h1}, WA ({MONTH})", h1=h1, intro=intro,
+                pick=lambda e: in_city(e, *names) and overlaps(e, TODAY, TODAY + dt.timedelta(days=90)))
+
+
 WS, WE = weekend()
 WLABEL = f"{fmt(WS)} to {fmt(WE)}" if WS != WE else fmt(WS)
 MONTH = TODAY.strftime("%B %Y")
@@ -103,6 +124,20 @@ PAGES = [
          h1="Holiday and seasonal events around Seattle",
          intro="Tree lightings, holiday markets, Santa visits, light shows and seasonal festivals around Seattle and the Eastside, for the next three months.",
          pick=lambda e: e.get("category") == "SEASONAL" and e.get("region") in NEAR and overlaps(e, TODAY, TODAY + dt.timedelta(days=90))),
+    city_page("redmond", "Redmond", "Things to do in Redmond",
+              "Upcoming events in Redmond for the next 90 days, including Redmond Downtown Park, Marymoor Park and Farrel-McWhirter Farm."),
+    city_page("kirkland", "Kirkland", "Things to do in Kirkland",
+              "Upcoming events in Kirkland for the next 90 days, from the downtown waterfront and Marina Park to Totem Lake and Juanita."),
+    city_page("mercer-island", "Mercer Island", "Things to do on Mercer Island",
+              "Upcoming events on Mercer Island for the next 90 days, including Mercerdale Park, the community center and the Town Center."),
+    city_page("sammamish", "Sammamish", "Things to do in Sammamish and Issaquah",
+              "Upcoming events in Sammamish and Issaquah for the next 90 days, including Sammamish Commons, Pine Lake and downtown Issaquah.",
+              "Sammamish", "Issaquah"),
+    dict(slug="kids", nav="For kids",
+         title=f"Things to do with kids around Seattle and the Eastside ({MONTH})",
+         h1="Things to do with kids around Seattle",
+         intro="Events the organizers set up for kids and families, around Seattle and the Eastside, for the next 60 days. Check the event page for ages and tickets before you go.",
+         pick=lambda e: e.get("kids") and e.get("region") in NEAR and overlaps(e, TODAY, TODAY + dt.timedelta(days=60))),
 ]
 
 E = html.escape

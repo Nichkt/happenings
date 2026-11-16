@@ -29,7 +29,7 @@ jobs:
         run: python3 tools/build_guides.py
       - name: Commit
         run: |
-          git add -A this-weekend free-this-weekend eastside-this-weekend seattle-this-weekend eastside bellevue holiday-events guides sitemap.xml
+          git add -A this-weekend free-this-weekend eastside-this-weekend seattle-this-weekend eastside bellevue holiday-events redmond kirkland mercer-island sammamish kids guides sitemap.xml
           if git diff --cached --quiet; then echo "Nothing changed."; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
