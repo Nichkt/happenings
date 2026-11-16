@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:87f2cdc273-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261209T023000Z
+DTEND:20261209T033000Z
+SUMMARY:Grand Menorah Lighting\, Sammamish
+LOCATION:Sammamish Commons\, 801 228th Ave SE\, Sammamish\, WA\, 98075-9509
+DESCRIPTION:Join with your community for squishy giveaways\, music\, and do
+ nuts.\n\nhttps://www.parentmap.com/calendar/grand-menorah-lighting-sammami
+ sh/
+URL:https://www.parentmap.com/calendar/grand-menorah-lighting-sammamish/
+END:VEVENT
+END:VCALENDAR

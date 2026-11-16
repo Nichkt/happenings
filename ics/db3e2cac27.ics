@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db3e2cac27-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261211T023000Z
+DTEND:20261211T033000Z
+SUMMARY:Grand Menorah Lighting\, North Bend
+LOCATION:Si View Park\, 400 SE Orchard Dr\, North Bend\, WA\, 98045-9470
+DESCRIPTION:Join with your community for squishy giveaways\, music\, and do
+ nuts.\n\nhttps://www.parentmap.com/calendar/grand-menorah-lighting-north-b
+ end/
+URL:https://www.parentmap.com/calendar/grand-menorah-lighting-north-bend/
+END:VEVENT
+END:VCALENDAR

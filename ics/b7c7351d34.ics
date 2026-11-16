@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b7c7351d34-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261212T013000Z
+DTEND:20261212T043000Z
+SUMMARY:Light up the Night Kol Ami Hanukkah Celebration
+LOCATION:Kol Ami\, 308 4th Avenue S\, Kirkland\, WA\, 98033
+DESCRIPTION:December 11th\, 2026 Celebration!\n\nhttps://www.parentmap.com/
+ calendar/light-up-the-night-kol-ami-hanukkah-celebration/
+URL:https://www.parentmap.com/calendar/light-up-the-night-kol-ami-hanukkah-
+ celebration/
+END:VEVENT
+END:VCALENDAR

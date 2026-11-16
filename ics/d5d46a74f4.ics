@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d5d46a74f4-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261207T003000Z
+DTEND:20261207T013000Z
+SUMMARY:Hanukkah Celebration at BAM
+LOCATION:(Former) Bellevue Arts Museum\, 510 Bellevue Way NE\, Bellevue\, W
+ A\, 98004
+DESCRIPTION:A small amount of light pushes away the darkness!\n\nhttps://ww
+ w.parentmap.com/calendar/hanukkah-celebration-bam/
+URL:https://www.parentmap.com/calendar/hanukkah-celebration-bam/
+END:VEVENT
+END:VCALENDAR

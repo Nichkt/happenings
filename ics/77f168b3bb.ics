@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:77f168b3bb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261206T023000Z
+DTEND:20261206T033000Z
+SUMMARY:Grand Menorah Lighting\, Downtown Issaquah
+LOCATION:Downtown Issaquah\, Front Street\, Issaquah\, WA\, 98027
+DESCRIPTION:Join with your community for squishy giveaways\, music\, and do
+ nuts.\n\nhttps://www.parentmap.com/calendar/grand-menorah-lighting-downtow
+ n-issaquah/
+URL:https://www.parentmap.com/calendar/grand-menorah-lighting-downtown-issa
+ quah/
+END:VEVENT
+END:VCALENDAR

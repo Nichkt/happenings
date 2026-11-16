@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1eb6e781d1-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+SUMMARY:recurring event test
+LOCATION:ArtWorks\, 201 2nd Ave S\, Edmonds\, 98020
+DESCRIPTION:Hours: 8 AM–5 PM\n\ntest test\n\nhttps://www.parentmap.com/ca
+ lendar/recurring-event-test/
+URL:https://www.parentmap.com/calendar/recurring-event-test/
+END:VEVENT
+END:VCALENDAR

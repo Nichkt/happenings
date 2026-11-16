@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:97ae98c95f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261207T010000Z
+DTEND:20261207T030000Z
+SUMMARY:Rock and Roll Hanukkah
+LOCATION:Rock and Roll Roller Rink\, 5700 E Lake Sammamish Pkwy SE\, Issaqu
+ ah\, WA\, 98029
+DESCRIPTION:Community Roller Skating Party: Music Skating Donuts Latkes Fes
+ tive Activities\n\nhttps://www.parentmap.com/calendar/rock-and-roll-hanukk
+ ah/
+URL:https://www.parentmap.com/calendar/rock-and-roll-hanukkah/
+END:VEVENT
+END:VCALENDAR

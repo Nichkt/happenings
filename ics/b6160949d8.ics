@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b6160949d8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261211T013000Z
+DTEND:20261211T023000Z
+SUMMARY:Menorah Lighting in Ballard
+LOCATION:Bergen Place Park\, 5420 22nd Ave NW\, Seattle\, WA\, 98107
+DESCRIPTION:Join us for the 12th Annual Ballard Menorah Lighting!\n\nhttps:
+ //www.parentmap.com/calendar/menorah-lighting-gelt-drop-ballard/
+URL:https://www.parentmap.com/calendar/menorah-lighting-gelt-drop-ballard/
+END:VEVENT
+END:VCALENDAR

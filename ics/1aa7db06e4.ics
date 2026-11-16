@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1aa7db06e4-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261204T010000Z
+DTEND:20261204T050000Z
+SUMMARY:Mingle and Jingle
+LOCATION:The Fremont Social\, 132 N Canal St.\, Seattle\, WA\, 98103
+DESCRIPTION:The Fremont Chamber of Commerce presents the second annual Ming
+ le and Jingle holiday extravaganza!\n\nhttps://www.parentmap.com/calendar/
+ mingle-and-jingle/
+URL:https://www.parentmap.com/calendar/mingle-and-jingle/
+END:VEVENT
+END:VCALENDAR

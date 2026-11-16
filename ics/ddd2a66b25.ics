@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ddd2a66b25-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261211T010000Z
+DTEND:20261211T020000Z
+SUMMARY:Light Up The Night – Deli Fest
+LOCATION:Westlake Park\, 401 Pine Street\, Seattle\, WA\, 98101
+DESCRIPTION:Free Chanukah celebration at Westlake Park with menorah lightin
+ g\, deli favorites\, music and more.\n\nhttps://www.parentmap.com/calendar
+ /light-up-the-night-deli-fest/
+URL:https://www.parentmap.com/calendar/light-up-the-night-deli-fest/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:31bf2b61fb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261206T213000Z
+DTEND:20261207T003000Z
+SUMMARY:‘Frozen’ Glow-Stick Sing-Along with Crafts + Latkes
+LOCATION:Stroum Jewish Community Center\, 3801 E Mercer Way\, Mercer Island
+ \, WA\, 98040-3805
+DESCRIPTION:Celebrate the Festival of Lights with an afternoon of Hanukkah 
+ fun\, family activities and a little FROZEN movie magic at the J! Get crea
+ tive with Hands on…\n\nhttps://www.parentmap.com/calendar/frozen-glow-st
+ ick-sing-along-with-crafts-latkes/
+URL:https://www.parentmap.com/calendar/frozen-glow-stick-sing-along-with-cr
+ afts-latkes/
+END:VEVENT
+END:VCALENDAR

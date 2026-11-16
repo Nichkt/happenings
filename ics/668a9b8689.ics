@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:668a9b8689-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261206T230000Z
+DTEND:20261207T013000Z
+SUMMARY:Beth Shalom Community Hanukkah Celebration
+LOCATION:Congregation Beth Shalom\, 6800 35th Ave NE\, Seattle\, WA\, 98115
+ -7334
+DESCRIPTION:This all-ages Hanukkah celebration will have something for ever
+ yone!\n\nhttps://www.parentmap.com/calendar/beth-shalom-community-hanukkah
+ -celebration/
+URL:https://www.parentmap.com/calendar/beth-shalom-community-hanukkah-celeb
+ ration/
+END:VEVENT
+END:VCALENDAR

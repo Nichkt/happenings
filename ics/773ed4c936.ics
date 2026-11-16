@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:773ed4c936-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261207T001500Z
+DTEND:20261207T011500Z
+SUMMARY:Glow Menorah Lighting at Kirkland Marina Park
+LOCATION:Kirkland Marina Park\, 25 Lakeshore Plaza Dr\, Kirkland\, WA\, 980
+ 33
+DESCRIPTION:Join Chabad of Kirkland for our 10th Annual Menorah Lighting & 
+ Chanukkah Spectacular!\n\nhttps://www.parentmap.com/calendar/grand-menorah
+ -lighting-kirkland-marina-park/
+URL:https://www.parentmap.com/calendar/grand-menorah-lighting-kirkland-mari
+ na-park/
+END:VEVENT
+END:VCALENDAR

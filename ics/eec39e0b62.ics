@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eec39e0b62-seattle-happenings@nichkt.github.io
+DTSTAMP:20261116T210651Z
+SEQUENCE:0
+DTSTART:20261208T023000Z
+DTEND:20261208T033000Z
+SUMMARY:Grand Menorah Lighting\, Snoqualmie
+LOCATION:Railroad Park\, 7971 Railroad Ave S.E.\, Snoqualmie\, WA\, 98065
+DESCRIPTION:Join with your community for squishy giveaways\, music\, and do
+ nuts.\n\nhttps://www.parentmap.com/calendar/grand-menorah-lighting-snoqual
+ mie/
+URL:https://www.parentmap.com/calendar/grand-menorah-lighting-snoqualmie/
+END:VEVENT
+END:VCALENDAR
