@@ -5,8 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:b01850c7c6-seattle-happenings@nichkt.github.io
-DTSTAMP:20261016T075906Z
-SEQUENCE:0
+DTSTAMP:20261117T195605Z
+SEQUENCE:1
+LAST-MODIFIED:20261117T195605Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 TRANSP:TRANSPARENT
@@ -16,8 +17,8 @@ LOCATION:National Nordic Museum\, 2655 NW Market Street\, Seattle\, WA\, 98
 DESCRIPTION:Hours: 10 AM–5 PM\n\nThroughout the weekend\, bring the whole
   family and step into a winter wonderland for an authentic Nordic holiday 
  experience with live music\, unique treats\, and…\n\nhttps://www.parentm
- ap.com/calendar/julefest-a-nordic-holiday-celebration/2026-11-21/
+ ap.com/calendar/julefest-a-nordic-holiday-celebration-2/2026-11-21/
 URL:https://www.parentmap.com/calendar/julefest-a-nordic-holiday-celebratio
- n/2026-11-21/
+ n-2/2026-11-21/
 END:VEVENT
 END:VCALENDAR

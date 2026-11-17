@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab423d7ac0-seattle-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART:20261128T230000Z
+DTEND:20261129T030000Z
+SUMMARY:Winterfest
+LOCATION:Kirkland Urban\, 425 Urban Plaza\, Kirkland\, WA\, 98033
+DESCRIPTION:Enjoy complimentary community fun for all ages at Kirkland Urba
+ n.\n\nhttps://kirklanddowntown.org/event/winterfest/
+URL:https://kirklanddowntown.org/event/winterfest/
+END:VEVENT
+END:VCALENDAR

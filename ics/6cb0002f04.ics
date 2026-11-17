@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6cb0002f04-seattle-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART:20261206T180000Z
+DTEND:20261206T193000Z
+SUMMARY:Silent Santa
+LOCATION:The Village at Totem Lake\, 11901 NE Village Plaza\, Kirkland\, WA
+ \, 98034
+DESCRIPTION:Join us for Silent Santa\, sponsored by EvergreenHealth\, as we
+  turn down the stress during these sensory-friendly Santa visits on Sunday
+ \, November 29 and…\n\nhttps://www.parentmap.com/calendar/silent-santa-0
+ -2/2026-12-06/
+URL:https://www.parentmap.com/calendar/silent-santa-0-2/2026-12-06/
+END:VEVENT
+END:VCALENDAR

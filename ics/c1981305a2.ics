@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c1981305a2-seattle-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART:20261212T020000Z
+DTEND:20261212T050000Z
+SUMMARY:Kids Night Out – Holiday Drop & Shop
+LOCATION:STAR Center\, 3873 S 66th St\, Tacoma\, WA\, 98409-2471
+DESCRIPTION:(Age 5-12) Enjoy a night off while your kids enjoy a night off!
+ \n\nhttps://www.parentmap.com/calendar/kids-night-out-holiday-drop-shop/20
+ 26-12-11/
+URL:https://www.parentmap.com/calendar/kids-night-out-holiday-drop-shop/202
+ 6-12-11/
+END:VEVENT
+END:VCALENDAR

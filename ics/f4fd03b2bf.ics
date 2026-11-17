@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:f4fd03b2bf-seattle-happenings@nichkt.github.io
-DTSTAMP:20261113T183627Z
-SEQUENCE:1
-LAST-MODIFIED:20261113T183627Z
+DTSTAMP:20261117T195605Z
+SEQUENCE:2
+LAST-MODIFIED:20261117T195605Z
 DTSTART:20261219T210000Z
 DTEND:20261219T230000Z
 SUMMARY:Santa Saturdays in Old Bellevue
-LOCATION:Old Bellevue\, Old Bellevue\, 10146 Main St
+LOCATION:Old Bellevue\, Old Bellevue\, 10146 Main St\, WA
 DESCRIPTION:Join the Old Bellevue Merchants Association for a free\, family
  -friendly holiday experience featuring seasonal lighting and décor\, a se
  lf-guided holiday stroll\,…\n\nhttps://bellevuewa.gov/events/santa-satur

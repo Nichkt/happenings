@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0ec04b91fd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART:20261205T010000Z
+DTEND:20261205T040000Z
+SUMMARY:A Celebration of Ukranian Christmas
+LOCATION:STAR Center\, 3873 S 66th St\, Tacoma\, WA\, 98409-2471
+DESCRIPTION:Join Tacoma Sister Cities for A Celebration of Ukrainian Christ
+ mas: Vechornytsi & Vertep on Friday\, December 4\, from 5:00–8:00 PM at 
+ the STAR Center in Tacoma!\n\nhttps://www.parentmap.com/calendar/a-celebra
+ tion-of-ukranian-christmas/
+URL:https://www.parentmap.com/calendar/a-celebration-of-ukranian-christmas/
+END:VEVENT
+END:VCALENDAR

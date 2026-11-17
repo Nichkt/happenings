@@ -4,13 +4,12 @@ PRODID:-//Nicholas Ton//Seattle Happenings//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:749ab85d71-seattle-happenings@nichkt.github.io
-DTSTAMP:20261116T210651Z
+UID:ba46485d75-seattle-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
 SEQUENCE:0
 DTSTART:20261122T180000Z
 DTEND:20261123T020000Z
-SUMMARY:The Stories Water Keeps: Free Film Festival\, Family Activities\, a
- nd More!
+SUMMARY:The Stories Water Keeps: Free Film Festival and Family Activities
 LOCATION:Pier 66\, 2225 Alaskan Way\, Seattle\, WA\, 98121-1604
 DESCRIPTION:Join us at Waterfront Park for a FREE family-friendly day celeb
  rating the ocean through movies\, hands-on activities\, creative crafts\, 

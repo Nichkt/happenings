@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c1e439546c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:Cereal with Santa
+LOCATION:North Kirkland Community Center\, 12421 103rd Ave NE\, Kirkland\, 
+ WA\, 98034-2867
+DESCRIPTION:Enjoy breakfast with Santa and choose from a variety of his fav
+ orite morning treats.\n\nhttps://www.parentmap.com/calendar/cereal-santa/2
+ 026-12-12/1/
+URL:https://www.parentmap.com/calendar/cereal-santa/2026-12-12/1/
+END:VEVENT
+END:VCALENDAR

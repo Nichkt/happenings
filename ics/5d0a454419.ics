@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5d0a454419-seattle-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART:20261207T020000Z
+DTEND:20261207T050000Z
+SUMMARY:Solstice Soiree
+LOCATION:The Cove – Normandy Park Community Club\, 1428 SW Shorebrook Dr\
+ , Normandy Park\, WA\, 98166
+DESCRIPTION:Gather ‘round for a free festive fête of live music\, wine\,
+  hot cider\, and a cookie exchange!\n\nhttps://www.parentmap.com/calendar/
+ solstice-soiree/
+URL:https://www.parentmap.com/calendar/solstice-soiree/
+END:VEVENT
+END:VCALENDAR

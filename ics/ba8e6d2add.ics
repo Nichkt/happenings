@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba8e6d2add-seattle-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART:20261209T230000Z
+DTEND:20261210T040000Z
+SUMMARY:The Spring District Holiday Market
+DESCRIPTION:Join The Spring District for a festive holiday event featuring 
+ live reindeer\, free photos with Santa and Mrs.\n\nhttps://bellevuewa.gov/
+ events/spring-district-holiday-market
+URL:https://bellevuewa.gov/events/spring-district-holiday-market
+END:VEVENT
+END:VCALENDAR

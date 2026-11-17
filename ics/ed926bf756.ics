@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ed926bf756-seattle-happenings@nichkt.github.io
-DTSTAMP:20261112T185958Z
-SEQUENCE:3
-LAST-MODIFIED:20261112T185958Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261220
-TRANSP:TRANSPARENT
+DTSTAMP:20261117T195605Z
+SEQUENCE:4
+LAST-MODIFIED:20261117T195605Z
+DTSTART:20261219T010000Z
+DTEND:20261219T060000Z
 SUMMARY:The Lights of Christmas
 LOCATION:Warm Beach Camp\, 20800 Marine Dr\, Stanwood\, WA\, 98292-7822
-DESCRIPTION:Hours: 5–10 PM\n\nBig changes are coming to The Lights of Chr
- istmas in 2026!\n\nhttps://www.parentmap.com/calendar/lights-christmas-dri
- ve-through-experience/2026-12-18/
+DESCRIPTION:Big changes are coming to The Lights of Christmas in 2026!\n\nh
+ ttps://www.parentmap.com/calendar/lights-christmas-drive-through-experienc
+ e/2026-12-18/
 URL:https://www.parentmap.com/calendar/lights-christmas-drive-through-exper
  ience/2026-12-18/
 END:VEVENT

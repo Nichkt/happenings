@@ -4,13 +4,12 @@ PRODID:-//Nicholas Ton//Seattle Happenings//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:095c01fca8-seattle-happenings@nichkt.github.io
-DTSTAMP:20261116T210651Z
-SEQUENCE:1
-LAST-MODIFIED:20261116T210651Z
+UID:01f167d13f-seattle-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
 DTSTART:20261206T233000Z
 DTEND:20261207T010000Z
-SUMMARY:Light Up Renton Hanukkah Celebration
+SUMMARY:Hanukkah at the Landing
 LOCATION:Renton Landing\, 815 N 10th St Ste F\, Renton\, WA\, 98057-5587
 DESCRIPTION:This is where the party’s at this Chanukah!\n\nhttps://www.pa
  rentmap.com/calendar/light-renton-hanukkah-celebration/
