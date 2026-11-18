@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d21dfbb650-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Breakfast with Santa Dave and Busters Lynnwood
+LOCATION:Dave & Buster’s Lynnwood\, 18606 Alderwood Mall Pkwy\, Lynnwood\
+ , WA\, 98037
+DESCRIPTION:Hours: 9–11 AM\n\nJoin us at our Dave and Busters Santa Break
+ fast ( Two date options available) Date & Time: December 5 or December 6\,
+  2026 from 9 AM – 11 AM…\n\nhttps://www.parentmap.com/calendar/breakfa
+ st-with-santa-dave-and-busters-lynnwood/2026-12-05/
+URL:https://www.parentmap.com/calendar/breakfast-with-santa-dave-and-buster
+ s-lynnwood/2026-12-05/
+END:VEVENT
+END:VCALENDAR

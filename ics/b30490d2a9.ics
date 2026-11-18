@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b30490d2a9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART:20261205T180000Z
+DTEND:20261205T220000Z
+SUMMARY:Magnolia Holiday Market
+LOCATION:Magnolia Farmers Market\, West McGraw Street & 32nd Ave West\, Sea
+ ttle\, WA\, 98199
+DESCRIPTION:Please join us for this special Holiday edition of the Magnolia
+  Farmers Market on Saturday\, December 5 from 10am-2pm in the Magnolia Vil
+ lage.\n\nhttps://www.parentmap.com/calendar/magnolia-holiday-market/
+URL:https://www.parentmap.com/calendar/magnolia-holiday-market/
+END:VEVENT
+END:VCALENDAR

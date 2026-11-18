@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60dd2fe655-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART:20261205T180000Z
+DTEND:20261205T220000Z
+SUMMARY:Lake Sammamish State Park Holiday Market and Adopt-A-Tree Program
+LOCATION:Lake Sammamish State Park\, 2000 NW Sammamish Rd\, Issaquah\, WA\,
+  98027
+DESCRIPTION:Looking for a fresh Christmas tree or local gifts?\n\nhttps://w
+ ww.parentmap.com/calendar/lake-sammamish-state-park-holiday-market-and-ado
+ pt-a-tree-program/
+URL:https://www.parentmap.com/calendar/lake-sammamish-state-park-holiday-ma
+ rket-and-adopt-a-tree-program/
+END:VEVENT
+END:VCALENDAR

@@ -5,17 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:c5a04323a9-seattle-happenings@nichkt.github.io
-DTSTAMP:20261117T195605Z
-SEQUENCE:0
+DTSTAMP:20261118T192704Z
+SEQUENCE:1
+LAST-MODIFIED:20261118T192704Z
 DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20270104
 TRANSP:TRANSPARENT
-SUMMARY:Garden d’Lights
-LOCATION:Garden Grounds\, 12001 Main Street\, Bellevue\, 98005
+SUMMARY:Garden d'Lights
+LOCATION:Bellevue Botanical Garden\, Bellevue Botanical Garden\, 1200 164th
+  Ave SE\, Bellevue\, WA 98008
 DESCRIPTION:Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday t
  radition that transforms the Bellevue Botanical Garden into a magical wond
- erland\, featuring over half a million…\n\nhttps://bellevuebotanical.org
- /event/garden-dlights-5/2026-11-28/
-URL:https://bellevuebotanical.org/event/garden-dlights-5/2026-11-28/
+ erland of over half a million sparkling lights…\n\nhttps://bellevuewa.go
+ v/events/garden-dlights-0
+URL:https://bellevuewa.gov/events/garden-dlights-0
 END:VEVENT
 END:VCALENDAR

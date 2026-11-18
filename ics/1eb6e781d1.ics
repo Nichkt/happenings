@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1eb6e781d1-seattle-happenings@nichkt.github.io
-DTSTAMP:20261117T195605Z
-SEQUENCE:1
-LAST-MODIFIED:20261117T195605Z
+DTSTAMP:20261118T192704Z
+SEQUENCE:2
+LAST-MODIFIED:20261118T192704Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
 TRANSP:TRANSPARENT
 SUMMARY:recurring event test
 LOCATION:ArtWorks\, 201 2nd Ave S\, Edmonds\, 98020
 DESCRIPTION:Hours: 8 AM–5 PM\n\ntest test\n\nhttps://www.parentmap.com/ca
- lendar/recurring-event-test/2026-11-17/
-URL:https://www.parentmap.com/calendar/recurring-event-test/2026-11-17/
+ lendar/recurring-event-test-2/2026-11-17/
+URL:https://www.parentmap.com/calendar/recurring-event-test-2/2026-11-17/
 END:VEVENT
 END:VCALENDAR

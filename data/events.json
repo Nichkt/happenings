@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-17T19:56:05Z",
+ "generatedAt": "2026-11-18T19:27:04Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-17",
- "until": "2027-02-09",
+ "from": "2026-11-18",
+ "until": "2027-02-10",
  "regions": [
   {
    "id": "SEATTLE",
@@ -87,11 +87,11 @@
  "sources": [
   {
    "name": "Bellevue Botanical Garden",
-   "events": 5
+   "events": 1
   },
   {
    "name": "City of Bellevue",
-   "events": 9
+   "events": 13
   },
   {
    "name": "City of Mercer Island",
@@ -143,7 +143,7 @@
   },
   {
    "name": "ParentMap",
-   "events": 234
+   "events": 235
   },
   {
    "name": "Phinney Center",
@@ -155,7 +155,7 @@
   },
   {
    "name": "Visit Ballard",
-   "events": 7
+   "events": 8
   },
   {
    "name": "Volunteer Park Trust",
@@ -163,77 +163,6 @@
   }
  ],
  "events": [
-  {
-   "id": "896d821d74",
-   "series": "e69d0f36a5",
-   "title": "Swansons Nursery Model Train and Holiday Décor",
-   "start": "2026-11-15",
-   "end": "2026-12-19",
-   "startMinute": 540,
-   "endMinute": 1080,
-   "dates": "Nov 15–Dec 19",
-   "time": "9 AM–6 PM",
-   "place": "Swansons Nursery, Seattle",
-   "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Add a little magic to your life this holiday season.",
-   "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
-   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-15",
-    "end": "2026-12-20",
-    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-15/"
-   },
-   "firstSeen": "2026-10-28T17:13:34Z",
-   "revision": 11,
-   "changed": "2026-11-17T19:56:05Z"
-  },
-  {
-   "id": "650621bde5",
-   "series": "ed5acaabfd",
-   "title": "Photos with Santa at South Hill Mall – Puyallup, WA",
-   "start": "2026-11-15",
-   "end": "2026-12-19",
-   "startMinute": 660,
-   "endMinute": 1140,
-   "dates": "Nov 15–Dec 19",
-   "time": "11 AM–7 PM",
-   "place": "South Hill Mall, Puyallup",
-   "placeLines": "South Hill Mall, Puyallup\n3500 S. Meridian, Puyallup, WA, 98373",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "kids": true,
-   "summary": "Santa is coming to South Hill Mall!",
-   "description": "Santa is coming to South Hill Mall! Bring the whole family for professional photos with Santa, captured by Souvenir Photograph. Reserve a time online to skip the wait, or walk up. Prints and digital packages are available on-site. Address: 3500 S Meridian, Puyallup, WA 98373.\n\nAvailable options:\n\nTraditional Santa\nSanta Paws\nSilent Santa\n\nDaily schedules vary, please view the website for available dates and times.",
-   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-15/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/south-hill-mall-santa-1920x1080-1-e1793821051118.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "South Hill Mall, 3500 S. Meridian, Puyallup, WA, 98373",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-15",
-    "end": "2026-12-20",
-    "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-15/"
-   },
-   "firstSeen": "2026-11-05T00:00:07Z",
-   "revision": 7,
-   "changed": "2026-11-17T19:56:05Z"
-  },
   {
    "id": "761525e2dd",
    "series": "d93dac390e",
@@ -268,6 +197,77 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "896d821d74",
+   "series": "e69d0f36a5",
+   "title": "Swansons Nursery Model Train and Holiday Décor",
+   "start": "2026-11-16",
+   "end": "2026-12-19",
+   "startMinute": 540,
+   "endMinute": 1080,
+   "dates": "Nov 16–Dec 19",
+   "time": "9 AM–6 PM",
+   "place": "Swansons Nursery, Seattle",
+   "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Add a little magic to your life this holiday season.",
+   "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
+   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-16",
+    "end": "2026-12-20",
+    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-16/"
+   },
+   "firstSeen": "2026-10-28T17:13:34Z",
+   "revision": 12,
+   "changed": "2026-11-18T19:27:04Z"
+  },
+  {
+   "id": "650621bde5",
+   "series": "ed5acaabfd",
+   "title": "Photos with Santa at South Hill Mall – Puyallup, WA",
+   "start": "2026-11-16",
+   "end": "2026-12-18",
+   "startMinute": 660,
+   "endMinute": 1140,
+   "dates": "Nov 16–Dec 18",
+   "time": "11 AM–7 PM",
+   "place": "South Hill Mall, Puyallup",
+   "placeLines": "South Hill Mall, Puyallup\n3500 S. Meridian, Puyallup, WA, 98373",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Santa is coming to South Hill Mall!",
+   "description": "Santa is coming to South Hill Mall! Bring the whole family for professional photos with Santa, captured by Souvenir Photograph. Reserve a time online to skip the wait, or walk up. Prints and digital packages are available on-site. Address: 3500 S Meridian, Puyallup, WA 98373.\n\nAvailable options:\n\nTraditional Santa\nSanta Paws\nSilent Santa\n\nDaily schedules vary, please view the website for available dates and times.",
+   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-16/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/south-hill-mall-santa-1920x1080-1-e1793821051118.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "South Hill Mall, 3500 S. Meridian, Puyallup, WA, 98373",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-16",
+    "end": "2026-12-19",
+    "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-16/"
+   },
+   "firstSeen": "2026-11-05T00:00:07Z",
+   "revision": 8,
+   "changed": "2026-11-18T19:27:04Z"
+  },
+  {
    "id": "1eb6e781d1",
    "series": "861d5cb36e",
    "title": "recurring event test",
@@ -281,10 +281,10 @@
    "placeLines": "ArtWorks, Edmonds\n201 2nd Ave S, Edmonds, 98020",
    "region": "NORTH",
    "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
+   "cost": "$10",
+   "free": false,
    "summary": "test test",
-   "url": "https://www.parentmap.com/calendar/recurring-event-test/2026-11-17/",
+   "url": "https://www.parentmap.com/calendar/recurring-event-test-2/2026-11-17/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Screenshot-2026-09-24-124702.png",
    "imageCredit": "ParentMap",
    "sources": [
@@ -295,42 +295,11 @@
     "allDay": true,
     "start": "2026-11-17",
     "end": "2026-11-21",
-    "notes": "Hours: 8 AM–5 PM\n\ntest test\n\nhttps://www.parentmap.com/calendar/recurring-event-test/2026-11-17/"
+    "notes": "Hours: 8 AM–5 PM\n\ntest test\n\nhttps://www.parentmap.com/calendar/recurring-event-test-2/2026-11-17/"
    },
    "firstSeen": "2026-11-16T21:06:51Z",
-   "revision": 1,
-   "changed": "2026-11-17T19:56:05Z"
-  },
-  {
-   "id": "0f9ba4e129",
-   "series": "27135e62bf",
-   "title": "Santa’s Arrival Party",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "startMinute": 480,
-   "endMinute": 1020,
-   "dates": "Tue, Nov 17",
-   "time": "8 AM–5 PM",
-   "place": "The Village at Totem Lake, Kirkland",
-   "placeLines": "The Village at Totem Lake, Kirkland\n11901 NE Village Plaza, Kirkland, WA, 98034",
-   "region": "EASTSIDE",
-   "category": "COMMUNITY",
-   "summary": "Santa is getting ready to load up the sleigh and will be in Kirkland before you know it!",
-   "description": "Santa is getting ready to load up the sleigh and will be in Kirkland before you know it! Be the first to welcome Santa to The Village and join us on Saturday, November 21st at 10:30am for Santa’s Arrival Party. Meet us on the Village Green near Cinemark to kick off the festivities and mini parade featuring Santa, Mrs. Claus, The Elves, Toy Soldiers, Holiday Bear, and so much more! Plus a special performance by Bellevue Youth Choirs.",
-   "url": "https://www.parentmap.com/calendar/santas-arrival-party/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/CALL26-0118_Santa-Arrival_Web-Event-Image_1440x1440_v2-768x768.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "The Village at Totem Lake, 11901 NE Village Plaza, Kirkland, WA, 98034",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-17T16:00:00Z",
-    "end": "2026-11-18T01:00:00Z",
-    "notes": "Santa is getting ready to load up the sleigh and will be in Kirkland before you know it!\n\nhttps://www.parentmap.com/calendar/santas-arrival-party/"
-   },
-   "firstSeen": "2026-11-17T19:56:05Z"
+   "revision": 2,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "71176e5a45",
@@ -463,10 +432,10 @@
    "series": "eced320032",
    "title": "Photos with Santa at Westfield Southcenter",
    "start": "2026-11-19",
-   "end": "2026-12-19",
+   "end": "2026-12-18",
    "startMinute": 660,
    "endMinute": 1080,
-   "dates": "Nov 19–Dec 19",
+   "dates": "Nov 19–Dec 18",
    "time": "11 AM–6 PM",
    "place": "Westfield Southcenter, Tukwila",
    "placeLines": "Westfield Southcenter, Tukwila\n2800 Southcenter Mall, Tukwila, WA, 98188",
@@ -487,12 +456,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-19",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "Hours: 11 AM–6 PM\n\nStep into a magical winter village and create cherished holiday memories with Santa at Westfield Southcenter’s Winter Village.\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-westfield-southcenter/2026-11-19/"
    },
    "firstSeen": "2026-11-06T18:07:55Z",
-   "revision": 4,
-   "changed": "2026-11-16T21:06:51Z"
+   "revision": 5,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "0126dcb7e6",
@@ -565,8 +534,8 @@
    "series": "c74df0c741",
    "title": "2026 Seattle Christmas Market",
    "start": "2026-11-20",
-   "end": "2026-12-19",
-   "dates": "Nov 20–Dec 19",
+   "end": "2026-12-18",
+   "dates": "Nov 20–Dec 18",
    "place": "Seattle Center Fisher Pavilion",
    "placeLines": "Seattle Center Fisher Pavilion\n305 Harrison St, Seattle, WA, 98109-4623",
    "region": "SEATTLE",
@@ -585,12 +554,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-20",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "With European and local vendors, holiday karaoke, Santa meetings, festive drinks and more, there’s a little something for everyone.\n\nhttps://www.parentmap.com/calendar/2026-seattle-christmas-market/2026-11-20/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 11,
-   "changed": "2026-11-17T19:56:05Z"
+   "revision": 12,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "f388e04192",
@@ -809,8 +778,8 @@
    "free": true,
    "summary": "Please join us for this special Harvest edition of the Magnolia Farmers Market on Saturday, November 21 from 10am-2pm in the Magnolia Village.",
    "description": "Please join us for this special Harvest edition of the Magnolia Farmers Market on Saturday, November 21 from 10am-2pm in the Magnolia Village. Visit your favorite market vendors with seasonal produce for the thanksgiving table and local food and farm products perfect for gift giving. We’ll have live music, cooking demonstrations, free face painting, and knife sharpening for a fee by Magnolia Knife Sharpening. We can’t wait to see you!",
-   "url": "https://www.parentmap.com/calendar/magnolia-harvest-market/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/IMG_6642-2-768x512.jpg",
+   "url": "https://www.parentmap.com/calendar/magnolia-harvest-market-2/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/IMG_6642-2-1-768x512.jpg",
    "imageCredit": "ParentMap",
    "sources": [
     "ParentMap"
@@ -820,9 +789,11 @@
     "allDay": false,
     "start": "2026-11-21T18:00:00Z",
     "end": "2026-11-21T22:00:00Z",
-    "notes": "Please join us for this special Harvest edition of the Magnolia Farmers Market on Saturday, November 21 from 10am-2pm in the Magnolia Village.\n\nhttps://www.parentmap.com/calendar/magnolia-harvest-market/"
+    "notes": "Please join us for this special Harvest edition of the Magnolia Farmers Market on Saturday, November 21 from 10am-2pm in the Magnolia Village.\n\nhttps://www.parentmap.com/calendar/magnolia-harvest-market-2/"
    },
-   "firstSeen": "2026-11-06T18:07:55Z"
+   "firstSeen": "2026-11-06T18:07:55Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "5e77c0c720",
@@ -1019,10 +990,10 @@
    "series": "13ae7169d1",
    "title": "Photos with Santa at The Village at Totem Lake",
    "start": "2026-11-21",
-   "end": "2026-12-19",
+   "end": "2026-12-18",
    "startMinute": 660,
    "endMinute": 1140,
-   "dates": "Nov 21–Dec 19",
+   "dates": "Nov 21–Dec 18",
    "time": "11 AM–7 PM",
    "place": "The Village at Totem Lake, Kirkland",
    "placeLines": "The Village at Totem Lake, Kirkland\n11901 NE Village Plaza, Kirkland, WA, 98034",
@@ -1043,12 +1014,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-21",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to The Village at Totem Lake!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-the-village-at-totem-lake-2/2026-11-21/"
    },
    "firstSeen": "2026-11-06T18:07:55Z",
-   "revision": 4,
-   "changed": "2026-11-16T21:06:51Z"
+   "revision": 5,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "f16cd3f6a0",
@@ -1820,10 +1791,10 @@
    "series": "81a5ec9f49",
    "title": "Issaquah Reindeer Festival",
    "start": "2026-11-27",
-   "end": "2026-12-19",
+   "end": "2026-12-18",
    "startMinute": 630,
    "endMinute": 960,
-   "dates": "Nov 27–Dec 19",
+   "dates": "Nov 27–Dec 18",
    "time": "10:30 AM–4 PM",
    "place": "Cougar Mountain Zoo, Issaquah",
    "placeLines": "Cougar Mountain Zoo, Issaquah\n19525 SE 54th St, Issaquah, WA, 98027-8676",
@@ -1843,12 +1814,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "Hours: 10:30 AM–4 PM\n\nEnjoy the sights and sounds of the holidays with family and friends!\n\nhttps://www.parentmap.com/calendar/55371/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 5,
-   "changed": "2026-11-16T21:06:51Z"
+   "revision": 6,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "b8492fe2af",
@@ -1888,10 +1859,10 @@
    "series": "d27377146f",
    "title": "Photos with Santa at Marketplace at Factoria",
    "start": "2026-11-27",
-   "end": "2026-12-19",
+   "end": "2026-12-18",
    "startMinute": 660,
    "endMinute": 1140,
-   "dates": "Nov 27–Dec 19",
+   "dates": "Nov 27–Dec 18",
    "time": "11 AM–7 PM",
    "place": "THE MARKETPLACE AT FACTORIA, Bellevue",
    "placeLines": "THE MARKETPLACE AT FACTORIA, Bellevue\nFactoria Blvd SE,, Bellevue, WA, 98006",
@@ -1912,10 +1883,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to Marketplace at Factoria!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-marketplace-at-factoria-2/2026-11-27/"
    },
-   "firstSeen": "2026-11-12T18:59:58Z"
+   "firstSeen": "2026-11-12T18:59:58Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "81a224ab74",
@@ -1991,10 +1964,10 @@
    "series": "c293ef60ad",
    "title": "Westlake Park Holiday Carousel",
    "start": "2026-11-27",
-   "end": "2026-12-19",
+   "end": "2026-12-18",
    "startMinute": 660,
    "endMinute": 1200,
-   "dates": "Nov 27–Dec 19",
+   "dates": "Nov 27–Dec 18",
    "time": "11 AM–8 PM",
    "place": "Westlake Park, Seattle",
    "placeLines": "Westlake Park, Seattle\n401 Pine Street, Seattle, WA, 98101",
@@ -2014,12 +1987,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "Hours: 11 AM–8 PM\n\nAfter a six-year hiatus, this beloved family tradition is back!\n\nhttps://www.parentmap.com/calendar/westlake-park-holiday-carousel/2026-11-27/"
    },
    "firstSeen": "2026-11-05T18:51:28Z",
-   "revision": 5,
-   "changed": "2026-11-16T21:06:51Z"
+   "revision": 6,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "eda1ccfc93",
@@ -2293,35 +2266,36 @@
    "series": "75b55f24e6",
    "title": "Snowflake Lane",
    "start": "2026-11-27",
-   "end": "2026-12-18",
+   "end": "2026-12-24",
    "startMinute": 1140,
-   "endMinute": 1185,
-   "dates": "Nov 27–Dec 18",
-   "time": "7–7:45 PM",
-   "place": "Bellevue Square",
-   "placeLines": "Bellevue Square",
+   "endMinute": 1165,
+   "dates": "Nov 27–Dec 24",
+   "time": "7–7:25 PM",
+   "place": "Bellevue Square and Lincoln Square",
+   "placeLines": "Bellevue Square and Lincoln Square",
    "region": "EASTSIDE",
    "category": "COMMUNITY",
    "cost": "Free",
    "free": true,
-   "summary": "Experience the wonder of falling snow, dazzling lights, festive music, toy drummers and dancers in this complimentary nightly parade of holiday floats.",
-   "description": "Experience the wonder of falling snow, dazzling lights, festive music, toy drummers and dancers in this complimentary nightly parade of holiday floats. Join us between Bellevue Square and Lincoln Square from Northeast Fourth to Northeast Eighth Street every night at 7 p.m. Park in any of our free parking garages at The Bellevue Collection and choose your favorite spot along the parade route.",
-   "url": "https://www.parentmap.com/calendar/snowflake-lane/2026-11-27/",
+   "summary": "Experience the wonder of falling snow, dazzling lights, festive music, toy drummers, and dancers in this complimentary nightly parade of holiday floats.",
+   "description": "Experience the wonder of falling snow, dazzling lights, festive music, toy drummers, and dancers in this complimentary nightly parade of holiday floats. Join us between Bellevue Square and Lincoln Square from NE 4th to NE 8th Streets every night at 7 pm. Park in any of our free parking garages at The Bellevue Collection and choose your favorite spot along the parade route.\n\nSnowflake Lane, sponsored by the Kemper Development Company, is included in the city calendar because a special event permit has been issued.",
+   "url": "https://bellevuewa.gov/events/snowflake-lane-2",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775189939218-snowflake-lane-calendar-min-3_0-0beaeb0a3960.jpg",
    "imageCredit": "ParentMap",
    "sources": [
+    "City of Bellevue",
     "ParentMap"
    ],
-   "map": "Bellevue Square, 575 Bellevue Square, Bellevue, WA, 98004",
+   "map": "Bellevue Square and Lincoln Square, Bellevue Square and Lincoln Square, Bellevue Way NE, between NE 4th and NE 8th Street",
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-19",
-    "notes": "Hours: 7–7:45 PM\n\nExperience the wonder of falling snow, dazzling lights, festive music, toy drummers and dancers in this complimentary nightly parade of holiday floats.\n\nhttps://www.parentmap.com/calendar/snowflake-lane/2026-11-27/"
+    "end": "2026-12-25",
+    "notes": "Hours: 7–7:25 PM\n\nExperience the wonder of falling snow, dazzling lights, festive music, toy drummers, and dancers in this complimentary nightly parade of holiday floats.\n\nhttps://bellevuewa.gov/events/snowflake-lane-2"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 7,
-   "changed": "2026-11-17T19:56:05Z"
+   "revision": 8,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "ac10b98cde",
@@ -2848,36 +2822,39 @@
   {
    "id": "c5a04323a9",
    "series": "3829ecb91a",
-   "title": "Garden d’Lights",
+   "title": "Garden d'Lights",
    "start": "2026-11-28",
-   "end": "2026-11-29",
+   "end": "2027-01-03",
    "startMinute": 990,
    "endMinute": 1260,
-   "dates": "Nov 28–29",
+   "dates": "Nov 28–Jan 3",
    "time": "4:30–9 PM",
-   "place": "Garden Grounds, Bellevue",
-   "placeLines": "Garden Grounds, Bellevue\n12001 Main Street, Bellevue, 98005",
+   "place": "Bellevue Botanical Garden",
+   "placeLines": "Bellevue Botanical Garden",
    "region": "EASTSIDE",
    "category": "SEASONAL",
    "cost": "$10",
    "free": false,
-   "summary": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…",
-   "description": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million sparkling lights in whimsical shapes of plants, flowers, birds, animals, and cascading waterfalls.\n\nSet amid the Garden’s natural beauty, this beloved, family-friendly event has enchanted visitors for decades and is a cherished part of the community’s holiday season. Now celebrating its 32nd year, Garden d’Lights runs annually from the Saturday after Thanksgiving through New Year’s Eve, delighting guests of all ages with its festive charm and imaginative displays.\n\n$10 per person. Children 10 and under are free.",
-   "url": "https://bellevuebotanical.org/event/garden-dlights-5/2026-11-28/",
+   "summary": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland of over half a million sparkling lights…",
+   "description": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland of over half a million sparkling lights in whimsical shapes of plants, flowers, birds, animals, and cascading waterfalls, all set amid the Garden’s natural beauty. Now celebrating its 32nd year, this beloved family event continues to enchant visitors with festive charm and imaginative displays.\n\nTIMES & COST\nGENERAL ADMISSION NIGHTS\nNov 28, 29, Dec 4-6, Dec 11-Jan 3 (closed on Dec 25)\nFirst entry at 4:30 pm every night\nLast entry at 9:00 pm\nLights go out at 9:30 pm\n\n11 Years and Older: $10.00 per person\nKids 10 and under are always free\n\nThe Garden d'Lights event, sponsored by the City of Bellevue and the Bellevue Botanical Garden Foundation, is included in the city calendar because a special event permit has been issued.",
+   "url": "https://bellevuewa.gov/events/garden-dlights-0",
    "image": "https://bellevuebotanical.org/wp-content/uploads/2024/10/073_D-Lites_LH0A3659_M_Burton_2018-REDUCED.jpg",
    "imageCredit": "Bellevue Botanical Garden",
    "sources": [
+    "City of Bellevue",
     "Bellevue Botanical Garden",
     "ParentMap"
    ],
-   "map": "Garden Grounds, 12001 Main Street, Bellevue, 98005",
+   "map": "Bellevue Botanical Garden, Bellevue Botanical Garden, 1200 164th Ave SE, Bellevue, WA 98008",
    "calendar": {
     "allDay": true,
     "start": "2026-11-28",
-    "end": "2026-11-30",
-    "notes": "Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…\n\nhttps://bellevuebotanical.org/event/garden-dlights-5/2026-11-28/"
+    "end": "2027-01-04",
+    "notes": "Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland of over half a million sparkling lights…\n\nhttps://bellevuewa.gov/events/garden-dlights-0"
    },
-   "firstSeen": "2026-11-17T19:56:05Z"
+   "firstSeen": "2026-11-17T19:56:05Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "b872090dd7",
@@ -2941,6 +2918,39 @@
    "firstSeen": "2026-11-04T18:42:49Z",
    "revision": 2,
    "changed": "2026-11-05T18:51:28Z"
+  },
+  {
+   "id": "3ec1dbd046",
+   "series": "b19bda8132",
+   "title": "Phinneywood GloCone Lighting Event",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "startMinute": 1020,
+   "endMinute": 1050,
+   "dates": "Sat, Nov 28",
+   "time": "5–5:30 PM",
+   "place": "Phinney Neighborhood Association, Seattle",
+   "placeLines": "Phinney Neighborhood Association, Seattle\n6532 Phinney Ave N, Seattle, WA, 98103-5234",
+   "region": "SEATTLE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Phinneywood GloCone will officially light up for the winter!",
+   "description": "The Phinneywood GloCone will officially light up for the winter! It’s a short, sweet, and festive 30 minute event. Come fill up on holiday cheer! Free hot cocoa, caroling, and a warm collective welcome to the holiday season. Best of all, two kiddos will be chosen at random to officially light the GloCone!\n\nThe beloved GloCone hangs from a historic Cold War air raid siren tower. Built in the 1950s to warn Seattleites of nuclear threats, the tower has been transformed from a symbol of fear into one of holiday cheer. Since 2014, the PNA has lit it up each winter with thousands of twinkling lights. Join us for the annual GloCone Lighting and watch the neighborhood shine!",
+   "url": "https://www.parentmap.com/calendar/phinneywood-glocone-lighting-event/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Capture1-990000079e05143c.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Phinney Neighborhood Association, 6532 Phinney Ave N, Seattle, WA, 98103-5234",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T01:00:00Z",
+    "end": "2026-11-29T01:30:00Z",
+    "notes": "The Phinneywood GloCone will officially light up for the winter!\n\nhttps://www.parentmap.com/calendar/phinneywood-glocone-lighting-event/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
   },
   {
    "id": "34112bcf07",
@@ -3173,39 +3183,6 @@
     "notes": "Celebrate the start of the holiday season at Lacey Holiday Lights!\n\nhttps://www.parentmap.com/calendar/lacey-holiday-lights/"
    },
    "firstSeen": "2026-11-05T18:51:28Z"
-  },
-  {
-   "id": "279c98dc72",
-   "series": "20c4fb6742",
-   "title": "Garden d’Lights Senior Social",
-   "start": "2026-12-01",
-   "end": "2026-12-01",
-   "startMinute": 600,
-   "endMinute": 780,
-   "dates": "Tue, Dec 1",
-   "time": "10 AM–1 PM",
-   "place": "The Aaron Education Center at the Bellevue Botanical Garden",
-   "placeLines": "The Aaron Education Center at the Bellevue Botanical Garden\n12001 Main St, Bellevue, WA, 98005",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us for a special daytime viewing of Garden d’Lights with live music, festive treats, and a special shopping opportunity in The Trillium Store.",
-   "description": "Join us for a special daytime viewing of Garden d’Lights with live music, festive treats, and a special shopping opportunity in The Trillium Store. Our 500,000 LED lights still shine bright in the day!\n\nTake Seventeen Big Band will perform 10:15am to 12pm.\n\nThis event is focused on those who identify as seniors and their friends and family. FREE. Registration not required. Just drop by the Bellevue Botanical Garden anytime between 10am and 1pm and join the fun!",
-   "url": "https://bellevuebotanical.org/event/garden-dlights-senior-social-2/",
-   "image": "https://bellevuebotanical.org/wp-content/uploads/2025/11/Senior-Social-Image-with-couple.-AI-generated-expand-WEB.jpg",
-   "imageCredit": "Bellevue Botanical Garden",
-   "sources": [
-    "Bellevue Botanical Garden"
-   ],
-   "map": "The Aaron Education Center at the Bellevue Botanical Garden, 12001 Main St, Bellevue, WA, 98005",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-01T18:00:00Z",
-    "end": "2026-12-01T21:00:00Z",
-    "notes": "Join us for a special daytime viewing of Garden d’Lights with live music, festive treats, and a special shopping opportunity in The Trillium Store.\n\nhttps://bellevuebotanical.org/event/garden-dlights-senior-social-2/"
-   },
-   "firstSeen": "2026-10-28T17:13:34Z"
   },
   {
    "id": "5cefcf5ecd",
@@ -3790,6 +3767,35 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "fa40201077",
+   "series": "a9713207d4",
+   "title": "Grand Connection Winter Market",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "startMinute": 960,
+   "endMinute": 1260,
+   "dates": "Fri, Dec 4",
+   "time": "4–9 PM",
+   "place": "NE 6th St & 106th Ave NE, Bellevue",
+   "placeLines": "NE 6th St & 106th Ave NE, Bellevue",
+   "region": "EASTSIDE",
+   "category": "NIGHT_MARKET",
+   "summary": "Celebrate the season at the Grand Connection Winter Market!",
+   "description": "Celebrate the season at the Grand Connection Winter Market! Shop unique gifts and goods from local artists and creators, enjoy live DJ music, grab a cup of hot chocolate and seasonal treats, and get creative with free hands-on arts and crafts. Gather with family and friends and enjoy the festive atmosphere before or after enjoying Downtown Bellevue’s other winter favorites, including the Bellevue Downtown Ice Rink and Snowflake Lane.\n\nGrand Connection Winter Market, sponsored by the Bellevue Downtown Association, is included in the city calendar because a special event permit has been issued.",
+   "url": "https://bellevuewa.gov/events/grand-connection-winter-market",
+   "sources": [
+    "City of Bellevue"
+   ],
+   "map": "NE 6th St & 106th Ave NE, NE 6th St & 106th Ave NE, Bellevue, WA 98004",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T00:00:00Z",
+    "end": "2026-12-05T05:00:00Z",
+    "notes": "Celebrate the season at the Grand Connection Winter Market!\n\nhttps://bellevuewa.gov/events/grand-connection-winter-market"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
+  },
+  {
    "id": "2b1c03f298",
    "series": "8fc4b21ca5",
    "title": "Friday Family Movie Night at South Park Community Center - Home Alone",
@@ -3819,39 +3825,6 @@
     "notes": "Parks Event Category: Community Center Special Events Neighborhoods: South Park Community Center: South Park Community Center Contact: South Park Community…\n\nhttps://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D210700766"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "74c2bdbd38",
-   "series": "3829ecb91a",
-   "title": "Garden d’Lights",
-   "start": "2026-12-04",
-   "end": "2026-12-06",
-   "startMinute": 990,
-   "endMinute": 1260,
-   "dates": "Dec 4–6",
-   "time": "4:30–9 PM",
-   "place": "Garden Grounds, Bellevue",
-   "placeLines": "Garden Grounds, Bellevue\n12001 Main Street, Bellevue, 98005",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "$10",
-   "free": false,
-   "summary": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…",
-   "description": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million sparkling lights in whimsical shapes of plants, flowers, birds, animals, and cascading waterfalls.\n\nSet amid the Garden’s natural beauty, this beloved, family-friendly event has enchanted visitors for decades and is a cherished part of the community’s holiday season. Now celebrating its 32nd year, Garden d’Lights runs annually from the Saturday after Thanksgiving through New Year’s Eve, delighting guests of all ages with its festive charm and imaginative displays.\n\n$10 per person. Children 10 and under are free.",
-   "url": "https://bellevuebotanical.org/event/garden-dlights-4/2026-12-04/",
-   "image": "https://bellevuebotanical.org/wp-content/uploads/2024/10/073_D-Lites_LH0A3659_M_Burton_2018-REDUCED.jpg",
-   "imageCredit": "Bellevue Botanical Garden",
-   "sources": [
-    "Bellevue Botanical Garden"
-   ],
-   "map": "Garden Grounds, 12001 Main Street, Bellevue, 98005",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-04",
-    "end": "2026-12-07",
-    "notes": "Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…\n\nhttps://bellevuebotanical.org/event/garden-dlights-4/2026-12-04/"
-   },
-   "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
    "id": "08ed7a4a41",
@@ -4335,6 +4308,40 @@
    "firstSeen": "2026-11-09T21:29:59Z"
   },
   {
+   "id": "d21dfbb650",
+   "series": "3a10077359",
+   "title": "Breakfast with Santa Dave and Busters Lynnwood",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "startMinute": 540,
+   "endMinute": 660,
+   "dates": "Dec 5–6",
+   "time": "9–11 AM",
+   "place": "Dave & Buster’s Lynnwood",
+   "placeLines": "Dave & Buster’s Lynnwood\n18606 Alderwood Mall Pkwy, Lynnwood, WA, 98037",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "$21.87",
+   "free": false,
+   "kids": true,
+   "summary": "Join us at our Dave and Busters Santa Breakfast ( Two date options available) Date & Time: December 5 or December 6, 2026 from 9 AM – 11 AM…",
+   "description": "Join us at our Dave and Busters Santa Breakfast ( Two date options available)\nDate & Time: December 5 or December 6, 2026 from 9 AM – 11 AM\n\nhttps://feverup.com/m/820219\n\nPlease note – this location (Lynnwood, WA) is offering TWO dates – Saturday and Sunday! Please make sure to select your preferred date when purchasing tickets. Tickets purchased for the wrong event date will not be honored.\n\nBreakfast with Santa brings a feast of festive food, arcade play, and a direct line to Santa into one action-packed morning. Skip the endless mall lines, rally your crew, and level up your holiday traditions!\n\nHighlights\nEnjoy a festive breakfast banquet and VIP Santa meet and greet before store doors open to the public\nFeast on pancakes, eggs, bacon, fresh fruit, and unlimited beverages with family and friends\nSnap a personal photo with Santa and create merry take-home holiday crafts\nScore a $10 Power Card® loaded with 3 Hours of Unlimited Video Game Play\n\nGeneral Info\nDate & Time: December 5 or December 6, 2026 from 9 AM – 11 AM\nDuration: 2 hours\nLocation: Dave & Buster’s\nNeed more info? You can find your city’s store contact here.\nAccessibility: the venue is ADA-compliant\nPlease consult the FAQs of this experience here\n\nDescription\nIt’s time for Dave & Buster’s annual Breakfast with Santa! A holly, jolly magical morning filled with fun and festivities for the whole family to enjoy!\n\nKick off the season with sparkle and cheer at our exclusive event. Before our doors open to the public…",
+   "url": "https://www.parentmap.com/calendar/breakfast-with-santa-dave-and-busters-lynnwood/2026-12-05/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/square-breakfast-with-santa.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Dave & Buster’s Lynnwood, 18606 Alderwood Mall Pkwy, Lynnwood, WA, 98037",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-07",
+    "notes": "Hours: 9–11 AM\n\nJoin us at our Dave and Busters Santa Breakfast ( Two date options available) Date & Time: December 5 or December 6, 2026 from 9 AM – 11 AM…\n\nhttps://www.parentmap.com/calendar/breakfast-with-santa-dave-and-busters-lynnwood/2026-12-05/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
+  },
+  {
    "id": "1ed95a7e30",
    "series": "1482399993",
    "title": "Edmonds Holiday Market",
@@ -4401,6 +4408,39 @@
    "firstSeen": "2026-11-05T18:51:28Z"
   },
   {
+   "id": "bb58429e4d",
+   "series": "6452fdb7d4",
+   "title": "A Very Merry Tropical Holiday Display",
+   "start": "2026-12-05",
+   "end": "2026-12-18",
+   "startMinute": 600,
+   "endMinute": 900,
+   "dates": "Dec 5–18",
+   "time": "10 AM–3 PM",
+   "place": "W.W. Seymour Botanical Conservatory, Tacoma",
+   "placeLines": "W.W. Seymour Botanical Conservatory, Tacoma\n316 S G St, Tacoma, WA, 98405-4733",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$3",
+   "free": false,
+   "summary": "December 5, 2026 – January 3, 2027 | 10 am-3 pm at W.W. Seymour Conservatory $3 suggested donation The Winter Flower Show sparkles with a vibrant tropical…",
+   "description": "December 5, 2026 – January 3, 2027 | 10 am-3 pm at W.W. Seymour Conservatory\n$3 suggested donation\n\nThe Winter Flower Show sparkles with a vibrant tropical foliage and whimsical touches throughout our historical conservatory.\n\nThe conservatory highlights the beauty of the seasons with four distinctive displays each year. As we plan each show, we think of a theme that reminds us to breathe in magical moments when we come across them, and to remind ourselves to appreciate the joy of nature.",
+   "url": "https://www.parentmap.com/calendar/a-very-merry-tropical-holiday-display/2026-12-05/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Winter_Flower_Show_1920x1080-Copy-768x432.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "W.W. Seymour Botanical Conservatory, 316 S G St, Tacoma, WA, 98405-4733",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-19",
+    "notes": "Hours: 10 AM–3 PM\n\nDecember 5, 2026 – January 3, 2027 | 10 am-3 pm at W.W. Seymour Conservatory $3 suggested donation The Winter Flower Show sparkles with a vibrant tropical…\n\nhttps://www.parentmap.com/calendar/a-very-merry-tropical-holiday-display/2026-12-05/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
+  },
+  {
    "id": "c45c35271e",
    "series": "b98c9e63d1",
    "title": "Arboretum Winter Market",
@@ -4416,10 +4456,13 @@
    "category": "NIGHT_MARKET",
    "cost": "Free",
    "free": true,
-   "summary": "Building/Room #: Graham Visitors Center Neighborhoods: Beacon Hill,Capitol Hill,Cascade/Eastlake/South Lake Union,Columbia City,Laurelhurst/Sand Point,Madison…",
-   "description": "Building/Room #: Graham Visitors Center\nNeighborhoods: Beacon Hill,Capitol Hill,Cascade/Eastlake/South Lake Union,Columbia City,Laurelhurst/Sand Point,Madison Park,Madrona/Leschi,Montlake/Portage Bay,Mt. Baker/North Rainier,North Beacon Hill/Jefferson Park,North Capitol Hill,Northgate/Maple Leaf,Ravenna/Bryant/Roosevelt,University District\nEvent Types: Holiday/Seasonal Events\nAudience: All\nSponsoring Organization: Arboretum Foundation\nContact: Troy Donovan\nContact Phone: 2063254510\nContact Email: tdonovan@seattlebg.org\nPre-Register: No\nCost: FREE\nLink: https://arboretumfoundation.org/events/gifts-greens-galore/\n\nDon’t miss the Arboretum's popular annual winter market on Saturday, December 5 and Sunday, December 6 (10am to 4pm)!\n\nIt features a unique selection of botanical decorations and nature-inspired gifts, including handcrafted wreaths and many local, seasonal specialty items.\n\nEnjoy live music and educational activities on both days of the sale! Shop for everyone on your list, while helping support maintenance, science education, and volunteerism at the Seattle Botanic Gardens.",
-   "url": "https://arboretumfoundation.org/events/gifts-greens-galore/",
+   "summary": "Don’t miss the Washington Park Arboretum’s annual winter market on Saturday, December 5 and Sunday, December 6 (10am to 4pm)!",
+   "description": "Don’t miss the Washington Park Arboretum’s annual winter market on Saturday, December 5 and Sunday, December 6 (10am to 4pm)!\n\nIt features a unique selection of botanical decorations and nature-inspired gifts, including handcrafted wreaths, stocking stuffers, kids’ toys, and many local, seasonal specialty items.\n\nEnjoy live music and educational activities for all the family on both days of the sale! Shop for everyone on your list, while helping support maintenance, science education, and volunteerism at the Seattle Botanic Gardens.",
+   "url": "https://www.parentmap.com/calendar/arboretum-winter-market/2026-12-05/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/holiday-shoppers-2022.jpg",
+   "imageCredit": "ParentMap",
    "sources": [
+    "ParentMap",
     "City of Seattle"
    ],
    "map": "Washington Park Arboretum, Washington Park Arboretum, 2300 Arboretum Drive East, WA",
@@ -4427,9 +4470,11 @@
     "allDay": true,
     "start": "2026-12-05",
     "end": "2026-12-07",
-    "notes": "Hours: 10 AM–4 PM\n\nBuilding/Room #: Graham Visitors Center Neighborhoods: Beacon Hill,Capitol Hill,Cascade/Eastlake/South Lake Union,Columbia City,Laurelhurst/Sand Point,Madison…\n\nhttps://arboretumfoundation.org/events/gifts-greens-galore/"
+    "notes": "Hours: 10 AM–4 PM\n\nDon’t miss the Washington Park Arboretum’s annual winter market on Saturday, December 5 and Sunday, December 6 (10am to 4pm)!\n\nhttps://www.parentmap.com/calendar/arboretum-winter-market/2026-12-05/"
    },
-   "firstSeen": "2026-11-04T18:42:49Z"
+   "firstSeen": "2026-11-04T18:42:49Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "4716d63086",
@@ -4499,6 +4544,39 @@
    "firstSeen": "2026-11-13T18:36:27Z"
   },
   {
+   "id": "8aed4e4dfd",
+   "series": "920369fc62",
+   "title": "DuPont Christmas Market",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Sat, Dec 5",
+   "time": "10 AM–4 PM",
+   "place": "Eagles Pride Golf Course, DuPont",
+   "placeLines": "Eagles Pride Golf Course, DuPont\n1529 Mounts Rd SW, DuPont, 98327",
+   "region": "FARTHER",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Kick off the Christmas season with a festive day of shopping, food, crafts, and family fun at the DuPont Christmas Market!",
+   "description": "Kick off the Christmas season with a festive day of shopping, food, crafts, and family fun at the DuPont Christmas Market!\nBrowse handmade gifts from local makers, artists, and small businesses while enjoying kids crafts, festive treats, and our gingerbread house competition.\nThis event is hosted as a fundraiser for By His Hand Foundation, a Christian nonprofit that provides grants to families pursuing adoption.\nAdmission is free, so bring your family and friends!\n\nSaturday, December 5 | 10 AM–4 PM\nEagle’s Pride Golf Course\n1529 Mounts Rd SW, DuPont, WA 98327\n\nPick up your FREE gingerbread house kit at Dunn Family Medicine in Steilacoom or Bliss Ice Cream in DuPont or University Place!\nThen bring your decorated gingerbread house to the DuPont Christmas Market to enter our competition for a chance to win exciting prizes like ice skating tickets, a $50 Bliss Ice Cream gift certificate, Christmas ornaments, and more festive family fun!",
+   "url": "https://www.parentmap.com/calendar/dupont-christmas-market/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/DuPont-Christmas-Market-Event-Image-768x384.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Eagles Pride Golf Course, 1529 Mounts Rd SW, DuPont, 98327",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T18:00:00Z",
+    "end": "2026-12-06T00:00:00Z",
+    "notes": "Kick off the Christmas season with a festive day of shopping, food, crafts, and family fun at the DuPont Christmas Market!\n\nhttps://www.parentmap.com/calendar/dupont-christmas-market/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
+  },
+  {
    "id": "93e9041d13",
    "series": "41abd3b1d6",
    "title": "Family Bird & Holiday Crafting Morning",
@@ -4556,6 +4634,105 @@
     "notes": "This event is in partnership with the Mercer Island Chamber of Commerce.\n\nhttps://www.mercerisland.gov/parksrec/page/holiday-makers-market-0"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "a4d4ba0586",
+   "series": "beb7aca1cf",
+   "title": "JASSW Holiday Market",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Sat, Dec 5",
+   "time": "10 AM–5 PM",
+   "place": "Seattle Buddhist Temple",
+   "placeLines": "Seattle Buddhist Temple\n1427 S Main St, Seattle, WA, 98144-2034",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Event Info: Date: Saturday, December 5, 2026 Time: 10:00 AM – 5:00 PM Location: Seattle Betsuin Buddhist Temple, Seattle, WA 1427 S Main St, Seattle, WA 98144…",
+   "description": "Event Info:\nDate: Saturday, December 5, 2026\nTime: 10:00 AM – 5:00 PM\nLocation: Seattle Betsuin Buddhist Temple, Seattle, WA\n1427 S Main St, Seattle, WA 98144\n\nShop unique gifts, handcrafted items, specialty foods, and products from local small businesses and entrepreneurs. Enjoy a day of holiday shopping while supporting small businesses in our community.\n\nAdmission is free and open to the public.\n\nWe look forward to welcoming you and celebrating the holiday season together. Vendor information will be announced soon.\n\nTake a look at photos from last year’s JASSW Holiday Market at NVC Memorial H",
+   "url": "https://www.parentmap.com/calendar/jassw-holiday-market/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/JASSW-Holiday-Market-2026-e1795028654432.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Seattle Buddhist Temple, 1427 S Main St, Seattle, WA, 98144-2034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T18:00:00Z",
+    "end": "2026-12-06T01:00:00Z",
+    "notes": "Event Info: Date: Saturday, December 5, 2026 Time: 10:00 AM – 5:00 PM Location: Seattle Betsuin Buddhist Temple, Seattle, WA 1427 S Main St, Seattle, WA 98144…\n\nhttps://www.parentmap.com/calendar/jassw-holiday-market/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
+  },
+  {
+   "id": "60dd2fe655",
+   "series": "6fa18115fe",
+   "title": "Lake Sammamish State Park Holiday Market and Adopt-A-Tree Program",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 600,
+   "endMinute": 840,
+   "dates": "Sat, Dec 5",
+   "time": "10 AM–2 PM",
+   "place": "Lake Sammamish State Park, Issaquah",
+   "placeLines": "Lake Sammamish State Park, Issaquah\n2000 NW Sammamish Rd, Issaquah, WA, 98027",
+   "region": "EASTSIDE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Looking for a fresh Christmas tree or local gifts?",
+   "description": "Looking for a fresh Christmas tree or local gifts? Reserve a live tree through the Holiday Trees for Habitats program and pick it up during the Lake Sammamish Holiday Market. While you’re there, shop for handmade gifts from local makers and enjoy festive activities. After the holidays, your tree will be planted along a salmon-bearing stream in Lake Sammamish State Park, and all donations will go directly to local environmental nonprofits stewarding the park and other public lands within the I-90 corridor between Seattle and Ellensburg.",
+   "url": "https://www.parentmap.com/calendar/lake-sammamish-state-park-holiday-market-and-adopt-a-tree-program/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/2-768x432.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Lake Sammamish State Park, 2000 NW Sammamish Rd, Issaquah, WA, 98027",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T18:00:00Z",
+    "end": "2026-12-05T22:00:00Z",
+    "notes": "Looking for a fresh Christmas tree or local gifts?\n\nhttps://www.parentmap.com/calendar/lake-sammamish-state-park-holiday-market-and-adopt-a-tree-program/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
+  },
+  {
+   "id": "b30490d2a9",
+   "series": "6cb0e02572",
+   "title": "Magnolia Holiday Market",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 600,
+   "endMinute": 840,
+   "dates": "Sat, Dec 5",
+   "time": "10 AM–2 PM",
+   "place": "Magnolia Farmers Market, Seattle",
+   "placeLines": "Magnolia Farmers Market, Seattle\nWest McGraw Street & 32nd Ave West, Seattle, WA, 98199",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Please join us for this special Holiday edition of the Magnolia Farmers Market on Saturday, December 5 from 10am-2pm in the Magnolia Village.",
+   "description": "Please join us for this special Holiday edition of the Magnolia Farmers Market on Saturday, December 5 from 10am-2pm in the Magnolia Village. Visit your favorite market vendors with winter produce, seasonal gifts, and festive local food and farm products. We’ll have live music, cooking demonstrations, kids activities, and knife sharpening for a fee by Magnolia Knife Sharpening. We can’t wait to see you!",
+   "url": "https://www.parentmap.com/calendar/magnolia-holiday-market/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/UDFM-Oct-20-high-res-78-1-768x384.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Magnolia Farmers Market, West McGraw Street & 32nd Ave West, Seattle, WA, 98199",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T18:00:00Z",
+    "end": "2026-12-05T22:00:00Z",
+    "notes": "Please join us for this special Holiday edition of the Magnolia Farmers Market on Saturday, December 5 from 10am-2pm in the Magnolia Village.\n\nhttps://www.parentmap.com/calendar/magnolia-holiday-market/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
   },
   {
    "id": "5c0abbb87c",
@@ -5011,6 +5188,39 @@
    "firstSeen": "2026-10-19T17:35:30Z"
   },
   {
+   "id": "8a6a42e859",
+   "series": "cd71d481db",
+   "title": "Santa House",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 780,
+   "endMinute": 960,
+   "dates": "Sat, Dec 5",
+   "time": "1–4 PM",
+   "place": "Renton Civic Theater",
+   "placeLines": "Renton Civic Theater\n507 S 3rd St, Renton, WA, 98057-2009",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Santa House is back.",
+   "description": "Santa House is back. Come get your FREE photos with Santa!\n\nJoin us at the Renton Civic Theatre on the first three Saturdays of December, from 1–4 PM, for a festive community tradition where families can enjoy complimentary holiday photos with Santa. Don’t forget – furry family members are welcomed too!\n\nBring your loved ones, snap a memorable photo, and soak in the holiday cheer. This free community experience is proudly sponsored by Caffee Accident & Injury Lawyers, helping us keep this tradition accessible for all.",
+   "url": "https://www.parentmap.com/calendar/santa-house/2026-12-05/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Santa-House-2026_Social-e1795029762411-768x567.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Renton Civic Theater, 507 S 3rd St, Renton, WA, 98057-2009",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T21:00:00Z",
+    "end": "2026-12-06T00:00:00Z",
+    "notes": "Santa House is back.\n\nhttps://www.parentmap.com/calendar/santa-house/2026-12-05/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
+  },
+  {
    "id": "cc68e37459",
    "series": "d53b41c364",
    "title": "Santa Saturdays in Old Bellevue",
@@ -5451,27 +5661,30 @@
    "dates": "Sat, Dec 5",
    "time": "5–6:30 PM",
    "place": "Kelsey Creek Farm, Bellevue",
-   "placeLines": "Kelsey Creek Farm, Bellevue\n410 130 Pl SE, Bellevue, WA, 98005",
+   "placeLines": "Kelsey Creek Farm, Bellevue",
    "region": "EASTSIDE",
    "category": "SEASONAL",
    "cost": "Free",
    "free": true,
    "summary": "Celebrate the holiday season at Kelsey Creek Farm.",
-   "description": "Celebrate the holiday season at Kelsey Creek Farm. This event begins with a count down to turning on the lights on the barns and singing carols. With the lighted barns and decorations providing a festive background, the event’s activities include crafts, hot cocoa, taking photos with the farm animals, visiting the decorated log cabin and a special once-per-year opportunity to go inside the barn to watch the animals eat dinner.\n\nSaturday, Dec. 5 | 5-6:30 p.m.\nKelsey Creek Farm\nAdmission is free, some activities may have fees",
-   "url": "https://www.parentmap.com/calendar/holiday-barn-lighting-0/",
+   "description": "Celebrate the holiday season at Kelsey Creek Farm. This event begins with a count down to turning on the lights on the barns and singing carols. With the lighted barns and decorations providing a festive background, the event's activities include crafts, hot cocoa, taking photos with the farm animals, visiting the decorated log cabin and a special once-per-year opportunity to go inside the barn to watch the animals eat dinner. Admission is free, some activities may have fees.\n\nVisit the Holiday Barn Lighting event page for more details.",
+   "url": "https://bellevuewa.gov/events/holiday-barn-lighting-0",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190969128-20221202_073354-v-small_0_0-dfc347e553b5.jpg",
    "imageCredit": "ParentMap",
    "sources": [
+    "City of Bellevue",
     "ParentMap"
    ],
-   "map": "Kelsey Creek Farm, 410 130 Pl SE, Bellevue, WA, 98005",
+   "map": "Kelsey Creek Farm, Kelsey Creek Farm, 410 130th Pl. SE, Bellevue, WA 98005",
    "calendar": {
     "allDay": false,
     "start": "2026-12-06T01:00:00Z",
     "end": "2026-12-06T02:30:00Z",
-    "notes": "Celebrate the holiday season at Kelsey Creek Farm.\n\nhttps://www.parentmap.com/calendar/holiday-barn-lighting-0/"
+    "notes": "Celebrate the holiday season at Kelsey Creek Farm.\n\nhttps://bellevuewa.gov/events/holiday-barn-lighting-0"
    },
-   "firstSeen": "2026-11-04T18:42:49Z"
+   "firstSeen": "2026-11-04T18:42:49Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "941f4b6dec",
@@ -6095,6 +6308,39 @@
    "firstSeen": "2026-11-16T21:06:51Z"
   },
   {
+   "id": "e0ecd94d1e",
+   "series": "19f63d23ec",
+   "title": "Grand Menorah Lighting and Hanukkah Celebration at Volunteer Park",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "startMinute": 990,
+   "endMinute": 1050,
+   "dates": "Sun, Dec 6",
+   "time": "4:30–5:30 PM",
+   "place": "Volunteer Park, Seattle",
+   "placeLines": "Volunteer Park, Seattle\n1247 15th Ave E, Seattle, WA, 98112",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Celebrate the first night of Chanukah with Chabad of Capitol Hill at our Grand Menorah Lighting & Celebration in Volunteer Park ! Join us for a festive…",
+   "description": "Celebrate the first night of Chanukah with Chabad of Capitol Hill at our Grand Menorah Lighting & Celebration in Volunteer Park!\n\nJoin us for a festive celebration of the third night of Chanukah featuring **DJ Drew**, hot latkes, donuts, Chanukah gifts, and a Grand Menorah Lighting!\n\nBring your family and friends as we light up Capitol Hill with the joy of Chanukah!\n\n**Free and open to all!**",
+   "url": "https://www.parentmap.com/calendar/grand-menorah-lighting-and-hanukkah-celebration-volunteer-park/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190241526-260515069_4447425211973219_2817320222099470418_n-7c9416579da3.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Volunteer Park, 1247 15th Ave E, Seattle, WA, 98112",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-07T00:30:00Z",
+    "end": "2026-12-07T01:30:00Z",
+    "notes": "Celebrate the first night of Chanukah with Chabad of Capitol Hill at our Grand Menorah Lighting & Celebration in Volunteer Park ! Join us for a festive…\n\nhttps://www.parentmap.com/calendar/grand-menorah-lighting-and-hanukkah-celebration-volunteer-park/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
+  },
+  {
    "id": "d5d46a74f4",
    "series": "0151af6423",
    "title": "Hanukkah Celebration at BAM",
@@ -6209,7 +6455,7 @@
    "cost": "Free",
    "free": true,
    "summary": "Join with your community for squishy giveaways, music, and donuts.",
-   "description": "Join with your community for squishy giveaways, music, and donuts.\n\nA Squishy Hanukkah Around Town\n\n-Downtown Issaquah, Village Theatre Front Street Plaza\n-Light up Issaquah with a giant Menorah lighting!\n-Fun for all ages\n-Free Admission",
+   "description": "Join with your community for squishy giveaways, music, and donuts.\n\nA Squishy Hanukkah Around Town\n\n-Light up Snoqualmie with a giant Menorah lighting!\n-Fun for all ages\n-Free Admission",
    "url": "https://www.parentmap.com/calendar/grand-menorah-lighting-snoqualmie/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773114375120-capture_1044jpg-c6537fbb111f.jpg",
    "imageCredit": "ParentMap",
@@ -6224,39 +6470,6 @@
     "notes": "Join with your community for squishy giveaways, music, and donuts.\n\nhttps://www.parentmap.com/calendar/grand-menorah-lighting-snoqualmie/"
    },
    "firstSeen": "2026-11-16T21:06:51Z"
-  },
-  {
-   "id": "e558a5663d",
-   "series": "83f72c1ede",
-   "title": "Garden d’Lights $5 Night & Sensory Friendly Night",
-   "start": "2026-12-08",
-   "end": "2026-12-08",
-   "startMinute": 990,
-   "endMinute": 1200,
-   "dates": "Tue, Dec 8",
-   "time": "4:30–8 PM",
-   "place": "Garden Grounds, Bellevue",
-   "placeLines": "Garden Grounds, Bellevue\n12001 Main Street, Bellevue, 98005",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "$5",
-   "free": false,
-   "summary": "Sensory Friendly Night Enjoy Garden d’Lights in a quieter setting.",
-   "description": "Sensory Friendly Night\n\nEnjoy Garden d’Lights in a quieter setting. All lights will be on as usual, but there will be no live music, and attendance is limited to half capacity (200 guests per half-hour) to create a calmer experience. Tickets are required.\n\nGarden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million sparkling lights in whimsical shapes of plants, flowers, birds, animals, and cascading waterfalls.\n\nSet amid the Garden’s natural beauty, this beloved, family-friendly event has enchanted visitors for decades and is a cherished part of the community’s holiday season. Now celebrating its 32nd year, Garden d’Lights runs annually from the Saturday after Thanksgiving through New Year’s Eve, delighting guests of all ages with its festive charm and imaginative displays.\n\n$5 nights are Nov 30-Dec 3 and Dec 7-10. Other nights are $10 per person. Children 10 and under are always free.",
-   "url": "https://bellevuebotanical.org/event/garden-dlights-5-night-5-2/",
-   "image": "https://bellevuebotanical.org/wp-content/uploads/2024/10/073_D-Lites_LH0A3659_M_Burton_2018-REDUCED.jpg",
-   "imageCredit": "Bellevue Botanical Garden",
-   "sources": [
-    "Bellevue Botanical Garden"
-   ],
-   "map": "Garden Grounds, 12001 Main Street, Bellevue, 98005",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-09T00:30:00Z",
-    "end": "2026-12-09T04:00:00Z",
-    "notes": "Sensory Friendly Night Enjoy Garden d’Lights in a quieter setting.\n\nhttps://bellevuebotanical.org/event/garden-dlights-5-night-5-2/"
-   },
-   "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
    "id": "87f2cdc273",
@@ -6275,7 +6488,7 @@
    "cost": "Free",
    "free": true,
    "summary": "Join with your community for squishy giveaways, music, and donuts.",
-   "description": "Join with your community for squishy giveaways, music, and donuts.\n\nA Squishy Hanukkah Around Town\n\n-Downtown Issaquah, Village Theatre Front Street Plaza\n-Light up Issaquah with a giant Menorah lighting!\n-Fun for all ages\n-Free Admission",
+   "description": "Join with your community for squishy giveaways, music, and donuts.\n\nA Squishy Hanukkah Around Town\n\n-Light up Sammamish with a giant Menorah lighting!\n-Fun for all ages\n-Free Admission",
    "url": "https://www.parentmap.com/calendar/grand-menorah-lighting-sammamish/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773114375120-capture_1044jpg-c6537fbb111f.jpg",
    "imageCredit": "ParentMap",
@@ -6751,7 +6964,7 @@
    "cost": "Free",
    "free": true,
    "summary": "Join with your community for squishy giveaways, music, and donuts.",
-   "description": "Join with your community for squishy giveaways, music, and donuts.\n\nA Squishy Hanukkah Around Town\n\n-Downtown Issaquah, Village Theatre Front Street Plaza\n-Light up Issaquah with a giant Menorah lighting!\n-Fun for all ages\n-Free Admission",
+   "description": "Join with your community for squishy giveaways, music, and donuts.\n\nA Squishy Hanukkah Around Town\n\n-Light up North Bend with a giant Menorah lighting!\n-Fun for all ages\n-Free Admission",
    "url": "https://www.parentmap.com/calendar/grand-menorah-lighting-north-bend/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773114375120-capture_1044jpg-c6537fbb111f.jpg",
    "imageCredit": "ParentMap",
@@ -6835,8 +7048,8 @@
    "series": "7fe85e8cbb",
    "title": "Luckie Farms Christmas Experience",
    "start": "2026-12-11",
-   "end": "2026-12-19",
-   "dates": "Dec 11–19",
+   "end": "2026-12-18",
+   "dates": "Dec 11–18",
    "place": "Luckie Farms, Lake Stevens",
    "placeLines": "Luckie Farms, Lake Stevens\n930 Sunnyside Blvd, Lake Stevens, WA, 98258",
    "region": "FARTHER",
@@ -6855,22 +7068,22 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-11",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "The perfect holiday tradition: Christmas at the farm!\n\nhttps://www.parentmap.com/calendar/santas-farm-adventure/2026-12-11/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 5,
-   "changed": "2026-11-17T19:56:05Z"
+   "revision": 6,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "b9540da953",
    "series": "2284959ec6",
    "title": "Snow Globe at Pacific Place",
    "start": "2026-12-11",
-   "end": "2026-12-19",
+   "end": "2026-12-18",
    "startMinute": 600,
    "endMinute": 1320,
-   "dates": "Dec 11–19",
+   "dates": "Dec 11–18",
    "time": "10 AM–10 PM",
    "place": "Pacific Place, Seattle",
    "placeLines": "Pacific Place, Seattle\n600 Pine St., Seattle, WA, 98101",
@@ -6890,12 +7103,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-11",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "Hours: 10 AM–10 PM\n\nCelebrate the season with a new downtown Seattle holiday tradition!\n\nhttps://www.parentmap.com/calendar/snow-globe-at-pacific-place-2/2026-12-11/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 7,
-   "changed": "2026-11-17T19:56:05Z"
+   "revision": 8,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "cac386b3aa",
@@ -6963,39 +7176,6 @@
     "notes": "Grab a cozy drink and celebrate the season at Bell Street Park Sips & S’mores!\n\nhttps://www.parentmap.com/calendar/sips-smores-at-bell-street-park/"
    },
    "firstSeen": "2026-10-30T17:04:03Z"
-  },
-  {
-   "id": "7b2752cab9",
-   "series": "3829ecb91a",
-   "title": "Garden d’Lights",
-   "start": "2026-12-11",
-   "end": "2027-01-03",
-   "startMinute": 990,
-   "endMinute": 1260,
-   "dates": "Dec 11–Jan 3",
-   "time": "4:30–9 PM",
-   "place": "Garden Grounds, Bellevue",
-   "placeLines": "Garden Grounds, Bellevue\n12001 Main Street, Bellevue, 98005",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "$10",
-   "free": false,
-   "summary": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…",
-   "description": "Garden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million sparkling lights in whimsical shapes of plants, flowers, birds, animals, and cascading waterfalls.\n\nSet amid the Garden’s natural beauty, this beloved, family-friendly event has enchanted visitors for decades and is a cherished part of the community’s holiday season. Now celebrating its 32nd year, Garden d’Lights runs annually from the Saturday after Thanksgiving through New Year’s Eve, delighting guests of all ages with its festive charm and imaginative displays.\n\n$10 per person. Children 10 and under are free.",
-   "url": "https://bellevuebotanical.org/event/garden-dlights-6/2026-12-11/",
-   "image": "https://bellevuebotanical.org/wp-content/uploads/2024/10/073_D-Lites_LH0A3659_M_Burton_2018-REDUCED.jpg",
-   "imageCredit": "Bellevue Botanical Garden",
-   "sources": [
-    "Bellevue Botanical Garden"
-   ],
-   "map": "Garden Grounds, 12001 Main Street, Bellevue, 98005",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-11",
-    "end": "2027-01-04",
-    "notes": "Hours: 4:30–9 PM\n\nGarden d’Lights is a dazzling holiday tradition that transforms the Bellevue Botanical Garden into a magical wonderland, featuring over half a million…\n\nhttps://bellevuebotanical.org/event/garden-dlights-6/2026-12-11/"
-   },
-   "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
    "id": "9a7a6d7a80",
@@ -7915,6 +8095,39 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "9b14a0ca1d",
+   "series": "cd71d481db",
+   "title": "Santa House",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 780,
+   "endMinute": 960,
+   "dates": "Sat, Dec 12",
+   "time": "1–4 PM",
+   "place": "Renton Civic Theater",
+   "placeLines": "Renton Civic Theater\n507 S 3rd St, Renton, WA, 98057-2009",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Santa House is back.",
+   "description": "Santa House is back. Come get your FREE photos with Santa!\n\nJoin us at the Renton Civic Theatre on the first three Saturdays of December, from 1–4 PM, for a festive community tradition where families can enjoy complimentary holiday photos with Santa. Don’t forget – furry family members are welcomed too!\n\nBring your loved ones, snap a memorable photo, and soak in the holiday cheer. This free community experience is proudly sponsored by Caffee Accident & Injury Lawyers, helping us keep this tradition accessible for all.",
+   "url": "https://www.parentmap.com/calendar/santa-house/2026-12-12/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/Santa-House-2026_Social-e1795029762411-768x567.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Renton Civic Theater, 507 S 3rd St, Renton, WA, 98057-2009",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T21:00:00Z",
+    "end": "2026-12-13T00:00:00Z",
+    "notes": "Santa House is back.\n\nhttps://www.parentmap.com/calendar/santa-house/2026-12-12/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
+  },
+  {
    "id": "9482a5a133",
    "series": "d53b41c364",
    "title": "Santa Saturdays in Old Bellevue",
@@ -8342,8 +8555,8 @@
    "series": "d84168880b",
    "title": "Holiday Hooves",
    "start": "2026-12-13",
-   "end": "2026-12-19",
-   "dates": "Dec 13–19",
+   "end": "2026-12-18",
+   "dates": "Dec 13–18",
    "place": "Port of Everett, Pacific Rim Plaza",
    "placeLines": "Port of Everett, Pacific Rim Plaza\n1028 13th Street, Everett, WA, 98201",
    "region": "NORTH",
@@ -8362,12 +8575,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-13",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "Holiday Hooves is back for a third season from December 13-24!\n\nhttps://www.parentmap.com/calendar/holiday-hooves-s2/"
    },
    "firstSeen": "2026-11-09T21:29:59Z",
-   "revision": 3,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 4,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "2a1e41c505",
@@ -8401,6 +8614,39 @@
     "notes": "Lace up your sneakers and join Seattle’s Jingle Bell Run, the Arthritis Foundation’s festive holiday tradition!\n\nhttps://www.parentmap.com/calendar/41st-jingle-bell-run-seattle/"
    },
    "firstSeen": "2026-11-04T18:42:49Z"
+  },
+  {
+   "id": "6c8987ec90",
+   "series": "fb4950bd0d",
+   "title": "6th Annual Jul Market",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "startMinute": 690,
+   "endMinute": 960,
+   "dates": "Sun, Dec 13",
+   "time": "11:30 AM–4 PM",
+   "place": "Skål Beer Hall, Seattle",
+   "placeLines": "Skål Beer Hall, Seattle\n5429 Ballard Ave NW, Seattle, WA, 98107",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join us for our annual Jul Market in our covered and heated outdoor space!",
+   "description": "Join us for our annual Jul Market in our covered and heated outdoor space! You’ll find a collection of Nordic vendors and local craftsmen. Shop for holiday gifts as you sip on gløgg, Scandinavian mulled wine. Plus, we’ll have live holiday music and a visit from the Jul Father! All ages welcome. No tickets required. This is a free event.\n\nVendors Include:\nMoongoddess Magick Apothercary\nHyldyr\nStreet Cheese\nÆsir Meadery\nHearthfire Nordic Wares\nThread of the Raven\nArchaic Growth\nZhurbenko Art\n\nPlus, we’ll have bottles of mead, aquavit, gløgg, and our mustards to go!Expect live music outside in the market from Joshua “Red” Uttech from 1130a-130p and from Skandia Kapell (Nordic Folk Band) 130-4p.Outside seating is seat yourself first come, first served.If you’d like to dine inside after shopping and enjoy our fireplace, we strongly encourage making a reservation on our website. The majority of the beer hall is for walk-ins, so plenty of space to seat yourself if no reservations are available. Skål and God Jul!",
+   "url": "https://www.visitballard.com/event/6th-annual-jul-market/",
+   "image": "https://www.visitballard.com/wp-content/uploads/2026/11/Jul-Market_2026-8.5-%C3%97-11-in-768x994.png",
+   "imageCredit": "Visit Ballard",
+   "sources": [
+    "Visit Ballard"
+   ],
+   "map": "Skål Beer Hall, 5429 Ballard Ave NW, Seattle, WA, 98107",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-13T19:30:00Z",
+    "end": "2026-12-14T00:00:00Z",
+    "notes": "Join us for our annual Jul Market in our covered and heated outdoor space!\n\nhttps://www.visitballard.com/event/6th-annual-jul-market/"
+   },
+   "firstSeen": "2026-11-18T19:27:04Z"
   },
   {
    "id": "7e45f8e83b",
@@ -8568,10 +8814,10 @@
    "series": "a6317db569",
    "title": "Festival of Trees at White River Valley Museum",
    "start": "2026-12-16",
-   "end": "2026-12-19",
+   "end": "2026-12-18",
    "startMinute": 720,
    "endMinute": 960,
-   "dates": "Dec 16–19",
+   "dates": "Dec 16–18",
    "time": "12–4 PM",
    "place": "White River Valley Museum, Auburn",
    "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
@@ -8591,12 +8837,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-16",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-12-16/"
    },
    "firstSeen": "2026-10-27T16:44:46Z",
-   "revision": 3,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 4,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "7d35a6ada2",
@@ -8661,8 +8907,8 @@
    "series": "8075a6f2a6",
    "title": "Seattle’s Christmas Towne",
    "start": "2026-12-17",
-   "end": "2026-12-19",
-   "dates": "Dec 17–19",
+   "end": "2026-12-18",
+   "dates": "Dec 17–18",
    "place": "Westlake Center, Seattle",
    "placeLines": "Westlake Center, Seattle\n400 Pine Street, Seattle, 98101",
    "region": "SEATTLE",
@@ -8681,12 +8927,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-17",
-    "end": "2026-12-20",
+    "end": "2026-12-19",
     "notes": "Explore an immersive indoor Christmas world in the heart of downtown Seattle, filled with interactive characters, family activities, holiday treats, and…\n\nhttps://www.parentmap.com/calendar/seattles-christmas-towne/2026-12-17/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 3,
-   "changed": "2026-11-12T18:59:58Z"
+   "revision": 4,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "7e3106ada4",
@@ -8724,10 +8970,10 @@
    "series": "fa61e33b79",
    "title": "Annual Model Train Festival",
    "start": "2026-12-18",
-   "end": "2026-12-19",
+   "end": "2026-12-18",
    "startMinute": 600,
    "endMinute": 1020,
-   "dates": "Dec 18–19",
+   "dates": "Fri, Dec 18",
    "time": "10 AM–5 PM",
    "place": "Washington State History Museum, Tacoma",
    "placeLines": "Washington State History Museum, Tacoma\n1911 Pacific Ave, Tacoma, WA, 98402-3109",
@@ -8745,14 +8991,14 @@
    ],
    "map": "Washington State History Museum, 1911 Pacific Ave, Tacoma, WA, 98402-3109",
    "calendar": {
-    "allDay": true,
-    "start": "2026-12-18",
-    "end": "2026-12-20",
-    "notes": "Hours: 10 AM–5 PM\n\nCelebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!\n\nhttps://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-18/"
+    "allDay": false,
+    "start": "2026-12-18T18:00:00Z",
+    "end": "2026-12-19T01:00:00Z",
+    "notes": "Celebrate with us as Model Train Festival returns for its 30th year at the Washington State History Museum!\n\nhttps://www.parentmap.com/calendar/29th-annual-model-train-festival/2026-12-18/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 7,
-   "changed": "2026-11-17T19:56:05Z"
+   "revision": 8,
+   "changed": "2026-11-18T19:27:04Z"
   },
   {
    "id": "c9aef6f8eb",
@@ -9058,6 +9304,37 @@
    "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
+   "id": "86077d910f",
+   "series": "92a48ccdaa",
+   "title": "December Art Market",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "dates": "Dec 19–20",
+   "place": "Duwamish Longhouse & Cultural Center, Seattle",
+   "placeLines": "Duwamish Longhouse & Cultural Center, Seattle\n4705 West Marginal Way Southwest, Seattle, WA, 98106",
+   "region": "SEATTLE",
+   "category": "NIGHT_MARKET",
+   "summary": "Volunteers Needed - Click to sign up.",
+   "description": "volunteers needed! use button below to sign up.\n\nVOLUNTEER SIGN UP",
+   "url": "https://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny",
+   "image": "https://images.squarespace-cdn.com/content/v1/5ad0f1b9c258b4273c53d08f/1774567021752-MSR3RWDIN6AL95YFBJL1/unsplash-image-7VOyZ0-iO0o.jpg?format=1000w",
+   "imageCredit": "Duwamish Tribe",
+   "sources": [
+    "Duwamish Tribe",
+    "United Indians of All Tribes"
+   ],
+   "map": "Duwamish Longhouse & Cultural Center, 4705 West Marginal Way Southwest, Seattle, WA, 98106",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-19",
+    "end": "2026-12-21",
+    "notes": "Volunteers Needed - Click to sign up.\n\nhttps://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 7,
+   "changed": "2026-11-18T19:27:04Z"
+  },
+  {
    "id": "3c976a8bcf",
    "series": "1482399993",
    "title": "Edmonds Holiday Market",
@@ -9091,78 +9368,6 @@
    "changed": "2026-10-30T17:04:03Z"
   },
   {
-   "id": "86077d910f",
-   "series": "92a48ccdaa",
-   "title": "December Art Market",
-   "start": "2026-12-19",
-   "end": "2026-12-20",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Dec 19–20",
-   "time": "10 AM–4 PM",
-   "place": "Duwamish Longhouse & Cultural Center, Seattle",
-   "placeLines": "Duwamish Longhouse & Cultural Center, Seattle\n4705 West Marginal Way Southwest, Seattle, WA, 98106",
-   "region": "SEATTLE",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Volunteers Needed - Click to sign up.",
-   "description": "volunteers needed! use button below to sign up.\n\nVOLUNTEER SIGN UP",
-   "url": "https://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny",
-   "image": "https://images.squarespace-cdn.com/content/v1/5ad0f1b9c258b4273c53d08f/1774567021752-MSR3RWDIN6AL95YFBJL1/unsplash-image-7VOyZ0-iO0o.jpg?format=1000w",
-   "imageCredit": "Duwamish Tribe",
-   "sources": [
-    "Duwamish Tribe",
-    "United Indians of All Tribes",
-    "ParentMap"
-   ],
-   "map": "Duwamish Longhouse & Cultural Center, 4705 West Marginal Way Southwest, Seattle, WA, 98106",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-19",
-    "end": "2026-12-21",
-    "notes": "Hours: 10 AM–4 PM\n\nVolunteers Needed - Click to sign up.\n\nhttps://www.duwamishtribe.org/eventcalendar/2026/12/19/longhouse-closed-for-holidays-33mfz-b6nhl-53yz7-ls9jl-lcsls-wak36-wsnxe-zpm46-kxzny"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 6,
-   "changed": "2026-11-17T19:56:05Z"
-  },
-  {
-   "id": "835b084afa",
-   "series": "8d556b4442",
-   "title": "Solstice With Sasquatch",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Sat, Dec 19",
-   "time": "10 AM–4 PM",
-   "place": "Museum of Flight, Tukwila",
-   "placeLines": "Museum of Flight, Tukwila\n9404 E Marginal Way S, Tukwila, WA, 98108-4046",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "$4 – $29",
-   "free": false,
-   "summary": "Celebrate the winter solstice at The Museum of Flight with cozy activities, crafting, and cocoa Enjoy a special visit from astronaut Karen Nyberg as she…",
-   "description": "Celebrate the winter solstice at The Museum of Flight with cozy activities, crafting, and cocoa\n\nEnjoy a special visit from astronaut Karen Nyberg as she launches her new picture book, A Quilt of Stars: Astronaut Karen Nyberg Stitches a Dream. Karen will share her journey from a child imagining the stars to living and working aboard the International Space Station. Young explorers will create and decorate their own stars with a wish or goal for the future. Book signing and meet-and-greet with Karen to follow.\n\nLook for surprise visits throughout the exhibits by our furry friend, Soley the Sasquatch!",
-   "url": "https://www.parentmap.com/calendar/solstice-sasquatch/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190250651-462485307_960019276161065_991173486072848032_n-3fda42627cee.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Museum of Flight, 9404 E Marginal Way S, Tukwila, WA, 98108-4046",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T18:00:00Z",
-    "end": "2026-12-20T00:00:00Z",
-    "notes": "Celebrate the winter solstice at The Museum of Flight with cozy activities, crafting, and cocoa Enjoy a special visit from astronaut Karen Nyberg as she…\n\nhttps://www.parentmap.com/calendar/solstice-sasquatch/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T18:51:28Z"
-  },
-  {
    "id": "12d0977a1d",
    "series": "785a014828",
    "title": "Winter Solstice Stroll at Kruckeberg Botanic Garden",
@@ -9194,242 +9399,6 @@
     "notes": "Join us for a magical winter evening surrounded by the natural beauty of Kruckeberg Botanic Garden.\n\nhttps://www.parentmap.com/calendar/34464-s3/"
    },
    "firstSeen": "2026-11-17T19:56:05Z"
-  },
-  {
-   "id": "a620c0627a",
-   "series": "0249ba00ad",
-   "title": "Free Holiday Trolley in Downtown Edmonds",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "startMinute": 660,
-   "endMinute": 1080,
-   "dates": "Sat, Dec 19",
-   "time": "11 AM–6 PM",
-   "place": "Downtown Edmonds",
-   "placeLines": "Downtown Edmonds\nMain Street, Edmonds, WA, 98020",
-   "region": "NORTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor…",
-   "description": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor Jr—spreading cheer and sharing fun facts about our historic seaside town!\n\nIt’s a relaxing way to explore Edmonds—hop on and off to eat and shop all around downtown. Don’t worry, it comes by every 30 minutes. See the map below.\n\nBring your holiday spirit, but please no food or drinks.\n\nSaturdays, 11am–6pm\nDec 5th, 12th & 19th 2026",
-   "url": "https://www.parentmap.com/calendar/free-holiday-trolley-downtown-edmonds/2026-12-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775187256930-edmonds-1of15-15198873c89e.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Downtown Edmonds, Main Street, Edmonds, WA, 98020",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T19:00:00Z",
-    "end": "2026-12-20T02:00:00Z",
-    "notes": "The Edmonds Holiday Trolley returns for its 12th year, featuring Emily the Elf and a special appearance by the Edmonds king of Christmas, Richard Taylor…\n\nhttps://www.parentmap.com/calendar/free-holiday-trolley-downtown-edmonds/2026-12-19/"
-   },
-   "firstSeen": "2026-10-29T17:28:36Z"
-  },
-  {
-   "id": "0600000211",
-   "series": "e9f9289816",
-   "title": "Holiday Blast at Eastside Community Center",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "startMinute": 660,
-   "endMinute": 840,
-   "dates": "Sat, Dec 19",
-   "time": "11 AM–2 PM",
-   "place": "Eastside Community Center, Tacoma",
-   "placeLines": "Eastside Community Center, Tacoma\n1721 E 56th St, Tacoma, WA, 98404",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Bring the family for free holiday fun!",
-   "description": "Bring the family for free holiday fun! Take pictures with Santa, enjoy cocoa, cookie decorating and more:\n\n• Family Fun\n• Cookie Decorating\n• Hot Cocoa station\n• Elks Hoop Shoot (details below)\n• Community Market Resource Fair:\n• Connect with a variety of community resources all in one place! Bring home free healthy snacks\nEnter to win exciting door prizes!\nGoodie bags\nAccess to services such as:\n\n• Financial wellness resources\n• Health care providers\n• Job hunting resources",
-   "url": "https://www.parentmap.com/calendar/holiday-blast-eastside-community-center/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/03/1773117649704-santa-pacc_dsc9558_edited-1-1024x645-cd6b9da0e629.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Eastside Community Center, 1721 E 56th St, Tacoma, WA, 98404",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T19:00:00Z",
-    "end": "2026-12-19T22:00:00Z",
-    "notes": "Bring the family for free holiday fun!\n\nhttps://www.parentmap.com/calendar/holiday-blast-eastside-community-center/"
-   },
-   "firstSeen": "2026-11-10T18:43:47Z"
-  },
-  {
-   "id": "84275473f9",
-   "series": "db5b05c5ea",
-   "title": "Nordstrom Santa Parade",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "startMinute": 660,
-   "endMinute": 1050,
-   "dates": "Sat, Dec 19",
-   "time": "11 AM–5:30 PM",
-   "place": "Nordstrom – Downtown Seattle",
-   "placeLines": "Nordstrom – Downtown Seattle\n500 Pine Street, Seattle, WA, 98101",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The holidays are here!",
-   "description": "The holidays are here! We’re celebrating with moments of magic in our stores and restaurants all season long—fun and family-friendly events, exclusive offers, Santa experiences and more.\n\nSanta Parades\n\nNovember 27 | 11am, 2pm & 5:30 pm\nNovember 28–29, December 5–6, 12–13 & 19–20 | 11am, 2pm & 5pm\nSanta Parade followed by more fun in the Kids’ department.",
-   "url": "https://www.parentmap.com/calendar/santa-parade-and-storytime-mrs-claus/2026-12-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775080152422-screenshot-2025-11-20-151734-93dce0b0d5a5.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Nordstrom – Downtown Seattle, 500 Pine Street, Seattle, WA, 98101",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T19:00:00Z",
-    "end": "2026-12-20T01:30:00Z",
-    "notes": "The holidays are here!\n\nhttps://www.parentmap.com/calendar/santa-parade-and-storytime-mrs-claus/2026-12-19/"
-   },
-   "firstSeen": "2026-11-12T18:59:58Z",
-   "revision": 2,
-   "changed": "2026-11-16T21:06:51Z"
-  },
-  {
-   "id": "92d0f55dd3",
-   "series": "a45ec818e4",
-   "title": "‘Prance & Be Merry’: Seattle Men’s Chorus Kids’ Holiday Show",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "startMinute": 660,
-   "endMinute": 720,
-   "dates": "Sat, Dec 19",
-   "time": "11 AM–12 PM",
-   "place": "Benaroya Hall, Seattle",
-   "placeLines": "Benaroya Hall, Seattle\n200 University St, Seattle, WA, 98101-3428",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "$12 – $31",
-   "free": false,
-   "kids": true,
-   "summary": "This year’s lineup includes an abbreviated show specifically for children to join in the delight of Prance & Be Merry.",
-   "description": "This year’s lineup includes an abbreviated show specifically for children to join in the delight of Prance & Be Merry. This one-hour show, for those with shorter attention spans, is complete with extra dancing to get the wiggles out and an extended sing-along with general admission seating. Perfect for all ages!\n\n*Please note that children under the age of five are not permitted to attend events at Benaroya Hall, with the exception of this year’s Kids’ Show on Dec. 19 at 11 a.m.",
-   "url": "https://www.parentmap.com/calendar/holly-jolly-jingle-seattle-mens-chorus-kids-holiday-show/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2024/10/unnamed-17-768x768.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Benaroya Hall, 200 University St, Seattle, WA, 98101-3428",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T19:00:00Z",
-    "end": "2026-12-19T20:00:00Z",
-    "notes": "This year’s lineup includes an abbreviated show specifically for children to join in the delight of Prance & Be Merry.\n\nhttps://www.parentmap.com/calendar/holly-jolly-jingle-seattle-mens-chorus-kids-holiday-show/"
-   },
-   "firstSeen": "2026-11-10T18:43:47Z"
-  },
-  {
-   "id": "c55be84d0d",
-   "series": "cb42c24b02",
-   "title": "Diving Santa at the Seattle Aquarium",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "startMinute": 690,
-   "endMinute": 750,
-   "dates": "Sat, Dec 19",
-   "time": "11:30 AM–12:30 PM",
-   "place": "Seattle Aquarium",
-   "placeLines": "Seattle Aquarium\n1483 Alaskan Way Pier 59, Seattle, WA, 98101-2015",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "$3",
-   "free": false,
-   "summary": "Meet Diving Santa at the Seattle Aquarium!",
-   "description": "Meet Diving Santa at the Seattle Aquarium! Hear from the holly jolly diver about how you can help the ocean this holiday season.\n\nFind Santa swimming in a winter wonderland at our Window on Washington Waters habitat in Pier 59 on weekends between Thanksgiving and Christmas.\n\nNothing says “sea-son’s greetings” like a selfie with Santa! Take a picture together while Santa is underwater and you stay warm and dry. Snap yourself a merry little selfie or have one of our volunteers help take a photo using your device.\n\nWe’ll ring in the season with special kick-off dives on Friday, November 27!\n\nFor our merry members, we’ll be opening early at 9am on November 29 and December 15 with a special dive just for you.\n\nFor guests who benefit from a quieter environment, we’ll open early on December 6 with a special Santa dive. Online tickets and member reservations will be available soon.\n\nDon’t forget to treat yourself to an extra cozy cup of holiday cheer in our café. Special drink menu coming soon!\n\nDates and times\n\nNovember 2026 dates:\nDives at 11:30am and 2:30pm\nNovember 27–29\n\nDecember 2026 dates:\nDives at 11:30am and 2:30pm\nDecember 5–6\nDecember 12–13\nDecember 19–20\n\nQuiet early opening\nDives at 9am\nDecember 6\n\nPhotos with Dry Side Santa\nMissed Santa in the water? Don’t pout or cry! Get a photo with Santa on the dry side thanks to our photo partner, Photogenic. When not diving, Santa will be at the viewing window near the left side of Window on Washington Waters every Friday–Sunday…",
-   "url": "https://www.parentmap.com/calendar/28177/2026-12-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185142935-28177-7a644587d765.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Aquarium, 1483 Alaskan Way Pier 59, Seattle, WA, 98101-2015",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T19:30:00Z",
-    "end": "2026-12-19T20:30:00Z",
-    "notes": "Meet Diving Santa at the Seattle Aquarium!\n\nhttps://www.parentmap.com/calendar/28177/2026-12-19/"
-   },
-   "firstSeen": "2026-11-05T00:00:07Z",
-   "revision": 3,
-   "changed": "2026-11-17T19:56:05Z"
-  },
-  {
-   "id": "49d728c0f6",
-   "series": "37ab03bd54",
-   "title": "Edmonds Free Holiday Movies",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "startMinute": 720,
-   "endMinute": 930,
-   "dates": "Sat, Dec 19",
-   "time": "12–3:30 PM",
-   "place": "The Edmonds Theater",
-   "placeLines": "The Edmonds Theater\n415 Main St, Edmonds, WA, 98020-3137",
-   "region": "NORTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join in this fun Edmonds tradition!",
-   "description": "Join in this fun Edmonds tradition! Cline Jewelers is sponsoring free movie nights at the Edmonds Movie Theatre. Christmas Classics cartoons start at 12pm, followed by Elf at 12:30pm on 12/12 and A Christmas Story at 12:30pm on 12/19.",
-   "url": "https://www.parentmap.com/calendar/edmonds-free-holiday-movies/2026-12-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/02/1770608570983-edmonds_holidays_freemovie-c338fb57721d.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "The Edmonds Theater, 415 Main St, Edmonds, WA, 98020-3137",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T20:00:00Z",
-    "end": "2026-12-19T23:30:00Z",
-    "notes": "Join in this fun Edmonds tradition!\n\nhttps://www.parentmap.com/calendar/edmonds-free-holiday-movies/2026-12-19/"
-   },
-   "firstSeen": "2026-11-11T17:49:11Z"
-  },
-  {
-   "id": "1d483fa242",
-   "series": "09d4773809",
-   "title": "Winterfest Ice Sculpting",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "startMinute": 720,
-   "endMinute": 840,
-   "dates": "Sat, Dec 19",
-   "time": "12–2 PM",
-   "place": "Seattle Center Mural Amphitheatre",
-   "placeLines": "Seattle Center Mural Amphitheatre\n350 Harrison St, Seattle, WA, 98109",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Our weekly Ice Sculpting series is back!",
-   "description": "Our weekly Ice Sculpting series is back! Watch as acclaimed carvers create original sculptures made of ice each Saturday during Winterfest starting at 12pm at Seattle Center’s Mural Amphitheatre. Artists include Chan Kitburi and James Royal.",
-   "url": "https://www.parentmap.com/calendar/48509/2026-12-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188716951-winterfest-ice-sculpting-graphic_0-f054ccad0be9.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Center Mural Amphitheatre, 350 Harrison St, Seattle, WA, 98109",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T20:00:00Z",
-    "end": "2026-12-19T22:00:00Z",
-    "notes": "Our weekly Ice Sculpting series is back!\n\nhttps://www.parentmap.com/calendar/48509/2026-12-19/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
    "id": "f4fd03b2bf",

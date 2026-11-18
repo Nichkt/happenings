@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a6a42e859-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART:20261205T210000Z
+DTEND:20261206T000000Z
+SUMMARY:Santa House
+LOCATION:Renton Civic Theater\, 507 S 3rd St\, Renton\, WA\, 98057-2009
+DESCRIPTION:Santa House is back.\n\nhttps://www.parentmap.com/calendar/sant
+ a-house/2026-12-05/
+URL:https://www.parentmap.com/calendar/santa-house/2026-12-05/
+END:VEVENT
+END:VCALENDAR

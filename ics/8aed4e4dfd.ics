@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8aed4e4dfd-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART:20261205T180000Z
+DTEND:20261206T000000Z
+SUMMARY:DuPont Christmas Market
+LOCATION:Eagles Pride Golf Course\, 1529 Mounts Rd SW\, DuPont\, 98327
+DESCRIPTION:Kick off the Christmas season with a festive day of shopping\, 
+ food\, crafts\, and family fun at the DuPont Christmas Market!\n\nhttps://
+ www.parentmap.com/calendar/dupont-christmas-market/
+URL:https://www.parentmap.com/calendar/dupont-christmas-market/
+END:VEVENT
+END:VCALENDAR

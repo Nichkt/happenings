@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a4d4ba0586-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART:20261205T180000Z
+DTEND:20261206T010000Z
+SUMMARY:JASSW Holiday Market
+LOCATION:Seattle Buddhist Temple\, 1427 S Main St\, Seattle\, WA\, 98144-20
+ 34
+DESCRIPTION:Event Info: Date: Saturday\, December 5\, 2026 Time: 10:00 AM 
+ – 5:00 PM Location: Seattle Betsuin Buddhist Temple\, Seattle\, WA 1427 
+ S Main St\, Seattle\, WA 98144…\n\nhttps://www.parentmap.com/calendar/ja
+ ssw-holiday-market/
+URL:https://www.parentmap.com/calendar/jassw-holiday-market/
+END:VEVENT
+END:VCALENDAR

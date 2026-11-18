@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6c8987ec90-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART:20261213T193000Z
+DTEND:20261214T000000Z
+SUMMARY:6th Annual Jul Market
+LOCATION:Skål Beer Hall\, 5429 Ballard Ave NW\, Seattle\, WA\, 98107
+DESCRIPTION:Join us for our annual Jul Market in our covered and heated out
+ door space!\n\nhttps://www.visitballard.com/event/6th-annual-jul-market/
+URL:https://www.visitballard.com/event/6th-annual-jul-market/
+END:VEVENT
+END:VCALENDAR

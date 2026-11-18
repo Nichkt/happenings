@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa40201077-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART:20261205T000000Z
+DTEND:20261205T050000Z
+SUMMARY:Grand Connection Winter Market
+LOCATION:NE 6th St & 106th Ave NE\, NE 6th St & 106th Ave NE\, Bellevue\, W
+ A 98004
+DESCRIPTION:Celebrate the season at the Grand Connection Winter Market!\n\n
+ https://bellevuewa.gov/events/grand-connection-winter-market
+URL:https://bellevuewa.gov/events/grand-connection-winter-market
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ec1dbd046-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T013000Z
+SUMMARY:Phinneywood GloCone Lighting Event
+LOCATION:Phinney Neighborhood Association\, 6532 Phinney Ave N\, Seattle\, 
+ WA\, 98103-5234
+DESCRIPTION:The Phinneywood GloCone will officially light up for the winter
+ !\n\nhttps://www.parentmap.com/calendar/phinneywood-glocone-lighting-event
+ /
+URL:https://www.parentmap.com/calendar/phinneywood-glocone-lighting-event/
+END:VEVENT
+END:VCALENDAR

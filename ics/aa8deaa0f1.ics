@@ -5,18 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:aa8deaa0f1-seattle-happenings@nichkt.github.io
-DTSTAMP:20261117T195605Z
-SEQUENCE:7
-LAST-MODIFIED:20261117T195605Z
+DTSTAMP:20261118T192704Z
+SEQUENCE:8
+LAST-MODIFIED:20261118T192704Z
 DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261225
 TRANSP:TRANSPARENT
 SUMMARY:Snowflake Lane
-LOCATION:Bellevue Square\, 575 Bellevue Square\, Bellevue\, WA\, 98004
-DESCRIPTION:Hours: 7–7:45 PM\n\nExperience the wonder of falling snow\, d
- azzling lights\, festive music\, toy drummers and dancers in this complime
- ntary nightly parade of holiday floats.\n\nhttps://www.parentmap.com/calen
- dar/snowflake-lane/2026-11-27/
-URL:https://www.parentmap.com/calendar/snowflake-lane/2026-11-27/
+LOCATION:Bellevue Square and Lincoln Square\, Bellevue Square and Lincoln S
+ quare\, Bellevue Way NE\, between NE 4th and NE 8th Street
+DESCRIPTION:Hours: 7–7:25 PM\n\nExperience the wonder of falling snow\, d
+ azzling lights\, festive music\, toy drummers\, and dancers in this compli
+ mentary nightly parade of holiday floats.\n\nhttps://bellevuewa.gov/events
+ /snowflake-lane-2
+URL:https://bellevuewa.gov/events/snowflake-lane-2
 END:VEVENT
 END:VCALENDAR

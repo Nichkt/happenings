@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e0ecd94d1e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261118T192704Z
+SEQUENCE:0
+DTSTART:20261207T003000Z
+DTEND:20261207T013000Z
+SUMMARY:Grand Menorah Lighting and Hanukkah Celebration at Volunteer Park
+LOCATION:Volunteer Park\, 1247 15th Ave E\, Seattle\, WA\, 98112
+DESCRIPTION:Celebrate the first night of Chanukah with Chabad of Capitol Hi
+ ll at our Grand Menorah Lighting & Celebration in Volunteer Park ! Join us
+  for a festive…\n\nhttps://www.parentmap.com/calendar/grand-menorah-ligh
+ ting-and-hanukkah-celebration-volunteer-park/
+URL:https://www.parentmap.com/calendar/grand-menorah-lighting-and-hanukkah-
+ celebration-volunteer-park/
+END:VEVENT
+END:VCALENDAR
