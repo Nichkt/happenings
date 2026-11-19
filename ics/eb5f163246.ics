@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb5f163246-seattle-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Punk Rock Flea Market
+LOCATION:Quality Flea Center\, 416 15th Ave. E.\, Seattle\, WA\, 98112
+DESCRIPTION:The Punk Rock Flea Market returns for HOLIDAZE 2026!\n\nhttps:/
+ /www.parentmap.com/calendar/punk-rock-flea-market/2026-12-11/
+URL:https://www.parentmap.com/calendar/punk-rock-flea-market/2026-12-11/
+END:VEVENT
+END:VCALENDAR

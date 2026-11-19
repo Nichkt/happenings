@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:987b425a8b-seattle-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART:20261206T180000Z
+DTEND:20261206T230000Z
+SUMMARY:Holiday Bazaar at the Edmonds Waterfront Center
+LOCATION:Edmonds Waterfront Center\, 220 Railroad Ave\, Edmonds\, 98020
+DESCRIPTION:Holiday Bazaar at the Edmonds Waterfront Center will take place
+  on Sunday\, December 6th from 10am-3pm.\n\nhttps://www.parentmap.com/cale
+ ndar/holiday-bazaar-at-the-edmonds-waterfront-center/
+URL:https://www.parentmap.com/calendar/holiday-bazaar-at-the-edmonds-waterf
+ ront-center/
+END:VEVENT
+END:VCALENDAR

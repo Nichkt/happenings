@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:507fe18a53-seattle-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Secular Humanistic Hanukkah Celebration
+LOCATION:Wallingford neighborhood\, (exact address furnished upon regsitrat
+ ion)\, Seattle\, 98103
+DESCRIPTION:Join the Secular Jewish Circle of Puget Sound\, Washington’s 
+ ONLY non-religious / cultural congregation\, for a Secular Humanistic Hanu
+ kkah celebration in the…\n\nhttps://www.parentmap.com/calendar/secular-h
+ umanistic-hanukkah-celebration/
+URL:https://www.parentmap.com/calendar/secular-humanistic-hanukkah-celebrat
+ ion/
+END:VEVENT
+END:VCALENDAR

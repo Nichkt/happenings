@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c1510e484-seattle-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:SAADA Chinese Cultural Winter Festival
+LOCATION:Meydenbauer Center\, 11100 NE 6th St\, Bellevue\, WA\, 98004-5524
+DESCRIPTION:Hours: 2–7 PM\n\nThe SAADA Chinese Cultural Winter Festival i
+ s almost here!\n\nhttps://www.parentmap.com/calendar/saada-chinese-cultura
+ l-winter-festival/2026-11-28/
+URL:https://www.parentmap.com/calendar/saada-chinese-cultural-winter-festiv
+ al/2026-11-28/
+END:VEVENT
+END:VCALENDAR

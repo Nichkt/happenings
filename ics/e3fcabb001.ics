@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e3fcabb001-seattle-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART:20261206T020000Z
+DTEND:20261206T050000Z
+SUMMARY:Parents Night Out: Dancing in a Winter Wonderland
+LOCATION:Reflections School of Dance\, 3922 148th St SE\nSuite 202\, Mill C
+ reek\, WA\, 98012
+DESCRIPTION:The Holidays are Here\, and You Deserve a Night Out!\n\nhttps:/
+ /www.parentmap.com/calendar/parents-night-out-dancing-in-a-winter-wonderla
+ nd/
+URL:https://www.parentmap.com/calendar/parents-night-out-dancing-in-a-winte
+ r-wonderland/
+END:VEVENT
+END:VCALENDAR

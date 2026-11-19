@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:95df5eed61-seattle-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART:20261128T190000Z
+DTEND:20261129T010000Z
+SUMMARY:Renton Small Business Saturday and Tree Lighting
+LOCATION:Legacy Square\, 510 S 3rd St\, Renton\, WA\, 98057
+DESCRIPTION:Join us at Legacy Square for a day of shopping\, activities\, a
+ nd holiday fun as we celebrate the small businesses that make our communit
+ y special.\n\nhttps://www.parentmap.com/calendar/renton-small-business-sat
+ urday-and-tree-lighting/
+URL:https://www.parentmap.com/calendar/renton-small-business-saturday-and-t
+ ree-lighting/
+END:VEVENT
+END:VCALENDAR

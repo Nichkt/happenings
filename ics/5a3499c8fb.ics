@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5a3499c8fb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+SUMMARY:Winter Bonsai Solstice
+LOCATION:Pacific Bonsai Museum\, 2515 S 336th St\, Federal Way\, WA\, 98001
+ -9769
+DESCRIPTION:An Evening of Miniature Marvels: Bonsai Solstice Returns!\n\nht
+ tps://www.parentmap.com/calendar/winter-bonsai-solstice/
+URL:https://www.parentmap.com/calendar/winter-bonsai-solstice/
+END:VEVENT
+END:VCALENDAR

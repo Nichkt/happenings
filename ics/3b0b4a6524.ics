@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3b0b4a6524-seattle-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART:20261206T230000Z
+DTEND:20261207T010000Z
+SUMMARY:Everett Chorale: Evergreen
+LOCATION:Everett Performing Arts Center\, 2710 Wetmore Ave\, Everett\, WA\,
+  98201-3552
+DESCRIPTION:Everett Chorale opens its 2026-27 season with Soundscapes: Ever
+ green\, a celebration of Christmas and the winter months with guest instru
+ mentalists.\n\nhttps://www.parentmap.com/calendar/everett-chorale-evergree
+ n/
+URL:https://www.parentmap.com/calendar/everett-chorale-evergreen/
+END:VEVENT
+END:VCALENDAR

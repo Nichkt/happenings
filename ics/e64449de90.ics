@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e64449de90-seattle-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART:20261206T170000Z
+DTEND:20261206T190000Z
+SUMMARY:Santa Cares: Sensory-Friendly Event
+LOCATION:The Outlet Collection | Seattle\, 1101 Outlet Collection Way\, Aub
+ urn\, WA\, 98001
+DESCRIPTION:Sunday\, December 6 | Beginning at 9 a.m.\n\nhttps://www.parent
+ map.com/calendar/santa-cares-sensory-friendly-event/
+URL:https://www.parentmap.com/calendar/santa-cares-sensory-friendly-event/
+END:VEVENT
+END:VCALENDAR
