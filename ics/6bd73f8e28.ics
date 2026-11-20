@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6bd73f8e28-seattle-happenings@nichkt.github.io
+DTSTAMP:20261120T191026Z
+SEQUENCE:0
+DTSTART:20261213T013500Z
+DTEND:20261213T015500Z
+SUMMARY:Community Bonfires At Juanita Beach Park
+LOCATION:Juanita Beach Park\, 9703 NE Juanita Dr\, Kirkland\, WA\, 98034-42
+ 01
+DESCRIPTION:The holidays are here\, and we’re excited to invite you to Co
+ mmunity Bonfires hosted by the City in partnership with the Argosy Christm
+ as Ship Festival.\n\nhttps://www.parentmap.com/calendar/community-bonfires
+ -juanita-beach-park/
+URL:https://www.parentmap.com/calendar/community-bonfires-juanita-beach-par
+ k/
+END:VEVENT
+END:VCALENDAR

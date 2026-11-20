@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-19T19:31:30Z",
+ "generatedAt": "2026-11-20T19:10:26Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-19",
- "until": "2027-02-11",
+ "from": "2026-11-20",
+ "until": "2027-02-12",
  "regions": [
   {
    "id": "SEATTLE",
@@ -119,7 +119,7 @@
   },
   {
    "name": "Discover Burien",
-   "events": 6
+   "events": 5
   },
   {
    "name": "Downtown Seattle Association",
@@ -139,15 +139,15 @@
   },
   {
    "name": "Northwest Asian Weekly",
-   "events": 1
+   "events": 2
   },
   {
    "name": "ParentMap",
-   "events": 243
+   "events": 242
   },
   {
    "name": "Phinney Center",
-   "events": 10
+   "events": 9
   },
   {
    "name": "United Indians of All Tribes",
@@ -167,11 +167,11 @@
    "id": "761525e2dd",
    "series": "d93dac390e",
    "title": "Seattle Festival of Trees",
-   "start": "2026-11-17",
+   "start": "2026-11-18",
    "end": "2026-12-01",
    "startMinute": 480,
    "endMinute": 1260,
-   "dates": "Nov 17–Dec 1",
+   "dates": "Nov 18–Dec 1",
    "time": "8 AM–9 PM",
    "place": "Fairmont Olympic Hotel, Seattle",
    "placeLines": "Fairmont Olympic Hotel, Seattle\n411 University St., Seattle, WA, 98101",
@@ -181,7 +181,7 @@
    "free": true,
    "summary": "For years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.",
    "description": "For years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic. Every tree tells a story, honoring a brave young patient. Discover their inspiring journeys as you stroll through this enchanting display. Proceeds from tree sales benefit Seattle Children’s Autism Center and Uncompensated Care, bringing hope and healing to families in need.",
-   "url": "https://www.parentmap.com/calendar/41635/2026-11-17/",
+   "url": "https://www.parentmap.com/calendar/41635/2026-11-18/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775160985102-seattle-festival-of-trees-c4e1c4c869c8.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -190,23 +190,23 @@
    "map": "Fairmont Olympic Hotel, 411 University St., Seattle, WA, 98101",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-17",
+    "start": "2026-11-18",
     "end": "2026-12-02",
-    "notes": "Hours: 8 AM–9 PM\n\nFor years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.\n\nhttps://www.parentmap.com/calendar/41635/2026-11-17/"
+    "notes": "Hours: 8 AM–9 PM\n\nFor years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.\n\nhttps://www.parentmap.com/calendar/41635/2026-11-18/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 1,
-   "changed": "2026-11-19T19:31:30Z"
+   "revision": 2,
+   "changed": "2026-11-20T19:10:26Z"
   },
   {
    "id": "896d821d74",
    "series": "e69d0f36a5",
    "title": "Swansons Nursery Model Train and Holiday Décor",
-   "start": "2026-11-17",
+   "start": "2026-11-18",
    "end": "2026-12-18",
    "startMinute": 540,
    "endMinute": 1080,
-   "dates": "Nov 17–Dec 18",
+   "dates": "Nov 18–Dec 18",
    "time": "9 AM–6 PM",
    "place": "Swansons Nursery, Seattle",
    "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
@@ -216,7 +216,7 @@
    "free": true,
    "summary": "Add a little magic to your life this holiday season.",
    "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
-   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-17/",
+   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-18/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -225,23 +225,23 @@
    "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-17",
+    "start": "2026-11-18",
     "end": "2026-12-19",
-    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-17/"
+    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-18/"
    },
    "firstSeen": "2026-10-28T17:13:34Z",
-   "revision": 13,
-   "changed": "2026-11-19T19:31:30Z"
+   "revision": 14,
+   "changed": "2026-11-20T19:10:26Z"
   },
   {
    "id": "650621bde5",
    "series": "ed5acaabfd",
    "title": "Photos with Santa at South Hill Mall – Puyallup, WA",
-   "start": "2026-11-17",
+   "start": "2026-11-18",
    "end": "2026-12-18",
    "startMinute": 660,
    "endMinute": 1140,
-   "dates": "Nov 17–Dec 18",
+   "dates": "Nov 18–Dec 18",
    "time": "11 AM–7 PM",
    "place": "South Hill Mall, Puyallup",
    "placeLines": "South Hill Mall, Puyallup\n3500 S. Meridian, Puyallup, WA, 98373",
@@ -252,7 +252,7 @@
    "kids": true,
    "summary": "Santa is coming to South Hill Mall!",
    "description": "Santa is coming to South Hill Mall! Bring the whole family for professional photos with Santa, captured by Souvenir Photograph. Reserve a time online to skip the wait, or walk up. Prints and digital packages are available on-site. Address: 3500 S Meridian, Puyallup, WA 98373.\n\nAvailable options:\n\nTraditional Santa\nSanta Paws\nSilent Santa\n\nDaily schedules vary, please view the website for available dates and times.",
-   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-17/",
+   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-18/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/11/south-hill-mall-santa-1920x1080-1-e1793821051118.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -261,46 +261,13 @@
    "map": "South Hill Mall, 3500 S. Meridian, Puyallup, WA, 98373",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-17",
+    "start": "2026-11-18",
     "end": "2026-12-19",
-    "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-17/"
+    "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-18/"
    },
    "firstSeen": "2026-11-05T00:00:07Z",
-   "revision": 9,
-   "changed": "2026-11-19T19:31:30Z"
-  },
-  {
-   "id": "71176e5a45",
-   "series": "35fa83d171",
-   "title": "The Toy Room Holiday Pop-up at Fog Room",
-   "start": "2026-11-17",
-   "end": "2026-12-18",
-   "startMinute": 960,
-   "endMinute": 1439,
-   "dates": "Nov 17–Dec 18",
-   "time": "4–11:59 PM",
-   "place": "Fog Room Rooftop Lounge, Seattle",
-   "placeLines": "Fog Room Rooftop Lounge, Seattle\n1610 2nd Ave, Seattle, WA, 98101",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…",
-   "description": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by Hilton! From November 15, 2026, through January 3, 2027, Fog Room Rooftop Lounge transforms into a whimsical, vintage toy shop-inspired holiday wonderland, complete with nostalgic décor, festive cocktails, seasonal bites and sweeping views of downtown Seattle.\n\nThroughout the season, guests can enjoy a variety of festive experiences, including weekly hair tinsel pop-ups on Tuesdays, family-friendly Story Time with Santa on Sundays and more!\n\nIn the spirit of giving, The Toy Room is also partnering with Seattle nonprofit WestSide Baby to host a holiday toy drive supporting local children and families in need.\n\nWhether you’re planning a festive family outing or looking for a unique way to celebrate the season, The Toy Room invites you to experience the wonder and nostalgia of the holidays high above Seattle.\n\nFog Room’s bar area is 21+, while our dining room welcomes guests of all ages.",
-   "url": "https://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-17/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Toy-Room-Teaser-Assets-6-768x432.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Fog Room Rooftop Lounge, 1610 2nd Ave, Seattle, WA, 98101",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-17",
-    "end": "2026-12-19",
-    "notes": "Hours: 4–11:59 PM\n\nRediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…\n\nhttps://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-17/"
-   },
-   "firstSeen": "2026-11-17T19:56:05Z"
+   "revision": 10,
+   "changed": "2026-11-20T19:10:26Z"
   },
   {
    "id": "cf50637b84",
@@ -336,64 +303,39 @@
    "firstSeen": "2026-10-27T16:44:46Z"
   },
   {
-   "id": "153dd7ca64",
-   "series": "7172f1d6d4",
-   "title": "Burien Winter Market",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Thu, Nov 19",
-   "time": "10 AM–4 PM",
-   "place": "Burien Town Square",
-   "placeLines": "Burien Town Square\n480 SW 152nd Street, Burien, WA, 98166",
-   "region": "SOUTH",
-   "category": "NIGHT_MARKET",
-   "summary": "Burien Farmer’s Market Farmers markets are an essential part of our economy and community.",
-   "description": "Burien Farmer’s Market\n\nFarmers markets are an essential part of our economy and community. Shopping at farmers markets helps to support agricultural producers, ensured food access for all and builds connections between producers and consumers.\n\n(Inclement weather rule in-effect: if there is snow present and/or temperature is below 20 degrees, the farmer’s market will be closed. We will post signs at Town Square and on Social Media)\n\nDETAILS:\n\n• The market is open every Thursday.\n\n• Winter Market is open 10am - 4pm (Nov-Apr)\n\n• Summer Market is open 10am - 6pm (May-Oct)\n\n• Most vendors accept and prefer cash but can also process credit and debit cards. You can purchase market tokens with your card at the information booth to use for purchase at all booths. We can also process your Community Gift e-Card - Buy Here\n\n• EBT is accepted! Inquire at the main tent to see how you can receive up to $10 with the SNAP Market Match program\n\n• Enjoy Live Music and Food Tents during the Summer (May to October)\n\n• Vendors rotate often and seasonally, no week is every the same as that last: fruits, vegetables and seasonal produce, jams, honey, preserves, kombucha, baked goods, fresh flowers, cheese, bath and body products, house plants and potted plants, gems & stones, gifts, wine, meat, snacks and art (jewelry, glass works, yard art, cloth and textile crafts, face)\n\n• Pets are allowed on leash\n\nInterested in becoming a VENDOR at the Burien Farmers Market?\n\nCLICK HERE TO GET MORE INFORMATION…",
-   "url": "https://www.discoverburien.org/calendar/2025/11/20/burien-winter-market",
-   "image": "https://images.squarespace-cdn.com/content/v1/5ac80d6fcef3723a4076ca3f/9e015b7a-9203-4bd9-b627-d4c71c7fc815/Winter+Market+2023.png?format=1000w",
-   "imageCredit": "Discover Burien",
-   "sources": [
-    "Discover Burien"
-   ],
-   "map": "Burien Town Square, 480 SW 152nd Street, Burien, WA, 98166",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-19T18:00:00Z",
-    "end": "2026-11-20T00:00:00Z",
-    "notes": "Burien Farmer’s Market Farmers markets are an essential part of our economy and community.\n\nhttps://www.discoverburien.org/calendar/2025/11/20/burien-winter-market"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "08fdf92527",
-   "series": "f903ceba60",
-   "title": "PNA Winter Festival Juried Art Show",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Thu, Nov 19",
-   "time": "10 AM–5 PM",
-   "place": "Piano Nobile, PNA — Level 2, Brick Building, Seattle",
-   "placeLines": "Piano Nobile, PNA — Level 2, Brick Building, Seattle\n6532 Phinney Avenue North, Seattle, WA, 98103",
+   "id": "71176e5a45",
+   "series": "35fa83d171",
+   "title": "The Toy Room Holiday Pop-up at Fog Room",
+   "start": "2026-11-18",
+   "end": "2026-12-18",
+   "startMinute": 960,
+   "endMinute": 1439,
+   "dates": "Nov 18–Dec 18",
+   "time": "4–11:59 PM",
+   "place": "Fog Room Rooftop Lounge, Seattle",
+   "placeLines": "Fog Room Rooftop Lounge, Seattle\n1610 2nd Ave, Seattle, WA, 98101",
    "region": "SEATTLE",
    "category": "SEASONAL",
-   "url": "https://www.phinneycenter.org/event/pna-winter-festival-juried-art-show/2026-11-19/",
-   "image": "https://media.phinneycenter.org/wp-content/uploads/2026/10/07074659/RPP00594-768x512.jpeg",
-   "imageCredit": "Phinney Center",
+   "cost": "Free",
+   "free": true,
+   "summary": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…",
+   "description": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by Hilton! From November 15, 2026, through January 3, 2027, Fog Room Rooftop Lounge transforms into a whimsical, vintage toy shop-inspired holiday wonderland, complete with nostalgic décor, festive cocktails, seasonal bites and sweeping views of downtown Seattle.\n\nThroughout the season, guests can enjoy a variety of festive experiences, including weekly hair tinsel pop-ups on Tuesdays, family-friendly Story Time with Santa on Sundays and more!\n\nIn the spirit of giving, The Toy Room is also partnering with Seattle nonprofit WestSide Baby to host a holiday toy drive supporting local children and families in need.\n\nWhether you’re planning a festive family outing or looking for a unique way to celebrate the season, The Toy Room invites you to experience the wonder and nostalgia of the holidays high above Seattle.\n\nFog Room’s bar area is 21+, while our dining room welcomes guests of all ages.",
+   "url": "https://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-18/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Toy-Room-Teaser-Assets-6-768x432.png",
+   "imageCredit": "ParentMap",
    "sources": [
-    "Phinney Center"
+    "ParentMap"
    ],
-   "map": "Piano Nobile, PNA — Level 2, Brick Building, 6532 Phinney Avenue North, Seattle, WA, 98103",
+   "map": "Fog Room Rooftop Lounge, 1610 2nd Ave, Seattle, WA, 98101",
    "calendar": {
-    "allDay": false,
-    "start": "2026-11-19T18:00:00Z",
-    "end": "2026-11-20T01:00:00Z",
-    "notes": "https://www.phinneycenter.org/event/pna-winter-festival-juried-art-show/2026-11-19/"
+    "allDay": true,
+    "start": "2026-11-18",
+    "end": "2026-12-19",
+    "notes": "Hours: 4–11:59 PM\n\nRediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…\n\nhttps://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-18/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-11-17T19:56:05Z",
+   "revision": 1,
+   "changed": "2026-11-20T19:10:26Z"
   },
   {
    "id": "1bdb44ea8a",
@@ -430,72 +372,6 @@
    "firstSeen": "2026-11-06T18:07:55Z",
    "revision": 5,
    "changed": "2026-11-18T19:27:04Z"
-  },
-  {
-   "id": "0126dcb7e6",
-   "series": "929755f7c4",
-   "title": "Issaquah Holiday Tree Lighting",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "startMinute": 1020,
-   "endMinute": 1110,
-   "dates": "Thu, Nov 19",
-   "time": "5–6:30 PM",
-   "place": "Village Green Park, Issaquah",
-   "placeLines": "Village Green Park, Issaquah\n2550 NE Park Drive, Issaquah, WA, 98029",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Celebrate the start of the holiday season with friends and neighbors at our third annual Holiday Tree Lighting, sponsored by Highlands Fiber Network, Puget…",
-   "description": "Celebrate the start of the holiday season with friends and neighbors at our third annual Holiday Tree Lighting, sponsored by Highlands Fiber Network, Puget Sound Energy and Issaquah Ice Cream Trike! Enjoy free hot chocolate, apple cider and cookies while carolers from the Issaquah Singers serenade us with holiday tunes. Take your FREE photo with Santa and Mrs. Claus, and don’t miss the chance to visit with Issaquah Police Department and Eastside Fire & Rescue. Gather around as Mayor Mark Mullet flips the switch to light the big tree in Village Green Park at 5:15 p.m.",
-   "url": "https://www.parentmap.com/calendar/holiday-tree-lighting/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775189491747-tree-lighting-1200x630-1-5d453f3d42b3-e1794502985431.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Village Green Park, 2550 NE Park Drive, Issaquah, WA, 98029",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-20T01:00:00Z",
-    "end": "2026-11-20T02:30:00Z",
-    "notes": "Celebrate the start of the holiday season with friends and neighbors at our third annual Holiday Tree Lighting, sponsored by Highlands Fiber Network, Puget…\n\nhttps://www.parentmap.com/calendar/holiday-tree-lighting/"
-   },
-   "firstSeen": "2026-11-12T18:59:58Z"
-  },
-  {
-   "id": "4c77b685cd",
-   "series": "502bf38ca9",
-   "title": "Mini Make and Mingle",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "startMinute": 1080,
-   "endMinute": 1200,
-   "dates": "Thu, Nov 19",
-   "time": "6–8 PM",
-   "place": "Paint Kirkland",
-   "placeLines": "Paint Kirkland\n425 Urban Plz Ste, Kirkland, 98033",
-   "region": "EASTSIDE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Thursday, November 19 | 6–8 PM FREE | One mini magnet included Come solo, bring a friend, or make a new one!",
-   "description": "Thursday, November 19 | 6–8 PM\nFREE | One mini magnet included\n\nCome solo, bring a friend, or make a new one! Join us for a relaxed evening of painting and conversation. Paint an adorable wood magnet for free while connecting with other creative folks in the neighborhood.\n\nSpace is limited. RSVP required.",
-   "url": "https://www.parentmap.com/calendar/mini-make-and-mingle/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/IMG_1132.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Paint Kirkland, 425 Urban Plz Ste, Kirkland, 98033",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-20T02:00:00Z",
-    "end": "2026-11-20T04:00:00Z",
-    "notes": "Thursday, November 19 | 6–8 PM FREE | One mini magnet included Come solo, bring a friend, or make a new one!\n\nhttps://www.parentmap.com/calendar/mini-make-and-mingle/"
-   },
-   "firstSeen": "2026-11-06T18:07:55Z"
   },
   {
    "id": "337936ef39",
@@ -2230,6 +2106,39 @@
    "changed": "2026-11-17T19:56:05Z"
   },
   {
+   "id": "c57e6349a3",
+   "series": "e892d01703",
+   "title": "Alki Holiday Lights",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Fri, Nov 27",
+   "time": "6–9 PM",
+   "place": "Alki Bathhouse, Seattle",
+   "placeLines": "Alki Bathhouse, Seattle\n2701 Alki Ave SW, Seattle, WA, 98116-2276",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join us Friday, November 27th, for a festive evening on Alki Beach to ring in the Holidays with beach bonfires, free treats, games, and more.",
+   "description": "Join us Friday, November 27th, for a festive evening on Alki Beach to ring in the Holidays with beach bonfires, free treats, games, and more.\n\nThis year, we’re proud to be the first stop for the Argosy Christmas Ship Festival.\n\nSchedule of Activities\nAll Evening (6 – 9 pm)\n\nAlki Beach bonfires (courtesy of Seattle Parks)\n\nFree Cookies, Hot Cocoa & Apple Cider (courtesy of Alki Coffee) at the Bathhouse\n\nLetters to the North Pole and Holiday Wish Wall\n\nFree glow toys for kids\n\nNew! Glow-in-the-dark ornament making\n\nHoliday characters roaming Alki Avenue\n\n8:35 pm – Argosy Christmas Ship Festival opening-night visit\n\n6:30–8:30 pm – Free photos with Santa at the Alki Bathhouse",
+   "url": "https://www.parentmap.com/calendar/alki-holiday-lights/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2024/11/Screenshot-2026-11-20-094122.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Alki Bathhouse, 2701 Alki Ave SW, Seattle, WA, 98116-2276",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-28T02:00:00Z",
+    "end": "2026-11-28T05:00:00Z",
+    "notes": "Join us Friday, November 27th, for a festive evening on Alki Beach to ring in the Holidays with beach bonfires, free treats, games, and more.\n\nhttps://www.parentmap.com/calendar/alki-holiday-lights/"
+   },
+   "firstSeen": "2026-11-20T19:10:26Z"
+  },
+  {
    "id": "0c21fe0bd9",
    "series": "c8efb8b842",
    "title": "Winterfest Movie Night",
@@ -3454,6 +3363,38 @@
    "firstSeen": "2026-11-09T21:29:59Z"
   },
   {
+   "id": "67a6199bcb",
+   "series": "c1687a1cf4",
+   "title": "Victorian Christmas Festival",
+   "start": "2026-12-03",
+   "end": "2026-12-06",
+   "dates": "Dec 3–6",
+   "place": "Washington State Fair Events Center (MattressFIRM Showplex), Puyallup",
+   "placeLines": "Washington State Fair Events Center (MattressFIRM Showplex), Puyallup\n110 9th Ave SW, Puyallup, WA, 98371-6811",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "$12 – $16",
+   "free": false,
+   "summary": "Step back in time at the Victorian Christmas Festival, a beloved tradition that welcomes the holiday season with nostalgic charm.",
+   "description": "Step back in time at the Victorian Christmas Festival, a beloved tradition that welcomes the holiday season with nostalgic charm. Now in its 38th year and presented by Puyallup Chocolates, the four-day festival transforms the Washington State Fair Events Center into a Victorian-inspired holiday experience for the whole family.\nThis year’s festival features a marketplace of handmade gifts and one-of-a-kind finds from local artisans, including the new two-floor Merry Makers Pavilion with an Early Bird Shopping Hour on Thursday and Friday mornings for first access to the second level. Guests can enjoy the Singing Nativity, live performances on the Holiday Jubilee Theater stage, Dickens’ Carolers, carousel rides on Saturday and Sunday afternoons, and keepsake photos with Santa. Between shopping, the Winter Wine Lounge offers a cozy spot to sip and take in the festive scene below.\n\nGeneral admission tickets are $14 online or $16 at the box office, with senior discounts available. Tickets are FREE for children ages 12 and under, and free for military personnel with government ID at the box office. Ticket buyers can also make an optional donation to support the Good Samaritan Cancer Institute and the festival’s annual toy drive.",
+   "url": "https://www.parentmap.com/calendar/27691/2026-12-03/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2017/02/image-1-768x512.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Washington State Fair Events Center (MattressFIRM Showplex), 110 9th Ave SW, Puyallup, WA, 98371-6811",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-03",
+    "end": "2026-12-07",
+    "notes": "Step back in time at the Victorian Christmas Festival, a beloved tradition that welcomes the holiday season with nostalgic charm.\n\nhttps://www.parentmap.com/calendar/27691/2026-12-03/"
+   },
+   "firstSeen": "2026-11-10T18:43:47Z",
+   "revision": 2,
+   "changed": "2026-11-20T19:10:26Z"
+  },
+  {
    "id": "4be45a7c04",
    "series": "7172f1d6d4",
    "title": "Burien Winter Market",
@@ -3769,38 +3710,6 @@
     "notes": "Shop local this holiday season at Schack Art Center’s Holiday Makers Market!\n\nhttps://www.parentmap.com/calendar/schack-art-centers-holiday-market/2026-12-04/"
    },
    "firstSeen": "2026-11-05T18:51:28Z"
-  },
-  {
-   "id": "67a6199bcb",
-   "series": "c1687a1cf4",
-   "title": "Victorian Christmas Festival",
-   "start": "2026-12-04",
-   "end": "2026-12-06",
-   "dates": "Dec 4–6",
-   "place": "Washington State Fair Events Center (MattressFIRM Showplex), Puyallup",
-   "placeLines": "Washington State Fair Events Center (MattressFIRM Showplex), Puyallup\n110 9th Ave SW, Puyallup, WA, 98371-6811",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "$12 – $16",
-   "free": false,
-   "summary": "Step back in time at the Victorian Christmas Festival, a beloved tradition that welcomes the holiday season with nostalgic charm.",
-   "description": "Step back in time at the Victorian Christmas Festival, a beloved tradition that welcomes the holiday season with nostalgic charm. Now in its 38th year and presented by Puyallup Chocolates, the four-day festival transforms the Washington State Fair Events Center into a Victorian-inspired holiday experience for the whole family.\nThis year’s festival features a marketplace of handmade gifts and one-of-a-kind finds from local artisans, including the new two-floor Merry Makers Pavilion with an Early Bird Shopping Hour on Thursday and Friday mornings for first access to the second level. Guests can enjoy the Singing Nativity, live performances on the Holiday Jubilee Theater stage, Dickens’ Carolers, carousel rides on Saturday and Sunday afternoons, and keepsake photos with Santa. Between shopping, the Winter Wine Lounge offers a cozy spot to sip and take in the festive scene below.\n\nGeneral admission tickets are $14 online or $16 at the box office, with senior discounts available. Tickets are FREE for children ages 12 and under, and free for military personnel with government ID at the box office. Ticket buyers can also make an optional donation to support the Good Samaritan Cancer Institute and the festival’s annual toy drive.",
-   "url": "https://www.parentmap.com/calendar/27691/2026-12-04/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2017/02/image-1-768x512.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Washington State Fair Events Center (MattressFIRM Showplex), 110 9th Ave SW, Puyallup, WA, 98371-6811",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-04",
-    "end": "2026-12-07",
-    "notes": "Step back in time at the Victorian Christmas Festival, a beloved tradition that welcomes the holiday season with nostalgic charm.\n\nhttps://www.parentmap.com/calendar/27691/2026-12-04/"
-   },
-   "firstSeen": "2026-11-10T18:43:47Z",
-   "revision": 1,
-   "changed": "2026-11-19T19:31:30Z"
   },
   {
    "id": "df7eb723fd",
@@ -8675,7 +8584,8 @@
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775193157022-solsticetiny-661769457518.jpg",
    "imageCredit": "ParentMap",
    "sources": [
-    "ParentMap"
+    "ParentMap",
+    "Northwest Asian Weekly"
    ],
    "map": "Pacific Bonsai Museum, 2515 S 336th St, Federal Way, WA, 98001-9769",
    "calendar": {
@@ -8784,6 +8694,39 @@
     "notes": "Celebrate one of Renton’s brightest holiday traditions as regional public safety agencies transform their vehicles into dazzling light displays.\n\nhttps://www.parentmap.com/calendar/battle-badges-holiday-lights-0/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
+  },
+  {
+   "id": "6bd73f8e28",
+   "series": "fa6af61473",
+   "title": "Community Bonfires At Juanita Beach Park",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 1055,
+   "endMinute": 1075,
+   "dates": "Sat, Dec 12",
+   "time": "5:35–5:55 PM",
+   "place": "Juanita Beach Park, Kirkland",
+   "placeLines": "Juanita Beach Park, Kirkland\n9703 NE Juanita Dr, Kirkland, WA, 98034-4201",
+   "region": "EASTSIDE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "The holidays are here, and we’re excited to invite you to Community Bonfires hosted by the City in partnership with the Argosy Christmas Ship Festival.",
+   "description": "The holidays are here, and we’re excited to invite you to Community Bonfires hosted by the City in partnership with the Argosy Christmas Ship Festival. Bundle up and join us for music and holiday cheer as the Christmas Ship sails by, bringing festive performances to our waterfront parks.\n\nSaturday, December 12 from 5:35 PM – 5:55 PM at Juanita Beach Park",
+   "url": "https://www.parentmap.com/calendar/community-bonfires-juanita-beach-park/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775156970807-unnamed---2025-12-05t174105168-b17d559f0dd0.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Juanita Beach Park, 9703 NE Juanita Dr, Kirkland, WA, 98034-4201",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-13T01:35:00Z",
+    "end": "2026-12-13T01:55:00Z",
+    "notes": "The holidays are here, and we’re excited to invite you to Community Bonfires hosted by the City in partnership with the Argosy Christmas Ship Festival.\n\nhttps://www.parentmap.com/calendar/community-bonfires-juanita-beach-park/"
+   },
+   "firstSeen": "2026-11-20T19:10:26Z"
   },
   {
    "id": "6ff8e3aa5c",
@@ -9536,6 +9479,39 @@
    "changed": "2026-11-17T19:56:05Z"
   },
   {
+   "id": "a668dc20b5",
+   "series": "39bfb8a0f9",
+   "title": "Community Bonfires At Marina Park",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "startMinute": 1030,
+   "endMinute": 1050,
+   "dates": "Fri, Dec 18",
+   "time": "5:10–5:30 PM",
+   "place": "Marina Park, Kirkland",
+   "placeLines": "Marina Park, Kirkland\n25 Lake Shore Plaza, Kirkland, WA, 98033",
+   "region": "EASTSIDE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "We’re excited to invite you to an upcoming Community Bonfire at Marina Park hosted by the City in partnership with the Argosy Christmas Ship Festival.",
+   "description": "We’re excited to invite you to an upcoming Community Bonfire at Marina Park hosted by the City in partnership with the Argosy Christmas Ship Festival.\nGather your family and friends for an evening of warmth, music, and holiday cheer as the Christmas Ship sails by, bringing festive performances to our waterfront parks.\nEnjoy the glow of the fire and soak in the magic of the season.\n\nFree and open to the public. Don’t miss this beloved holiday tradition. Mark your calendars and join us for a cozy afternoon by the fire!\nBonfires can be canceled due to inclement weather, burn bans, etc. Please call the Bonfire Hotline for day of event updates at 425-587-3345.",
+   "url": "https://www.parentmap.com/calendar/community-bonfires-marina-park/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775188812140-fire-ga419eaab0_640-31f098aa2602.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Marina Park, 25 Lake Shore Plaza, Kirkland, WA, 98033",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T01:10:00Z",
+    "end": "2026-12-19T01:30:00Z",
+    "notes": "We’re excited to invite you to an upcoming Community Bonfire at Marina Park hosted by the City in partnership with the Argosy Christmas Ship Festival.\n\nhttps://www.parentmap.com/calendar/community-bonfires-marina-park/"
+   },
+   "firstSeen": "2026-11-20T19:10:26Z"
+  },
+  {
    "id": "94804e75d5",
    "series": "d45f0f227d",
    "title": "Ballard Gingerbread Jubilee",
@@ -9567,72 +9543,6 @@
     "notes": "Join us this year for an evening of holiday fun.\n\nhttps://www.visitballard.com/event/ballard-gingerbread-jubilee/"
    },
    "firstSeen": "2026-11-05T18:51:28Z"
-  },
-  {
-   "id": "3ea82a71db",
-   "series": "c8efb8b842",
-   "title": "Winterfest Movie Night",
-   "start": "2026-12-18",
-   "end": "2026-12-18",
-   "startMinute": 1110,
-   "endMinute": 1230,
-   "dates": "Fri, Dec 18",
-   "time": "6:30–8:30 PM",
-   "place": "Seattle Center Armory",
-   "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us at 6:30pm on Friday nights during Winterfest for free holiday film screenings in the Armory.",
-   "description": "Join us at 6:30pm on Friday nights during Winterfest for free holiday film screenings in the Armory. Bring the whole family down to Seattle Center to watch these classic movies. Symetra is partnering with Ceres and Seattle Fudge to provide hosted hot beverages and snacks for movie attendees.\n\nNov. 27: “The Polar Express”\n\nDec. 4: “Prancer”\n\nDec. 11: “How the Grinch Stole Christmas”\n\nDec. 18: “Elf”",
-   "url": "https://www.parentmap.com/calendar/winterfest-movie-night/2026-12-18/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775079817882-unnamed---2025-11-12t152033062-fa71c9fb50b3.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Seattle Center Armory, 305 Harrison Street, Seattle, WA, 98109",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T02:30:00Z",
-    "end": "2026-12-19T04:30:00Z",
-    "notes": "Join us at 6:30pm on Friday nights during Winterfest for free holiday film screenings in the Armory.\n\nhttps://www.parentmap.com/calendar/winterfest-movie-night/2026-12-18/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "a983a24852",
-   "series": "e0a44728f8",
-   "title": "Christmas Ship Viewing at Log Boom Park",
-   "start": "2026-12-18",
-   "end": "2026-12-18",
-   "startMinute": 1200,
-   "endMinute": 1305,
-   "dates": "Fri, Dec 18",
-   "time": "8–9:45 PM",
-   "place": "Log Boom Park, Kenmore",
-   "placeLines": "Log Boom Park, Kenmore\n17415 61st Ave NE, Kenmore, WA, 98028",
-   "region": "EASTSIDE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations.",
-   "description": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations. Other lighted boats join in to make a boat parade. At departure, return and/or planned stops en route, the public is invited to gather on shore, view the ships and listen to the ship’s choir sing (broadcast via a speaker system). Some locations feature a bonfire as well.\n\nDEPARTS: Kirkland City Dock, 8:00-9:45 pm\nCHOIR: Holy Names Vocal Ensemble\n8:40-9:00, Log Boom Park*",
-   "url": "https://www.parentmap.com/calendar/christmas-ship-viewing-log-boom-park/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190440107-argosy-marquee-web-1920-x-640-parade-of-boats-png2-c9b33beb670d.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Log Boom Park, 17415 61st Ave NE, Kenmore, WA, 98028",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-19T04:00:00Z",
-    "end": "2026-12-19T05:45:00Z",
-    "notes": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations.\n\nhttps://www.parentmap.com/calendar/christmas-ship-viewing-log-boom-park/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
   },
   {
    "id": "86077d910f",
