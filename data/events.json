@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-20T19:10:26Z",
+ "generatedAt": "2026-11-21T18:05:23Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-20",
- "until": "2027-02-12",
+ "from": "2026-11-21",
+ "until": "2027-02-13",
  "regions": [
   {
    "id": "SEATTLE",
@@ -143,7 +143,7 @@
   },
   {
    "name": "ParentMap",
-   "events": 242
+   "events": 243
   },
   {
    "name": "Phinney Center",
@@ -155,7 +155,7 @@
   },
   {
    "name": "Visit Ballard",
-   "events": 8
+   "events": 9
   },
   {
    "name": "Volunteer Park Trust",
@@ -167,11 +167,11 @@
    "id": "761525e2dd",
    "series": "d93dac390e",
    "title": "Seattle Festival of Trees",
-   "start": "2026-11-18",
+   "start": "2026-11-19",
    "end": "2026-12-01",
    "startMinute": 480,
    "endMinute": 1260,
-   "dates": "Nov 18–Dec 1",
+   "dates": "Nov 19–Dec 1",
    "time": "8 AM–9 PM",
    "place": "Fairmont Olympic Hotel, Seattle",
    "placeLines": "Fairmont Olympic Hotel, Seattle\n411 University St., Seattle, WA, 98101",
@@ -181,7 +181,7 @@
    "free": true,
    "summary": "For years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.",
    "description": "For years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic. Every tree tells a story, honoring a brave young patient. Discover their inspiring journeys as you stroll through this enchanting display. Proceeds from tree sales benefit Seattle Children’s Autism Center and Uncompensated Care, bringing hope and healing to families in need.",
-   "url": "https://www.parentmap.com/calendar/41635/2026-11-18/",
+   "url": "https://www.parentmap.com/calendar/41635/2026-11-19/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775160985102-seattle-festival-of-trees-c4e1c4c869c8.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -190,23 +190,23 @@
    "map": "Fairmont Olympic Hotel, 411 University St., Seattle, WA, 98101",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-18",
+    "start": "2026-11-19",
     "end": "2026-12-02",
-    "notes": "Hours: 8 AM–9 PM\n\nFor years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.\n\nhttps://www.parentmap.com/calendar/41635/2026-11-18/"
+    "notes": "Hours: 8 AM–9 PM\n\nFor years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.\n\nhttps://www.parentmap.com/calendar/41635/2026-11-19/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 2,
-   "changed": "2026-11-20T19:10:26Z"
+   "revision": 3,
+   "changed": "2026-11-21T18:05:23Z"
   },
   {
    "id": "896d821d74",
    "series": "e69d0f36a5",
    "title": "Swansons Nursery Model Train and Holiday Décor",
-   "start": "2026-11-18",
+   "start": "2026-11-19",
    "end": "2026-12-18",
    "startMinute": 540,
    "endMinute": 1080,
-   "dates": "Nov 18–Dec 18",
+   "dates": "Nov 19–Dec 18",
    "time": "9 AM–6 PM",
    "place": "Swansons Nursery, Seattle",
    "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
@@ -216,7 +216,7 @@
    "free": true,
    "summary": "Add a little magic to your life this holiday season.",
    "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
-   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-18/",
+   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-19/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -225,23 +225,23 @@
    "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-18",
+    "start": "2026-11-19",
     "end": "2026-12-19",
-    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-18/"
+    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-19/"
    },
    "firstSeen": "2026-10-28T17:13:34Z",
-   "revision": 14,
-   "changed": "2026-11-20T19:10:26Z"
+   "revision": 15,
+   "changed": "2026-11-21T18:05:23Z"
   },
   {
    "id": "650621bde5",
    "series": "ed5acaabfd",
    "title": "Photos with Santa at South Hill Mall – Puyallup, WA",
-   "start": "2026-11-18",
+   "start": "2026-11-19",
    "end": "2026-12-18",
    "startMinute": 660,
    "endMinute": 1140,
-   "dates": "Nov 18–Dec 18",
+   "dates": "Nov 19–Dec 18",
    "time": "11 AM–7 PM",
    "place": "South Hill Mall, Puyallup",
    "placeLines": "South Hill Mall, Puyallup\n3500 S. Meridian, Puyallup, WA, 98373",
@@ -252,7 +252,7 @@
    "kids": true,
    "summary": "Santa is coming to South Hill Mall!",
    "description": "Santa is coming to South Hill Mall! Bring the whole family for professional photos with Santa, captured by Souvenir Photograph. Reserve a time online to skip the wait, or walk up. Prints and digital packages are available on-site. Address: 3500 S Meridian, Puyallup, WA 98373.\n\nAvailable options:\n\nTraditional Santa\nSanta Paws\nSilent Santa\n\nDaily schedules vary, please view the website for available dates and times.",
-   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-18/",
+   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-19/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/11/south-hill-mall-santa-1920x1080-1-e1793821051118.jpg",
    "imageCredit": "ParentMap",
    "sources": [
@@ -261,81 +261,13 @@
    "map": "South Hill Mall, 3500 S. Meridian, Puyallup, WA, 98373",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-18",
+    "start": "2026-11-19",
     "end": "2026-12-19",
-    "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-18/"
+    "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-19/"
    },
    "firstSeen": "2026-11-05T00:00:07Z",
-   "revision": 10,
-   "changed": "2026-11-20T19:10:26Z"
-  },
-  {
-   "id": "cf50637b84",
-   "series": "a6317db569",
-   "title": "Festival of Trees at White River Valley Museum",
-   "start": "2026-11-18",
-   "end": "2026-11-22",
-   "startMinute": 720,
-   "endMinute": 960,
-   "dates": "Nov 18–22",
-   "time": "12–4 PM",
-   "place": "White River Valley Museum, Auburn",
-   "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.",
-   "description": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nOn display Nov. 18–Jan. 3. Open Wednesday through Sunday, noon–4 p.m.\nClosed: Thanksgiving, Christmas Eve and Christmas Day, and New Year’s Eve and New Year’s Day",
-   "url": "https://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-11-18/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775156966299-img_3452-f5f81919790e-768x432.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "White River Valley Museum, 918 H St SE, Auburn, WA, 98002-6112",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-18",
-    "end": "2026-11-23",
-    "notes": "Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-11-18/"
-   },
-   "firstSeen": "2026-10-27T16:44:46Z"
-  },
-  {
-   "id": "71176e5a45",
-   "series": "35fa83d171",
-   "title": "The Toy Room Holiday Pop-up at Fog Room",
-   "start": "2026-11-18",
-   "end": "2026-12-18",
-   "startMinute": 960,
-   "endMinute": 1439,
-   "dates": "Nov 18–Dec 18",
-   "time": "4–11:59 PM",
-   "place": "Fog Room Rooftop Lounge, Seattle",
-   "placeLines": "Fog Room Rooftop Lounge, Seattle\n1610 2nd Ave, Seattle, WA, 98101",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…",
-   "description": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by Hilton! From November 15, 2026, through January 3, 2027, Fog Room Rooftop Lounge transforms into a whimsical, vintage toy shop-inspired holiday wonderland, complete with nostalgic décor, festive cocktails, seasonal bites and sweeping views of downtown Seattle.\n\nThroughout the season, guests can enjoy a variety of festive experiences, including weekly hair tinsel pop-ups on Tuesdays, family-friendly Story Time with Santa on Sundays and more!\n\nIn the spirit of giving, The Toy Room is also partnering with Seattle nonprofit WestSide Baby to host a holiday toy drive supporting local children and families in need.\n\nWhether you’re planning a festive family outing or looking for a unique way to celebrate the season, The Toy Room invites you to experience the wonder and nostalgia of the holidays high above Seattle.\n\nFog Room’s bar area is 21+, while our dining room welcomes guests of all ages.",
-   "url": "https://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-18/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Toy-Room-Teaser-Assets-6-768x432.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Fog Room Rooftop Lounge, 1610 2nd Ave, Seattle, WA, 98101",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-18",
-    "end": "2026-12-19",
-    "notes": "Hours: 4–11:59 PM\n\nRediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…\n\nhttps://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-18/"
-   },
-   "firstSeen": "2026-11-17T19:56:05Z",
-   "revision": 1,
-   "changed": "2026-11-20T19:10:26Z"
+   "revision": 11,
+   "changed": "2026-11-21T18:05:23Z"
   },
   {
    "id": "1bdb44ea8a",
@@ -372,6 +304,76 @@
    "firstSeen": "2026-11-06T18:07:55Z",
    "revision": 5,
    "changed": "2026-11-18T19:27:04Z"
+  },
+  {
+   "id": "cf50637b84",
+   "series": "a6317db569",
+   "title": "Festival of Trees at White River Valley Museum",
+   "start": "2026-11-19",
+   "end": "2026-11-22",
+   "startMinute": 720,
+   "endMinute": 960,
+   "dates": "Nov 19–22",
+   "time": "12–4 PM",
+   "place": "White River Valley Museum, Auburn",
+   "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.",
+   "description": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nOn display Nov. 18–Jan. 3. Open Wednesday through Sunday, noon–4 p.m.\nClosed: Thanksgiving, Christmas Eve and Christmas Day, and New Year’s Eve and New Year’s Day",
+   "url": "https://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-11-19/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775156966299-img_3452-f5f81919790e-768x432.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "White River Valley Museum, 918 H St SE, Auburn, WA, 98002-6112",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-19",
+    "end": "2026-11-23",
+    "notes": "Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-11-19/"
+   },
+   "firstSeen": "2026-10-27T16:44:46Z",
+   "revision": 1,
+   "changed": "2026-11-21T18:05:23Z"
+  },
+  {
+   "id": "71176e5a45",
+   "series": "35fa83d171",
+   "title": "The Toy Room Holiday Pop-up at Fog Room",
+   "start": "2026-11-19",
+   "end": "2026-12-18",
+   "startMinute": 960,
+   "endMinute": 1439,
+   "dates": "Nov 19–Dec 18",
+   "time": "4–11:59 PM",
+   "place": "Fog Room Rooftop Lounge, Seattle",
+   "placeLines": "Fog Room Rooftop Lounge, Seattle\n1610 2nd Ave, Seattle, WA, 98101",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…",
+   "description": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by Hilton! From November 15, 2026, through January 3, 2027, Fog Room Rooftop Lounge transforms into a whimsical, vintage toy shop-inspired holiday wonderland, complete with nostalgic décor, festive cocktails, seasonal bites and sweeping views of downtown Seattle.\n\nThroughout the season, guests can enjoy a variety of festive experiences, including weekly hair tinsel pop-ups on Tuesdays, family-friendly Story Time with Santa on Sundays and more!\n\nIn the spirit of giving, The Toy Room is also partnering with Seattle nonprofit WestSide Baby to host a holiday toy drive supporting local children and families in need.\n\nWhether you’re planning a festive family outing or looking for a unique way to celebrate the season, The Toy Room invites you to experience the wonder and nostalgia of the holidays high above Seattle.\n\nFog Room’s bar area is 21+, while our dining room welcomes guests of all ages.",
+   "url": "https://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-19/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Toy-Room-Teaser-Assets-6-768x432.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Fog Room Rooftop Lounge, 1610 2nd Ave, Seattle, WA, 98101",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-19",
+    "end": "2026-12-19",
+    "notes": "Hours: 4–11:59 PM\n\nRediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…\n\nhttps://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-19/"
+   },
+   "firstSeen": "2026-11-17T19:56:05Z",
+   "revision": 2,
+   "changed": "2026-11-21T18:05:23Z"
   },
   {
    "id": "337936ef39",
@@ -9545,6 +9547,39 @@
    "firstSeen": "2026-11-05T18:51:28Z"
   },
   {
+   "id": "3ea82a71db",
+   "series": "c8efb8b842",
+   "title": "Winterfest Movie Night",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "startMinute": 1110,
+   "endMinute": 1230,
+   "dates": "Fri, Dec 18",
+   "time": "6:30–8:30 PM",
+   "place": "Seattle Center Armory",
+   "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join us at 6:30pm on Friday nights during Winterfest for free holiday film screenings in the Armory.",
+   "description": "Join us at 6:30pm on Friday nights during Winterfest for free holiday film screenings in the Armory. Bring the whole family down to Seattle Center to watch these classic movies. Symetra is partnering with Ceres and Seattle Fudge to provide hosted hot beverages and snacks for movie attendees.\n\nNov. 27: “The Polar Express”\n\nDec. 4: “Prancer”\n\nDec. 11: “How the Grinch Stole Christmas”\n\nDec. 18: “Elf”",
+   "url": "https://www.parentmap.com/calendar/winterfest-movie-night/2026-12-18/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775079817882-unnamed---2025-11-12t152033062-fa71c9fb50b3.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Seattle Center Armory, 305 Harrison Street, Seattle, WA, 98109",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T02:30:00Z",
+    "end": "2026-12-19T04:30:00Z",
+    "notes": "Join us at 6:30pm on Friday nights during Winterfest for free holiday film screenings in the Armory.\n\nhttps://www.parentmap.com/calendar/winterfest-movie-night/2026-12-18/"
+   },
+   "firstSeen": "2026-11-21T18:05:23Z"
+  },
+  {
    "id": "86077d910f",
    "series": "92a48ccdaa",
    "title": "December Art Market",
@@ -9680,10 +9715,8 @@
    "cost": "Free",
    "free": true,
    "summary": "Event Types: Arts,Community,Dance,Film,Holiday/Seasonal Events,Music,Special Events,Youth Neighborhoods: Citywide,Pioneer Square Contact: Rana San Contact…",
-   "description": "Event Types: Arts,Community,Dance,Film,Holiday/Seasonal Events,Music,Special Events,Youth\nNeighborhoods: Citywide,Pioneer Square\nContact: Rana San\nContact Phone: (206) 256-6279\nContact Email: rana.san@seattle.gov\nAudience: All\nPre-Register: Yes\nCost: Free\n\nEnter a waking dream as King Street Station is transformed in celebration of the longest night of 2026. Full of guided movement, wellness activities, participatory rituals, ambient soundscapes, and countless inventions culled from subconscious states, LONGEST NIGHT is a communally-minded, season-inspired Solstice party that brings light to the liminal space of the year’s darkest day.\n\nCurated by Vee Hua 華婷婷 and presented by ARTS at King Street Station. FREE.\n\nScheduled activities:\n5:30–6 PM — ARTS at King Street Station doors open\n6–6:15 PM — Opening Ceremony + Orientation\n6:15–7:15 PM — Under a black star activation circle: a divination and storytelling ritual with Afrodelixx*\n6:30–7:15 PM — Curator tours of exhibitions Visions of Worldbuilding and Decad\n7:15–8:15 PM — Buwaya Bangka: live music performance for listening, forgetting, channeling, and arriving with Buwaya\n8:30–10 PM — QiFlow + Sound Bath: a fusion of qigong, yoga, and intuitive flow for all bodies with a restorative sound bath to reset the nervous system with Alisa Galper\n\nOngoing drop-in activities:\n6–8:30 PM\n• Call Back Later: zinemaking for restoration and intentional stillness with mei eyre and ambient tunes by enereph\n• Heart2Heart: mini tarot and life…",
+   "description": "Event Types: Arts,Community,Dance,Film,Holiday/Seasonal Events,Music,Special Events,Youth\nNeighborhoods: Citywide,Pioneer Square\nContact: Rana San\nContact Phone: (206) 256-6279\nContact Email: rana.san@seattle.gov\nAudience: All\nPre-Register: Yes\nCost: Free\n\nEnter a waking dream as King Street Station is transformed in celebration of the longest night of 2026. Full of guided movement, wellness activities, participatory rituals, ambient soundscapes, and countless inventions culled from subconscious states, LONGEST NIGHT is a communally-minded, season-inspired Solstice party that brings light to the liminal space of the year’s darkest day.\n\nCurated by Vee Hua 華婷婷 and presented by ARTS at King Street Station. FREE.\n\nCheck out the video of LONGEST NIGHT 2025!\n\nScheduled activities:\n5:30–6 PM — ARTS at King Street Station doors open\n6–6:15 PM — Opening Ceremony + Orientation with Schona Christie\n6:15–7:15 PM — Under a black star activation circle: a divination and storytelling ritual with Afrodelixx*\n6:30–7:15 PM — Curator tours of exhibitions Visions of Worldbuilding and Decad\n7:15–8:15 PM — Buwaya Bangka: live music performance for listening, forgetting, channeling, and arriving with Buwaya\n8:30–10 PM — QiFlow + Sound Bath: a fusion of qigong, yoga, and intuitive flow for all bodies with a restorative sound bath to reset the nervous system with Alisa Galper\n\nOngoing drop-in activities:\n6–8:30 PM\n• Call Back Later: zinemaking for restoration and intentional stillness with mei eyre…",
    "url": "https://www.seattle.gov/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D206638345",
-   "image": "https://www.trumba.com/i/DgD9NsLQT5ECK53wJxHt%2AEGE.jpg",
-   "imageCredit": "City of Seattle",
    "sources": [
     "City of Seattle"
    ],
@@ -9925,6 +9958,36 @@
    "firstSeen": "2026-10-26T17:28:11Z",
    "revision": 3,
    "changed": "2026-10-29T17:28:36Z"
+  },
+  {
+   "id": "d9c6dde2d0",
+   "series": "622073cfe9",
+   "title": "Ballard ArtWalk",
+   "start": "2027-02-13",
+   "end": "2027-02-13",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Sat, Feb 13",
+   "time": "6–9 PM",
+   "region": "SEATTLE",
+   "category": "ARTS",
+   "cost": "Free",
+   "free": true,
+   "summary": "a long-standing tradition celebrating and supporting the local artist community in Ballard since 1997.",
+   "description": "a long-standing tradition celebrating and supporting the local artist community in Ballard since 1997.\n\nThis engaging community event is brought to you by the Ballard Alliance and Ballard businesses, and it takes place every second Saturday of the month from 6-9 pm.\n\nCome out and show your support for local artists and the venues that open their doors to showcase their creativity and be a part of the thriving arts community in Ballard. Your presence makes a difference. Go to visitballard.com/artwalk for all the details about this month’s lineup and a map.",
+   "url": "https://www.visitballard.com/event/ballard-artwalk-2/2027-02-13/",
+   "image": "https://www.visitballard.com/wp-content/uploads/2025/10/ArtWalk-Eventcrp-768x627.png",
+   "imageCredit": "Visit Ballard",
+   "sources": [
+    "Visit Ballard"
+   ],
+   "calendar": {
+    "allDay": false,
+    "start": "2027-02-14T02:00:00Z",
+    "end": "2027-02-14T05:00:00Z",
+    "notes": "a long-standing tradition celebrating and supporting the local artist community in Ballard since 1997.\n\nhttps://www.visitballard.com/event/ballard-artwalk-2/2027-02-13/"
+   },
+   "firstSeen": "2026-11-21T18:05:23Z"
   }
  ],
  "gemini": {
