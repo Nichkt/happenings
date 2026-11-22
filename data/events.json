@@ -3,10 +3,10 @@
  "app": "Seattle Happenings",
  "area": "Seattle",
  "zone": "America/Los_Angeles",
- "generatedAt": "2026-11-21T18:05:23Z",
+ "generatedAt": "2026-11-22T18:35:06Z",
  "since": "2026-10-16T07:59:06Z",
- "from": "2026-11-21",
- "until": "2027-02-13",
+ "from": "2026-11-22",
+ "until": "2027-02-14",
  "regions": [
   {
    "id": "SEATTLE",
@@ -91,7 +91,7 @@
   },
   {
    "name": "City of Bellevue",
-   "events": 13
+   "events": 12
   },
   {
    "name": "City of Mercer Island",
@@ -103,7 +103,7 @@
   },
   {
    "name": "City of North Bend",
-   "events": 4
+   "events": 3
   },
   {
    "name": "City of Redmond",
@@ -111,11 +111,11 @@
   },
   {
    "name": "City of Seattle",
-   "events": 16
+   "events": 15
   },
   {
    "name": "City of Snoqualmie",
-   "events": 2
+   "events": 1
   },
   {
    "name": "Discover Burien",
@@ -143,11 +143,11 @@
   },
   {
    "name": "ParentMap",
-   "events": 243
+   "events": 237
   },
   {
    "name": "Phinney Center",
-   "events": 9
+   "events": 8
   },
   {
    "name": "United Indians of All Tribes",
@@ -155,7 +155,7 @@
   },
   {
    "name": "Visit Ballard",
-   "events": 9
+   "events": 7
   },
   {
    "name": "Volunteer Park Trust",
@@ -163,218 +163,6 @@
   }
  ],
  "events": [
-  {
-   "id": "761525e2dd",
-   "series": "d93dac390e",
-   "title": "Seattle Festival of Trees",
-   "start": "2026-11-19",
-   "end": "2026-12-01",
-   "startMinute": 480,
-   "endMinute": 1260,
-   "dates": "Nov 19–Dec 1",
-   "time": "8 AM–9 PM",
-   "place": "Fairmont Olympic Hotel, Seattle",
-   "placeLines": "Fairmont Olympic Hotel, Seattle\n411 University St., Seattle, WA, 98101",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "For years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.",
-   "description": "For years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic. Every tree tells a story, honoring a brave young patient. Discover their inspiring journeys as you stroll through this enchanting display. Proceeds from tree sales benefit Seattle Children’s Autism Center and Uncompensated Care, bringing hope and healing to families in need.",
-   "url": "https://www.parentmap.com/calendar/41635/2026-11-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775160985102-seattle-festival-of-trees-c4e1c4c869c8.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Fairmont Olympic Hotel, 411 University St., Seattle, WA, 98101",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-12-02",
-    "notes": "Hours: 8 AM–9 PM\n\nFor years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.\n\nhttps://www.parentmap.com/calendar/41635/2026-11-19/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 3,
-   "changed": "2026-11-21T18:05:23Z"
-  },
-  {
-   "id": "896d821d74",
-   "series": "e69d0f36a5",
-   "title": "Swansons Nursery Model Train and Holiday Décor",
-   "start": "2026-11-19",
-   "end": "2026-12-18",
-   "startMinute": 540,
-   "endMinute": 1080,
-   "dates": "Nov 19–Dec 18",
-   "time": "9 AM–6 PM",
-   "place": "Swansons Nursery, Seattle",
-   "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Add a little magic to your life this holiday season.",
-   "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
-   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-12-19",
-    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-19/"
-   },
-   "firstSeen": "2026-10-28T17:13:34Z",
-   "revision": 15,
-   "changed": "2026-11-21T18:05:23Z"
-  },
-  {
-   "id": "650621bde5",
-   "series": "ed5acaabfd",
-   "title": "Photos with Santa at South Hill Mall – Puyallup, WA",
-   "start": "2026-11-19",
-   "end": "2026-12-18",
-   "startMinute": 660,
-   "endMinute": 1140,
-   "dates": "Nov 19–Dec 18",
-   "time": "11 AM–7 PM",
-   "place": "South Hill Mall, Puyallup",
-   "placeLines": "South Hill Mall, Puyallup\n3500 S. Meridian, Puyallup, WA, 98373",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "kids": true,
-   "summary": "Santa is coming to South Hill Mall!",
-   "description": "Santa is coming to South Hill Mall! Bring the whole family for professional photos with Santa, captured by Souvenir Photograph. Reserve a time online to skip the wait, or walk up. Prints and digital packages are available on-site. Address: 3500 S Meridian, Puyallup, WA 98373.\n\nAvailable options:\n\nTraditional Santa\nSanta Paws\nSilent Santa\n\nDaily schedules vary, please view the website for available dates and times.",
-   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/south-hill-mall-santa-1920x1080-1-e1793821051118.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "South Hill Mall, 3500 S. Meridian, Puyallup, WA, 98373",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-12-19",
-    "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-19/"
-   },
-   "firstSeen": "2026-11-05T00:00:07Z",
-   "revision": 11,
-   "changed": "2026-11-21T18:05:23Z"
-  },
-  {
-   "id": "1bdb44ea8a",
-   "series": "eced320032",
-   "title": "Photos with Santa at Westfield Southcenter",
-   "start": "2026-11-19",
-   "end": "2026-12-18",
-   "startMinute": 660,
-   "endMinute": 1080,
-   "dates": "Nov 19–Dec 18",
-   "time": "11 AM–6 PM",
-   "place": "Westfield Southcenter, Tukwila",
-   "placeLines": "Westfield Southcenter, Tukwila\n2800 Southcenter Mall, Tukwila, WA, 98188",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "$19.99",
-   "free": false,
-   "kids": true,
-   "summary": "Step into a magical winter village and create cherished holiday memories with Santa at Westfield Southcenter’s Winter Village.",
-   "description": "Step into a magical winter village and create cherished holiday memories with Santa at Westfield Southcenter’s Winter Village.\n\nNestled among festive décor, cozy ski lodge-inspired details, and the season’s most enchanting traditions, Santa’s holiday home is the perfect backdrop for family photos, holiday cards, and unforgettable moments. Whether you’re continuing a beloved family tradition or introducing little ones to Santa for the very first time, every visit is designed to capture the wonder of the season.\n\nReserve your preferred date and time to meet Santa, share your holiday wishes, and take professional keepsake photos you’ll treasure for years to come. Walk-up visits are welcome based on availability.\n\nThroughout the season, guests can also enjoy special Santa experiences, including sensory-friendly Santa Cares events, pet photo nights, and other festive family activities.\n\nMake this holiday season merry, magical, and memory-filled at Westfield Southcenter’s Winter Village.\n\nNovember 19 – 22\n11/19/2026 11:00 AM – 7:00 PM\n11/20/2026 11:00 AM – 7:00 PM\n11/21/2026 11:00 AM – 7:00 PM\n11/22/2026 12:00 PM – 6:00 PM\n\nNovember 23 – 29\n11/23/2026 11:00 AM – 7:00 PM\n11/24/2026 11:00 AM – 7:00 PM\n11/25/2026 11:00 AM – 7:00 PM\n11/27/2026 11:00 AM – 8:00 PM\n11/28/2026 11:00 AM – 8:00 PM\n11/29/2026 10:00 AM – 8:00 PM\n\nNovember 30 – December 6\n11/30/2026 11:00 AM – 7:00 PM\n12/1/2026 11:00 AM – 7:00 PM\n12/2/2026 11:00 AM – 7:00 PM\n12/3/2026 11:00 AM – 7:00 PM\n12/4/2026 11:00 AM…",
-   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-westfield-southcenter/2026-11-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-9.56.45-AM.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Westfield Southcenter, 2800 Southcenter Mall, Tukwila, WA, 98188",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-12-19",
-    "notes": "Hours: 11 AM–6 PM\n\nStep into a magical winter village and create cherished holiday memories with Santa at Westfield Southcenter’s Winter Village.\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-westfield-southcenter/2026-11-19/"
-   },
-   "firstSeen": "2026-11-06T18:07:55Z",
-   "revision": 5,
-   "changed": "2026-11-18T19:27:04Z"
-  },
-  {
-   "id": "cf50637b84",
-   "series": "a6317db569",
-   "title": "Festival of Trees at White River Valley Museum",
-   "start": "2026-11-19",
-   "end": "2026-11-22",
-   "startMinute": 720,
-   "endMinute": 960,
-   "dates": "Nov 19–22",
-   "time": "12–4 PM",
-   "place": "White River Valley Museum, Auburn",
-   "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.",
-   "description": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nOn display Nov. 18–Jan. 3. Open Wednesday through Sunday, noon–4 p.m.\nClosed: Thanksgiving, Christmas Eve and Christmas Day, and New Year’s Eve and New Year’s Day",
-   "url": "https://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-11-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775156966299-img_3452-f5f81919790e-768x432.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "White River Valley Museum, 918 H St SE, Auburn, WA, 98002-6112",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-11-23",
-    "notes": "Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-11-19/"
-   },
-   "firstSeen": "2026-10-27T16:44:46Z",
-   "revision": 1,
-   "changed": "2026-11-21T18:05:23Z"
-  },
-  {
-   "id": "71176e5a45",
-   "series": "35fa83d171",
-   "title": "The Toy Room Holiday Pop-up at Fog Room",
-   "start": "2026-11-19",
-   "end": "2026-12-18",
-   "startMinute": 960,
-   "endMinute": 1439,
-   "dates": "Nov 19–Dec 18",
-   "time": "4–11:59 PM",
-   "place": "Fog Room Rooftop Lounge, Seattle",
-   "placeLines": "Fog Room Rooftop Lounge, Seattle\n1610 2nd Ave, Seattle, WA, 98101",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…",
-   "description": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by Hilton! From November 15, 2026, through January 3, 2027, Fog Room Rooftop Lounge transforms into a whimsical, vintage toy shop-inspired holiday wonderland, complete with nostalgic décor, festive cocktails, seasonal bites and sweeping views of downtown Seattle.\n\nThroughout the season, guests can enjoy a variety of festive experiences, including weekly hair tinsel pop-ups on Tuesdays, family-friendly Story Time with Santa on Sundays and more!\n\nIn the spirit of giving, The Toy Room is also partnering with Seattle nonprofit WestSide Baby to host a holiday toy drive supporting local children and families in need.\n\nWhether you’re planning a festive family outing or looking for a unique way to celebrate the season, The Toy Room invites you to experience the wonder and nostalgia of the holidays high above Seattle.\n\nFog Room’s bar area is 21+, while our dining room welcomes guests of all ages.",
-   "url": "https://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-19/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Toy-Room-Teaser-Assets-6-768x432.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Fog Room Rooftop Lounge, 1610 2nd Ave, Seattle, WA, 98101",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-12-19",
-    "notes": "Hours: 4–11:59 PM\n\nRediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…\n\nhttps://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-19/"
-   },
-   "firstSeen": "2026-11-17T19:56:05Z",
-   "revision": 2,
-   "changed": "2026-11-21T18:05:23Z"
-  },
   {
    "id": "337936ef39",
    "series": "c74df0c741",
@@ -406,6 +194,183 @@
    "firstSeen": "2026-10-16T07:59:06Z",
    "revision": 12,
    "changed": "2026-11-18T19:27:04Z"
+  },
+  {
+   "id": "761525e2dd",
+   "series": "d93dac390e",
+   "title": "Seattle Festival of Trees",
+   "start": "2026-11-20",
+   "end": "2026-12-01",
+   "startMinute": 480,
+   "endMinute": 1260,
+   "dates": "Nov 20–Dec 1",
+   "time": "8 AM–9 PM",
+   "place": "Fairmont Olympic Hotel, Seattle",
+   "placeLines": "Fairmont Olympic Hotel, Seattle\n411 University St., Seattle, WA, 98101",
+   "region": "SEATTLE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "For years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.",
+   "description": "For years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic. Every tree tells a story, honoring a brave young patient. Discover their inspiring journeys as you stroll through this enchanting display. Proceeds from tree sales benefit Seattle Children’s Autism Center and Uncompensated Care, bringing hope and healing to families in need.",
+   "url": "https://www.parentmap.com/calendar/41635/2026-11-20/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775160985102-seattle-festival-of-trees-c4e1c4c869c8.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Fairmont Olympic Hotel, 411 University St., Seattle, WA, 98101",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-20",
+    "end": "2026-12-02",
+    "notes": "Hours: 8 AM–9 PM\n\nFor years, our hotel has been home to a sparkling tradition—glowing Christmas trees, each uniquely designed and filled with holiday magic.\n\nhttps://www.parentmap.com/calendar/41635/2026-11-20/"
+   },
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 4,
+   "changed": "2026-11-22T18:35:06Z"
+  },
+  {
+   "id": "896d821d74",
+   "series": "e69d0f36a5",
+   "title": "Swansons Nursery Model Train and Holiday Décor",
+   "start": "2026-11-20",
+   "end": "2026-12-19",
+   "startMinute": 540,
+   "endMinute": 1080,
+   "dates": "Nov 20–Dec 19",
+   "time": "9 AM–6 PM",
+   "place": "Swansons Nursery, Seattle",
+   "placeLines": "Swansons Nursery, Seattle\n9701 15th Ave NW, Seattle, WA, 98117-2315",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Add a little magic to your life this holiday season.",
+   "description": "Add a little magic to your life this holiday season. Swansons is filled with thousands of glowing lights, unique holiday décor, and fun family activities. We’re a friendly escape from the holiday rush, and we love celebrating the season with you and your loved ones.\n\nSwansons’ Holiday Train is on display from early November to early January.\n\nEach year, our train team creates an amazing model train landscape with a new theme. This year’s train is not to be missed!\n\nExplore our holiday yurt. See Santa’s magical treasures, write a postcard to Santa, create holiday art, and more! The yurt is an interactive experience for the whole family.",
+   "url": "https://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-20/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190544894-screenshot-2025-11-12-120508-e3282b6b63d3.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Swansons Nursery, 9701 15th Ave NW, Seattle, WA, 98117-2315",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-20",
+    "end": "2026-12-20",
+    "notes": "Hours: 9 AM–6 PM\n\nAdd a little magic to your life this holiday season.\n\nhttps://www.parentmap.com/calendar/swansons-nursery-model-train-and-holiday-decor/2026-11-20/"
+   },
+   "firstSeen": "2026-10-28T17:13:34Z",
+   "revision": 16,
+   "changed": "2026-11-22T18:35:06Z"
+  },
+  {
+   "id": "650621bde5",
+   "series": "ed5acaabfd",
+   "title": "Photos with Santa at South Hill Mall – Puyallup, WA",
+   "start": "2026-11-20",
+   "end": "2026-12-18",
+   "startMinute": 660,
+   "endMinute": 1140,
+   "dates": "Nov 20–Dec 18",
+   "time": "11 AM–7 PM",
+   "place": "South Hill Mall, Puyallup",
+   "placeLines": "South Hill Mall, Puyallup\n3500 S. Meridian, Puyallup, WA, 98373",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Santa is coming to South Hill Mall!",
+   "description": "Santa is coming to South Hill Mall! Bring the whole family for professional photos with Santa, captured by Souvenir Photograph. Reserve a time online to skip the wait, or walk up. Prints and digital packages are available on-site. Address: 3500 S Meridian, Puyallup, WA 98373.\n\nAvailable options:\n\nTraditional Santa\nSanta Paws\nSilent Santa\n\nDaily schedules vary, please view the website for available dates and times.",
+   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-20/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/south-hill-mall-santa-1920x1080-1-e1793821051118.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "South Hill Mall, 3500 S. Meridian, Puyallup, WA, 98373",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-20",
+    "end": "2026-12-19",
+    "notes": "Hours: 11 AM–7 PM\n\nSanta is coming to South Hill Mall!\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-south-hill-mall-puyallup-wa/2026-11-20/"
+   },
+   "firstSeen": "2026-11-05T00:00:07Z",
+   "revision": 12,
+   "changed": "2026-11-22T18:35:06Z"
+  },
+  {
+   "id": "1bdb44ea8a",
+   "series": "eced320032",
+   "title": "Photos with Santa at Westfield Southcenter",
+   "start": "2026-11-20",
+   "end": "2026-12-18",
+   "startMinute": 660,
+   "endMinute": 1080,
+   "dates": "Nov 20–Dec 18",
+   "time": "11 AM–6 PM",
+   "place": "Westfield Southcenter, Tukwila",
+   "placeLines": "Westfield Southcenter, Tukwila\n2800 Southcenter Mall, Tukwila, WA, 98188",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "$19.99",
+   "free": false,
+   "kids": true,
+   "summary": "Step into a magical winter village and create cherished holiday memories with Santa at Westfield Southcenter’s Winter Village.",
+   "description": "Step into a magical winter village and create cherished holiday memories with Santa at Westfield Southcenter’s Winter Village.\n\nNestled among festive décor, cozy ski lodge-inspired details, and the season’s most enchanting traditions, Santa’s holiday home is the perfect backdrop for family photos, holiday cards, and unforgettable moments. Whether you’re continuing a beloved family tradition or introducing little ones to Santa for the very first time, every visit is designed to capture the wonder of the season.\n\nReserve your preferred date and time to meet Santa, share your holiday wishes, and take professional keepsake photos you’ll treasure for years to come. Walk-up visits are welcome based on availability.\n\nThroughout the season, guests can also enjoy special Santa experiences, including sensory-friendly Santa Cares events, pet photo nights, and other festive family activities.\n\nMake this holiday season merry, magical, and memory-filled at Westfield Southcenter’s Winter Village.\n\nNovember 19 – 22\n11/19/2026 11:00 AM – 7:00 PM\n11/20/2026 11:00 AM – 7:00 PM\n11/21/2026 11:00 AM – 7:00 PM\n11/22/2026 12:00 PM – 6:00 PM\n\nNovember 23 – 29\n11/23/2026 11:00 AM – 7:00 PM\n11/24/2026 11:00 AM – 7:00 PM\n11/25/2026 11:00 AM – 7:00 PM\n11/27/2026 11:00 AM – 8:00 PM\n11/28/2026 11:00 AM – 8:00 PM\n11/29/2026 10:00 AM – 8:00 PM\n\nNovember 30 – December 6\n11/30/2026 11:00 AM – 7:00 PM\n12/1/2026 11:00 AM – 7:00 PM\n12/2/2026 11:00 AM – 7:00 PM\n12/3/2026 11:00 AM – 7:00 PM\n12/4/2026 11:00 AM…",
+   "url": "https://www.parentmap.com/calendar/photos-with-santa-at-westfield-southcenter/2026-11-20/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-9.56.45-AM.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Westfield Southcenter, 2800 Southcenter Mall, Tukwila, WA, 98188",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-20",
+    "end": "2026-12-19",
+    "notes": "Hours: 11 AM–6 PM\n\nStep into a magical winter village and create cherished holiday memories with Santa at Westfield Southcenter’s Winter Village.\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-westfield-southcenter/2026-11-20/"
+   },
+   "firstSeen": "2026-11-06T18:07:55Z",
+   "revision": 6,
+   "changed": "2026-11-22T18:35:06Z"
+  },
+  {
+   "id": "cf50637b84",
+   "series": "a6317db569",
+   "title": "Festival of Trees at White River Valley Museum",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "startMinute": 720,
+   "endMinute": 960,
+   "dates": "Nov 20–22",
+   "time": "12–4 PM",
+   "place": "White River Valley Museum, Auburn",
+   "placeLines": "White River Valley Museum, Auburn\n918 H St SE, Auburn, WA, 98002-6112",
+   "region": "SOUTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.",
+   "description": "2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nOn display Nov. 18–Jan. 3. Open Wednesday through Sunday, noon–4 p.m.\nClosed: Thanksgiving, Christmas Eve and Christmas Day, and New Year’s Eve and New Year’s Day",
+   "url": "https://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-11-20/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775156966299-img_3452-f5f81919790e-768x432.jpg",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "White River Valley Museum, 918 H St SE, Auburn, WA, 98002-6112",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-20",
+    "end": "2026-11-23",
+    "notes": "Hours: 12–4 PM\n\n2026 Festival of Trees will feature trees decorated by local businesses and community organizations.\n\nhttps://www.parentmap.com/calendar/festival-trees-white-river-valley-museum/2026-11-20/"
+   },
+   "firstSeen": "2026-10-27T16:44:46Z",
+   "revision": 2,
+   "changed": "2026-11-22T18:35:06Z"
   },
   {
    "id": "f388e04192",
@@ -444,6 +409,41 @@
    "changed": "2026-11-17T19:56:05Z"
   },
   {
+   "id": "71176e5a45",
+   "series": "35fa83d171",
+   "title": "The Toy Room Holiday Pop-up at Fog Room",
+   "start": "2026-11-20",
+   "end": "2026-12-18",
+   "startMinute": 960,
+   "endMinute": 1439,
+   "dates": "Nov 20–Dec 18",
+   "time": "4–11:59 PM",
+   "place": "Fog Room Rooftop Lounge, Seattle",
+   "placeLines": "Fog Room Rooftop Lounge, Seattle\n1610 2nd Ave, Seattle, WA, 98101",
+   "region": "SEATTLE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…",
+   "description": "Rediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by Hilton! From November 15, 2026, through January 3, 2027, Fog Room Rooftop Lounge transforms into a whimsical, vintage toy shop-inspired holiday wonderland, complete with nostalgic décor, festive cocktails, seasonal bites and sweeping views of downtown Seattle.\n\nThroughout the season, guests can enjoy a variety of festive experiences, including weekly hair tinsel pop-ups on Tuesdays, family-friendly Story Time with Santa on Sundays and more!\n\nIn the spirit of giving, The Toy Room is also partnering with Seattle nonprofit WestSide Baby to host a holiday toy drive supporting local children and families in need.\n\nWhether you’re planning a festive family outing or looking for a unique way to celebrate the season, The Toy Room invites you to experience the wonder and nostalgia of the holidays high above Seattle.\n\nFog Room’s bar area is 21+, while our dining room welcomes guests of all ages.",
+   "url": "https://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-20/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/Toy-Room-Teaser-Assets-6-768x432.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Fog Room Rooftop Lounge, 1610 2nd Ave, Seattle, WA, 98101",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-20",
+    "end": "2026-12-19",
+    "notes": "Hours: 4–11:59 PM\n\nRediscover the magic of the holidays at The Toy Room Holiday Pop-up at Fog Room, located on the 16th floor of The Charter Hotel Seattle, Curio Collection by…\n\nhttps://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-20/"
+   },
+   "firstSeen": "2026-11-17T19:56:05Z",
+   "revision": 3,
+   "changed": "2026-11-22T18:35:06Z"
+  },
+  {
    "id": "fe58fc2ad6",
    "series": "6b80430d2c",
    "title": "November Native Art Market",
@@ -470,105 +470,6 @@
     "notes": "The November Native Art Market is back!\n\nhttps://unitedindians.org/event/november-native-art-market-2/"
    },
    "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "61b50058fb",
-   "series": "1482399993",
-   "title": "Edmonds Holiday Market",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 540,
-   "endMinute": 840,
-   "dates": "Sat, Nov 21",
-   "time": "9 AM–2 PM",
-   "place": "Edmonds Historical Museum",
-   "placeLines": "Edmonds Historical Museum\n118 5th Ave N, Edmonds, WA, 98020",
-   "region": "NORTH",
-   "category": "NIGHT_MARKET",
-   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
-   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
-   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market-2/2026-11-21/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Edmonds Historical Museum, 118 5th Ave N, Edmonds, WA, 98020",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T17:00:00Z",
-    "end": "2026-11-21T22:00:00Z",
-    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market-2/2026-11-21/"
-   },
-   "firstSeen": "2026-10-29T17:28:36Z",
-   "revision": 1,
-   "changed": "2026-10-30T17:04:03Z"
-  },
-  {
-   "id": "02a75a483a",
-   "series": "b3397d0abc",
-   "title": "Cards & Cocktails – Presented by Kitsap Collectors’ Market",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Sat, Nov 21",
-   "time": "10 AM–6 PM",
-   "place": "Kitsap Golf & Country Club, Bremerton",
-   "placeLines": "Kitsap Golf & Country Club, Bremerton\n3885 NW Golf Club Hill Rd, Bremerton, WA, 98312",
-   "region": "FARTHER",
-   "category": "NIGHT_MARKET",
-   "cost": "$4 – $20",
-   "free": false,
-   "summary": "Join us Saturday, November 21 at Kitsap Golf & Country Club in Bremerton for Cards & Cocktails, a collectibles show with a drink in hand.",
-   "description": "Join us Saturday, November 21 at Kitsap Golf & Country Club in Bremerton for Cards & Cocktails, a collectibles show with a drink in hand. Browse 45+ vendor tables of trading cards, sports cards, Pokemon, toys and collectibles, enjoy drinks from the bar, grab lunch at the Burger Bar, and enter free prize drawings throughout the day. All ages welcome. Whether you’re a serious collector, a casual hobbyist, or just looking for something fun to do, there’s something for everyone. Presented by Kitsap Collectors’ Market (Pack Daddies Card Co. & Lucky Whisker Co.).",
-   "url": "https://www.parentmap.com/calendar/cards-cocktails-presented-by-kitsap-collectors-market/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Cards-Cocktails-Flyer-e1793824140740-768x667.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Kitsap Golf & Country Club, 3885 NW Golf Club Hill Rd, Bremerton, WA, 98312",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T18:00:00Z",
-    "end": "2026-11-22T02:00:00Z",
-    "notes": "Join us Saturday, November 21 at Kitsap Golf & Country Club in Bremerton for Cards & Cocktails, a collectibles show with a drink in hand.\n\nhttps://www.parentmap.com/calendar/cards-cocktails-presented-by-kitsap-collectors-market/"
-   },
-   "firstSeen": "2026-11-05T18:51:28Z"
-  },
-  {
-   "id": "563b9eedcb",
-   "series": "d0b31ff465",
-   "title": "Family Holiday Crafting Morning at Evergreen Arboretum",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 600,
-   "endMinute": 720,
-   "dates": "Sat, Nov 21",
-   "time": "10 AM–12 PM",
-   "place": "Evergreen Arboretum & Gardens, Everett",
-   "placeLines": "Evergreen Arboretum & Gardens, Everett\n145 Alverson Blvd, Everett, WA, 98201",
-   "region": "NORTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us at Evergreen Arboretum and Gardens for a FREE Family Holiday Crafting Morning!",
-   "description": "Join us at Evergreen Arboretum and Gardens for a FREE Family Holiday Crafting Morning!\n\nBring the kids for a morning of creativity, nature, and holiday cheer! Young crafters can make and take home up to THREE nature-inspired projects:\n\nPine Cone Gnomes – Adorable little characters full of woodland charm!\n\nRosemary Sprig Ornaments – Fragrant, natural decorations to hang on your holiday tree.\n\nPine Cone Bird Feeders – A special winter treat for our feathered friends!\n\nSaturday, November 21, 2026\n10 AM–12 PM\nEvergreen Arboretum and Gardens\n145 Alverson Boulevard, Everett\n\nFREE and family-friendly!",
-   "url": "https://www.parentmap.com/calendar/family-holiday-crafting-morning-at-evergreen-arboretum/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/ChatGPT-Image-Oct-30-2026-02_28_27-PM-768x512.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Evergreen Arboretum & Gardens, 145 Alverson Blvd, Everett, WA, 98201",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T18:00:00Z",
-    "end": "2026-11-21T20:00:00Z",
-    "notes": "Join us at Evergreen Arboretum and Gardens for a FREE Family Holiday Crafting Morning!\n\nhttps://www.parentmap.com/calendar/family-holiday-crafting-morning-at-evergreen-arboretum/"
-   },
-   "firstSeen": "2026-11-05T18:51:28Z"
   },
   {
    "id": "b01850c7c6",
@@ -607,231 +508,6 @@
    "changed": "2026-11-17T19:56:05Z"
   },
   {
-   "id": "3366f21128",
-   "series": "20db8119c7",
-   "title": "Magnolia Harvest Market",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sat, Nov 21",
-   "time": "10 AM–2 PM",
-   "place": "Magnolia Farmers Market, Seattle",
-   "placeLines": "Magnolia Farmers Market, Seattle\nWest McGraw Street & 32nd Ave West, Seattle, WA, 98199",
-   "region": "SEATTLE",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Please join us for this special Harvest edition of the Magnolia Farmers Market on Saturday, November 21 from 10am-2pm in the Magnolia Village.",
-   "description": "Please join us for this special Harvest edition of the Magnolia Farmers Market on Saturday, November 21 from 10am-2pm in the Magnolia Village. Visit your favorite market vendors with seasonal produce for the thanksgiving table and local food and farm products perfect for gift giving. We’ll have live music, cooking demonstrations, free face painting, and knife sharpening for a fee by Magnolia Knife Sharpening. We can’t wait to see you!",
-   "url": "https://www.parentmap.com/calendar/magnolia-harvest-market-2/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/11/IMG_6642-2-1-768x512.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Magnolia Farmers Market, West McGraw Street & 32nd Ave West, Seattle, WA, 98199",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T18:00:00Z",
-    "end": "2026-11-21T22:00:00Z",
-    "notes": "Please join us for this special Harvest edition of the Magnolia Farmers Market on Saturday, November 21 from 10am-2pm in the Magnolia Village.\n\nhttps://www.parentmap.com/calendar/magnolia-harvest-market-2/"
-   },
-   "firstSeen": "2026-11-06T18:07:55Z",
-   "revision": 1,
-   "changed": "2026-11-18T19:27:04Z"
-  },
-  {
-   "id": "5e77c0c720",
-   "series": "d9f166964b",
-   "title": "Queen Anne Farmers Market – November Harvest Market",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 600,
-   "endMinute": 900,
-   "dates": "Sat, Nov 21",
-   "time": "10 AM–3 PM",
-   "place": "Queen Anne Farmers Market, Seattle",
-   "placeLines": "Queen Anne Farmers Market, Seattle\nCrockett Street and Queen Anne Ave. N, Seattle, WA, 98109",
-   "region": "SEATTLE",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us for a special QAFM Saturday Harvest Market on November 21 from 10am–3pm, just in time for your Thanksgiving table.",
-   "description": "Join us for a special QAFM Saturday Harvest Market on November 21 from 10am–3pm, just in time for your Thanksgiving table. Shop late-fall favorites straight from Washington farms including winter squash, apples, pears, root vegetables, cooking and salad greens, plus plenty of locally made foods to fuel your shopping.\n\nAlso, celebrate the season and bring a little bit of the Evergreen State home for the holidays with a locally grown tree from Trees By The Sea by Shipwreck Apiaries! Bundle up, grab a warm beverage, and spend a crisp November Saturday shopping with your community for all the soups, casseroles, slow-cooked dishes and abundance bowls that make this the season for cozy, comforting meals — the very definition of hygge!",
-   "url": "https://www.parentmap.com/calendar/queen-anne-farmers-market-november-harvest-market/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/09/hans-pumpkins-228522_640-1.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Queen Anne Farmers Market, Crockett Street and Queen Anne Ave. N, Seattle, WA, 98109",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T18:00:00Z",
-    "end": "2026-11-21T23:00:00Z",
-    "notes": "Join us for a special QAFM Saturday Harvest Market on November 21 from 10am–3pm, just in time for your Thanksgiving table.\n\nhttps://www.parentmap.com/calendar/queen-anne-farmers-market-november-harvest-market/"
-   },
-   "firstSeen": "2026-10-30T17:04:03Z"
-  },
-  {
-   "id": "511cdf17c3",
-   "series": "b66874fd77",
-   "title": "Shoreline Arts Market",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 600,
-   "endMinute": 900,
-   "dates": "Sat, Nov 21",
-   "time": "10 AM–3 PM",
-   "place": "Downtown Ridgecrest, Shoreline",
-   "placeLines": "Downtown Ridgecrest, Shoreline\n521 NE 165th St, Shoreline, 98155",
-   "region": "NORTH",
-   "category": "NIGHT_MARKET",
-   "summary": "We can’t think of anything more quintessentially wintery than a stroll through a unique holiday market.",
-   "description": "We can’t think of anything more quintessentially wintery than a stroll through a unique holiday market. We are excited to host the Outdoor Winter Market in downtown Ridgecrest, in conjunction with Ridgecrest Books and the Drumlin at ShoreLake Arts – 521 NE 165th St, Shoreline.",
-   "url": "https://www.parentmap.com/calendar/shoreline-arts-market/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-112538.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Downtown Ridgecrest, 521 NE 165th St, Shoreline, 98155",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T18:00:00Z",
-    "end": "2026-11-21T23:00:00Z",
-    "notes": "We can’t think of anything more quintessentially wintery than a stroll through a unique holiday market.\n\nhttps://www.parentmap.com/calendar/shoreline-arts-market/"
-   },
-   "firstSeen": "2026-10-29T17:28:36Z"
-  },
-  {
-   "id": "fb9caa4f6c",
-   "series": "3acfeba1c1",
-   "title": "Salmon Celebration Day",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 630,
-   "endMinute": 930,
-   "dates": "Sat, Nov 21",
-   "time": "10:30 AM–3:30 PM",
-   "place": "Carkeek Park Chum Salmon Viewing Area and Pipers Creek, Seattle",
-   "placeLines": "Carkeek Park Chum Salmon Viewing Area and Pipers Creek, Seattle\n950 NW Carkeek Park Road, Seattle",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Dance,Education,Festivals/Fairs,Music,Nature/Environment…",
-   "description": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge\nEvent Types: Community,Dance,Education,Festivals/Fairs,Music,Nature/Environment\nAudience: All\nContact: Max\nContact Email: SalmonStewards@seattle.gov\nCost: Free\nLink: https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/\n\nJoin us for a family-friendly fun filled day at Carkeek Park in the lower field area celebrating the salmon return. We will have educational booths, performances, live music, salmon dissections, refreshments, and trained volunteers to help you get the most out of the day. The salmon celebration is an annual event put on by SPU, Parks, and CWCAP. There will be a shuttle with multiple stops to get to the park, and relevant bus lines include the 40, 28, and D-line.",
-   "url": "https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "Carkeek Park Chum Salmon Viewing Area and Pipers Creek, 950 NW Carkeek Park Road, Seattle",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T18:30:00Z",
-    "end": "2026-11-21T23:30:00Z",
-    "notes": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Dance,Education,Festivals/Fairs,Music,Nature/Environment…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/"
-   },
-   "firstSeen": "2026-10-30T17:04:03Z",
-   "revision": 1,
-   "changed": "2026-11-14T17:13:10Z"
-  },
-  {
-   "id": "250e25daa7",
-   "series": "110b3575c4",
-   "title": "Donkey Creek Chum Fest",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 660,
-   "endMinute": 840,
-   "dates": "Sat, Nov 21",
-   "time": "11 AM–2 PM",
-   "place": "Donkey Creek Park, Gig Harbor",
-   "placeLines": "Donkey Creek Park, Gig Harbor\n8714 Harborview Dr, Gig Harbor, WA, 98332",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Every year, the greater Gig Harbor community celebrates the return of salmon to our local waters.",
-   "description": "Every year, the greater Gig Harbor community celebrates the return of salmon to our local waters. The Donkey Creek Chum Festival serves to remind us that the quality of our water, and the habitat it supports, connects us all.\n\nParticipants will start their walk at Austin Park along Harborview Drive where they will receive a Salmon Passport. They will visit booths with activities and information for kids and adults along the trail through txʷaalqəł Estuary, behind the Harbor History Museum, and ending in Donkey Creek Park. Completed passports should be turned in to the front desk at the Harbor History Museum by 2pm on the day of the event to be entered into a drawing for a salmon-themed prize.\n\nThe goal of our salmon festival is to bring people together to promote sustainability, sound environmental stewardship, preservation of our maritime history and culture, responsible recreation, habitat preservation, and shoreline restoration — one salmon at a time. Join us on November 15th as we recognize new ways to improve and protect our waterways!\n\nThis event is free and open to people of all ages and abilities. The trail is less than 0.25 in length on a gravel packed pathway. Free public parking is available at the Museum, along Harborview Drive and Austin Street.",
-   "url": "https://www.parentmap.com/calendar/donkey-creek-chum-fest/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192904320-chumfest22-f7f88cf6a3bb.jpg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Donkey Creek Park, 8714 Harborview Dr, Gig Harbor, WA, 98332",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T19:00:00Z",
-    "end": "2026-11-21T22:00:00Z",
-    "notes": "Every year, the greater Gig Harbor community celebrates the return of salmon to our local waters.\n\nhttps://www.parentmap.com/calendar/donkey-creek-chum-fest/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "b837648887",
-   "series": "1812bbaae1",
-   "title": "Friends of the North Bend Library Holiday Bazaar",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 660,
-   "endMinute": 1050,
-   "dates": "Sat, Nov 21",
-   "time": "11 AM–5:30 PM",
-   "place": "North Bend Library",
-   "placeLines": "North Bend Library",
-   "region": "EASTSIDE",
-   "category": "NIGHT_MARKET",
-   "summary": "Holiday themed books, gifts, and decor.",
-   "description": "Holiday themed books, gifts, and decor. An eclectic array of new or like-new selections for that perfect gift. All proceeds will benefit programs at the North Bend Library for all ages. Sponsored by the Friends of the North Bend Library.\nhttps://www.northbendwa.gov/m/calendar/event/detail/4776",
-   "url": "https://www.northbendwa.gov/m/calendar/event/detail/4776",
-   "sources": [
-    "City of North Bend"
-   ],
-   "map": "North Bend Library, North Bend Library - 115 E 4th St North Bend WA 98045",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T19:00:00Z",
-    "end": "2026-11-22T01:30:00Z",
-    "notes": "Holiday themed books, gifts, and decor.\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4776"
-   },
-   "firstSeen": "2026-11-06T07:19:19Z"
-  },
-  {
-   "id": "02b00aade6",
-   "series": "100a503744",
-   "title": "Holiday Mingle at Fair Trade Winds",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 660,
-   "endMinute": 1200,
-   "dates": "Sat, Nov 21",
-   "time": "11 AM–8 PM",
-   "place": "Fair Trade Winds, SEATTLE",
-   "placeLines": "Fair Trade Winds, SEATTLE\n5323 BALLARD AVE NW, SEATTLE, WA, 98107-4061",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "summary": "🎄You’re invited to our first-ever Holiday Mingle on Saturday, Nov.",
-   "description": "🎄You’re invited to our first-ever Holiday Mingle on Saturday, Nov. 21. Stop in for a cozy day of shopping with free fair trade coffee & chocolate and play PLINKO for a discount! Join us and get your holiday gift list checked off early.",
-   "url": "https://www.visitballard.com/event/holiday-mingle-at-fair-trade-winds/",
-   "image": "https://www.visitballard.com/wp-content/uploads/2026/11/IMG_3905-768x1024.jpg",
-   "imageCredit": "Visit Ballard",
-   "sources": [
-    "Visit Ballard"
-   ],
-   "map": "Fair Trade Winds, 5323 BALLARD AVE NW, SEATTLE, WA, 98107-4061",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T19:00:00Z",
-    "end": "2026-11-22T04:00:00Z",
-    "notes": "🎄You’re invited to our first-ever Holiday Mingle on Saturday, Nov.\n\nhttps://www.visitballard.com/event/holiday-mingle-at-fair-trade-winds/"
-   },
-   "firstSeen": "2026-11-11T17:49:11Z"
-  },
-  {
    "id": "f97ceb97c5",
    "series": "13ae7169d1",
    "title": "Photos with Santa at The Village at Totem Lake",
@@ -868,103 +544,6 @@
    "changed": "2026-11-18T19:27:04Z"
   },
   {
-   "id": "f16cd3f6a0",
-   "series": "0a00765829",
-   "title": "Salmon Steward Interpretation Days",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "startMinute": 660,
-   "endMinute": 900,
-   "dates": "Nov 21–22",
-   "time": "11 AM–3 PM",
-   "place": "Carkeek Park Chum Salmon Viewing Area",
-   "placeLines": "Carkeek Park Chum Salmon Viewing Area",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…",
-   "description": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge\nEvent Types: Community,Education,Nature/Environment\nAudience: All\nContact: Max\nContact Email: SalmonStewards@seattle.gov\nSite Contact Details: Public email for salmon steward and celebration related questions.\nCost: Free\nLink: https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/\n\nJoin us in Carkeek on Saturdays, Sundays, and Wednesdays (2-4PM) to view the salmon run at Carkeek's Pipers Creek and find trained stewardship volunteers in blue vests ready to chat with you about all things salmon. They have details on how to get involved with environmental projects in Seattle and ways to reduce water pollution and improve salmon habitat. Come with questions! There is so much to learn and explore as the salmon make their way upstream.",
-   "url": "https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/",
-   "sources": [
-    "City of Seattle"
-   ],
-   "map": "Carkeek Park Chum Salmon Viewing Area, WA",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "Hours: 11 AM–3 PM\n\nNeighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/"
-   },
-   "firstSeen": "2026-10-30T17:04:03Z"
-  },
-  {
-   "id": "e008fc39e4",
-   "series": "2f05a7b1a4",
-   "title": "Tacoma Festival of Light",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 720,
-   "endMinute": 1020,
-   "dates": "Sat, Nov 21",
-   "time": "12–5 PM",
-   "place": "Eastside Community Center, Tacoma",
-   "placeLines": "Eastside Community Center, Tacoma\n1721 E 56th St, Tacoma, WA, 98404",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Tacoma Festival of Light is a free, family-friendly celebration that brings people of all cultures and backgrounds together through art, music, food, and…",
-   "description": "Tacoma Festival of Light is a free, family-friendly celebration that brings people of all cultures and backgrounds together through art, music, food, and storytelling. Hosted by Grit City Studio, the festival celebrates the richness of Tacoma’s diverse communities with live dance performances, songs, film screenings, floating lamps, hands-on art workshops, a fashion show, and a wide range of cuisine.",
-   "url": "https://www.parentmap.com/calendar/tacoma-festival-light/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2025/09/Screenshot-2026-09-09-094154.png",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Eastside Community Center, 1721 E 56th St, Tacoma, WA, 98404",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T20:00:00Z",
-    "end": "2026-11-22T01:00:00Z",
-    "notes": "Tacoma Festival of Light is a free, family-friendly celebration that brings people of all cultures and backgrounds together through art, music, food, and…\n\nhttps://www.parentmap.com/calendar/tacoma-festival-light/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
-   "id": "268f516a03",
-   "series": "fb69884559",
-   "title": "HULLABALOO! A Queer All-Ages Variety Show",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 780,
-   "endMinute": 1020,
-   "dates": "Sat, Nov 21",
-   "time": "1–5 PM",
-   "place": "Quest Church, Seattle",
-   "placeLines": "Quest Church, Seattle\n1401 NW Leary Way, Seattle, 98107",
-   "region": "SEATTLE",
-   "category": "COMMUNITY",
-   "cost": "$5 – $45",
-   "free": false,
-   "summary": "Step right up, Seattle!",
-   "description": "Step right up, Seattle!\n\nKinship Collaborative invites you to HULLABALOO!, a joyful celebration of queer art and belonging. This spectacular afternoon, we’re bringing together an eclectic lineup of drag, circus arts, comedy, ventriloquism, and plenty of unexpected delights to create a world where being different is something to put in the spotlight.\n\nHULLABALOO! is a celebration of what can happen when we make room for one another to show up fully and share the wonderfully weird things that make us who we are.\n\nBecause under this big top, you don’t have to be like everyone else to belong.\n\nJoin us at HULLABALOO!\nSaturday, November 21, 2026\nDoors at 1 PM | Show at 2 PM\nQuest Church | Seattle, WA\n\nBenefiting the Queer Seattle Prosperity Fund\n\nThe fun starts before the show!\n\nCome early and join HULLABALOO! before the curtain goes up! Doors open at 1 PM with pre-show interactive experiences.\n\nFeaturing Zack Binder & Ticklemuff!\n\nZack Binder (he/him) is a trans masculine ventriloquist comedian and actor. Originally from Toronto, Zack began his performance career in Canada as Drag King ZacKey Lime. Zack retired from drag during the pandemic and began pursuing his other love, acting. In 2021, he worked as Elliot Page’s stand in on Season 3 of The Umbrella Academy. When the season wrapped, Zack packed his bags and drove to LA. Little did he know that two years later, he would find himself playing the recurring role of Derek for three episodes in Season 4 of the popular Netflix show.…",
-   "url": "https://www.visitballard.com/event/hullabaloo-a-queer-all-ages-variety-show/",
-   "image": "https://www.visitballard.com/wp-content/uploads/2026/10/hullabaloo-for-online-events.png",
-   "imageCredit": "Visit Ballard",
-   "sources": [
-    "Visit Ballard"
-   ],
-   "map": "Quest Church, 1401 NW Leary Way, Seattle, 98107",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T21:00:00Z",
-    "end": "2026-11-22T01:00:00Z",
-    "notes": "Step right up, Seattle!\n\nhttps://www.visitballard.com/event/hullabaloo-a-queer-all-ages-variety-show/"
-   },
-   "firstSeen": "2026-10-16T07:59:06Z"
-  },
-  {
    "id": "1ef347a962",
    "series": "a367dc6178",
    "title": "Sweet Art Grand Opening",
@@ -996,37 +575,6 @@
     "notes": "Hours: 1–8 PM\n\nAt Sweet Art, we put a creative twist on traditional cotton candy.\n\nhttps://www.parentmap.com/calendar/sweet-art-grand-opening/2026-11-21/"
    },
    "firstSeen": "2026-11-19T19:31:30Z"
-  },
-  {
-   "id": "d3cdf3f27d",
-   "series": "46bf219d64",
-   "title": "Holiday Bookfest",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 840,
-   "endMinute": 960,
-   "dates": "Sat, Nov 21",
-   "time": "2–4 PM",
-   "place": "Phinney Center Campus: Blue (upper) Building, Seattle",
-   "placeLines": "Phinney Center Campus: Blue (upper) Building, Seattle\n6532 Phinney Ave. N., Seattle, WA, 98103",
-   "region": "SEATTLE",
-   "category": "SEASONAL",
-   "summary": "Meet over two dozen local authors with their new books, which they will personalize for you.",
-   "description": "Meet over two dozen local authors with their new books, which they will personalize for you. Books make great gifts! Partner Phinney Books will handle sales, there will be short author readings every quarter-hour, and the event will raise funds for neighborhood literacy program Page Ahead and other essential nonprofits, including the PNA. For author announcements and more details, see the Facebook page here.\n\nPhinney Center Blue Building – 3rd Floor",
-   "url": "https://www.phinneycenter.org/event/holiday-bookfest/",
-   "image": "https://media.phinneycenter.org/wp-content/uploads/2025/10/02134433/2025HolidayBookfest.png",
-   "imageCredit": "Phinney Center",
-   "sources": [
-    "Phinney Center"
-   ],
-   "map": "Phinney Center Campus: Blue (upper) Building, 6532 Phinney Ave. N., Seattle, WA, 98103",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T22:00:00Z",
-    "end": "2026-11-22T00:00:00Z",
-    "notes": "Meet over two dozen local authors with their new books, which they will personalize for you.\n\nhttps://www.phinneycenter.org/event/holiday-bookfest/"
-   },
-   "firstSeen": "2026-11-12T18:59:58Z"
   },
   {
    "id": "a739878ec2",
@@ -1062,67 +610,6 @@
    "firstSeen": "2026-10-20T15:41:43Z"
   },
   {
-   "id": "d23c02de8a",
-   "series": "15540b0ef6",
-   "title": "Holiday Tree Lighting & Laser Light Show",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 1080,
-   "endMinute": 1200,
-   "dates": "Sat, Nov 21",
-   "time": "6–8 PM",
-   "place": "Renton Landing",
-   "placeLines": "Renton Landing\n815 N 10th St Ste F, Renton, WA, 98057-5587",
-   "region": "SOUTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Ring in the holiday season with a festive celebration at The Landing’s Holiday Tree Lighting and Laser Light Show!",
-   "description": "Ring in the holiday season with a festive celebration at The Landing’s Holiday Tree Lighting and Laser Light Show! Guests of all ages are invited to join this free, family-friendly event on Saturday, November 21st from 6 p.m. to 8 p.m. Pose for photos with Santa, watch the holiday tree light up, enjoy a dazzling laser light show and discover more festive surprises throughout the evening.\n\nJoin us for this beloved community tradition and enjoy an evening filled with holiday magic, festive fun and seasonal cheer!\n\nPhoto of previous holiday celebration event by Rick Hale.",
-   "url": "https://www.parentmap.com/calendar/holiday-celebration-laser-light-show-event/",
-   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775192370468-image_3-a2e9de347f40-768x432.jpeg",
-   "imageCredit": "ParentMap",
-   "sources": [
-    "ParentMap"
-   ],
-   "map": "Renton Landing, 815 N 10th St Ste F, Renton, WA, 98057-5587",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-22T02:00:00Z",
-    "end": "2026-11-22T04:00:00Z",
-    "notes": "Ring in the holiday season with a festive celebration at The Landing’s Holiday Tree Lighting and Laser Light Show!\n\nhttps://www.parentmap.com/calendar/holiday-celebration-laser-light-show-event/"
-   },
-   "firstSeen": "2026-11-17T19:56:05Z"
-  },
-  {
-   "id": "bc45200e99",
-   "series": "720f158184",
-   "title": "Bellevue Farmers Market Makers District Winter Gathering",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 1320,
-   "dates": "Sat, Nov 21",
-   "time": "10 PM",
-   "place": "Bellevue Presbyterian Church",
-   "placeLines": "Bellevue Presbyterian Church",
-   "region": "EASTSIDE",
-   "category": "FARMERS",
-   "summary": "Join Bellevue Farmers Market for a holiday Makers District gathering featuring a youth maker market with locally handcrafted goods and a free, guided…",
-   "description": "Join Bellevue Farmers Market for a holiday Makers District gathering featuring a youth maker market with locally handcrafted goods and a free, guided winter-themed craft activity for adults.\n\nLearn more on the Bellevue Farmers Market website.\n\nThis event is part of the city's community-led, city-supported Community Programming Fund and is not hosted by the City of Bellevue.",
-   "url": "https://bellevuewa.gov/events/bellevue-farmers-market-makers-district-winter-gathering",
-   "sources": [
-    "City of Bellevue"
-   ],
-   "map": "Bellevue Presbyterian Church, Bellevue Presbyterian Church, 1717 Bellevue Way NE, WA",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-22T06:00:00Z",
-    "end": "2026-11-22T07:00:00Z",
-    "notes": "Join Bellevue Farmers Market for a holiday Makers District gathering featuring a youth maker market with locally handcrafted goods and a free, guided…\n\nhttps://bellevuewa.gov/events/bellevue-farmers-market-makers-district-winter-gathering"
-   },
-   "firstSeen": "2026-11-13T18:36:27Z"
-  },
-  {
    "id": "ba46485d75",
    "series": "d497d33a58",
    "title": "The Stories Water Keeps: Free Film Festival and Family Activities",
@@ -1154,6 +641,39 @@
     "notes": "Join us at Waterfront Park for a FREE family-friendly day celebrating the ocean through movies, hands-on activities, creative crafts, and marine science!\n\nhttps://www.parentmap.com/calendar/the-stories-water-keeps-free-film-festival-family-activities-and-more/"
    },
    "firstSeen": "2026-11-17T19:56:05Z"
+  },
+  {
+   "id": "f16cd3f6a0",
+   "series": "0a00765829",
+   "title": "Salmon Steward Interpretation Days",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "startMinute": 660,
+   "endMinute": 900,
+   "dates": "Sun, Nov 22",
+   "time": "11 AM–3 PM",
+   "place": "Carkeek Park Chum Salmon Viewing Area",
+   "placeLines": "Carkeek Park Chum Salmon Viewing Area",
+   "region": "SEATTLE",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…",
+   "description": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge\nEvent Types: Community,Education,Nature/Environment\nAudience: All\nContact: Max\nContact Email: SalmonStewards@seattle.gov\nSite Contact Details: Public email for salmon steward and celebration related questions.\nCost: Free\nLink: https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/\n\nJoin us in Carkeek on Saturdays, Sundays, and Wednesdays (2-4PM) to view the salmon run at Carkeek's Pipers Creek and find trained stewardship volunteers in blue vests ready to chat with you about all things salmon. They have details on how to get involved with environmental projects in Seattle and ways to reduce water pollution and improve salmon habitat. Come with questions! There is so much to learn and explore as the salmon make their way upstream.",
+   "url": "https://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/",
+   "sources": [
+    "City of Seattle"
+   ],
+   "map": "Carkeek Park Chum Salmon Viewing Area, WA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-22T19:00:00Z",
+    "end": "2026-11-22T23:00:00Z",
+    "notes": "Neighborhoods: Broadview/Bitter Lake,Crown Hill,North Beach/Blue Ridge Event Types: Community,Education,Nature/Environment Audience: All Contact: Max Contact…\n\nhttps://parkways.seattle.gov/2026/10/22/salmon-seeson-begins-at-carkeek-park/"
+   },
+   "firstSeen": "2026-10-30T17:04:03Z",
+   "revision": 1,
+   "changed": "2026-11-22T18:35:06Z"
   },
   {
    "id": "13d15cede0",
@@ -1635,10 +1155,10 @@
    "series": "2e9ac2827a",
    "title": "Winterfest Train & Village Display",
    "start": "2026-11-27",
-   "end": "2026-12-18",
+   "end": "2026-12-19",
    "startMinute": 600,
    "endMinute": 1080,
-   "dates": "Nov 27–Dec 18",
+   "dates": "Nov 27–Dec 19",
    "time": "10 AM–6 PM",
    "place": "Seattle Center Armory",
    "placeLines": "Seattle Center Armory\n305 Harrison Street, Seattle, WA, 98109",
@@ -1658,12 +1178,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-11-27",
-    "end": "2026-12-19",
+    "end": "2026-12-20",
     "notes": "Hours: 10 AM–6 PM\n\nDelight in viewing a late 19th-century model train and village display, installed inside the Seattle Center Armory Food & Event Hall.\n\nhttps://www.parentmap.com/calendar/28004/2026-11-27/"
    },
    "firstSeen": "2026-10-16T07:59:06Z",
-   "revision": 19,
-   "changed": "2026-11-19T19:31:30Z"
+   "revision": 20,
+   "changed": "2026-11-22T18:35:06Z"
   },
   {
    "id": "956b5a5437",
@@ -4318,7 +3838,8 @@
     "end": "2026-12-05T19:00:00Z",
     "notes": "Community is invited to join family and friends for Mt.\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4780"
    },
-   "firstSeen": "2026-11-09T21:29:59Z"
+   "firstSeen": "2026-11-09T21:29:59Z",
+   "keptSince": "2026-11-22T18:35:06Z"
   },
   {
    "id": "d21dfbb650",
@@ -5098,7 +4619,8 @@
    },
    "firstSeen": "2026-10-16T07:59:06Z",
    "revision": 1,
-   "changed": "2026-11-05T00:00:07Z"
+   "changed": "2026-11-05T00:00:07Z",
+   "keptSince": "2026-11-22T18:35:06Z"
   },
   {
    "id": "aa175c55c2",
@@ -5726,7 +5248,8 @@
     "end": "2026-12-06T04:00:00Z",
     "notes": "The North Bend Downtown Foundation invites you to join community for our annual winter festival and tree lighting ceremony on Saturday, December 5, from 5 to 8…\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4765"
    },
-   "firstSeen": "2026-10-20T15:41:43Z"
+   "firstSeen": "2026-10-20T15:41:43Z",
+   "keptSince": "2026-11-22T18:35:06Z"
   },
   {
    "id": "18a0d90665",
@@ -8463,7 +7986,8 @@
     "end": "2026-12-13T01:30:00Z",
     "notes": "In this beginner-friendly workshop, you will learn the art of folding origami lanterns before crafting your very own custom string of mini lights.\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4777"
    },
-   "firstSeen": "2026-11-06T07:19:19Z"
+   "firstSeen": "2026-11-06T07:19:19Z",
+   "keptSince": "2026-11-22T18:35:06Z"
   },
   {
    "id": "77277bc206",
@@ -8960,36 +8484,37 @@
   {
    "id": "f8f6a3fd0d",
    "series": "5f67b30e19",
-   "title": "Visit with Santa",
+   "title": "Visits with Santa",
    "start": "2026-12-13",
    "end": "2026-12-13",
    "startMinute": 810,
    "endMinute": 930,
    "dates": "Sun, Dec 13",
    "time": "1:30–3:30 PM",
-   "place": "MIni Treehouse, Snoqualmie",
-   "placeLines": "MIni Treehouse, Snoqualmie",
+   "place": "Mini Treehouse, Snoqualmie",
+   "placeLines": "Mini Treehouse, Snoqualmie\n7984 Falls Avenue SE, Snoqualmie, WA, 98065",
    "region": "EASTSIDE",
    "category": "SEASONAL",
    "cost": "Free",
    "free": true,
    "kids": true,
-   "summary": "First 30 minutes reserved for special needs families https://www.snoqualmiewa.gov/calendar.aspx?EID=3418",
-   "url": "https://www.snoqualmiewa.gov/calendar.aspx?EID=3418",
+   "summary": "Visit with Santa Claus at the Mini Treehouse.  The first 30 minutes reserved for special needs families.",
+   "url": "https://www.parentmap.com/calendar/visits-santa/",
    "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775185448697-screenshot-2025-11-06-121428-67cca6489b14.jpg",
    "imageCredit": "ParentMap",
    "sources": [
-    "City of Snoqualmie",
     "ParentMap"
    ],
-   "map": "MIni Treehouse, MIni Treehouse 8050 Railroad Ave Snoqualmie WA 98065",
+   "map": "Mini Treehouse, 7984 Falls Avenue SE, Snoqualmie, WA, 98065",
    "calendar": {
     "allDay": false,
     "start": "2026-12-13T21:30:00Z",
     "end": "2026-12-13T23:30:00Z",
-    "notes": "First 30 minutes reserved for special needs families https://www.snoqualmiewa.gov/calendar.aspx?EID=3418\n\nhttps://www.snoqualmiewa.gov/calendar.aspx?EID=3418"
+    "notes": "Visit with Santa Claus at the Mini Treehouse.  The first 30 minutes reserved for special needs families.\n\nhttps://www.parentmap.com/calendar/visits-santa/"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "revision": 1,
+   "changed": "2026-11-22T18:35:06Z"
   },
   {
    "id": "653eeb3428",
@@ -9580,6 +9105,39 @@
    "firstSeen": "2026-11-21T18:05:23Z"
   },
   {
+   "id": "a983a24852",
+   "series": "e0a44728f8",
+   "title": "Christmas Ship Viewing at Log Boom Park",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "startMinute": 1200,
+   "endMinute": 1305,
+   "dates": "Fri, Dec 18",
+   "time": "8–9:45 PM",
+   "place": "Log Boom Park, Kenmore",
+   "placeLines": "Log Boom Park, Kenmore\n17415 61st Ave NE, Kenmore, WA, 98028",
+   "region": "EASTSIDE",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations.",
+   "description": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations. Other lighted boats join in to make a boat parade. At departure, return and/or planned stops en route, the public is invited to gather on shore, view the ships and listen to the ship’s choir sing (broadcast via a speaker system). Some locations feature a bonfire as well.\n\nDEPARTS: Kirkland City Dock, 8:00-9:45 pm\nCHOIR: Holy Names Vocal Ensemble\n8:40-9:00, Log Boom Park*",
+   "url": "https://www.parentmap.com/calendar/christmas-ship-viewing-log-boom-park/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/04/1775190440107-argosy-marquee-web-1920-x-640-parade-of-boats-png2-c9b33beb670d.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Log Boom Park, 17415 61st Ave NE, Kenmore, WA, 98028",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T04:00:00Z",
+    "end": "2026-12-19T05:45:00Z",
+    "notes": "Almost every night, from late November to December 23, the Argosy Christmas Ship sails to different Puget Sound waterfront locations.\n\nhttps://www.parentmap.com/calendar/christmas-ship-viewing-log-boom-park/"
+   },
+   "firstSeen": "2026-11-22T18:35:06Z"
+  },
+  {
    "id": "86077d910f",
    "series": "92a48ccdaa",
    "title": "December Art Market",
@@ -9609,6 +9167,70 @@
    "firstSeen": "2026-10-16T07:59:06Z",
    "revision": 7,
    "changed": "2026-11-18T19:27:04Z"
+  },
+  {
+   "id": "3c976a8bcf",
+   "series": "1482399993",
+   "title": "Edmonds Holiday Market",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 540,
+   "endMinute": 840,
+   "dates": "Sat, Dec 19",
+   "time": "9 AM–2 PM",
+   "place": "Edmonds Historical Museum",
+   "placeLines": "Edmonds Historical Museum\n118 5th Ave N, Edmonds, WA, 98020",
+   "region": "NORTH",
+   "category": "NIGHT_MARKET",
+   "summary": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!",
+   "description": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nCome on down on Saturdays, Nov 7th, 14th, 21st and Dec 5th, 12th and 19th.",
+   "url": "https://www.parentmap.com/calendar/edmonds-holiday-market-2/2026-12-19/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-110743.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Edmonds Historical Museum, 118 5th Ave N, Edmonds, WA, 98020",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T17:00:00Z",
+    "end": "2026-12-19T22:00:00Z",
+    "notes": "The Edmonds Museum Holiday Market features produce, preserves, edibles, baked goods and sweets, specialty gift items, holiday greenery and more!\n\nhttps://www.parentmap.com/calendar/edmonds-holiday-market-2/2026-12-19/"
+   },
+   "firstSeen": "2026-11-22T18:35:06Z"
+  },
+  {
+   "id": "12d0977a1d",
+   "series": "785a014828",
+   "title": "Winter Solstice Stroll at Kruckeberg Botanic Garden",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 600,
+   "endMinute": 1200,
+   "dates": "Sat, Dec 19",
+   "time": "10 AM–8 PM",
+   "place": "Kruckeberg Botanic Garden, Shoreline",
+   "placeLines": "Kruckeberg Botanic Garden, Shoreline\n20312 15th Ave NW, Shoreline, WA, 98177-2166",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join us for a magical winter evening surrounded by the natural beauty of Kruckeberg Botanic Garden.",
+   "description": "Join us for a magical winter evening surrounded by the natural beauty of Kruckeberg Botanic Garden. The Winter Solstice Stroll is a cozy seasonal gathering inspired by light, reflection, nature, and community during the darkest days of the year.\n\nGuests will be invited to wander softly illuminated garden pathways, experience seasonal displays, enjoy music and warm gathering spaces, and celebrate the changing season in a peaceful woodland setting. This annual event is designed to create moments of connection, calm, and winter wonder for visitors of all ages.\n\nWhether you come to enjoy the atmosphere, spend time with family and friends, or simply experience the beauty of the garden in winter, we welcome you to celebrate the Winter Solstice with us.",
+   "url": "https://www.parentmap.com/calendar/34464-s3/",
+   "image": "https://www.parentmap.com/wp-content/uploads/2013/11/Screenshot-2026-11-16-152856.png",
+   "imageCredit": "ParentMap",
+   "sources": [
+    "ParentMap"
+   ],
+   "map": "Kruckeberg Botanic Garden, 20312 15th Ave NW, Shoreline, WA, 98177-2166",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T18:00:00Z",
+    "end": "2026-12-20T04:00:00Z",
+    "notes": "Join us for a magical winter evening surrounded by the natural beauty of Kruckeberg Botanic Garden.\n\nhttps://www.parentmap.com/calendar/34464-s3/"
+   },
+   "firstSeen": "2026-11-22T18:35:06Z"
   },
   {
    "id": "f4fd03b2bf",
@@ -9807,7 +9429,8 @@
     "end": "2026-12-26",
     "notes": "https://www.mukilteowa.gov/calendar.aspx?EID=637\n\nhttps://www.mukilteowa.gov/calendar.aspx?EID=637"
    },
-   "firstSeen": "2026-10-16T07:59:06Z"
+   "firstSeen": "2026-10-16T07:59:06Z",
+   "keptSince": "2026-11-22T18:35:06Z"
   },
   {
    "id": "04c95b6351",
