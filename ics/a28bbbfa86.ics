@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a28bbbfa86-seattle-happenings@nichkt.github.io
+DTSTAMP:20261123T224533Z
+SEQUENCE:0
+DTSTART:20261213T230000Z
+DTEND:20261214T010000Z
+SUMMARY:Chop Challenge 2026 Closing Reception & Celebration
+LOCATION:Columbia City Gallery\, Columbia City Gallery\, 4864 Rainier Ave S
+ \, Seattle\, WA 98118
+DESCRIPTION:Neighborhoods: Columbia City Event Types: Arts Audience: All Sp
+ onsoring Organization: SEEDArts Contact: Christopher German Contact Email:
+ …\n\nhttps://columbiacitygallery.com/event/chop-challenge-2026-closing-r
+ eception-celebration/
+URL:https://columbiacitygallery.com/event/chop-challenge-2026-closing-recep
+ tion-celebration/
+END:VEVENT
+END:VCALENDAR

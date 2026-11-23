@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69677c56a1-seattle-happenings@nichkt.github.io
+DTSTAMP:20261123T224533Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T040000Z
+SUMMARY:Fremont Flurry
+LOCATION:Statue of Lenin in Fremont\, 613 N 36th St\, Seattle\, WA\, 98103
+DESCRIPTION:​Come one\, come all to this free\, outdoor winter event cele
+ brating Fremont for the Holidays!\n\nhttps://www.parentmap.com/calendar/fr
+ emont-flurry/
+URL:https://www.parentmap.com/calendar/fremont-flurry/
+END:VEVENT
+END:VCALENDAR

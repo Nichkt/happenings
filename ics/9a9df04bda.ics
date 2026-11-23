@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9a9df04bda-seattle-happenings@nichkt.github.io
+DTSTAMP:20261123T224533Z
+SEQUENCE:0
+DTSTART:20270205T010000Z
+DTEND:20270205T040000Z
+SUMMARY:Lunar New Year
+LOCATION:Rosehill Community Center\, Rosehill Community Center - 304 Lincol
+ n Ave Mukilteo WA 98275
+DESCRIPTION:https://www.mukilteowa.gov/calendar.aspx?EID=1068\n\nhttps://ww
+ w.mukilteowa.gov/calendar.aspx?EID=1068
+URL:https://www.mukilteowa.gov/calendar.aspx?EID=1068
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:abca52ece9-seattle-happenings@nichkt.github.io
+DTSTAMP:20261123T224533Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Magnolia Santa Photos
+LOCATION:Magnolia Santa Photos\, 2426 32nd Ave West\, Seattle\, WA\, 98199
+DESCRIPTION:Santa Arrives in Magnolia on December 5!\n\nhttps://www.parentm
+ ap.com/calendar/magnolia-santa-photos-2/2026-12-12/
+URL:https://www.parentmap.com/calendar/magnolia-santa-photos-2/2026-12-12/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf03a37881-seattle-happenings@nichkt.github.io
+DTSTAMP:20261123T224533Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Spark at Evergreen State Fair Park
+LOCATION:The Evergreen State Fairgrounds\, 14405 179th Ave SE\, Monroe\, WA
+ \, 98272
+DESCRIPTION:This is a festive event for the community to come together and 
+ celebrate the holiday season.\n\nhttps://www.parentmap.com/calendar/holida
+ y-spark-evergreen-state-fair-park/2026-12-03/
+URL:https://www.parentmap.com/calendar/holiday-spark-evergreen-state-fair-p
+ ark/2026-12-03/
+END:VEVENT
+END:VCALENDAR

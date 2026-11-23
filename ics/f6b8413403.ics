@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6b8413403-seattle-happenings@nichkt.github.io
+DTSTAMP:20261123T224533Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Bellevue Festival of the Nativity — A Christmas Tradition for the
+  Whole Family
+LOCATION:Bellevue Festival of the Nativity\, 15205 S.E. 28th St.\, Bellevue
+ \, WA\, 98007
+DESCRIPTION:Hours: 1–9 PM\n\nBring your family to the Bellevue Festival o
+ f the Nativity\, December 5–13\, 2026\, from 1–9 p.m.\n\nhttps://www.p
+ arentmap.com/calendar/bellevue-festival-of-the-nativity-a-christmas-tradit
+ ion-for-the-whole-family/2026-12-05/
+URL:https://www.parentmap.com/calendar/bellevue-festival-of-the-nativity-a-
+ christmas-tradition-for-the-whole-family/2026-12-05/
+END:VEVENT
+END:VCALENDAR

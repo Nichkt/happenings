@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ac8c4b8437-seattle-happenings@nichkt.github.io
+DTSTAMP:20261123T224533Z
+SEQUENCE:0
+DTSTART:20261209T000000Z
+DTEND:20261209T050000Z
+SUMMARY:Pet Photos with Santa
+LOCATION:The Outlet Collection | Seattle\, 1101 Outlet Collection Way\, Aub
+ urn\, WA\, 98001
+DESCRIPTION:Make the season extra merry with Pet Photos with Santa!\n\nhttp
+ s://www.parentmap.com/calendar/pet-photos-with-santa/2026-12-08/
+URL:https://www.parentmap.com/calendar/pet-photos-with-santa/2026-12-08/
+END:VEVENT
+END:VCALENDAR

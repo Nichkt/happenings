@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:413154b72e-seattle-happenings@nichkt.github.io
+DTSTAMP:20261123T224533Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:Kent Station Santa House
+LOCATION:Kent Station\, 417 Ramsay Way\, Kent\, WA\, 98032-4502
+DESCRIPTION:The magic of the holidays is waiting at the Kent Station Santa 
+ House!\n\nhttps://www.parentmap.com/calendar/kent-station-santa-house/2026
+ -12-04/
+URL:https://www.parentmap.com/calendar/kent-station-santa-house/2026-12-04/
+END:VEVENT
+END:VCALENDAR

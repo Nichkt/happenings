@@ -5,16 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2bf21dbade-seattle-happenings@nichkt.github.io
-DTSTAMP:20261106T071919Z
-SEQUENCE:0
+DTSTAMP:20261123T224533Z
+SEQUENCE:1
+LAST-MODIFIED:20261123T224533Z
 DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20261218
 TRANSP:TRANSPARENT
 SUMMARY:Holiday Train Window Display
-LOCATION:Pacific Place\, 600 Pine St\, Seattle\, WA
-DESCRIPTION:Relive nostalgic holiday memories at an all-new interactive tra
- in window display in downtown Seattle.\n\nhttps://downtownseattle.org/even
- t/holiday-train-window-display/
-URL:https://downtownseattle.org/event/holiday-train-window-display/
+LOCATION:Pacific Place Shopping Center\, 600 Pine Street\, Seattle\, WA\, 9
+ 8101
+DESCRIPTION:Hours: 9 AM–5 PM\n\nRelive nostalgic holiday memories at an a
+ ll-new interactive train window display in downtown Seattle.\n\nhttps://ww
+ w.parentmap.com/calendar/holiday-train-window-display/2026-11-27/
+URL:https://www.parentmap.com/calendar/holiday-train-window-display/2026-11
+ -27/
 END:VEVENT
 END:VCALENDAR

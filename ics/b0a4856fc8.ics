@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b0a4856fc8-seattle-happenings@nichkt.github.io
+DTSTAMP:20261123T224533Z
+SEQUENCE:0
+DTSTART:20261221T210000Z
+DTEND:20261221T230000Z
+SUMMARY:Intergenerational Holiday Party and Sing-Along
+LOCATION:Greenwood Senior Center\, 525 N. 85th St.\, Seattle\, WA\, 98103
+DESCRIPTION:Celebrate the holiday season at our Intergenerational Holiday P
+ arty\, planned by teens from Lincoln High School.\n\nhttps://www.phinneyce
+ nter.org/event/intergenerational-holiday-party-and-sing-along/
+URL:https://www.phinneycenter.org/event/intergenerational-holiday-party-and
+ -sing-along/
+END:VEVENT
+END:VCALENDAR
