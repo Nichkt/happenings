@@ -5,19 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:71176e5a45-seattle-happenings@nichkt.github.io
-DTSTAMP:20261123T224533Z
-SEQUENCE:4
-LAST-MODIFIED:20261123T224533Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261217
+DTSTAMP:20261124T212306Z
+SEQUENCE:5
+LAST-MODIFIED:20261124T212306Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261218
 TRANSP:TRANSPARENT
 SUMMARY:The Toy Room Holiday Pop-up at Fog Room
 LOCATION:Fog Room Rooftop Lounge\, 1610 2nd Ave\, Seattle\, WA\, 98101
 DESCRIPTION:Hours: 4–11:59 PM\n\nRediscover the magic of the holidays at 
  The Toy Room Holiday Pop-up at Fog Room\, located on the 16th floor of The
   Charter Hotel Seattle\, Curio Collection by…\n\nhttps://www.parentmap.c
- om/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-21/
+ om/calendar/the-toy-room-holiday-pop-up-at-fog-room/2026-11-22/
 URL:https://www.parentmap.com/calendar/the-toy-room-holiday-pop-up-at-fog-r
- oom/2026-11-21/
+ oom/2026-11-22/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6f6df33da6-seattle-happenings@nichkt.github.io
+DTSTAMP:20261124T212306Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Mary Bridge Children’s Festival of Trees
+LOCATION:University of Puget Sound Tennis Pavilion\, 3326 North 11th Street
+ \, Tacoma\, WA\, 98416
+DESCRIPTION:Hours: 10 AM–4 PM\n\nJoin us for the official kickoff to Sout
+ h Sound’s happiest holiday celebration in support of MultiCare Mary Brid
+ ge Children’s Hospital.\n\nhttps://www.parentmap.com/calendar/mary-bridg
+ e-childrens-festival-trees/2026-11-28/
+URL:https://www.parentmap.com/calendar/mary-bridge-childrens-festival-trees
+ /2026-11-28/
+END:VEVENT
+END:VCALENDAR
