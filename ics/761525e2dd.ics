@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:761525e2dd-seattle-happenings@nichkt.github.io
-DTSTAMP:20261124T212306Z
-SEQUENCE:6
-LAST-MODIFIED:20261124T212306Z
-DTSTART;VALUE=DATE:20261122
+DTSTAMP:20261125T203201Z
+SEQUENCE:7
+LAST-MODIFIED:20261125T203201Z
+DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261202
 TRANSP:TRANSPARENT
 SUMMARY:Seattle Festival of Trees
@@ -16,7 +16,7 @@ LOCATION:Fairmont Olympic Hotel\, 411 University St.\, Seattle\, WA\, 98101
 DESCRIPTION:Hours: 8 AM–9 PM\n\nFor years\, our hotel has been home to a 
  sparkling tradition—glowing Christmas trees\, each uniquely designed and
   filled with holiday magic.\n\nhttps://www.parentmap.com/calendar/41635/20
- 26-11-22/
-URL:https://www.parentmap.com/calendar/41635/2026-11-22/
+ 26-11-23/
+URL:https://www.parentmap.com/calendar/41635/2026-11-23/
 END:VEVENT
 END:VCALENDAR

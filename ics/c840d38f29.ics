@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c840d38f29-seattle-happenings@nichkt.github.io
+DTSTAMP:20261125T203201Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Visit Santa at Redmond Town Center
+LOCATION:Redmond Town Center\, 7525 166th Ave NE\, Redmond\, WA\, 98052-782
+ 8
+DESCRIPTION:Come get your picture taken with Santa!\n\nhttps://www.parentma
+ p.com/calendar/visit-santa-redmond-town-center-0/2026-11-27/
+URL:https://www.parentmap.com/calendar/visit-santa-redmond-town-center-0/20
+ 26-11-27/
+END:VEVENT
+END:VCALENDAR
