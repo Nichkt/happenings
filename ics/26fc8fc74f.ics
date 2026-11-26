@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:26fc8fc74f-seattle-happenings@nichkt.github.io
-DTSTAMP:20261124T212306Z
-SEQUENCE:1
-LAST-MODIFIED:20261124T212306Z
-DTSTART;VALUE=DATE:20261123
+DTSTAMP:20261126T201746Z
+SEQUENCE:2
+LAST-MODIFIED:20261126T201746Z
+DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261218
 TRANSP:TRANSPARENT
 SUMMARY:The Holiday Lane
 DESCRIPTION:Hours: 5–9 PM\n\nThe Holiday Lane is a free neighborhood holi
  day lights contest in NE Tacoma and Browns Point.\n\nhttps://www.parentmap
- .com/calendar/the-holiday-lane/2026-11-23/
-URL:https://www.parentmap.com/calendar/the-holiday-lane/2026-11-23/
+ .com/calendar/the-holiday-lane/2026-11-24/
+URL:https://www.parentmap.com/calendar/the-holiday-lane/2026-11-24/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9aef6f8eb-seattle-happenings@nichkt.github.io
+DTSTAMP:20261126T201746Z
+SEQUENCE:0
+DTSTART:20261218T230000Z
+DTEND:20261219T070000Z
+SUMMARY:Level Up Lynnwood
+LOCATION:Lynnwood Event Center\, 3711 196th St\, Lynnwood\, WA\, 98036
+DESCRIPTION:A FREE Video Game Music Concert & More!\n\nhttps://www.parentma
+ p.com/calendar/level-up-lynnwood/
+URL:https://www.parentmap.com/calendar/level-up-lynnwood/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d722f90916-seattle-happenings@nichkt.github.io
+DTSTAMP:20261126T201746Z
+SEQUENCE:0
+DTSTART:20261205T170000Z
+DTEND:20261205T230000Z
+SUMMARY:Si View Holiday Bazaar
+LOCATION:Si View Community Center\, Si View Community Center - 400 SE Orcha
+ rd Dr North Bend WA 98045
+DESCRIPTION:Shop local this holiday season at Si View's annual Holiday Baza
+ ar!\n\nhttps://www.northbendwa.gov/m/calendar/event/detail/4786
+URL:https://www.northbendwa.gov/m/calendar/event/detail/4786
+END:VEVENT
+END:VCALENDAR
