@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3378fcec7c-seattle-happenings@nichkt.github.io
+DTSTAMP:20261127T200356Z
+SEQUENCE:0
+DTSTART:20261219T010000Z
+DTEND:20261219T023000Z
+SUMMARY:Bloedel Reserve Candlelit Solstice Walks
+LOCATION:Bloedel Reserve\, 7571 NE Dolphin Dr\, Bainbridge Island\, WA\, 98
+ 110-3001
+DESCRIPTION:Experience the magic of candlelit Solstice Walks through the qu
+ iet woods of Bloedel Reserve.\n\nhttps://www.parentmap.com/calendar/bloede
+ l-reserve-candlelit-solstice-walks/2026-12-18/
+URL:https://www.parentmap.com/calendar/bloedel-reserve-candlelit-solstice-w
+ alks/2026-12-18/
+END:VEVENT
+END:VCALENDAR

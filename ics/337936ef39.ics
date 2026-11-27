@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:337936ef39-seattle-happenings@nichkt.github.io
-DTSTAMP:20261126T201746Z
-SEQUENCE:16
-LAST-MODIFIED:20261126T201746Z
-DTSTART;VALUE=DATE:20261124
+DTSTAMP:20261127T200356Z
+SEQUENCE:17
+LAST-MODIFIED:20261127T200356Z
+DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
 SUMMARY:2026 Seattle Christmas Market
@@ -17,8 +17,8 @@ LOCATION:Seattle Center Fisher Pavilion\, 305 Harrison St\, Seattle\, WA\,
 DESCRIPTION:With European and local vendors\, holiday karaoke\, Santa meeti
  ngs\, festive drinks and more\, there’s a little something for everyone.
  \n\nhttps://www.parentmap.com/calendar/2026-seattle-christmas-market/2026-
- 11-24/
+ 11-25/
 URL:https://www.parentmap.com/calendar/2026-seattle-christmas-market/2026-1
- 1-24/
+ 1-25/
 END:VEVENT
 END:VCALENDAR

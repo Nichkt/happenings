@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:9b80cf1193-seattle-happenings@nichkt.github.io
-DTSTAMP:20261126T201746Z
-SEQUENCE:1
-LAST-MODIFIED:20261126T201746Z
-DTSTART;VALUE=DATE:20261124
+DTSTAMP:20261127T200356Z
+SEQUENCE:2
+LAST-MODIFIED:20261127T200356Z
+DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261213
 TRANSP:TRANSPARENT
 SUMMARY:Hanukkah Treats from Trophy Cupcakes
 DESCRIPTION:Hours: 10 AM–8 PM\n\nMake All Eight Nights a Little Sweeter.\
  n\nhttps://www.parentmap.com/calendar/hanukkah-cupcakes-trophy-cupcakes/20
- 26-11-24/
+ 26-11-25/
 URL:https://www.parentmap.com/calendar/hanukkah-cupcakes-trophy-cupcakes/20
- 26-11-24/
+ 26-11-25/
 END:VEVENT
 END:VCALENDAR
