@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Seattle Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9a45024a33-seattle-happenings@nichkt.github.io
+DTSTAMP:20261128T190006Z
+SEQUENCE:0
+DTSTART:20261219T180000Z
+DTEND:20261219T220000Z
+SUMMARY:Holidays with Santa at the Space Needle
+LOCATION:Space Needle\, 400 Broad St\, Seattle\, WA\, 98109-4607
+DESCRIPTION:Santa Claus returns to the Space Needle this holiday season!\n\
+ nhttps://www.parentmap.com/calendar/holidays-santa-space-needle/2026-12-19
+ /
+URL:https://www.parentmap.com/calendar/holidays-santa-space-needle/2026-12-
+ 19/
+END:VEVENT
+END:VCALENDAR

@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1bdb44ea8a-seattle-happenings@nichkt.github.io
-DTSTAMP:20261127T200356Z
-SEQUENCE:11
-LAST-MODIFIED:20261127T200356Z
-DTSTART;VALUE=DATE:20261125
+DTSTAMP:20261128T190006Z
+SEQUENCE:12
+LAST-MODIFIED:20261128T190006Z
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
 SUMMARY:Photos with Santa at Westfield Southcenter
@@ -17,8 +17,8 @@ LOCATION:Westfield Southcenter\, 2800 Southcenter Mall\, Tukwila\, WA\, 981
 DESCRIPTION:Hours: 11 AM–6 PM\n\nStep into a magical winter village and c
  reate cherished holiday memories with Santa at Westfield Southcenter’s W
  inter Village.\n\nhttps://www.parentmap.com/calendar/photos-with-santa-at-
- westfield-southcenter/2026-11-25/
+ westfield-southcenter/2026-11-27/
 URL:https://www.parentmap.com/calendar/photos-with-santa-at-westfield-south
- center/2026-11-25/
+ center/2026-11-27/
 END:VEVENT
 END:VCALENDAR

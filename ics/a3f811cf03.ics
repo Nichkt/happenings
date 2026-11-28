@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:a3f811cf03-seattle-happenings@nichkt.github.io
-DTSTAMP:20261127T200356Z
-SEQUENCE:3
-LAST-MODIFIED:20261127T200356Z
-DTSTART;VALUE=DATE:20261125
+DTSTAMP:20261128T190006Z
+SEQUENCE:4
+LAST-MODIFIED:20261128T190006Z
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
 SUMMARY:Santa Photos at Tacoma Mall
@@ -16,8 +16,8 @@ LOCATION:Tacoma Mall\, 4502 S Steele St\, Tacoma\, WA\, 98409-7242
 DESCRIPTION:Hours: 11 AM–7 PM\n\nSanta photos and holiday visits return t
  o Tacoma Mall\, inviting guests to experience one of the season’s most c
  herished traditions.\n\nhttps://www.parentmap.com/calendar/santa-photos-at
- -tacoma-mall/2026-11-25/
+ -tacoma-mall/2026-11-27/
 URL:https://www.parentmap.com/calendar/santa-photos-at-tacoma-mall/2026-11-
- 25/
+ 27/
 END:VEVENT
 END:VCALENDAR

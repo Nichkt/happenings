@@ -5,18 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:0566350939-seattle-happenings@nichkt.github.io
-DTSTAMP:20261025T145934Z
-SEQUENCE:1
-LAST-MODIFIED:20261025T145934Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261128T190006Z
+SEQUENCE:2
+LAST-MODIFIED:20261128T190006Z
+DTSTART:20261128T180000Z
+DTEND:20261129T010000Z
 SUMMARY:November Art Market
 LOCATION:Duwamish Longhouse & Cultural Center\, 4705 West Marginal Way Sout
  hwest\, Seattle\, WA\, 98106
-DESCRIPTION:Hours: 10 AM–5 PM\n\nVOLUNTEERS NEEDED!\n\nhttps://www.duwami
- shtribe.org/eventcalendar/2026/11/27/november-art-market
+DESCRIPTION:Volunteers Needed !\n\nhttps://www.duwamishtribe.org/eventcalen
+ dar/2026/11/27/november-art-market-htcr7
 URL:https://www.duwamishtribe.org/eventcalendar/2026/11/27/november-art-mar
- ket
+ ket-htcr7
 END:VEVENT
 END:VCALENDAR
